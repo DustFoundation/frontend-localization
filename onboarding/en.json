@@ -2,10 +2,10 @@
   "onboarding-call-dialog": {
     "title": "Желаете пройти пошаговое ознакомление с DUST PLATFORM?",
     "skip": "Пропустить",
-    "yes": "Да"
+    "yes": "Yes"
   },
   "onboarding-dialog": {
-    "back": "Назад",
+    "back": "Back",
     "onward": "Далее",
     "done": "Готово",
     "portfolio": {

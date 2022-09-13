@@ -21,7 +21,7 @@
       "conferences": "Конференции"
     },
     "sign_up": "Зарегистрироваться",
-    "sign_in": "Войти",
+    "sign_in": "Sign In",
     "logout": "Выйти из аккаунта",
     "in_development": "In development",
     "beta": "BETA",
@@ -122,7 +122,7 @@
     "update_failed": "При установке обновления {{ version }} возникла ошибка",
     "network_offline": "Интернет пропал, необходимо перезагрузить страницу",
     "yes": "Да, обновить",
-    "no": "Нет"
+    "no": "No"
   },
   "cookies": {
     "cookies_settings": "Manage Cookies",

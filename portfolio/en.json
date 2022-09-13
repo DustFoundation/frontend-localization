@@ -47,7 +47,7 @@
         "5": "<span> ЖЕЛАТЕЛЬНО отключить доступ к торговле для этого API ключа, для этого:</span><ol><li>Нажмите <strong>\"Настройки\"</strong></li><li>Запретите <strong>\"Доступ к торговле\"</strong></li><li>Нажмите <strong>\"Сохранить\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
       },
       "create": "Создать",
-      "back": "Назад",
+      "back": "Back",
       "onward": "Далее",
       "important": "Важно",
       "validation_messages": {
@@ -118,7 +118,7 @@
         "tge": "TGE — (Token Generation Event), синоним \"ICO\", означающий \"первичное размещение монет\".",
         "total": "Итого",
         "onward": "Далее",
-        "back": "Назад",
+        "back": "Back",
         "done": "Готово",
         "date_placeholder": "DD.MM.YYYY",
         "period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
@@ -157,7 +157,7 @@
         "cliff": "Cliff — период блокировки токенов",
         "period_cliff": "Период cliff",
         "lockup": "Cliff (Lockup)",
-        "no": "нет"
+        "no": "No"
       },
       "fifth_step": {
         "vesting": "Vesting",
@@ -372,7 +372,7 @@
     "need_subscription": "Нужно оформить подписку"
   },
   "portfolio-transactions": {
-    "back": "Назад",
+    "back": "Back",
     "price": "Цена",
     "average_price": "Ср. цена покупки",
     "amount_coin": "Кол-во монет",

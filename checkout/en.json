@@ -35,7 +35,7 @@
       "send_code_after": "Послать код еще раз через <span> {{ time }} {time, plural, =1 {секунду} =2 {секунды} =3 {секунды} =4 {секунды} other {секунд}} <span/>",
       "send_code_once_more": "Послать код ещё раз",
       "email_input_placeholder": "mail@mail.com",
-      "back": "Назад",
+      "back": "Back",
       "validation_messages": {
         "required": "Поле обязательно к заполнению",
         "invalid_email": "Невалидный формат Email"
@@ -79,7 +79,7 @@
       "terms_to_use": "Пользовательское соглашение",
       "privacy_policy": "Политика конфиденциальности",
       "warning": "Предупреждения о рисках",
-      "back": "Назад",
+      "back": "Back",
       "activate": "Активировать",
       "onward": "Далее",
       "choose_network": "Выберите сеть для перевода USDT",

@@ -1,110 +1,110 @@
 {
   "confirm-email": {
-    "title": "Подтверждение почты",
-    "subtitle": "Введите ниже код, который пришел на вашу почту",
-    "code": "Код",
-    "send_new_code": "Отправить новый код",
-    "get_new_code_after": { "code": "получить новый код", "after": "через {{ timer }} секунд" },
-    "done": "Готово",
-    "back": "Назад"
+    "title": "Email confirmation",
+    "subtitle": "We have sent you an email with a confirmation code. Please enter this code below",
+    "code": "Code",
+    "send_new_code": "Resend code",
+    "get_new_code_after": { "code": "get new code", "after": "in {{ timer }} seconds" },
+    "done": "Done",
+    "back": "Back"
   },
   "confirm-mfa": {
-    "title": "Верифицируйте аккаунт",
-    "subtitle": "Введите ниже код верификации из вашего Google Authenticator",
-    "code": "Код",
-    "back": "Назад",
-    "sign_in": "Войти"
+    "title": "Verify your account",
+    "subtitle": "Enter the code listed in your Google Authenticator app below",
+    "code": "Code",
+    "back": "Back",
+    "sign_in": "Sign In"
   },
   "forgot-password": {
-    "title_1": "Восстановить былую славу",
-    "subtitle_1": "Мы пошлем в ваши земли ворона с секретным кодом для восстановления пароля",
-    "get_code": "Послать ворона",
-    "title_2": "Ворон прибыл",
-    "subtitle_2": "Раскройте свиток, который ворон доставил на вашу почту и введите секретный код ниже.",
-    "code": "Код",
-    "send_new_code": "Отправить новый код",
-    "get_new_code_after": { "code": "получить новый код", "after": "через {{ timer }} секунд" },
-    "title_3": "Испытание пройдено",
-    "subtitle_3": "Вы доказали право на восстановление былой славый. Осталось лишь ввести новый пароль.",
-    "restore_password": "Восстановить пароль",
+    "title_1": "Restore the former glory",
+    "subtitle_1": "We'll send you a raven with a secret code to restore your password",
+    "get_code": "Send raven",
+    "title_2": "The raven has arrived",
+    "subtitle_2": "Unwrap a scroll that raven has delivered to your email and enter a secret code below.",
+    "code": "Code",
+    "send_new_code": "Resend code",
+    "get_new_code_after": { "code": "get new code", "after": "in {{ timer }} seconds" },
+    "title_3": "Trial is over",
+    "subtitle_3": "You've proved your right to restore the former glory. Now just enter a new password.",
+    "restore_password": "Reset password",
     "form": {
-      "mail": "Почта",
+      "mail": "Email",
       "mail_input_placeholder": "mail@mail.com",
-      "new_password": "Новый пароль",
-      "repeat_password": "Повторите пароль",
+      "new_password": "New password",
+      "repeat_password": "Repeat password",
       "password_input_placeholder": "*****************"
     },
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "invalid_email": "Невалидный формат Email",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "passwords_not_match": "Пароли не совпадают",
-      "password_rules": "Пароль должен содержать как минимум: 1 строчную букву латинского алфавита, 1 цифру"
+      "required": "Field is required",
+      "invalid_email": "Invalid email format",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "passwords_not_match": "Passwords do not match",
+      "password_rules": "The password must contain at least 1 capital letter and 1 digit"
     }
   },
   "new-password": {
-    "title": "Испытание пройдено",
-    "subtitle": "Вы доказали право на восстановление былой славый. Осталось лишь ввести новый пароль.",
-    "restore_password": "Восстановить пароль",
+    "title": "Trial is over",
+    "subtitle": "You've proved your right to restore the former glory. Now just enter a new password.",
+    "restore_password": "Reset password",
     "form": {
-      "new_password": "Новый пароль",
-      "repeat_password": "Повторите пароль",
+      "new_password": "New password",
+      "repeat_password": "Repeat password",
       "password_input_placeholder": "*****************"
     },
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "invalid_email": "Невалидный формат Email",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "passwords_not_match": "Пароли не совпадают",
-      "password_rules": "Пароль должен содержать как минимум: 1 строчную букву латинского алфавита, 1 цифру"
+      "required": "Field is required",
+      "invalid_email": "Invalid email",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "passwords_not_match": "Passwords do not match",
+      "password_rules": "The password must contain at least 1 capital letter and 1 digit"
     }
   },
   "sign-in": {
-    "no_account": "Нет аккаунта?",
-    "sign_up": "Зарегистрироваться",
-    "title": "Вход в аккаунт",
-    "forgot_password": "Забыли пароль?",
-    "ban_reason": "Причина бана:",
-    "banned_until": "Забанен до:",
-    "sign_in": "Войти",
+    "no_account": "Don't have an account?",
+    "sign_up": "Sign Up",
+    "title": "Sign In",
+    "forgot_password": "Forgot password?",
+    "ban_reason": "Ban reason:",
+    "banned_until": "Banned until:",
+    "sign_in": "Sign In",
     "form": {
-      "mail": "Почта",
+      "mail": "Email",
       "mail_input_placeholder": "mail@mail.com",
-      "password": "Пароль",
+      "password": "Password",
       "password_input_placeholder": "*****************"
     },
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "invalid_email": "Невалидный формат Email",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+      "required": "Field is required",
+      "invalid_email": "Invalid email",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}"
     }
   },
   "sign-up": {
-    "have_account": "Есть аккаунт?",
-    "sign_in": "Войти",
-    "title": "Регистрация",
-    "forgot_password": "Забыли пароль?",
-    "ban_reason": "Причина бана:",
-    "banned_until": "Забанен до:",
-    "sign_up": "Зарегистрироваться",
-    "policy": { "agree": "Я согласен с", "with": "политикой конфедициальности" },
+    "have_account": "Have an account?",
+    "sign_in": "Sign In",
+    "title": "Registration",
+    "forgot_password": "Forgot password?",
+    "ban_reason": "Ban reason:",
+    "banned_until": "Banned until:",
+    "sign_up": "Sign up",
+    "policy": { "agree": "I agree with", "with": "a privacy policy" },
     "form": {
-      "mail": "Почта",
+      "mail": "Email",
       "mail_input_placeholder": "mail@mail.com",
-      "password": "Пароль",
+      "password": "Password",
       "password_input_placeholder": "*****************",
-      "repeat_password": "Повторите пароль"
+      "repeat_password": "Repeat password"
     },
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "invalid_email": "Невалидный формат Email",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "passwords_not_match": "Пароли не совпадают",
-      "password_rules": "Пароль должен содержать как минимум: 1 строчную букву латинского алфавита, 1 цифру"
+      "required": "Field is required",
+      "invalid_email": "Invalid email format",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "passwords_not_match": "Passwords do not match",
+      "password_rules": "The password must contain at least 1 capital letter and 1 digit"
     }
   }
 }

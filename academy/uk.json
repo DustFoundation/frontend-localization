@@ -1,0 +1,70 @@
+{
+  "components": {
+    "course-finished-dialog": {
+      "title": "Итоговый отзыв о курсе",
+      "module": "Модуль",
+      "leave_review": "Оставить отзыв про курс"
+    },
+    "menu": { "test": "Тест", "testing": "Тестирование" },
+    "module-finished-dialog": {
+      "module": "Модуль",
+      "open_access": "Открыт доступ к модулю",
+      "thanks_for_review": "Спасибо, ваш отзыв учтен",
+      "awful": "Ужасно",
+      "bad": "Плохо",
+      "ok": "Средне",
+      "good": "Хорошо",
+      "excellent": "Отлично",
+      "rate_module": "Оцените пройденный модуль",
+      "leave_review?": "Желаете оставить отзыв?",
+      "next_lesson": "Следующий урок",
+      "yes": "Да",
+      "no": "Нет"
+    },
+    "module-review-dialog": {
+      "help_us": "Помогите нам улучшить курс",
+      "please_leave_comment_about": "Оставьте пожалуйста отзыв про",
+      "leave_review": "Оставить отзыв",
+      "my_review": "Мой отзыв",
+      "module": "Модуль",
+      "course": "Курс",
+      "back": "Назад"
+    }
+  },
+  "course-details": {
+    "level": "Уровень:",
+    "count_of_modules": "Модулей:",
+    "count_of_lessons": "Уроков:",
+    "got_badges": "Полученные Значки",
+    "course_progress": "Прогресс курса",
+    "pass_again": "Пройти повторно",
+    "continue_learning": "Продолжить обучение",
+    "start_learning": "Начать обучение",
+    "training_program": "Программа Обучения",
+    "module": "Модуль"
+  },
+  "course-lesson": {
+    "pass_test": "Сдать тест",
+    "next_lesson": "Следующий урок",
+    "previous_lesson": "Предыдущий урок"
+  },
+  "course-test": {
+    "description": " После прохождения теста вы получаете специальный значок, который открывает доступ к следующему модулю.",
+    "ps": "P.S. Пройдите тест без единой ошибки и получите золотой значок!",
+    "check_test": "Проверить тест",
+    "try_once_more": "Попробовать еще",
+    "previous_lesson": "Предыдущий урок",
+    "onward": "Далее"
+  },
+  "courses": {
+    "new_course_in_development": "Новые курсы уже в разработке!",
+    "level": "Уровень:",
+    "count_of_modules": "Модулей:",
+    "count_of_lessons": "Уроков:",
+    "got_badges": "Полученные Значки",
+    "course_progress": "Прогресс курса",
+    "pass_again": "Пройти повторно",
+    "continue_learning": "Продолжить обучение",
+    "start_learning": "Начать обучение"
+  }
+}

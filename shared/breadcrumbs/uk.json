@@ -1,0 +1,19 @@
+{
+  "main": "Головна",
+  "settings": "Налаштування",
+  "profile": "Особистий профіль",
+  "forum": "Форум",
+  "academy": "Академія",
+  "portfolio": "Портфоліо",
+  "balance": "Поповнення балансу",
+  "subscription": "Підписка",
+  "transaction": "Історія транзакцій",
+  "activation_subscription": "Активація підписки",
+  "post_view": "Перегляд поста",
+  "created_posts": "Створені пости",
+  "popular": "Найкращі",
+  "news": "Нові",
+  "my-tickets": "Створені пости",
+  "create_ticket": "Створення посту",
+  "conferences": "Конференции"
+}

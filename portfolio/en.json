@@ -244,7 +244,21 @@
       "delete": "Удалить",
       "cancel": "Отменить"
     },
-    "dialog-edit-exchange-portfolio": {},
+    "dialog-edit-exchange-portfolio": {
+      "title": "Редактирование ключей",
+      "enter_api_key": "API-ключ",
+      "enter_secret_key": "Секретный ключ",
+      "cancel": "Отменить",
+      "save": "Сохранить",
+      "attention": "Внимание!",
+      "notice": "Текущий портфель будет удален и вместо него будет загружен новый",
+      "replace": "Заменить",
+      "validation_messages": {
+        "required": "Поле обязательно к заполнению",
+        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
+        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+      }
+    },
     "dialog-edit-portfolio": {
       "title": "Редактирование портфеля",
       "name_placeholder": "Трушный холдер",
@@ -285,8 +299,17 @@
       },
       "close": "Закрыть"
     },
-    "invalid-api-key-dialog": {},
-    "portfolio-coin": {},
+    "invalid-api-key-dialog": {
+      "title": "Неверный API ключ",
+      "subtitle": "Вам потребуется измениться API ключ, чтобы мы смогли обновить ваш портфель."
+    },
+    "portfolio-coin": {
+      "all_transaction": "Все транзакции",
+      "need_subscription": "Нужно оформить подписку",
+      "add_transaction": "Добавьте транзакцию",
+      "delete_asset": "Удалить монету",
+      "delete": "Удалить"
+    },
     "portfolio-list-item": {
       "update_data": "Обновление данных",
       "need_subscription": "Нужно оформить подписку",
@@ -314,7 +337,13 @@
       "delete_transaction": "Удалить транзакцию"
     },
     "series-finance": { "title": "Распределение финансов", "total": "Total" },
-    "transactions-limit-dialog": {}
+    "transactions-limit-dialog": {
+      "title": "Вы превысили лимит транкзаций",
+      "subtitle": "Активируй подписку, чтобы получить неограниченное количество транзакций в разделе “Портфолио”",
+      "used_transactions": "Использовано транзакций:",
+      "of": "{{ num1 }} из {{ num2 }}",
+      "activate_subscription": "Активировать подписку"
+    }
   },
   "portfolio": {
     "last_time_update": "Последний раз обновлено:",

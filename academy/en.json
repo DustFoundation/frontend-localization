@@ -60,6 +60,7 @@
     "onward": "Далее"
   },
   "courses": {
+    "need_subscription": "Нужно оформить подписку",
     "new_course_in_development": "Новые курсы уже в разработке!",
     "level": "Уровень:",
     "count_of_modules": "Модулей:",

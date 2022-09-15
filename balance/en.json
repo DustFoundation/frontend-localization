@@ -1,57 +1,57 @@
 {
   "balance-main": {
-    "title": "Выберите сеть для перевода USDT",
-    "top_up_amount": "Сумма пополнения",
-    "enter_top_up_amount": "Введите сумму пополнения",
-    "pay": "Оплатить",
-    "click_to_copy": "Нажмите, чтобы скопировать",
-    "copied": "Скопировано",
-    "erc20": "ERC20 Адрес:",
-    "trc20": "TRC20 Адрес:",
-    "bep20": "BEP20 Адрес:",
-    "bep2": "BEP2 Адрес:",
-    "memo": "MEMO Адрес:",
+    "title": "Select a network for USDT transfer",
+    "top_up_amount": "Top up amount",
+    "enter_top_up_amount": "Enter top up amount",
+    "pay": "Pay",
+    "click_to_copy": "Click to copy",
+    "copied": "Copied",
+    "erc20": "ERC20 Address:",
+    "trc20": "TRC20 Address:",
+    "bep20": "BEP20 Address:",
+    "bep2": "BEP2 Address:",
+    "memo": "MEMO Address:",
     "important": {
-      "title": "Важно",
-      "1": "Мы принимаем оплату только в Tether (USDT).",
-      "2": "Пополнение баланса необходимо для активации подписки.",
-      "3": "Рекомендуем использовать сеть «TRC20» (комиссия ~1$)",
-      "4": "Отправка монеты или токена, кроме USDT по этому адресу может привести к потере средств.",
+      "title": "Important",
+      "1": "We accept payments only in Tether (USDT).",
+      "2": "Top up your balance to activate subscription.",
+      "3": "We recommend to use «TRC20» network (fee ~1$)",
+      "4": "Sending any other coin or token to this address except USDT may result in loss of your funds.",
       "5": {
-        "first_part": "Для активации подписки “{{ subscriptionName }}“ на {{ subscriptionTerm }}",
-        "second_part": "{subscriptionTerm, plural, =1 {день} =2 {дня} =3 {дня} =4 {дня} other {дней}} необходимо пополнить баланс на {{ subscriptionPrice }} USDT + добавить ~1 USDT на комиссию сети."
+        "first_part": "To activate a subscription “{{ subscriptionName }}“ for {{ subscriptionTerm }}",
+        "second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} you need to top up your balance for {{ subscriptionPrice }} USDT + add ~1 USDT to cover a network fee."
       }
     },
-    "video_tutorial": "Видео-туториал по покупке подписки",
-    "warning": "Предупреждения о рисках",
-    "specify_hash_or_number": "Укажите хеш или номер транзакции",
+    "video_tutorial": "Video tutorial - how to buy a subscription",
+    "warning": "Risk warnings",
+    "specify_hash_or_number": "Specify hash or number of transaction",
     "recommendation": {
-      "title": "Рекомендации",
-      "1": "Чтобы посмотреть номер транзакции в Binance, перейдите по ссылке (будучи авторизованным):",
-      "2": "Если вы отправляли USDT с другой биржи, укажите в поле Хэш транзакции (пример TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
-      "3": "Также вы можете указать номер транзакции (Internal transfer) - 43047269665, но не путайте с кошельком - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
+      "title": "Recommendations",
+      "1": "To lookup transaction number on Binance, follow this link (authorized):",
+      "2": "If you've sent USDT from another exchange specify in this field Transaction hash (TRC20 example): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+      "3": "You can also specify a transaction number (Internal transfer) - 43047269665, but don't confuse with your wallet - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
     },
-    "to_pay": "К оплате {{ amount }} USDT",
+    "to_pay": "Amount to pay: {{ amount }} USDT",
     "steps": {
       "1": {
-        "title": "Шаг 1",
-        "description": "Откройте приложение Binance на вашем смартфоне и сканируйте QR-код, нажав на иконку в верхней части интерфейса главной страницы."
+        "title": "Step 1",
+        "description": "Open a Binance app on your phone and scan QR-code, by clicking an icon at the top right corner of application's home page."
       },
       "2": {
-        "title": "Шаг 2",
-        "description": "Далее вы увидите окно с подтверждением транзакции. Убедитесь что сумма верная и подтвердите транзакцию. После нажмите “Я оплатил”."
+        "title": "Step 2",
+        "description": "Now you'll see a transaction confirmation window. Verify payment amount and confirm the transaction. After that click “I have paid”."
       }
     },
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+      "required": "Field is required",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}"
     },
-    "hash_or_number": "Хеш / номер транзакции",
+    "hash_or_number": "Transaction Hash / number",
     "faq": "FAQ",
-    "payed": "Я оплатил",
-    "terms_to_use": "Пользовательское соглашение",
-    "privacy_policy": "Политика конфиденциальности",
+    "payed": "I have paid",
+    "terms_to_use": "Terms of use",
+    "privacy_policy": "Privacy policy",
     "back": "Back",
-    "confirm": "Подтвердить"
+    "confirm": "Confirm"
   }
 }

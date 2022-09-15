@@ -1,101 +1,101 @@
 {
   "onboarding-call-dialog": {
-    "title": "Желаете пройти пошаговое ознакомление с DUST PLATFORM?",
-    "skip": "Пропустить",
+    "title": "Want to read a step-by-step guide to DUST PLATFORM?",
+    "skip": "Skip",
     "yes": "Yes"
   },
   "onboarding-dialog": {
     "back": "Back",
-    "onward": "Далее",
-    "done": "Готово",
+    "onward": "Nex",
+    "done": "Done",
     "portfolio": {
-      "title": "Раздел “Портфолио“",
-      "description": "В этом разделе вы имеете возможность создавать свои личные портфели, отслеживать активы и ваши инвестиции.",
+      "title": "“Portfolio” section",
+      "description": "In this section you can create your personal porfolios, track your assets and investments.",
       "list": {
-        "1": "Общая оценка портфелей и PNL",
-        "2": "Виртуальное моделирование инвест стратегий",
-        "3": "Интеграция биржевых портфелей в одном месте",
-        "4": "Расчет и отслеживание венчурных инвестиций"
+        "1": "Total estimated balance of portfolios and PNL",
+        "2": "Simulation of investment strategies",
+        "3": "Integration of exchange portfolios in a single place",
+        "4": "Estimates and tracking of venture investments"
       }
     },
     "virtual_portfolio": {
-      "title": "Виртуальный портфель",
-      "description": "В этом портфеле вы можете добавлять активы вручную и моделировать различные типы инвестиционных стратегий.",
+      "title": "Virtual portfolio",
+      "description": "With this portfolio you can add assets manually and simulate different types of investment strategies.",
       "list": {
-        "1": "Ручное добавление транзакций",
-        "2": "1000+ криптоактивов для отслеживания",
-        "3": "Визуализация в виде графиков доходов/убытков",
-        "4": "Pie Сhart визуализация распределения финансов"
+        "1": "Manual addition of transactions",
+        "2": "1000+ crypto-assets to track",
+        "3": "Chart visualization of profits/losses",
+        "4": "Pie Сhart visualization of distribution of finances"
       }
     },
     "exchange_portfolio": {
-      "title": "Биржевой портфель",
-      "description": "В этом портфеле вы можете отслеживать свои портфели с бирж через API интеграцию.",
+      "title": "Exchange portfolio",
+      "description": "With this portfolio you can track your exchange portfolios using API integrations.",
       "list": {
-        "1": "Простая и понятная интеграция через API",
-        "2": "Автоматическое обновление транзакций и цен",
-        "3": "Визуализация в виде графиков доходов/убытков",
-        "4": "Pie Сhart визуализация распределения финансов"
+        "1": "Simple and clear integration using API",
+        "2": "Automatic update of transactions and prices",
+        "3": "Chart visualization of profits/losses",
+        "4": "Pie Сhart visualization of distribution of finances"
       }
     },
     "venture_portfolio": {
-      "title": "Венчурный портфель",
-      "description": "В этом портфеле вы можете отслеживать все венчурные инвестиции с гибкой настройкой и визуализацией.",
+      "title": "Venture portfolio",
+      "description": "With this portfolio you can track all venture investments with flexible configuration and visualizations.",
       "list": {
-        "1": "Гибкое отслеживание венчурных инвестиций",
-        "2": "График TGE и разлоков",
-        "3": "Детальная информация о венчурном активе",
-        "4": "Автоматические расчеты вместо Excel таблиц"
+        "1": "Flexible tracking of venture investments",
+        "2": "Chart of TGE and unlocks",
+        "3": "Detailed information about a venture asset",
+        "4": "Automatic calculations instead of Excel tables"
       }
     },
     "forum": {
-      "title": "Раздел “Форум”",
-      "description": "В этом разделе вы имеете возможность создавать посты и делиться мыслями с комьюнити единомышленников.",
+      "title": "“Forum” section",
+      "description": "In this section you can create posts and share your thoughts with a community of like-minded people.",
       "list": {
-        "1": "Отображение постов по рейтингу",
-        "2": "Возможность участия в обсуждении чужого поста",
-        "3": "Зарабатывайте DUST Token за лучшие посты",
-        "4": "Будьте в курсе последних событий"
+        "1": "Viewing posts in rating order",
+        "2": "Ability to comment posts created by other people",
+        "3": "Earn DUST Token for best posts",
+        "4": "Stay up-to-date on the latest events"
       }
     },
     "academy": {
-      "title": "Раздел “Академия”",
-      "description": "В этом разделе вы имеете возможность выбрать интересующий вас курс и обрести новые знания.",
+      "title": "“Academy” section",
+      "description": "In this section you can choose the course you are interested in and get a new knowledge.",
       "list": {
-        "1": "Каждый курс написан командой DUST.FOUNDATION",
-        "2": "Визуализация сложных тем в видео",
-        "3": "Прохождение тестов в каждом модуле",
-        "4": "Оценивание модулей и курсов"
+        "1": "Every course is created by DUST.FOUNDATION team",
+        "2": "Visual representation of complex topics in videos",
+        "3": "Passing tests in each module",
+        "4": "Evaluation of modules and courses"
       }
     },
     "balance": {
-      "title": "Раздел “Пополнение баланса”",
-      "description": "В этом разделе вы имеете возможность оплачивать/продлевать подписку на платформу и криптокомьюнити.",
+      "title": "“Top up balance” section",
+      "description": "In this section you can purchase/extend subscriptions for platform and crypto-community.",
       "list": {
-        "1": "Простой способ оплаты в 2 шага",
-        "2": "Поддержка разных сетей и Binance Pay",
-        "3": "Подробный видео-туториал по оплате для новичков",
-        "4": "Быстрое зачисление средств на платформу"
+        "1": "Easy 2-steps payment process",
+        "2": "Support of different networks and Binance Pay",
+        "3": "Detailed video tutorial about how to make payments for newcomers",
+        "4": "Quick crediting funds to the platform"
       }
     },
     "subscription": {
-      "title": "Раздел “Подписка”",
-      "description": "В этом разделе вы имеете возможность выбрать и активировать различные виды подписки.",
+      "title": "“Subscription” section",
+      "description": "In this section you can choose and activate different types of subscription.",
       "list": {
-        "1": "7 дней бесплатного пробного периода (DUST Platform)",
-        "2": "3 типа подписки с разными периодами",
-        "3": "Интеграции с Telegram и Discord",
-        "4": "Скидочная система и начисление DUST Token"
+        "1": "7 days of free trial (DUST Platform)",
+        "2": "3 types of subscription with different durations",
+        "3": "Integrations with Telegram and Discord",
+        "4": "Discount system and earning of DUST Token"
       }
     },
     "profile": {
-      "title": "Раздел “Личный профиль”",
-      "description": "В этом разделе вы имеете возможность получать ежедневные награды, достижения, отслеживать рейтинг.",
+      "title": "“Profile” section",
+      "description": "In this section you can get daily rewards, achievements and track your rating.",
       "list": {
-        "1": "Выбор вашего крипто-персонажа",
-        "2": "Ежедневные награды за посещение платформы",
-        "3": "Список полученных достижений",
-        "4": "Рейтинг пользователя"
+        "1": "Chouse your crypto-avatar",
+        "2": "Daily rewards for visiting a platform",
+        "3": "List of received achievements",
+        "4": "User rating"
       }
     }
   }

@@ -22,7 +22,7 @@
       "enter_code": "Введите код",
       "enter_data": "Введите данные для создания нового пароля",
       "save_password": "Сохранить пароль",
-      "onward": "Далее",
+      "onward": "Next",
       "form": {
         "new_password": "Новый пароль",
         "repeat_new_password": "Повторите новый пароль",
@@ -30,8 +30,8 @@
       },
       "validation_messages": {
         "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
+        "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+        "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
         "password_rules": "Пароль должен содержать как минимум: 1 строчную букву латинского алфавита, 1 цифру",
         "passwords_not_match": "Пароли не совпадают"
       }

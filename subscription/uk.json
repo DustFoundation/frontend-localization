@@ -17,14 +17,14 @@
     },
     "subscription-term": {
       "top_up_on": "Поповнити на",
-      "select_subscription": "Виберіть передплату",
+      "select_subscription": "Виберіть підписку",
       "go": "Перейти",
       "transaction_in_progress": "Транзакція в обробці",
       "on_your_balance": "На вашому балансі",
-      "selected_subscription": "Вибрано передплату:",
+      "selected_subscription": "Вибрано підписку:",
       "test_period": "(тестовий період)",
       "on_day": "на {{ day }} {day, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}",
-      "bonus": "З передплатою на {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}} ви отримуєте {{ bonus_term }} {bonus_term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}} у подарунок!",
+      "bonus": "З підпискою на {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}} ви отримуєте {{ bonus_term }} {bonus_term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}} у подарунок!",
       "rule_1": "Перед продовженням переконайтеся, що на вашому балансі достатньо USDT для активації підписки на вибраний вами період!",
       "rule_2": {
         "first_part": "Для активації підписки “{{ subscriptionName }}“ на {{ subscriptionTerm }}",
@@ -41,19 +41,19 @@
     "active": "Активна",
     "inactive": "Неактивна",
     "to_end_subscription": "До закінчення підписки “{{ name }}”:",
-    "continue_subscription": "Продовжити передплату",
-    "activate_subscription": "Активувати передплату",
+    "continue_subscription": "Продовжити підписку",
+    "activate_subscription": "Активувати підписку",
     "all_transaction": "Всі транзакції",
-    "detail": "Докладніше про передплату",
+    "detail": "Докладніше про підписку",
     "cryptocommunity": {
-      "title": "Що входить у передплату Cryptocommunity?",
+      "title": "Що входить у підписку Cryptocommunity?",
       "0": {
         "title": "Доступ до крипто-спільноти",
         "description": "Приватний Discord-сервер з крипто-ентузіастами"
       }
     },
     "platform": {
-      "title": "Що входить у передплату Platform?",
+      "title": "Що входить у підписку Platform?",
       "soon": "Незабаром...",
       "0": {
         "title": "20 портфелів у Портфоліо",

@@ -1,6 +1,6 @@
 {
   "header": {
-    "subscription_activate": "Активувати передплату",
+    "subscription_activate": "Активувати підписку",
     "subscription_activated": {
       "text": "Підписка",
       "status": "Активна"
@@ -35,15 +35,15 @@
     "types": {
       "SUBSCRIPTION_ADDED": {
         "title": "Успішна купівля підписки",
-        "description": "Ви успішно придбали передплату на термін {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
+        "description": "Ви успішно придбали підписку на термін {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
       },
       "SUBSCRIPTION_UPDATED": {
         "title": "Успішне продовження підписки",
-        "description": "Ви успішно продовжили передплату на {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
+        "description": "Ви успішно продовжили підписку на {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
       },
       "SUBSCRIPTION_ENDING_SOON": {
         "title": "Підписка близька до свого завершення",
-        "description": "Нам шкода, але вашій передплаті залишилося всього {{daysToExpire}} {daysToExpire, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}... Ми будемо за вами скучати!"
+        "description": "Нам шкода, але вашій підписці залишилося всього {{daysToExpire}} {daysToExpire, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}... Ми будемо за вами скучати!"
       },
       "BALANCE_ADDED": {
         "title": "Поповнення балансу",

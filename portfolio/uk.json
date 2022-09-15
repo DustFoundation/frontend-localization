@@ -234,7 +234,7 @@
         "title": "Венчурний портфель",
         "subtitle": "Додавання нових проектів куплених на ранніх етапах"
       },
-      "need_subscription": "Потрібно оформити передплату",
+      "need_subscription": "Потрібно оформити підписку",
       "create_portfolio": "Створити портфель"
     },
     "dialog-delete-coin": {
@@ -322,14 +322,14 @@
     },
     "portfolio-coin": {
       "all_transaction": "Всі транзакції",
-      "need_subscription": "Потрібно оформити передплату",
+      "need_subscription": "Потрібно оформити підписку",
       "add_transaction": "Додайте транзакцію",
       "delete_asset": "Видалити монету",
       "delete": "Видалити"
     },
     "portfolio-list-item": {
       "update_data": "Оновлення даних",
-      "need_subscription": "Потрібно оформити передплату",
+      "need_subscription": "Потрібно оформити підписку",
       "edit": "Редагувати",
       "delete": "Видалити",
       "open": "Відкрити",
@@ -354,7 +354,7 @@
       "deposit": "Введення",
       "withdraw": "Зняття",
       "transfer": "Переклад",
-      "need_subscription": "Потрібно оформити передплату",
+      "need_subscription": "Потрібно оформити підписку",
       "edit_transaction": "Редагувати транзакцію",
       "delete_transaction": "Видалити транзакцію"
     },
@@ -364,10 +364,10 @@
     },
     "transactions-limit-dialog": {
       "title": "Ви перевищили ліміт транкзацій",
-      "subtitle": "Активуй передплату, щоб отримати необмежену кількість транзакцій у розділі “Портфоліо”",
+      "subtitle": "Активуй підписку, щоб отримати необмежену кількість транзакцій у розділі “Портфоліо”",
       "used_transactions": "Використані транзакції:",
       "of": "{{ num1 }} з {{ num2 }}",
-      "activate_subscription": "Активувати передплату"
+      "activate_subscription": "Активувати підписку"
     }
   },
   "portfolio": {
@@ -390,11 +390,11 @@
     "your_portfolio_empty": "Ваш портфель порожній :(",
     "add_asset": "Додати актив",
     "add_first_asset": "Додайте перший актив",
-    "need_subscription": "Потрібно оформити передплату"
+    "need_subscription": "Потрібно оформити підписку"
   },
   "portfolio-list": {
     "create_portfolio": "Створити портфель",
-    "need_subscription": "Потрібно оформити передплату"
+    "need_subscription": "Потрібно оформити підписку"
   },
   "portfolio-transactions": {
     "back": "Назад",
@@ -408,7 +408,7 @@
     "add": "Додати",
     "transactions": "Транзакції",
     "add_transaction": "Додати транзакцію",
-    "need_subscription": "Потрібно оформити передплату"
+    "need_subscription": "Потрібно оформити підписку"
   },
   "portfolio-venture": {
     "add_asset": "Додати актив",
@@ -433,6 +433,6 @@
       "date": "Дата купівлі",
       "lock_period": "Період локу"
     },
-    "need_subscription": "Потрібно оформити передплату"
+    "need_subscription": "Потрібно оформити підписку"
   }
 }

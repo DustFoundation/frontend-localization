@@ -185,7 +185,7 @@
         "end_date": "End date",
         "start_date": "Start date",
         "frequency": "Периодичность",
-        "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ emd }}",
+        "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ end }}",
         "select_period": "Выберите период",
         "unlock_impossible": "Разлок по данному периоду невозможен",
         "elem_unlock_date": "Дата {{ num }} разлока",

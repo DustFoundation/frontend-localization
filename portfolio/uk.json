@@ -185,7 +185,7 @@
         "end_date": "Кінцева дата",
         "start_date": "Дата початку",
         "frequency": "Періодичність",
-        "info": "По {{ amount }} монет/токенів {{ period }} з {{ start }} по {{ emd }}",
+        "info": "По {{ amount }} монет/токенів {{ period }} з {{ start }} по {{ end }}",
         "select_period": "Виберіть період",
         "unlock_impossible": "Розлок по даному періоду неможливе",
         "elem_unlock_date": "Дата {{ num }} розлоку",

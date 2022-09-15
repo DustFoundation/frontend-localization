@@ -1,78 +1,78 @@
 {
   "components": {
-    "breadcrumbs": { "portfolio": "Портфолио", "main": "Главная" },
+    "breadcrumbs": { "portfolio": "Портфоліо", "main": "Головна" },
     "dialog-add-coin": {
-      "first_step": { "title": "Шаг 1", "choose_asset": "Выберите актив", "search": "Поиск" },
+      "first_step": { "title": "Крок 1", "choose_asset": "Виберіть актив", "search": "Поиск" },
       "second_step": {
-        "title": "Шаг 2",
-        "amount": "Количество",
+        "title": "Крок 2",
+        "amount": "Кількість",
         "max": "MAX",
-        "price": "Цена за монету",
-        "date": "Дата (ДД.ММ.ГГГГ)",
-        "date_placeholder": "DD.MM.YYYY",
-        "total_attachment": "Общее вложение",
+        "price": "Ціна за монету",
+        "date": "Дата (ДД.ММ.РРРР)",
+        "date_placeholder": "ДД.ММ.РРРР",
+        "total_attachment": "Загальне вкладення",
         "buy": "Покупка",
-        "sell": "Продажа",
-        "edit_transaction": "Редактировать транзакцию",
-        "delete_transaction": "Удалить транзакцию",
-        "add_transaction": "Добавьте транзакцию"
+        "sell": "Продаж",
+        "edit_transaction": "Редагувати транзакцію",
+        "delete_transaction": "Видалити транзакцію",
+        "add_transaction": "Додайте транзакцію"
       },
-      "change": "Изменить",
-      "add": "Добавить",
+      "change": "Змінити",
+      "add": "Додати",
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "invalid_date": "Невалидная дата",
-        "min_price": "Цена не может быть меньше чем 0$",
-        "max_amount": "Количество не может быть больше {{ max }} {{ coin }}",
-        "min_amount": "Количество не может быть меньше равно 0 {{ coin }}"
+        "required": "Поле обов'язково до заповнення",
+        "invalid_date": "Невалідна дата",
+        "min_price": "Ціна не може бути меншою ніж 0$",
+        "max_amount": "Кількість не може бути більшою за {{ max }} {{ coin }}",
+        "min_amount": "Кількість не може бути меншою, ніж 0 {{ coin }}"
       }
     },
     "dialog-add-exchange-portfolio": {
-      "title": "Создание биржевого портфеля",
-      "selected_exchange": "Выбранная биржа*",
-      "portfolio_name": "Название портфеля*",
-      "name_placeholder": "Сорвиголова",
-      "portfolio_description": "Описание портфеля",
-      "description_placeholder": "Портфель, состоящий из самых рисковых и перспективных активов на рынке. Будьте готовы попрощаться со сном и деньгами.",
-      "api_key_rule": "Мы запрашиваем только <strong>разрешения на просмотр</strong>. Это не дает нам доступа к вашим личным ключам или возможности перемещать ваши средства. Нам это нужно только для того, чтобы показать эффективность вашего портфеля и аналитику.",
-      "enter_api_key": "Введите API-ключ",
+      "title": "Створення біржового портфеля",
+      "selected_exchange": "Вибрана біржа*",
+      "portfolio_name": "Назва портфеля*",
+      "name_placeholder": "Шибайголова",
+      "portfolio_description": "Опис портфеля",
+      "description_placeholder": "Портфель, що складається з найбільш ризикових та перспективних активів на ринку. Будьте готові попрощатися зі сном та грошима.",
+      "api_key_rule": "Ми просимо лише <strong>дозвіл на перегляд</strong>. Це не дає нам доступу до ваших особистих ключів або можливості їх переміщувати. Нам це потрібно тільки для того, щоб показати ефективність вашого портфеля та аналітику.",
+      "enter_api_key": "Введіть API-ключ",
       "api_key": "API-ключ",
-      "enter_secret_key": "Введите секретный ключ (secret key)",
-      "secret_key": "Секретный ключ",
+      "enter_secret_key": "Введіть секретний ключ (secret key)",
+      "secret_key": "Секретний ключ",
       "help": {
-        "1": "На сайте биржи Binance откройте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">раздел API</a>",
-        "2": "<strong> Создайте новый API ключ </strong> назвав его, например <strong>\"DUST Portfolio\"</strong>, и нажмите <strong>\"создать новый ключ\"</strong>",
-        "3": "(Если все получилось), <strong>введите код двухфакторной аутентификации</strong>",
-        "4": "Скопируйте <strong>ключ API</strong> и <strong>секретный ключ</strong>",
-        "5": "<span> ЖЕЛАТЕЛЬНО отключить доступ к торговле для этого API ключа, для этого:</span><ol><li>Нажмите <strong>\"Настройки\"</strong></li><li>Запретите <strong>\"Доступ к торговле\"</strong></li><li>Нажмите <strong>\"Сохранить\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
+        "1": "На сайті біржі Binance відкрийте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">розділ API</a>",
+        "2": "<strong> Створіть новий API ключ </strong> назвавши його, наприклад, <strong>\"DUST Portfolio\"</strong>, і натисніть <strong>\"створити новий ключ\"</strong>",
+        "3": "(Якщо все вийшло), <strong>введіть код двофакторної автентифікації</strong>",
+        "4": "Скопіюйте <strong>ключ API</strong> і <strong>секретний ключ</strong>",
+        "5": "<span> БАЖАНО вимкнути доступ до торгівлі для цього API ключа, для цього:</span><ol><li>Натисніть <strong>\"Налаштування\"</strong></li><li>Забороніть <strong>\"Доступ до торгівлі\"</strong></li><li>Натисніть <strong>\"Зберегти\"</strong></li><li>Введіть код <strong>Двофакторної аутентифікації</strong></li></ol>"
       },
-      "create": "Создать",
+      "create": "Створити",
       "back": "Назад",
-      "onward": "Далее",
-      "important": "Важно",
+      "onward": "Далі",
+      "important": "Важливо",
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "repeat": "Не должно повторяться"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "repeat": "Не повинно повторюватися"
       }
     },
     "dialog-add-regular-portfolio": {
-      "create_portfolio": "Создать портфель",
-      "title": "Создание виртуального портфеля",
-      "name_placeholder": "Трушный холдер",
-      "description_placeholder": "Портфель включает в себя фундаментальные активы рынка криптовалют. С таким портфелем можно спать спокойно.",
-      "description_not_necessarily": "Описание (не обязательно)",
-      "name": "Название",
+      "create_portfolio": "Створити портфель",
+      "title": "Створення віртуального портфеля",
+      "name_placeholder": "Трушний холдер",
+      "description_placeholder": "Портфель включає фундаментальні активи ринку криптовалют. З таким портфелем можна спати спокійно.",
+      "description_not_necessarily": "Опис (не обов'язково)",
+      "name": "Назва",
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "repeat": "Не должно повторяться"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "repeat": "Не повинно повторюватися"
       }
     },
     "dialog-add-venture-asset": {
-      "unlock_types": { "linear": "Линейный", "full": "Разовый", "custom": "Кастомный" },
+      "unlock_types": { "linear": "Лінійний", "full": "Разовий", "custom": "Кастомний" },
       "asset_type": {
         "blockchain": "Blockchain",
         "defi": "DeFi",
@@ -82,7 +82,7 @@
         "payments": "Payments",
         "fun_token": "Fun Token",
         "nft": "NFT",
-        "other": "Other"
+        "other": "Інше"
       },
       "rounds": {
         "public": "Public",
@@ -95,319 +95,319 @@
         "round_b": "Round B",
         "round_c": "Round C",
         "round_d": "Round D",
-        "other": "Other"
+        "other": "Інше"
       },
       "periods": {
-        "every-day": "Раз в день",
-        "every-week": "Раз в неделю",
-        "every-month": "Раз в месяц",
-        "every-quarter": "Раз в квартал",
-        "every-half-year": "Раз в пол года",
-        "every-year": "Раз в год"
+        "every-day": "Раз на день",
+        "every-week": "Раз на тиждень",
+        "every-month": "Раз на місяць",
+        "every-quarter": "Раз на квартал",
+        "every-half-year": "Раз на пів року",
+        "every-year": "Раз на рік"
       },
       "unlock_period_types": { "amount": "кол.", "percent": "%" },
-      "cliff": { "MONTH": "мес.", "YEAR": "год" },
+      "cliff": { "MONTH": "міс.", "YEAR": "рік" },
       "main": {
-        "add": "Добавление венчурного актива",
-        "edit": "Редактирование венчурного актива",
-        "title_1": "Вводная информация",
-        "title_2": "Финансовая информация",
-        "title_3": "Техническая информация",
-        "title_4": "Укажите дату и (или) % разлока на TGE",
-        "title_5": "Период распределения актива",
-        "tge": "TGE — (Token Generation Event), синоним \"ICO\", означающий \"первичное размещение монет\".",
-        "total": "Итого",
-        "onward": "Далее",
+        "add": "Додавання венчурного активу",
+        "edit": "Редагування венчурного активу",
+        "title_1": "Вступна інформація",
+        "title_2": "Фінансова інформація",
+        "title_3": "Технічна інформація",
+        "title_4": "Вкажіть дату та (або) % розлоку на TGE",
+        "title_5": "Період розподілу активу",
+        "tge": "TGE — (Token Generation Event), синонім \"ICO\", що означає \"первинне розміщення монет\".",
+        "total": "Разом",
+        "onward": "Далі",
         "back": "Назад",
         "done": "Готово",
-        "date_placeholder": "DD.MM.YYYY",
-        "period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
+        "date_placeholder": "ДД.ММ.РРРР",
+        "period_date_placeholder": "ДД.ММ.РРРР - ДД.ММ.РРРР"
       },
       "first_step": {
-        "name": "Название*",
-        "name_placeholder": "Название актива",
-        "ticker": "Тикер*",
-        "ticker_placeholder": "Тикер",
+        "name": "Назва*",
+        "name_placeholder": "Назва активу",
+        "ticker": "Тікер*",
+        "ticker_placeholder": "Тікер",
         "sait": "Сайт",
-        "description": "Описание",
-        "logo": "Логотип актива",
-        "format_img": "JPG или PNG, 1:1 (квадрат),<br />не более 3MB",
-        "loaded_photo": "Загружено фото:",
-        "download": "Загрузить"
+        "description": "Опис",
+        "logo": "Логотип активу",
+        "format_img": "JPG або PNG, 1:1 (квадрат),<br />не більше 3MB",
+        "loaded_photo": "Завантажено фото:",
+        "download": "Завантажити"
       },
       "second_step": {
-        "price": "Цена покупки*",
-        "price_placeholder": "Цена",
-        "amount": "Количество купленных монет / токенов*",
+        "price": "Ціна покупки*",
+        "price_placeholder": "Ціна",
+        "amount": "Кількість куплених монет / токенів*",
         "amount_placeholder": "Кол-во",
         "round": "Раунд",
-        "total_attachment": "Общее вложение:"
+        "total_attachment": "Загальне вкладення:"
       },
       "third_step": {
-        "network": "Сеть",
-        "address": "Адрес смарт-контракта",
-        "type": "Тип проекта",
-        "date": "Дата покупки (ДД.ММ.ГГГГ)*"
+        "network": "Мережа",
+        "address": "Адреса смарт-контракту",
+        "type": "Тип проекту",
+        "date": "Дата покупки (ДД.ММ.РРРР)*"
       },
       "fourth_step": {
-        "unlock": "% разлока",
+        "unlock": "% розлоку",
         "unlock_placeholder": "0-100%",
         "date": "Дата",
-        "tba": "TBA — (To Be Announced), \"будет объявлено позднее\" или \"будет сообщено\".",
-        "cliff": "Cliff — период блокировки токенов",
-        "period_cliff": "Период cliff",
+        "tba": "TBA — (To Be Announced), \"буде оголошено пізніше\" або \"буде повідомлено\".",
+        "cliff": "Cliff — період блокування токенів",
+        "period_cliff": "Період cliff",
         "lockup": "Cliff (Lockup)",
-        "no": "нет"
+        "no": "ні"
       },
       "fifth_step": {
         "vesting": "Vesting",
-        "vesting_description": "Vesting — процесс распределения приобретенных монет в установленные сроки",
-        "unlock_date": "Дата разлока",
-        "period": "Период распределение",
-        "end_date": "End date",
-        "start_date": "Start date",
-        "frequency": "Периодичность",
-        "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ emd }}",
-        "select_period": "Выберите период",
-        "unlock_impossible": "Разлок по данному периоду невозможен",
-        "elem_unlock_date": "Дата {{ num }} разлока",
-        "invalid_sequence": "Не может быть раньше даты покупки или даты разлока",
-        "value_in_period": "Объем разлока в этот период",
-        "left_to_distribute": "Осталось распределить:",
-        "volume_distributed": "Весь объём распределен",
-        "invalid_unlock": " *Некорректные разлоки"
+        "vesting_description": "Vesting — процес розподілу придбаних монет у встановлені терміни",
+        "unlock_date": "Дата розлоку",
+        "period": "Період розподілу",
+        "end_date": "Кінцева дата",
+        "start_date": "Дата початку",
+        "frequency": "Періодичність",
+        "info": "По {{ amount }} монет/токенів {{ period }} з {{ start }} по {{ emd }}",
+        "select_period": "Виберіть період",
+        "unlock_impossible": "Розлок по даному періоду неможливе",
+        "elem_unlock_date": "Дата {{ num }} розлоку",
+        "invalid_sequence": "Не може бути раніше дати покупки або дати розлоку",
+        "value_in_period": "Об'єм розлоку в цей період",
+        "left_to_distribute": "Залишилося розподілити:",
+        "volume_distributed": "Весь об'є'м розподілений",
+        "invalid_unlock": " *Некоректні розлоки"
       },
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "min_price": "Цена не может быть меньше чем 0$",
-        "invalid_date": "Невалидная дата",
-        "file_type": "Невалидный тип файла",
-        "file_size": "Размер превышает {{ size }}мб",
-        "max_value": "Максимальное значение {{ max }}",
-        "min_value": " Значение должно быть больше {{ min }}",
-        "invalid_period": "Не может быть раньше даты покупки или даты разлока"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "min_price": "Ціна не може бути меншою ніж 0$",
+        "invalid_date": "Невалідна дата",
+        "file_type": "Невалідний тип файлу",
+        "file_size": "Розмір перевищує {{ size }}мб",
+        "max_value": "Максимальне значення {{ max }}",
+        "min_value": "Значення має бути більше {{ min }}",
+        "invalid_period": "Не може бути раніше дати покупки або дати розлоку"
       }
     },
     "dialog-add-venture-portfolio": {
-      "create_portfolio": "Создать портфель",
-      "title": "Создание венчурного портфеля",
-      "name_placeholder": "Начинающий криптоинвестор",
-      "description_placeholder": "Помимо надежных и проверенных активов, в портфель входят одни из наиболее перспективных и активно развивающихся проектов.",
-      "name": "Название",
-      "description_not_necessarily": "Описание (не обязательно)",
+      "create_portfolio": "Створити портфель",
+      "title": "Створення венчурного портфеля",
+      "name_placeholder": "Криптоінвестор-початківець",
+      "description_placeholder": "Окрім надійних і перевірених активів, в портфель входять одні з найбільш перспективних проектів, що активно розвиваються.",
+      "name": "Назва",
+      "description_not_necessarily": "Опис (не обов'язково)",
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "repeat": "Не должно повторяться"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "repeat": "Не повинно повторюватися"
       }
     },
     "dialog-create-portfolio": {
       "virtual": {
-        "title": "Виртуальный портфель",
-        "subtitle": "Создание виртуального портфеля из крипто-активов"
+        "title": "Віртуальний портфель",
+        "subtitle": "Створення віртуального портфеля з крипто-активів"
       },
       "exchange": {
-        "title": "Биржевой портфель",
-        "subtitle": "Интеграция с биржами и отслеживание реальных активов"
+        "title": "Біржовий портфель",
+        "subtitle": "Інтеграція з біржами та відстеження реальних активів"
       },
       "venture": {
-        "title": "Венчурный портфель",
-        "subtitle": "Добавление новых проектов купленных на ранних этапах"
+        "title": "Венчурний портфель",
+        "subtitle": "Додавання нових проектів куплених на ранніх етапах"
       },
-      "need_subscription": "Нужно оформить подписку",
-      "create_portfolio": "Создать портфель"
+      "need_subscription": "Потрібно оформити передплату",
+      "create_portfolio": "Створити портфель"
     },
     "dialog-delete-coin": {
-      "title": "Удаление актива",
-      "subtitle": "Вы действительно хотите удалить <span>{{ name }}</span> из вашего портфеля?",
-      "delete": "Удалить",
-      "cancel": "Отменить"
+      "title": "Видалення активу",
+      "subtitle": "Ви дійсно хочете видалити <span>{{ name }}</span> з вашого портфеля?",
+      "delete": "Видалити",
+      "cancel": "Скасувати"
     },
     "dialog-delete-portfolio": {
-      "title": "Удаление портфеля",
-      "subtitle": "Вы действительно хотите удалить <span>{{ name }}</span> из вашего портфолио?",
-      "delete": "Удалить",
-      "cancel": "Отменить"
+      "title": "Видалення портфеля",
+      "subtitle": "Ви дійсно хочете видалити <span>{{ name }}</span> з вашого портфоліо?",
+      "delete": "Видалити",
+      "cancel": "Скасувати"
     },
     "dialog-delete-transaction": {
-      "title": "Удаление транзакции",
-      "subtitle": "Вы действительно хотите удалить транзакцию из вашего портфеля?",
-      "delete": "Удалить",
-      "cancel": "Отменить"
+      "title": "Видалення транзакції",
+      "subtitle": "Ви дійсно хочете видалити транзакцію з вашого портфеля?",
+      "delete": "Видалити",
+      "cancel": "Скасувати"
     },
     "dialog-delete-venture-asset": {
-      "title": "Удаление актива",
-      "subtitle": "Вы действительно хотите удалить <span>{{ name }}</span> из вашего портфеля?",
-      "delete": "Удалить",
-      "cancel": "Отменить"
+      "title": "Видалення активу",
+      "subtitle": "Ви дійсно хочете видалити <span>{{ name }}</span> з вашого портфеля?",
+      "delete": "Видалити",
+      "cancel": "Скасувати"
     },
     "dialog-edit-exchange-portfolio": {
-      "title": "Редактирование ключей",
+      "title": "Редагування ключів",
       "enter_api_key": "API-ключ",
-      "enter_secret_key": "Секретный ключ",
-      "cancel": "Отменить",
-      "save": "Сохранить",
-      "attention": "Внимание!",
-      "notice": "Текущий портфель будет удален и вместо него будет загружен новый",
-      "replace": "Заменить",
+      "enter_secret_key": "Секретний ключ",
+      "cancel": "Скасувати",
+      "save": "Зберегти",
+      "attention": "Увага!",
+      "notice": "Поточний портфель буде видалено, а замість нього буде завантажено новий",
+      "replace": "Замінити",
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}"
       }
     },
     "dialog-edit-portfolio": {
-      "title": "Редактирование портфеля",
-      "name_placeholder": "Трушный холдер",
-      "description_placeholder": "Портфель включает в себя фундаментальные активы рынка криптовалют. С таким портфелем можно спать спокойно.",
-      "name": "Название",
-      "description_not_necessarily": "Описание (не обязательно)",
-      "save": "Сохранить",
+      "title": "Редагування портфеля",
+      "name_placeholder": "Трушний холдер",
+      "description_placeholder": "Портфель включає фундаментальні активи ринку криптовалют. З таким портфелем можна спати спокійно.",
+      "name": "Назва",
+      "description_not_necessarily": "Опис (не обов'язково)",
+      "save": "Зберегти",
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "repeat": "Не должно повторяться"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "repeat": "Не повинно повторюватися"
       }
     },
     "dialog-transaction-info": {
-      "title": "Детали транзакции",
+      "title": "Деталі транзакції",
       "type": "Тип",
-      "price": "Цена",
-      "amount_coin": "Кол-во монет",
+      "price": "Ціна",
+      "amount_coin": "Кіл-сть монет",
       "date": "Дата",
-      "value": "Объем в $",
-      "close": "Закрыть"
+      "value": "Об'єм в $",
+      "close": "Закрити"
     },
     "dialog-venture-coin-info": {
-      "title": "Детали венчурного актива",
+      "title": "Деталі венчурного активу",
       "characteristics": {
-        "price": "{isMobile, plural, =1 {Цена} other {Цена покупки}}",
-        "amount": "{isMobile, plural, =1 {Количество} other {Кол-во монет}}",
-        "investment_volume": "Объем инвестиций",
-        "type_of_project": "Тип проекта",
+        "price": "{isMobile, plural, =1 {Ціна} other {Ціна покупки}}",
+        "amount": "{isMobile, plural, =1 {Кількість} other {Кіл-сть монет}}",
+        "investment_volume": "Обсяг інвестицій",
+        "type_of_project": "Тип проекту",
         "type": "Тип",
         "round": "Раунд",
-        "description": "Описание",
+        "description": "Опис",
         "sait": "Сайт",
-        "network": "Сеть",
+        "network": "Мережа",
         "date": "Дата покупки",
-        "lock_period": "Период лока"
+        "lock_period": "Період локу"
       },
-      "close": "Закрыть"
+      "close": "Закрити"
     },
     "invalid-api-key-dialog": {
-      "title": "Неверный API ключ",
-      "subtitle": "Вам потребуется измениться API ключ, чтобы мы смогли обновить ваш портфель."
+      "title": "Невірний API ключ",
+      "subtitle": "Ви повинні змінити ключ API, щоб ми змогли оновити ваш портфель."
     },
     "portfolio-coin": {
-      "all_transaction": "Все транзакции",
-      "need_subscription": "Нужно оформить подписку",
-      "add_transaction": "Добавьте транзакцию",
-      "delete_asset": "Удалить монету",
-      "delete": "Удалить"
+      "all_transaction": "Всі транзакції",
+      "need_subscription": "Потрібно оформити передплату",
+      "add_transaction": "Додайте транзакцію",
+      "delete_asset": "Видалити монету",
+      "delete": "Видалити"
     },
     "portfolio-list-item": {
-      "update_data": "Обновление данных",
-      "need_subscription": "Нужно оформить подписку",
-      "edit": "Редактировать",
-      "delete": "Удалить",
-      "open": "Открыть"
+      "update_data": "Оновлення даних",
+      "need_subscription": "Потрібно оформити передплату",
+      "edit": "Редагувати",
+      "delete": "Видалити",
+      "open": "Відкрити"
     },
     "portfolio-pnl": {
-      "total_attachments": "Общий объем вложений",
-      "total_investment": "Общий объем инвестиций",
-      "invested_to_portfolio": "Вложено в портфель",
-      "portfolio_evaluation": "Оценка портфеля",
-      "all_times_pnl": "Общий PNL за все время",
+      "total_attachments": "Загальний об'єм вкладень",
+      "total_investment": "Загальний об'єм інвестицій",
+      "invested_to_portfolio": "Вкладено в портфель",
+      "portfolio_evaluation": "Оцінка портфеля",
+      "all_times_pnl": "Загальний PNL за весь час",
       "portfolio_pnl": "PNL портфеля",
-      "total_portfolio_evaluation": "Общая оценка портфелей"
+      "total_portfolio_evaluation": "Загальна оцінка портфелів"
     },
     "portfolio-transaction": {
       "buy": "Покупка",
-      "sell": "Продажа",
-      "deposit": "Ввод",
-      "withdraw": "Снятие",
-      "transfer": "Перевод",
-      "need_subscription": "Нужно оформить подписку",
-      "edit_transaction": "Редактировать транзакцию",
-      "delete_transaction": "Удалить транзакцию"
+      "sell": "Продаж",
+      "deposit": "Введення",
+      "withdraw": "Зняття",
+      "transfer": "Переклад",
+      "need_subscription": "Потрібно оформити передплату",
+      "edit_transaction": "Редагувати транзакцію",
+      "delete_transaction": "Видалити транзакцію"
     },
-    "series-finance": { "title": "Распределение финансов", "total": "Total" },
+    "series-finance": { "title": "Розподіл фінансів", "total": "Разом" },
     "transactions-limit-dialog": {
-      "title": "Вы превысили лимит транкзаций",
-      "subtitle": "Активируй подписку, чтобы получить неограниченное количество транзакций в разделе “Портфолио”",
-      "used_transactions": "Использовано транзакций:",
-      "of": "{{ num1 }} из {{ num2 }}",
-      "activate_subscription": "Активировать подписку"
+      "title": "Ви перевищили ліміт транкзацій",
+      "subtitle": "Активуй передплату, щоб отримати необмежену кількість транзакцій у розділі “Портфоліо”",
+      "used_transactions": "Використані транзакції:",
+      "of": "{{ num1 }} з {{ num2 }}",
+      "activate_subscription": "Активувати передплату"
     }
   },
   "portfolio": {
-    "last_time_update": "Последний раз обновлено:",
-    "update_started": "Обновление начато:",
-    "not_updated": "Не обновлено",
-    "to_update": "До обновления",
-    "update": "Обновить",
-    "portfolio_capitalization": "Капитализация портфеля",
-    "portfolio_profitability": "Доходность портфеля",
-    "portfolio_description": "Описание портфеля",
-    "my_assets": "Мои активы",
-    "finance": "Финансы",
-    "price": "Цена",
-    "average_price": "Ср. цена покупки",
-    "amount_coin": "Кол-во монет",
-    "profit_loss": "Доходность / убыток",
-    "description": "Описание портфеля",
-    "portfolio_empty": "Портфель пуст...",
-    "your_portfolio_empty": "Ваш портфель пуст :(",
-    "add_asset": "Добавить актив",
-    "add_first_asset": "Добавьте первый актив",
-    "need_subscription": "Нужно оформить подписку"
+    "last_time_update": "Востаннє оновлено:",
+    "update_started": "Оновлення розпочато:",
+    "not_updated": "Не оновлено",
+    "to_update": "До оновлення",
+    "update": "Оновити",
+    "portfolio_capitalization": "Капіталізація портфеля",
+    "portfolio_profitability": "Прибутковість портфеля",
+    "portfolio_description": "Опис портфеля",
+    "my_assets": "Мої активи",
+    "finance": "Фінанси",
+    "price": "Ціна",
+    "average_price": "Сер. ціна покупки",
+    "amount_coin": "Кіл-сть монет",
+    "profit_loss": "Прибутковість / збиток",
+    "description": "Опис портфеля",
+    "portfolio_empty": "Портфель порожній...",
+    "your_portfolio_empty": "Ваш портфель порожній :(",
+    "add_asset": "Додати актив",
+    "add_first_asset": "Додайте перший актив",
+    "need_subscription": "Потрібно оформити передплату"
   },
   "portfolio-list": {
-    "create_portfolio": "Создать портфель",
-    "need_subscription": "Нужно оформить подписку"
+    "create_portfolio": "Створити портфель",
+    "need_subscription": "Потрібно оформити передплату"
   },
   "portfolio-transactions": {
     "back": "Назад",
-    "price": "Цена",
-    "average_price": "Ср. цена покупки",
-    "amount_coin": "Кол-во монет",
-    "profit_loss": "Доходность / убыток",
+    "price": "Ціна",
+    "average_price": "Сер. ціна покупки",
+    "amount_coin": "Кіл-сть монет",
+    "profit_loss": "Прибутковість / збиток",
     "date": "Дата",
-    "value": "Объем в $",
-    "commission": "Комиссия",
-    "add": "Добавить",
-    "transactions": "Транзакции",
-    "add_transaction": "Добавить транзакцию",
-    "need_subscription": "Нужно оформить подписку"
+    "value": "Об'єм в $",
+    "commission": "Комісія",
+    "add": "Додати",
+    "transactions": "Транзакції",
+    "add_transaction": "Додати транзакцію",
+    "need_subscription": "Потрібно оформити передплату"
   },
   "portfolio-venture": {
-    "add_asset": "Добавить актив",
-    "description": "Описание портфеля",
-    "delete_asset": "Удалить актив",
-    "edit": "Редактировать",
-    "your_portfolio_empty": "Ваш портфель пуст :(",
-    "add_first_asset": "Добавьте первый актив",
-    "unlock_chart": "График разлока венчурных активов",
-    "impossible_to_build": "По данному активу невозможно построить график",
-    "my_assets": "{isMobile, plural, =1 {Мои активы} other {Мои венчурные активы}}",
+    "add_asset": "Додати актив",
+    "description": "Опис портфеля",
+    "delete_asset": "Видалити актив",
+    "edit": "Редагувати",
+    "your_portfolio_empty": "Ваш портфель порожній :(",
+    "add_first_asset": "Додайте перший актив",
+    "unlock_chart": "Графік розлоку венчурних активів",
+    "impossible_to_build": "За цим активом неможливо побудувати графік",
+    "my_assets": "{isMobile, plural, =1 {Мої активи} other {Мої венчурні активи}}",
     "characteristics": {
-      "price": "{isMobile, plural, =1 {Цена} other {Цена покупки}}",
-      "amount": "{isMobile, plural, =1 {Количество} other {Кол-во монет}}",
+      "price": "{isMobile, plural, =1 {Ціна} other {Ціна покупки}}",
+      "amount": "{isMobile, plural, =1 {Кількість} other {Кіл-сть монет}}",
       "investment_volume": "Объем инвестиций",
-      "type_of_project": "Тип проекта",
+      "type_of_project": "Тип проекту",
       "type": "Тип",
       "round": "Раунд",
-      "description": "Описание",
+      "description": "Опис",
       "sait": "Сайт",
-      "network": "Сеть",
+      "network": "Мережа",
       "date": "Дата покупки",
-      "lock_period": "Период лока"
+      "lock_period": "Період локу"
     },
-    "need_subscription": "Нужно оформить подписку"
+    "need_subscription": "Потрібно оформити передплату"
   }
 }

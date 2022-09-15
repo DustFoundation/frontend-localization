@@ -1,6 +1,6 @@
 {
   "authorization": {
-    "title": "Аторізація"
+    "title": "Авторізація"
   },
   "profile": {
     "title": "Профіль"
@@ -22,12 +22,12 @@
     "portfolio_list": "Список портфелів",
     "ventures": "Венчурний портфель",
     "portfolio": "Портфель",
-    "portfolio_transactions": "Портфель | Транзакціі"
+    "portfolio_transactions": "Портфель | Транзакції"
   },
   "forum": {
     "title": "Форум"
   },
   "conferences": {
-    "title": "Конференціі"
+    "title": "Конференції"
   }
 }

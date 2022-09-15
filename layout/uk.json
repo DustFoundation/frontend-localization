@@ -1,28 +1,28 @@
 {
   "header": {
-    "subscription_activate": "Активировать подписку",
+    "subscription_activate": "Активувати передплату",
     "subscription_activated": {
-      "text": "Подписка",
+      "text": "Передплата",
       "status": "Активна"
     },
-    "portfolio": "Портфолио",
-    "academy": "Академия",
+    "portfolio": "Портфоліо",
+    "academy": "Академія",
     "forum": "Форум",
-    "main": "Главная",
-    "conferences": "Конференции",
+    "main": "Головна",
+    "conferences": "Конференції",
     "menu": {
-      "profile": "Личный профиль",
-      "balance": "Пополнение баланса",
-      "subscription": "Подписка",
-      "transactions": "История транзакций",
-      "settings": "Настройки",
+      "profile": "Особистий профіль",
+      "balance": "Поповнення балансу",
+      "subscription": "Передплата",
+      "transactions": "Історія транзакцій",
+      "settings": "Налаштування",
       "promocode": "Промокод",
-      "support": "Чат поддержки",
-      "conferences": "Конференции"
+      "support": "Чат підтримки",
+      "conferences": "Конференції"
     },
-    "sign_up": "Зарегистрироваться",
-    "sign_in": "Войти",
-    "logout": "Выйти из аккаунта",
+    "sign_up": "Зареєструватися",
+    "sign_in": "Увійти",
+    "logout": "Вийти з облікового запису",
     "in_development": "In development",
     "beta": "BETA",
     "dust": "DUST",
@@ -30,100 +30,100 @@
     "micron": "MICRON"
   },
   "notifications": {
-    "count_of_notification": "Новых уведомлений",
-    "clear": "Очистить все уведомления",
+    "count_of_notification": "Нових повідомлень",
+    "clear": "Очистити всі повідомлення",
     "types": {
       "SUBSCRIPTION_ADDED": {
-        "title": "Успешная покупка подписки",
-        "description": "Вы успешно приобрели подписку на срок {{ term }} {term, plural, =1 {день} =2 {дня} =3 {дня} =4 {дня} other {дней}}"
+        "title": "Успішна купівля передплати",
+        "description": "Ви успішно придбали передплату на термін {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
       },
       "SUBSCRIPTION_UPDATED": {
-        "title": "Успешное продление подписки",
-        "description": "Вы успешно продлили подписку на {{ term }} {term, plural, =1 {день} =2 {дня} =3 {дня} =4 {дня} other {дней}}"
+        "title": "Успішне продовження передплати",
+        "description": "Ви успішно продовжили передплату на {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
       },
       "SUBSCRIPTION_ENDING_SOON": {
-        "title": "Подписка близка к своему краху",
-        "description": "Нам жаль, но вашей подписке осталось всего {{daysToExpire}} {daysToExpire, plural, =1 {день} =2 {дня} =3 {дня} =4 {дня} other {дней}}... Мы будем по вам скучать!"
+        "title": "Передплата близька до свого завершення",
+        "description": "Нам шкода, але вашій передплаті залишилося всього {{daysToExpire}} {daysToExpire, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}... Ми будемо за вами скучати!"
       },
       "BALANCE_ADDED": {
-        "title": "Пополнение баланса",
-        "description": "Вас аккаунт пополнен на {{ amount }} USDT"
+        "title": "Поповнення балансу",
+        "description": "Ваш обліковий запис поповнений на {{ amount }} USDT"
       },
       "TELEGRAM_INVITED": {
-        "title": "Приглашение в Telegram",
-        "description": "Ваше приглашение в Telegram. Удачи в этом аду!"
+        "title": "Запрошення до Telegram",
+        "description": "Ваше запрошення до Telegram. Хай щастить в цьому пеклі!"
       },
       "TELEGRAM_INVITED_1": {
-        "title": "Приглашение в Telegram Чат",
-        "description": "Ваше приглашение в Telegram чат. Удачи в этом аду!"
+        "title": "Запрошення до Telegram Чат",
+        "description": "Ваше запрошення до Telegram чат. Хай щастить в цьому пеклі!"
       },
       "TELEGRAM_INVITED_2": {
-        "title": "Приглашение в Telegram Канал",
-        "description": "Ваше приглашение в Telegram канал LUCK. Удачи!"
+        "title": "Запрошення до Telegram Канал",
+        "description": "Ваше запрошення до Telegram каналу LUCK. Хай щастить!"
       },
       "PAYMENT_ORDER_SUCCESS": {
-        "title": "Пополнение баланса",
-        "description": "Заявка на пополнение баланса была выполнена."
+        "title": "Поповнення балансу",
+        "description": "Заявка на поповнення балансу була виконана."
       },
       "PAYMENT_ORDER_FAILED": {
-        "title": "Пополнение баланса",
-        "description": "Ошибка при выполнении заявки на пополнение баланса!"
+        "title": "Поповнення балансу",
+        "description": "Помилка під час виконання заявки на поповнення балансу!"
       },
       "PAYMENT_TXID_EXIST": {
-        "title": "Пополнение баланса",
-        "description": "Ваш транзакционный номер уже используется другим пользователем!"
+        "title": "Поповнення балансу",
+        "description": "Ваш транзакційний номер вже використовується іншим користувачем!"
       },
       "PAYMENT_FAILED": {
         "title": "Пополнение баланса",
-        "description": "Ошибка при создании заявки на пополнение баланса, обратитесь к Администрации!"
+        "description": "Помилка під час створення заявки на поповнення балансу, зверніться до Адміністрації!"
       },
       "SUBSCRIPTION_SUCCESS": {
-        "title": "Оформление подписки",
-        "description": "Подписка оформлена"
+        "title": "Оформлення передплати",
+        "description": "Передплата оформлена"
       }
     }
   },
   "promocode-dialog": {
-    "title": "Активация промокода",
-    "enter_promocode": "Введите промокод",
-    "activate": "Активировать промокод",
+    "title": "Активація промокоду",
+    "enter_promocode": "Введіть промокод",
+    "activate": "Активувати промокод",
     "example": "Напр: X2dDjsa29GKO",
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+      "required": "Поле обов'язково до заповнення",
+      "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}"
     }
   },
   "report-dialog": {
-    "name": "Название",
+    "name": "Назва",
     "bag_report": "Баг репорт",
-    "loaded_file": "Загружен файл:",
-    "short_description": "Краткое описание",
-    "detail_description_problem": "Детальное описание проблемы",
-    "description_of_problem": "Описание проблемы",
+    "loaded_file": "Завантажено файл:",
+    "short_description": "Короткий опис",
+    "detail_description_problem": "Детальний опис проблеми",
+    "description_of_problem": "Опис проблеми",
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "img": "JPG или PNG, не более 3MB",
-      "discord_or_email": "Введите E-mail или ник Discord"
+      "required": "Поле обов'язково до заповнення",
+      "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+      "img": "JPG або PNG, не більше 3MB",
+      "discord_or_email": "Введіть E-mail або нік Discord"
     },
-    "download": "Загрузить",
-    "send": "Отправить",
-    "cancel": "Отменить",
-    "contact_with_me": "Связаться со мной для обратной связи",
-    "enter_email_or_discord": "Введите E-mail или ник Discord",
+    "download": "Завантажити",
+    "send": "Надіслати",
+    "cancel": "Скасувати",
+    "contact_with_me": "Зв'язатися зі мною для зворотного зв'язку",
+    "enter_email_or_discord": "Введіть E-mail або нік Discord",
     "contact": "Контакт"
   },
   "system-notification-dialog": {
-    "update": "Доступно обновление",
+    "update": "Доступне оновлення",
     "failed": "Упс",
-    "offline": "Нет связи",
-    "update_detected": "Обнаружена новая версия приложения: {{ version }}",
-    "update_ready": "Доступна новая версия {{ version }}. Желаете обновить?",
-    "update_failed": "При установке обновления {{ version }} возникла ошибка",
-    "network_offline": "Интернет пропал, необходимо перезагрузить страницу",
-    "yes": "Да, обновить",
-    "no": "Нет"
+    "offline": "Немає зв'язку",
+    "update_detected": "Виявлено нову версію програми: {{ version }}",
+    "update_ready": "Доступна нова версія {{ version }}. Бажаєте оновити?",
+    "update_failed": "При встановленні оновлення {{ version }} виникла помилка",
+    "network_offline": "Інтернет зник, необхідно перезавантажити сторінку",
+    "yes": "Так, оновити",
+    "no": "Ні"
   },
   "cookies": {
     "cookies_settings": "Управління Cookies",

@@ -6,14 +6,14 @@
   "academy": "Академія",
   "portfolio": "Портфоліо",
   "balance": "Поповнення балансу",
-  "subscription": "Підписка",
+  "subscription": "Передплата",
   "transaction": "Історія транзакцій",
-  "activation_subscription": "Активація підписки",
+  "activation_subscription": "Активація передплати",
   "post_view": "Перегляд поста",
   "created_posts": "Створені пости",
   "popular": "Найкращі",
   "news": "Нові",
   "my-tickets": "Створені пости",
   "create_ticket": "Створення посту",
-  "conferences": "Конференции"
+  "conferences": "Конференції"
 }

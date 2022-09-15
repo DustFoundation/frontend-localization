@@ -49,7 +49,10 @@
       "our_brand": { "title": "Наш бренд", "subtitle": "Використання лого" },
       "career": { "title": "Кар'єра", "subtitle": "Актуальні вакансії" },
       "dust_bro": { "title": "Dust Bro & Angels", "subtitle": "Партнерства" },
-      "blog": { "title": "Блог", "subtitle": "Залишайся в курсі останніх новин" },
+      "blog": {
+        "title": "Блог",
+        "subtitle": "Залишайся в курсі останніх новин"
+      },
       "registration": "Реєстрація",
       "entry": "Вхід"
     },

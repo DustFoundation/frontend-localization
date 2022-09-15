@@ -2,7 +2,11 @@
   "components": {
     "breadcrumbs": { "portfolio": "Портфолио", "main": "Главная" },
     "dialog-add-coin": {
-      "first_step": { "title": "Шаг 1", "choose_asset": "Выберите актив", "search": "Поиск" },
+      "first_step": {
+        "title": "Шаг 1",
+        "choose_asset": "Выберите актив",
+        "search": "Поиск"
+      },
       "second_step": {
         "title": "Шаг 2",
         "amount": "Количество",
@@ -72,7 +76,11 @@
       }
     },
     "dialog-add-venture-asset": {
-      "unlock_types": { "linear": "Линейный", "full": "Разовый", "custom": "Кастомный" },
+      "unlock_types": {
+        "linear": "Линейный",
+        "full": "Разовый",
+        "custom": "Кастомный"
+      },
       "asset_type": {
         "blockchain": "Blockchain",
         "defi": "DeFi",

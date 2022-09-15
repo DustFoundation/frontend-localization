@@ -2,7 +2,11 @@
   "components": {
     "breadcrumbs": { "portfolio": "Портфоліо", "main": "Головна" },
     "dialog-add-coin": {
-      "first_step": { "title": "Крок 1", "choose_asset": "Виберіть актив", "search": "Поиск" },
+      "first_step": {
+        "title": "Крок 1",
+        "choose_asset": "Виберіть актив",
+        "search": "Поиск"
+      },
       "second_step": {
         "title": "Крок 2",
         "amount": "Кількість",
@@ -72,7 +76,11 @@
       }
     },
     "dialog-add-venture-asset": {
-      "unlock_types": { "linear": "Лінійний", "full": "Разовий", "custom": "Кастомний" },
+      "unlock_types": {
+        "linear": "Лінійний",
+        "full": "Разовий",
+        "custom": "Кастомний"
+      },
       "asset_type": {
         "blockchain": "Blockchain",
         "defi": "DeFi",

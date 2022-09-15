@@ -18,7 +18,7 @@
       "3": "Рекомендуємо використовувати мережу TRC20 (комісія ~1$)",
       "4": "Відправка монети або токена, крім USDT на цю адресу, може призвести до втрати коштів.",
       "5": {
-        "first_part": "Для активації підписки “{{ subscriptionName }}“ на {{ subscriptionTerm }}",
+        "first_part": "Для активації передплати “{{ subscriptionName }}“ на {{ subscriptionTerm }}",
         "second_part": "{subscriptionTerm, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}} необхідно поповнити баланс на {{ subscriptionPrice }} USDT + додати ~1 USDT на комісію мережі."
       }
     },

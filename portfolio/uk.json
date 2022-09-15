@@ -2,7 +2,8 @@
   "components": {
     "breadcrumbs": {
       "portfolio": "Портфоліо",
-      "main": "Головна"
+      "main": "Головна",
+      "transactions": "Транзакції"
     },
     "dialog-add-coin": {
       "first_step": {
@@ -218,7 +219,8 @@
         "required": "Поле обов'язково до заповнення",
         "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
         "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
-        "repeat": "Не повинно повторюватися"
+        "repeat": "Не повинно повторюватися",
+        "file_size": "Розмір перевищує {{ size }}мб"
       }
     },
     "dialog-create-portfolio": {
@@ -368,6 +370,14 @@
       "used_transactions": "Використані транзакції:",
       "of": "{{ num1 }} з {{ num2 }}",
       "activate_subscription": "Активувати підписку"
+    },
+    "interval": {
+      "1_day": "1 день",
+      "7_days": "7 днів",
+      "1_month": "1 міс",
+      "3_months": "3 міс",
+      "1_year": "1 рік",
+      "all_time": "Весь час"
     }
   },
   "portfolio": {
@@ -420,6 +430,7 @@
     "unlock_chart": "Графік розлоку венчурних активів",
     "impossible_to_build": "За цим активом неможливо побудувати графік",
     "my_assets": "{isMobile, plural, =1 {Мої активи} other {Мої венчурні активи}}",
+    "portfolio_empty": "Портфель порожній...",
     "characteristics": {
       "price": "{isMobile, plural, =1 {Ціна} other {Ціна покупки}}",
       "amount": "{isMobile, plural, =1 {Кількість} other {Кіл-ть монет}}",

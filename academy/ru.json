@@ -5,7 +5,10 @@
       "module": "Модуль",
       "leave_review": "Оставить отзыв про курс"
     },
-    "menu": { "test": "Тест", "testing": "Тестирование" },
+    "menu": {
+      "test": "Тест",
+      "testing": "Тестирование"
+    },
     "module-finished-dialog": {
       "module": "Модуль",
       "open_access": "Открыт доступ к модулю",

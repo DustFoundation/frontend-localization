@@ -5,7 +5,10 @@
       "module": "Модуль",
       "leave_review": "Залишити відгук про курс"
     },
-    "menu": { "test": "Тест", "testing": "Тестування" },
+    "menu": {
+      "test": "Тест",
+      "testing": "Тестування"
+    },
     "module-finished-dialog": {
       "module": "Модуль",
       "open_access": "Відкритий доступ до модуля",

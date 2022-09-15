@@ -6,7 +6,9 @@
       "min_sum": "Мінімальна сума поповнення {{ num }}$",
       "scan_qr": "Відскануйте QR-код у вашому мобільному додатку Binance, щоб зробити оплату",
       "i_paid": "Я оплатив",
-      "validation_messages": { "required": "Поле обов'язково до заповнення" }
+      "validation_messages": {
+        "required": "Поле обов'язково до заповнення"
+      }
     },
     "change-password-dialog": {
       "title": "Встановіть пароль",
@@ -38,18 +40,36 @@
         "required": "Поле обов'язково до заповнення",
         "invalid_email": "Невалідний формат Email"
       },
-      "policy": { "agree": "Я згоден з", "with": "політикою конфіденційності" }
+      "policy": {
+        "agree": "Я згоден з",
+        "with": "політикою конфіденційності"
+      }
     },
     "checkout-footer": {},
     "checkout-header": {
       "explore": "Explore",
       "products": "Products",
       "roadmap": "Roadmap",
-      "about_us": { "title": "Про нас", "subtitle": "Наша команда" },
-      "our_brand": { "title": "Наш бренд", "subtitle": "Використання лого" },
-      "career": { "title": "Кар'єра", "subtitle": "Актуальні вакансії" },
-      "dust_bro": { "title": "Dust Bro & Angels", "subtitle": "Партнерства" },
-      "blog": { "title": "Блог", "subtitle": "Залишайся в курсі останніх новин" },
+      "about_us": {
+        "title": "Про нас",
+        "subtitle": "Наша команда"
+      },
+      "our_brand": {
+        "title": "Наш бренд",
+        "subtitle": "Використання лого"
+      },
+      "career": {
+        "title": "Кар'єра",
+        "subtitle": "Актуальні вакансії"
+      },
+      "dust_bro": {
+        "title": "Dust Bro & Angels",
+        "subtitle": "Партнерства"
+      },
+      "blog": {
+        "title": "Блог",
+        "subtitle": "Залишайся в курсі останніх новин"
+      },
       "registration": "Реєстрація",
       "entry": "Вхід"
     },

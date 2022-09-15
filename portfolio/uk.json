@@ -1,8 +1,15 @@
 {
   "components": {
-    "breadcrumbs": { "portfolio": "Портфоліо", "main": "Головна" },
+    "breadcrumbs": {
+      "portfolio": "Портфоліо",
+      "main": "Головна"
+    },
     "dialog-add-coin": {
-      "first_step": { "title": "Крок 1", "choose_asset": "Виберіть актив", "search": "Поиск" },
+      "first_step": {
+        "title": "Крок 1",
+        "choose_asset": "Виберіть актив",
+        "search": "Поиск"
+      },
       "second_step": {
         "title": "Крок 2",
         "amount": "Кількість",
@@ -72,7 +79,11 @@
       }
     },
     "dialog-add-venture-asset": {
-      "unlock_types": { "linear": "Лінійний", "full": "Разовий", "custom": "Кастомний" },
+      "unlock_types": {
+        "linear": "Лінійний",
+        "full": "Разовий",
+        "custom": "Кастомний"
+      },
       "asset_type": {
         "blockchain": "Blockchain",
         "defi": "DeFi",
@@ -105,8 +116,14 @@
         "every-half-year": "Раз на пів року",
         "every-year": "Раз на рік"
       },
-      "unlock_period_types": { "amount": "кол.", "percent": "%" },
-      "cliff": { "MONTH": "міс.", "YEAR": "рік" },
+      "unlock_period_types": {
+        "amount": "кол.",
+        "percent": "%"
+      },
+      "cliff": {
+        "MONTH": "міс.",
+        "YEAR": "рік"
+      },
       "main": {
         "add": "Додавання венчурного активу",
         "edit": "Редагування венчурного активу",
@@ -341,7 +358,10 @@
       "edit_transaction": "Редагувати транзакцію",
       "delete_transaction": "Видалити транзакцію"
     },
-    "series-finance": { "title": "Розподіл фінансів", "total": "Разом" },
+    "series-finance": {
+      "title": "Розподіл фінансів",
+      "total": "Разом"
+    },
     "transactions-limit-dialog": {
       "title": "Ви перевищили ліміт транкзацій",
       "subtitle": "Активуй передплату, щоб отримати необмежену кількість транзакцій у розділі “Портфоліо”",

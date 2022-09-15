@@ -1,6 +1,6 @@
 {
-  "auto": "Авто",
-  "normal": "Обычная",
-  "speed": "{type, plural, =1 {Скорость воспр.} other {Скорость воспроизведения}}",
-  "quality": "Качество"
+  "auto": "Auto",
+  "normal": "Normal",
+  "speed": "{type, plural, =1 {Playback speed} other {Playback speed}}",
+  "quality": "Quality"
 }

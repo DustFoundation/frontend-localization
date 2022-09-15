@@ -1,33 +1,33 @@
 {
   "authorization": {
-    "title": "Авторизация"
+    "title": "Аторізація"
   },
   "profile": {
-    "title": "Профиль"
+    "title": "Профіль"
   },
   "topup_balance": {
-    "title": "Пополнение баланса"
+    "title": "Поповнення балансу"
   },
   "subscription": {
-    "title": "Подписка"
+    "title": "Підписка"
   },
   "join": {
-    "title": "Присоединиться"
+    "title": "Приєднатися"
   },
   "academy": {
-    "title": "Академия"
+    "title": "Академія"
   },
   "portfolio": {
-    "title": "Портфолио",
-    "portfolio_list": "Список портфелей",
-    "ventures": "Венчурный портфель",
+    "title": "Портфоліо",
+    "portfolio_list": "Список портфелів",
+    "ventures": "Венчурний портфель",
     "portfolio": "Портфель",
-    "portfolio_transactions": "Портфель | Транзакции"
+    "portfolio_transactions": "Портфель | Транзакціі"
   },
   "forum": {
     "title": "Форум"
   },
   "conferences": {
-    "title": "Конференции"
+    "title": "Конференціі"
   }
 }

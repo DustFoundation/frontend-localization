@@ -2,7 +2,7 @@
   "header": {
     "subscription_activate": "Активувати передплату",
     "subscription_activated": {
-      "text": "Передплата",
+      "text": "Підписка",
       "status": "Активна"
     },
     "portfolio": "Портфоліо",
@@ -13,7 +13,7 @@
     "menu": {
       "profile": "Особистий профіль",
       "balance": "Поповнення балансу",
-      "subscription": "Передплата",
+      "subscription": "Підписка",
       "transactions": "Історія транзакцій",
       "settings": "Налаштування",
       "promocode": "Промокод",
@@ -42,7 +42,7 @@
         "description": "Ви успішно продовжили передплату на {{ term }} {term, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}"
       },
       "SUBSCRIPTION_ENDING_SOON": {
-        "title": "Передплата близька до свого завершення",
+        "title": "Підписка близька до свого завершення",
         "description": "Нам шкода, але вашій передплаті залишилося всього {{daysToExpire}} {daysToExpire, plural, =1 {день} =2 {дні} =3 {дні} =4 {дні} other {днів}}... Ми будемо за вами скучати!"
       },
       "BALANCE_ADDED": {
@@ -79,7 +79,7 @@
       },
       "SUBSCRIPTION_SUCCESS": {
         "title": "Оформлення передплати",
-        "description": "Передплата оформлена"
+        "description": "Підписка оформлена"
       }
     }
   },

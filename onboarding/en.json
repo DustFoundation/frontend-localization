@@ -10,7 +10,7 @@
     "done": "Done",
     "portfolio": {
       "title": "“Portfolio” section",
-      "description": "In this section you can create your personal porfolios, track your assets and investments.",
+      "description": "In this section, you can create your porfolios, track your assets and investments.",
       "list": {
         "1": "Total estimated balance of portfolios and PNL",
         "2": "Simulation of investment strategies",
@@ -20,27 +20,27 @@
     },
     "virtual_portfolio": {
       "title": "Virtual portfolio",
-      "description": "With this portfolio you can add assets manually and simulate different types of investment strategies.",
+      "description": "With this portfolio, you can add assets manually and simulate different types of investment strategies.",
       "list": {
         "1": "Manual addition of transactions",
         "2": "1000+ crypto-assets to track",
         "3": "Chart visualization of profits/losses",
-        "4": "Pie Сhart visualization of distribution of finances"
+        "4": "Pie Сhart visualization of the distribution of finances"
       }
     },
     "exchange_portfolio": {
       "title": "Exchange portfolio",
-      "description": "With this portfolio you can track your exchange portfolios using API integrations.",
+      "description": "With this portfolio, you can track your exchange portfolios using API integrations.",
       "list": {
         "1": "Simple and clear integration using API",
         "2": "Automatic update of transactions and prices",
         "3": "Chart visualization of profits/losses",
-        "4": "Pie Сhart visualization of distribution of finances"
+        "4": "Pie Сhart visualization of the distribution of finances"
       }
     },
     "venture_portfolio": {
       "title": "Venture portfolio",
-      "description": "With this portfolio you can track all venture investments with flexible configuration and visualizations.",
+      "description": "With this portfolio, you can track all venture investments with flexible configuration and visualizations.",
       "list": {
         "1": "Flexible tracking of venture investments",
         "2": "Chart of TGE and unlocks",
@@ -50,17 +50,17 @@
     },
     "forum": {
       "title": "“Forum” section",
-      "description": "In this section you can create posts and share your thoughts with a community of like-minded people.",
+      "description": "In this section, you can create posts and share your thoughts with a community of like-minded people.",
       "list": {
         "1": "Viewing posts in rating order",
-        "2": "Ability to comment posts created by other people",
+        "2": "Ability to comment on posts created by other people",
         "3": "Earn DUST Token for best posts",
         "4": "Stay up-to-date on the latest events"
       }
     },
     "academy": {
       "title": "“Academy” section",
-      "description": "In this section you can choose the course you are interested in and get a new knowledge.",
+      "description": "In this section, you can choose the course you are interested in and get new knowledge.",
       "list": {
         "1": "Every course is created by DUST.FOUNDATION team",
         "2": "Visual representation of complex topics in videos",
@@ -70,7 +70,7 @@
     },
     "balance": {
       "title": "“Top up balance” section",
-      "description": "In this section you can purchase/extend subscriptions for platform and crypto-community.",
+      "description": "In this section, you can purchase/extend subscriptions for platform and crypto-community.",
       "list": {
         "1": "Easy 2-steps payment process",
         "2": "Support of different networks and Binance Pay",
@@ -80,7 +80,7 @@
     },
     "subscription": {
       "title": "“Subscription” section",
-      "description": "In this section you can choose and activate different types of subscription.",
+      "description": "In this section, you can choose and activate different types of subscriptions.",
       "list": {
         "1": "7 days of free trial (DUST Platform)",
         "2": "3 types of subscription with different durations",
@@ -90,9 +90,9 @@
     },
     "profile": {
       "title": "“Profile” section",
-      "description": "In this section you can get daily rewards, achievements and track your rating.",
+      "description": "In this section, you can get daily rewards, achievements and track your rating.",
       "list": {
-        "1": "Chouse your crypto-avatar",
+        "1": "Choose your crypto-avatar",
         "2": "Daily rewards for visiting a platform",
         "3": "List of received achievements",
         "4": "User rating"

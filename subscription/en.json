@@ -2,13 +2,13 @@
   "components": {
     "dialog-subscription-status": {
       "term": "Subscription for {{ day }} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} activated!",
-      "title": "Welcome to crypto community!",
+      "title": "Welcome to the crypto community!",
       "subtitle": "Start using all platform functionality and advantages right now!",
       "to_main": "Home"
     },
     "subscription-integrations": {
       "title": "Discord and Telegram integrations",
-      "rule_1": "To get a full access to private Discord server and Telegram channel, you need to connect their integrations",
+      "rule_1": "To get full access to the private Discord server and Telegram channel, you need to connect their integrations",
       "rule_2": "Access will be granted only to provided accounts! Transfer of access to another account will be possible only on subscription renewal.",
       "back": "Back",
       "onward": "Next",
@@ -25,7 +25,7 @@
       "test_period": "(trial period)",
       "on_day": "for {{ day }} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
       "bonus": "With subscription for {{ term }} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} you get {{ bonus_term }} {bonus_term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} for free!",
-      "rule_1": "Before you continue please make sure you have enough USDT on your balance to activate subscription!",
+      "rule_1": "Before you continue please make sure you have enough USDT on your balance to activate your subscription!",
       "rule_2": {
         "first_part": "to activate subscription “{{ subscriptionName }}“ for {{ subscriptionTerm }}",
         "second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} you need to have on balance at least {{ subscriptionPrice }} USDT!"
@@ -46,14 +46,14 @@
     "all_transaction": "All transactions",
     "detail": "Subscription details",
     "cryptocommunity": {
-      "title": "What's included into Cryptocommunity subscription?",
+      "title": "What's included in Cryptocommunity subscription?",
       "0": {
         "title": "Access to crypto-community",
         "description": "Private Discord-server with crypto-enthusiasts"
       }
     },
     "platform": {
-      "title": "What's included into Platform subscription?",
+      "title": "What's included in Platform subscription?",
       "soon": "Soon...",
       "0": { "title": "20 portfolios in Portfolio", "description": "Record-keeping and tracking assets" },
       "1": { "title": "Access to Academy", "description": "Educational resources about cryptocurrencies" },

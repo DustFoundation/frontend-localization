@@ -14,8 +14,8 @@
     "important": {
       "title": "Important",
       "1": "We accept payments only in Tether (USDT).",
-      "2": "Top up your balance to activate subscription.",
-      "3": "We recommend to use «TRC20» network (fee ~1$)",
+      "2": "Top up your balance to activate your subscription.",
+      "3": "We recommend using «TRC20» network (fee ~1$)",
       "4": "Sending any other coin or token to this address except USDT may result in loss of your funds.",
       "5": {
         "first_part": "To activate a subscription “{{ subscriptionName }}“ for {{ subscriptionTerm }}",
@@ -35,11 +35,11 @@
     "steps": {
       "1": {
         "title": "Step 1",
-        "description": "Open a Binance app on your phone and scan QR-code, by clicking an icon at the top right corner of application's home page."
+        "description": "Open a Binance app on your phone and scan QR-code, by clicking an icon at the top right corner of the application's home page."
       },
       "2": {
         "title": "Step 2",
-        "description": "Now you'll see a transaction confirmation window. Verify payment amount and confirm the transaction. After that click “I have paid”."
+        "description": "Now you'll see a transaction confirmation window. Verify the payment amount and confirm the transaction. After that click “I have paid”."
       }
     },
     "validation_messages": {

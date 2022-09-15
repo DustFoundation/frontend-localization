@@ -4,7 +4,7 @@
       "enter_sum": "Enter top up amount",
       "get_qr": "Get QR-code for payment",
       "min_sum": "Minimum amount of top up is {{ num }}$",
-      "scan_qr": "Scane QR-code with your Binance mobile app to make a payment",
+      "scan_qr": "Scan QR-code with your Binance mobile app to make a payment",
       "i_paid": "I have paid",
       "validation_messages": {
         "required": "Field is required"
@@ -107,8 +107,8 @@
       "important": {
         "title": "Important",
         "1": "We accept payments only in Tether (USDT).",
-        "2": "Top up your balance to activate subscription.",
-        "3": "We recommend to use «TRC20» network (fee ~1$)",
+        "2": "Top up your balance to activate your subscription.",
+        "3": "We recommend using «TRC20» network (fee ~1$)",
         "4": "Sending any other coin or token to this address except USDT may result in loss of your funds.",
         "5": {
           "first_part": "To activate a subscription “{{ subscriptionName }}“ for {{ subscriptionTerm }}",

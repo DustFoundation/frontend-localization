@@ -9,7 +9,7 @@
     },
     "dialog-delete-ticket": {
       "title": "Delete post",
-      "subtitle": "Do you really want to delete your post?",
+      "subtitle": "Are you sure you want to delete your post?",
       "delete": "Delete",
       "cancel": "Cancel"
     },
@@ -17,7 +17,7 @@
       "title": "Ticket reject reason"
     },
     "ticket-comments": {
-      "forbidden": "It's forbidden to leave comments on rejected or unpublished post"
+      "forbidden": "It's forbidden to leave comments on the rejected or unpublished posts"
     },
     "ticket-comments-item": {
       "leave_comment": "Leave comment",

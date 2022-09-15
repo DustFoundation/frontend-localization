@@ -18,7 +18,7 @@
     },
     "change-password-dialog": {
       "title": "Change password",
-      "subtitle": "We sent you and email with code to change your password",
+      "subtitle": "We sent you an email with code to change your password",
       "enter_code": "Enter code",
       "enter_data": "Enter data to create a new password",
       "save_password": "Save password",
@@ -80,7 +80,7 @@
     "main_language": "Primary language",
     "main_language_description": "Choose main content display language",
     "additional_language": "Secondary language",
-    "additional_language_description": "Choose language that will be used to display content in case translation to main language is not available",
+    "additional_language_description": "Choose a language that will be used to display content in case of translation to the main language is not available",
     "information_about_platform": "Information about platform",
     "open": "Open",
     "help": "Help",
@@ -113,7 +113,7 @@
       "pre-approve": "Waiting for confirmation",
       "approve": "Confirmed",
       "done": "Done",
-      "failed": "Error has occured",
+      "failed": "Error has occurred",
       "canceled": "Canceled",
       "expired": "Expired",
       "other": "Unknown"

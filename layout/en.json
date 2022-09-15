@@ -119,14 +119,14 @@
     "offline": "Offline",
     "update_detected": "App update is detected: {{ version }}",
     "update_ready": "Update is ready {{ version }}. Want to update?",
-    "update_failed": "During installation of update {{ version }} an error has occured",
+    "update_failed": "During installation of update {{ version }} an error has occurred",
     "network_offline": "Connection has been lost, page reload required",
     "yes": "Yes, update",
     "no": "No"
   },
   "cookies": {
     "cookies_settings": "Manage Cookies",
-    "intro": "We use cookies to improve your user experience, app usage analytics and enable chat support.\n",
+    "intro": "We use cookies to improve your user experience, app usage analytics, and enable chat support.\n",
     "get_know_with_start": "Get know with",
     "cookies_policy": "Cookie Policy",
     "get_known_with_end": "more",

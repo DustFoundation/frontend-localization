@@ -19,7 +19,7 @@
       "good": "Good",
       "excellent": "Excellent",
       "rate_module": "Rate this module",
-      "leave_review?": "Want to leave a feedback?",
+      "leave_review?": "Want to leave feedback?",
       "next_lesson": "Next lesson",
       "yes": "Yes",
       "no": "No"
@@ -53,7 +53,7 @@
   },
   "course-test": {
     "description": " After you pass the test, you will get a special badge, that will grant you access to the next module",
-    "ps": "P.S. Pass test with zero errors to get a golden badge!",
+    "ps": "P.S. Pass the test with zero errors to get a golden badge!",
     "check_test": "Check test",
     "try_once_more": "Try again",
     "previous_lesson": "Previous lesson",

@@ -5,7 +5,10 @@
       "module": "Модуль",
       "leave_review": "Оставить отзыв про курс"
     },
-    "menu": { "test": "Тест", "testing": "Тестирование" },
+    "menu": {
+      "test": "Тест",
+      "testing": "Тестирование"
+    },
     "module-finished-dialog": {
       "module": "Модуль",
       "open_access": "Открыт доступ к модулю",
@@ -57,6 +60,7 @@
     "onward": "Далее"
   },
   "courses": {
+    "need_subscription": "Нужно оформить подписку",
     "new_course_in_development": "Новые курсы уже в разработке!",
     "level": "Уровень:",
     "count_of_modules": "Модулей:",

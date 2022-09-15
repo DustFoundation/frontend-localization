@@ -55,12 +55,30 @@
     "platform": {
       "title": "What's included in Platform subscription?",
       "soon": "Soon...",
-      "0": { "title": "20 portfolios in Portfolio", "description": "Record-keeping and tracking assets" },
-      "1": { "title": "Access to Academy", "description": "Educational resources about cryptocurrencies" },
-      "2": { "title": "Access to Crypto-forum", "description": "Create and comment on posts" },
-      "3": { "title": "Crypro-hero", "description": "1 of 5 levelable characters" },
-      "4": { "title": "Activity rewards", "description": "Rewards and achievements system" },
-      "5": { "title": "Crypto Calendar", "description": "Tracking of crypto-events" }
+      "0": {
+        "title": "20 portfolios in Portfolio",
+        "description": "Record-keeping and tracking assets"
+      },
+      "1": {
+        "title": "Access to Academy",
+        "description": "Educational resources about cryptocurrencies"
+      },
+      "2": {
+        "title": "Access to Crypto-forum",
+        "description": "Create and comment on posts"
+      },
+      "3": {
+        "title": "Crypto-hero",
+        "description": "1 of 5 levelable characters"
+      },
+      "4": {
+        "title": "Activity rewards",
+        "description": "Rewards and achievements system"
+      },
+      "5": {
+        "title": "Crypto Calendar",
+        "description": "Tracking of crypto-events"
+      }
     }
   }
 }

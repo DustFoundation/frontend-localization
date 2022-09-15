@@ -1,31 +1,34 @@
 {
   "components": {
     "course-finished-dialog": {
-      "title": "Итоговый отзыв о курсе",
+      "title": "Підсумковий відгук про курс",
       "module": "Модуль",
-      "leave_review": "Оставить отзыв про курс"
+      "leave_review": "Залишити відгук про курс"
     },
-    "menu": { "test": "Тест", "testing": "Тестирование" },
+    "menu": {
+      "test": "Тест",
+      "testing": "Тестування"
+    },
     "module-finished-dialog": {
       "module": "Модуль",
-      "open_access": "Открыт доступ к модулю",
-      "thanks_for_review": "Спасибо, ваш отзыв учтен",
-      "awful": "Ужасно",
-      "bad": "Плохо",
-      "ok": "Средне",
-      "good": "Хорошо",
-      "excellent": "Отлично",
-      "rate_module": "Оцените пройденный модуль",
-      "leave_review?": "Желаете оставить отзыв?",
-      "next_lesson": "Следующий урок",
-      "yes": "Да",
-      "no": "Нет"
+      "open_access": "Відкритий доступ до модуля",
+      "thanks_for_review": "Дякую, ваш відгук враховано",
+      "awful": "Жахливо",
+      "bad": "Погано",
+      "ok": "Ну так собі",
+      "good": "Добре",
+      "excellent": "Відмінно",
+      "rate_module": "Оцініть пройдений модуль",
+      "leave_review?": "Бажаєте залишити відгук?",
+      "next_lesson": "Наступний урок",
+      "yes": "Так",
+      "no": "Ні"
     },
     "module-review-dialog": {
-      "help_us": "Помогите нам улучшить курс",
-      "please_leave_comment_about": "Оставьте пожалуйста отзыв про",
-      "leave_review": "Оставить отзыв",
-      "my_review": "Мой отзыв",
+      "help_us": "Допоможіть нам покращити курс",
+      "please_leave_comment_about": "Залиште, будь ласка, відгук про",
+      "leave_review": "Залишити відгук",
+      "my_review": "Мій відгук",
       "module": "Модуль",
       "course": "Курс",
       "back": "Назад"
@@ -57,6 +60,7 @@
     "onward": "Далее"
   },
   "courses": {
+    "need_subscription": "Нужно оформить подписку",
     "new_course_in_development": "Новые курсы уже в разработке!",
     "level": "Уровень:",
     "count_of_modules": "Модулей:",

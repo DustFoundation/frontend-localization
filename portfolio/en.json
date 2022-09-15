@@ -1,8 +1,15 @@
 {
   "components": {
-    "breadcrumbs": { "portfolio": "Portfolio", "main": "Home" },
+    "breadcrumbs": {
+      "portfolio": "Portfolio",
+      "main": "Home",
+      "transactions":  "Transactions"
+    },
     "dialog-add-coin": {
-      "first_step": { "title": "Step 1", "choose_asset": "Choose asset", "search": "Search" },
+      "first_step": {
+        "title": "Step 1",
+        "choose_asset": "Choose asset",
+        "search": "Search" },
       "second_step": {
         "title": "Step 2",
         "amount": "Amount",
@@ -72,7 +79,11 @@
       }
     },
     "dialog-add-venture-asset": {
-      "unlock_types": { "linear": "Linear", "full": "Full", "custom": "Custom" },
+      "unlock_types": {
+        "linear": "Linear",
+        "full": "Full",
+        "custom": "Custom"
+      },
       "asset_type": {
         "blockchain": "Blockchain",
         "defi": "DeFi",
@@ -105,8 +116,14 @@
         "every-half-year": "Every 6 months",
         "every-year": "Yearly"
       },
-      "unlock_period_types": { "amount": "amount.", "percent": "%" },
-      "cliff": { "MONTH": "month.", "YEAR": "year" },
+      "unlock_period_types": {
+        "amount": "amount.",
+        "percent": "%"
+      },
+      "cliff": {
+        "MONTH": "month.",
+        "YEAR": "year"
+      },
       "main": {
         "add": "Adding of venture asset",
         "edit": "Editing of venture asset",
@@ -201,7 +218,8 @@
         "required": "Field is required",
         "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
         "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-        "repeat": "Shouldn't repeat"
+        "repeat": "Shouldn't repeat",
+        "file_size": "Size exceeds {{ size }}MB"
       }
     },
     "dialog-create-portfolio": {
@@ -315,7 +333,12 @@
       "need_subscription": "Active subscription required",
       "edit": "Edit",
       "delete": "Delete",
-      "open": "Open"
+      "open": "Open",
+      "virtual": "Virtual portfolio",
+      "exchange": "Exchange portfolio",
+      "venture": "Venture portfolio",
+      "investment_value": "Amount of investments",
+      "portfolio_valuation": "Portfolio evaluation"
     },
     "portfolio-pnl": {
       "total_attachments": "Total amount of investments",
@@ -336,13 +359,24 @@
       "edit_transaction": "Edit transaction",
       "delete_transaction": "Delete transaction"
     },
-    "series-finance": { "title": "Finances breakdown", "total": "Total" },
+    "series-finance": {
+      "title": "Finances breakdown",
+      "total": "Total"
+    },
     "transactions-limit-dialog": {
       "title": "You've exceeded transactions limit",
       "subtitle": "Activate a subscription to get unlimited Portfolio transactions",
       "used_transactions": "Transactions used:",
       "of": "{{ num1 }} from {{ num2 }}",
       "activate_subscription": "Activate subscription"
+    },
+    "interval": {
+      "1_day": "1 day",
+      "7_days": "7 days",
+      "1_month": "1 mon",
+      "3_months": "3 mon",
+      "1_year": "1 year",
+      "all_time": "All time"
     }
   },
   "portfolio": {
@@ -395,6 +429,7 @@
     "unlock_chart": "Unlock chart of venture assets",
     "impossible_to_build": "Impossible to build chart for this asset",
     "my_assets": "{isMobile, plural, =1 {My assets} other {My venture assets}}",
+    "portfolio_empty": "Portfolio is empty...",
     "characteristics": {
       "price": "{isMobile, plural, =1 {Price} other {Buy price}}",
       "amount": "{isMobile, plural, =1 {Amount} other {Amount of coins}}",

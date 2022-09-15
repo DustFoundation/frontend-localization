@@ -1,8 +1,16 @@
 {
   "components": {
-    "breadcrumbs": { "portfolio": "Портфолио", "main": "Главная" },
+    "breadcrumbs": {
+      "portfolio": "Портфолио",
+      "main": "Главная",
+      "transactions": "Транзакции"
+    },
     "dialog-add-coin": {
-      "first_step": { "title": "Шаг 1", "choose_asset": "Выберите актив", "search": "Поиск" },
+      "first_step": {
+        "title": "Шаг 1",
+        "choose_asset": "Выберите актив",
+        "search": "Поиск"
+      },
       "second_step": {
         "title": "Шаг 2",
         "amount": "Количество",
@@ -72,7 +80,11 @@
       }
     },
     "dialog-add-venture-asset": {
-      "unlock_types": { "linear": "Линейный", "full": "Разовый", "custom": "Кастомный" },
+      "unlock_types": {
+        "linear": "Линейный",
+        "full": "Разовый",
+        "custom": "Кастомный"
+      },
       "asset_type": {
         "blockchain": "Blockchain",
         "defi": "DeFi",
@@ -105,8 +117,14 @@
         "every-half-year": "Раз в пол года",
         "every-year": "Раз в год"
       },
-      "unlock_period_types": { "amount": "кол.", "percent": "%" },
-      "cliff": { "MONTH": "мес.", "YEAR": "год" },
+      "unlock_period_types": {
+        "amount": "кол.",
+        "percent": "%"
+      },
+      "cliff": {
+        "MONTH": "мес.",
+        "YEAR": "год"
+      },
       "main": {
         "add": "Добавление венчурного актива",
         "edit": "Редактирование венчурного актива",
@@ -167,7 +185,7 @@
         "end_date": "End date",
         "start_date": "Start date",
         "frequency": "Периодичность",
-        "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ emd }}",
+        "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ end }}",
         "select_period": "Выберите период",
         "unlock_impossible": "Разлок по данному периоду невозможен",
         "elem_unlock_date": "Дата {{ num }} разлока",
@@ -201,7 +219,8 @@
         "required": "Поле обязательно к заполнению",
         "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
         "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "repeat": "Не должно повторяться"
+        "repeat": "Не должно повторяться",
+        "file_size": "Размер превышает {{ size }}мб"
       }
     },
     "dialog-create-portfolio": {
@@ -315,7 +334,12 @@
       "need_subscription": "Нужно оформить подписку",
       "edit": "Редактировать",
       "delete": "Удалить",
-      "open": "Открыть"
+      "open": "Открыть",
+      "virtual": "Виртуальный портфель",
+      "exchange": "Биржевой портфель",
+      "venture": "Венчурный портфель",
+      "investment_value": "Объем инвестиций",
+      "portfolio_valuation": "Оценка портфеля"
     },
     "portfolio-pnl": {
       "total_attachments": "Общий объем вложений",
@@ -336,13 +360,24 @@
       "edit_transaction": "Редактировать транзакцию",
       "delete_transaction": "Удалить транзакцию"
     },
-    "series-finance": { "title": "Распределение финансов", "total": "Total" },
+    "series-finance": {
+      "title": "Распределение финансов",
+      "total": "Total"
+    },
     "transactions-limit-dialog": {
       "title": "Вы превысили лимит транкзаций",
       "subtitle": "Активируй подписку, чтобы получить неограниченное количество транзакций в разделе “Портфолио”",
       "used_transactions": "Использовано транзакций:",
       "of": "{{ num1 }} из {{ num2 }}",
       "activate_subscription": "Активировать подписку"
+    },
+    "interval": {
+      "1_day": "1 день",
+      "7_days": "7 дней",
+      "1_month": "1 мес",
+      "3_months": "3 мес",
+      "1_year": "1 год",
+      "all_time": "Все время"
     }
   },
   "portfolio": {
@@ -395,6 +430,7 @@
     "unlock_chart": "График разлока венчурных активов",
     "impossible_to_build": "По данному активу невозможно построить график",
     "my_assets": "{isMobile, plural, =1 {Мои активы} other {Мои венчурные активы}}",
+    "portfolio_empty": "Портфель пуст...",
     "characteristics": {
       "price": "{isMobile, plural, =1 {Цена} other {Цена покупки}}",
       "amount": "{isMobile, plural, =1 {Количество} other {Кол-во монет}}",

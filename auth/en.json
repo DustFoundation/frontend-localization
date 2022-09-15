@@ -4,7 +4,10 @@
     "subtitle": "We have sent you an email with a confirmation code. Please enter this code below",
     "code": "Code",
     "send_new_code": "Resend code",
-    "get_new_code_after": { "code": "get new code", "after": "in {{ timer }} seconds" },
+    "get_new_code_after": {
+      "code": "get new code",
+      "after": "in {{ timer }} seconds"
+    },
     "done": "Done",
     "back": "Back"
   },
@@ -23,7 +26,10 @@
     "subtitle_2": "Unwrap a scroll that raven has delivered to your email and enter a secret code below.",
     "code": "Code",
     "send_new_code": "Resend code",
-    "get_new_code_after": { "code": "get new code", "after": "in {{ timer }} seconds" },
+    "get_new_code_after": {
+      "code": "get new code",
+      "after": "in {{ timer }} seconds"
+    },
     "title_3": "Trial is over",
     "subtitle_3": "You've proved your right to restore the former glory. Now just enter a new password.",
     "restore_password": "Reset password",
@@ -90,7 +96,10 @@
     "ban_reason": "Ban reason:",
     "banned_until": "Banned until:",
     "sign_up": "Sign up",
-    "policy": { "agree": "I agree with", "with": "a privacy policy" },
+    "policy": {
+      "agree": "I agree with",
+      "with": "a privacy policy"
+    },
     "form": {
       "mail": "Email",
       "mail_input_placeholder": "mail@mail.com",

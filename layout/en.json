@@ -104,7 +104,8 @@
       "required": "Field is required",
       "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
       "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "img": "JPG or PNG, not more than 3MB"
+      "img": "JPG or PNG, not more than 3MB",
+      "discord_or_email": "Enter E-mail or Discord nickname"
     },
     "download": "Download",
     "send": "Send",

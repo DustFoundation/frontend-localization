@@ -1,63 +1,63 @@
 {
   "components": {
     "achievement-dialog": {
-      "got_achievement": "Достижение получено",
-      "close": "Закрыть"
+      "got_achievement": "Досягнення отримано",
+      "close": "Закрити"
     },
     "activate-mfa-dialog": {
-      "title": "Активация 2FA",
-      "subtitle": "Отсканируйте QR-код и введите код для подтверждения аутентификации",
+      "title": "Активація 2FA",
+      "subtitle": "Відскануйте QR-код та введіть код для підтвердження автентифікації",
       "code": "Код",
-      "activate": "Активировать"
+      "activate": "Активувати"
     },
     "change-avatar-dialog": {
-      "title": "Смена аватара",
-      "accepted_format": "Допустимые фороматы: JPG, PNG не более 3MB",
-      "load_photo": "Загрузить фото",
-      "choose_avatar": "Выбрать аватар"
+      "title": "Зміна аватара",
+      "accepted_format": "Допустимі формати: JPG, PNG не більше 3MB",
+      "load_photo": "Завантажити фото",
+      "choose_avatar": "Обрати аватар"
     },
     "change-password-dialog": {
-      "title": "Изменение пароля",
-      "subtitle": "Мы отправили на вашу почту код для сброса пароля",
-      "enter_code": "Введите код",
-      "enter_data": "Введите данные для создания нового пароля",
-      "save_password": "Сохранить пароль",
-      "onward": "Далее",
+      "title": "Зміна пароля",
+      "subtitle": "Ми відправили на вашу пошту код для скидання пароля",
+      "enter_code": "Введіть код",
+      "enter_data": "Введіть дані для створення нового пароля",
+      "save_password": "Зберегти пароль",
+      "onward": "Далі",
       "form": {
-        "new_password": "Новый пароль",
-        "repeat_new_password": "Повторите новый пароль",
+        "new_password": "Новий пароль",
+        "repeat_new_password": "Повторіть новий пароль",
         "password_input_placeholder": "*****************"
       },
       "validation_messages": {
-        "required": "Поле обязательно к заполнению",
-        "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-        "password_rules": "Пароль должен содержать как минимум: 1 строчную букву латинского алфавита, 1 цифру",
-        "passwords_not_match": "Пароли не совпадают"
+        "required": "Поле обов'язково до заповнення",
+        "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+        "password_rules": "Пароль повинен містити як мінімум: 1 малу літеру латинського алфавіту, 1 цифру",
+        "passwords_not_match": "Паролі не збігаються"
       }
     },
     "choose-avatar-dialog": {
-      "title": "Доступные аватары",
-      "save": "Сохранить"
+      "title": "Доступні аватари",
+      "save": "Зберегти"
     },
     "deactivate-mfa-dialog": {
-      "title": "Отключение 2FA",
-      "subtitle": "Вы уверены, что хотите отключить 2FA?",
-      "disconnect": "Отключить"
+      "title": "Відключення 2FA",
+      "subtitle": "Ви впевнені, що хочете відключити 2FA?",
+      "disconnect": "Вимкнути"
     }
   },
   "profile-main": {
-    "my_character": "Мой персонаж",
-    "level": "уровень",
-    "experience": "Опыт",
-    "internal_currency": "Внутренняя валюта",
-    "daily_rewards": "Ежедневные награды",
+    "my_character": "Мій персонаж",
+    "level": "рівень",
+    "experience": "Досвід",
+    "internal_currency": "Внутрішня валюта",
+    "daily_rewards": "Щоденні нагороди",
     "day": "День {{ day }}",
-    "get_daily_reward": "Получить ежедневную награду",
-    "to_next_reward": "До следующей награды",
-    "got_reward": "Полученные достижения",
-    "in_development": "In development",
-    "of": "{{ num1 }} из {{num2}}",
+    "get_daily_reward": "Отримати щоденну нагороду",
+    "to_next_reward": "До наступної нагороди",
+    "got_reward": "Отримані досягнення",
+    "in_development": "У розробці",
+    "of": "{{ num1 }} з {{num2}}",
     "usdt": "USDT",
     "dust": "DUST TOKEN",
     "micron": "MICRON",
@@ -65,58 +65,58 @@
     "beta": "BETA"
   },
   "profile-settings": {
-    "title": "Персональная информация",
-    "change_avatar": "Сменить аватар",
-    "delete_avatar": "Удалить аватар",
-    "security": "Безопасность",
-    "change_password": "Изменить пароль",
-    "mfa": "Двухфакторная аутентификация",
-    "disconnect_mfa": "Отключить 2FA",
-    "integrations": "Интеграции",
-    "security_title": "Безопасность",
-    "integrations_title": "Интеграции",
-    "language_title": "Настройки языка",
-    "help_title": "Помощь",
-    "main_language": "Основной язык",
-    "main_language_description": "Выберите язык, на котором будет отображаться текст в интерфейсе",
-    "additional_language": "Дополнительный язык",
-    "additional_language_description": "Выберите язык, на котором будет отображаться контент в случае отсутствия основного языка",
-    "information_about_platform": "Информация по платформе",
-    "open": "Открыть",
-    "help": "Помощь",
-    "connect": "Подключить",
+    "title": "Персональна інформація",
+    "change_avatar": "Змінити аватар",
+    "delete_avatar": "Видалити аватар",
+    "security": "Безпека",
+    "change_password": "Змінити пароль",
+    "mfa": "Двофакторна автентифікація",
+    "disconnect_mfa": "Вимкнути 2FA",
+    "integrations": "Інтеграції",
+    "security_title": "Безпека",
+    "integrations_title": "Інтеграції",
+    "language_title": "Налаштування мови",
+    "help_title": "Допомога",
+    "main_language": "Основна мова",
+    "main_language_description": "Виберіть мову, якою буде відображатися текст в інтерфейсі",
+    "additional_language": "Додаткова мова",
+    "additional_language_description": "Виберіть мову, якою буде відображатися контент у разі відсутності тексту основною мовою",
+    "information_about_platform": "Інформація по платформі",
+    "open": "Відкрити",
+    "help": "Допомога",
+    "connect": "Підключити",
     "password": "Пароль",
-    "mail": "Почта",
-    "nickname": "Никнейм",
+    "mail": "Пошта",
+    "nickname": "Нікнейм",
     "ru": "Русский",
     "en": "English",
     "uk": "Українська"
   },
   "profile-transactions": {
-    "transaction": "Транзакция",
+    "transaction": "Транзакція",
     "date": "Дата",
-    "sum": "Сумма",
+    "sum": "Сума",
     "status": "Статус",
-    "sum_status": "Сумма/Статус",
-    "information": "Информация",
-    "no_transaction": "Записи отсутствуют.",
+    "sum_status": "Сума/Статус",
+    "information": "Інформація",
+    "no_transaction": "Записи відсутні.",
     "usdt": "USDT",
     "transaction_types": {
-      "deposit": "Пополнение баланса",
-      "subscription": "Оформление подписки",
-      "FORUM_ACCESS": "Доступ к форуму",
-      "FORUM_POSTS_10": "Покупка 10 постов на форуме"
+      "deposit": "Поповнення балансу",
+      "subscription": "Оформлення підписки",
+      "FORUM_ACCESS": "Доступ до форуму",
+      "FORUM_POSTS_10": "Покупка 10 постів на форумі"
     },
     "transaction_statuses": {
-      "created": "Ожидает обработки",
-      "pending": "В работе",
-      "pre-approve": "Ждем подтверждения",
-      "approve": "Подтверждено",
-      "done": "Выполнено",
-      "failed": "Произошла ошибка",
-      "canceled": "Отменено",
-      "expired": "Просрочено",
-      "other": "Неизвестно"
+      "created": "Чекає обробки",
+      "pending": "У роботі",
+      "pre-approve": "Чекаємо на підтвердження",
+      "approve": "Підтверджено",
+      "done": "Виконано",
+      "failed": "Сталася помилка",
+      "canceled": "Скасовано",
+      "expired": "Прострочено",
+      "other": "Невідомо"
     }
   }
 }

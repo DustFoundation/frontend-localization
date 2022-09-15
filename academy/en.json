@@ -60,6 +60,7 @@
     "onward": "Next"
   },
   "courses": {
+    "need_subscription": "Active subscription required",
     "new_course_in_development": "New courses are already in development!",
     "level": "Level:",
     "count_of_modules": "Modules:",

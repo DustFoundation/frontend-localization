@@ -318,7 +318,9 @@
       "open": "Открыть",
       "virtual": "Виртуальный портфель",
       "exchange": "Биржевой портфель",
-      "venture": "Венчурный портфель"
+      "venture": "Венчурный портфель",
+      "investment_value": "Объем инвестиций",
+      "portfolio_valuation": "Оценка портфеля"
     },
     "portfolio-pnl": {
       "total_attachments": "Общий объем вложений",

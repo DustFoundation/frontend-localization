@@ -318,7 +318,9 @@
       "open": "Відкрити",
       "virtual": "Віртуальний портфель",
       "exchange": "Біржовий портфель",
-      "venture": "Венчурний портфель"
+      "venture": "Венчурний портфель",
+      "investment_value": "Об'єм інвестицій",
+      "portfolio_valuation": "Оцінка портфеля"
     },
     "portfolio-pnl": {
       "total_attachments": "Загальний об'єм вкладень",
@@ -401,14 +403,14 @@
     "characteristics": {
       "price": "{isMobile, plural, =1 {Ціна} other {Ціна покупки}}",
       "amount": "{isMobile, plural, =1 {Кількість} other {Кіл-ть монет}}",
-      "investment_volume": "Объем инвестиций",
+      "investment_volume": "Об'єм інвестицій",
       "type_of_project": "Тип проекту",
       "type": "Тип",
       "round": "Раунд",
       "description": "Опис",
       "sait": "Сайт",
       "network": "Мережа",
-      "date": "Дата покупки",
+      "date": "Дата купівлі",
       "lock_period": "Період локу"
     },
     "need_subscription": "Потрібно оформити передплату"

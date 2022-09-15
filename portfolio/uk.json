@@ -117,7 +117,7 @@
         "every-year": "Раз на рік"
       },
       "unlock_period_types": {
-        "amount": "кол.",
+        "amount": "кіль.",
         "percent": "%"
       },
       "cliff": {
@@ -156,7 +156,7 @@
         "price": "Ціна покупки*",
         "price_placeholder": "Ціна",
         "amount": "Кількість куплених монет / токенів*",
-        "amount_placeholder": "Кол-во",
+        "amount_placeholder": "Кіл-ть",
         "round": "Раунд",
         "total_attachment": "Загальне вкладення:"
       },

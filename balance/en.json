@@ -44,7 +44,7 @@
     },
     "validation_messages": {
       "required": "Field is required",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}"
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}"
     },
     "hash_or_number": "Transaction Hash / number",
     "faq": "FAQ",

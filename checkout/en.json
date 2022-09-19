@@ -18,8 +18,8 @@
       "password_input_placeholder": "*****************",
       "validation_messages": {
         "required": "Field is required",
-        "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-        "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
         "password_rules": "The password must contain at least 1 capital letter and 1 digit",
         "passwords_not_match": "Passwords do not match"
       }
@@ -117,7 +117,7 @@
       },
       "validation_messages": {
         "required": "Field is required",
-        "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}"
+        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}"
       }
     },
     "checkout-status": {

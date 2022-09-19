@@ -90,7 +90,7 @@
     "example": "Example: X2dDjsa29GKO",
     "validation_messages": {
       "required": "Field is required",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}"
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}"
     }
   },
   "report-dialog": {
@@ -102,8 +102,8 @@
     "description_of_problem": "Problem description",
     "validation_messages": {
       "required": "Field is required",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "img": "JPG or PNG, not more than 3MB",
       "discord_or_email": "Enter E-mail or Discord nickname"
     },

@@ -43,8 +43,8 @@
     "validation_messages": {
       "required": "Field is required",
       "invalid_email": "Invalid email format",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "passwords_not_match": "Passwords do not match",
       "password_rules": "The password must contain at least 1 capital letter and 1 digit"
     }
@@ -61,8 +61,8 @@
     "validation_messages": {
       "required": "Field is required",
       "invalid_email": "Invalid email",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "passwords_not_match": "Passwords do not match",
       "password_rules": "The password must contain at least 1 capital letter and 1 digit"
     }
@@ -84,8 +84,8 @@
     "validation_messages": {
       "required": "Field is required",
       "invalid_email": "Invalid email",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}"
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}"
     }
   },
   "sign-up": {
@@ -110,8 +110,8 @@
     "validation_messages": {
       "required": "Field is required",
       "invalid_email": "Invalid email format",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "passwords_not_match": "Passwords do not match",
       "password_rules": "The password must contain at least 1 capital letter and 1 digit"
     }

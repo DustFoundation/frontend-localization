@@ -79,8 +79,8 @@
     "create": "Create",
     "validation_messages": {
       "required": "Field is required",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
-      "max_length": "Maximum length {{ max }} {max, plural, =1 {symbol} =2 {symbols} =3 {symbols} =4 {symbols} other {symbols}}",
+      "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "invalid_format_img": "Invalid image format",
       "file_size_exceeded": "File size exceeded"
     }

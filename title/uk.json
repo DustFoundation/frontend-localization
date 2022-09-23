@@ -3,7 +3,9 @@
     "title": "Авторізація"
   },
   "profile": {
-    "title": "Профіль"
+    "title": "Профіль",
+    "settings": "Налаштування",
+    "transactions": "Транзакції"
   },
   "topup_balance": {
     "title": "Поповнення балансу"

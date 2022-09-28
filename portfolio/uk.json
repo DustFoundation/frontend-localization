@@ -9,12 +9,12 @@
       "first_step": {
         "title": "Крок 1",
         "choose_asset": "Виберіть актив",
-        "search": "Поиск"
+        "search": "Пошук"
       },
       "second_step": {
         "title": "Крок 2",
         "amount": "Кількість",
-        "max": "MAX",
+        "max": "MAКС",
         "price": "Ціна за монету",
         "date": "Дата (ДД.ММ.РРРР)",
         "date_placeholder": "ДД.ММ.РРРР",
@@ -118,7 +118,7 @@
         "every-year": "Раз на рік"
       },
       "unlock_period_types": {
-        "amount": "кіль.",
+        "amount": "кіл.",
         "percent": "%"
       },
       "cliff": {

@@ -35,40 +35,40 @@
     }
   },
   "course-details": {
-    "level": "Уровень:",
-    "count_of_modules": "Модулей:",
-    "count_of_lessons": "Уроков:",
-    "got_badges": "Полученные Значки",
-    "course_progress": "Прогресс курса",
-    "pass_again": "Пройти повторно",
-    "continue_learning": "Продолжить обучение",
-    "start_learning": "Начать обучение",
-    "training_program": "Программа Обучения",
+    "level": "Рівень:",
+    "count_of_modules": "Модулів:",
+    "count_of_lessons": "Уроків:",
+    "got_badges": "Отримані Значки",
+    "course_progress": "Прогрес курсу",
+    "pass_again": "Пройти ще раз",
+    "continue_learning": "Продовжити навчання",
+    "start_learning": "Розпочати навчання",
+    "training_program": "Програма Навчання",
     "module": "Модуль"
   },
   "course-lesson": {
-    "pass_test": "Сдать тест",
-    "next_lesson": "Следующий урок",
-    "previous_lesson": "Предыдущий урок"
+    "pass_test": "Здати тест",
+    "next_lesson": "Наступний урок",
+    "previous_lesson": "Попередній урок"
   },
   "course-test": {
-    "description": " После прохождения теста вы получаете специальный значок, который открывает доступ к следующему модулю.",
-    "ps": "P.S. Пройдите тест без единой ошибки и получите золотой значок!",
-    "check_test": "Проверить тест",
-    "try_once_more": "Попробовать еще",
-    "previous_lesson": "Предыдущий урок",
-    "onward": "Далее"
+    "description": "Після проходження тесту ви отримуєте спеціальний значок, який відкриває доступ до наступного модуля.",
+    "ps": "P.S. Пройдіть тест без жодної помилки та отримайте золотий значок!",
+    "check_test": "Перевірити тест",
+    "try_once_more": "Спробувати ще раз",
+    "previous_lesson": "Попередній урок",
+    "onward": "Далі"
   },
   "courses": {
-    "need_subscription": "Нужно оформить подписку",
-    "new_course_in_development": "Новые курсы уже в разработке!",
-    "level": "Уровень:",
-    "count_of_modules": "Модулей:",
-    "count_of_lessons": "Уроков:",
-    "got_badges": "Полученные Значки",
-    "course_progress": "Прогресс курса",
-    "pass_again": "Пройти повторно",
-    "continue_learning": "Продолжить обучение",
-    "start_learning": "Начать обучение"
+    "need_subscription": "Треба оформити підписку",
+    "new_course_in_development": "Нові курси вже в розробці!",
+    "level": "Рівень:",
+    "count_of_modules": "Модулів:",
+    "count_of_lessons": "Уроків:",
+    "got_badges": "Отримані Значки",
+    "course_progress": "Прогрес курса",
+    "pass_again": "Пройти ще раз",
+    "continue_learning": "Продовжити навчання",
+    "start_learning": "Розпочати навчання"
   }
 }

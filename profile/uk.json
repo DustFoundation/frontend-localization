@@ -103,7 +103,7 @@
     "usdt": "USDT",
     "transaction_types": {
       "deposit": "Поповнення балансу",
-      "subscription": "Оформлення передплати",
+      "subscription": "Оформлення підписки",
       "FORUM_ACCESS": "Доступ до форуму",
       "FORUM_POSTS_10": "Покупка 10 постів на форумі"
     },

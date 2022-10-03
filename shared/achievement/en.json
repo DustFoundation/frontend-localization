@@ -1,0 +1,50 @@
+{
+  "registration": {
+    "name": "“Хомячелз”",
+    "description": "Прошел успешную регистрацию на платформе"
+  },
+  "onboarding": {
+    "name": "”Первопроходец”",
+    "description": "Прошел ознакомление с платформой"
+  },
+  "portfolioalltypes": {
+    "name": "”Китяра”",
+    "description": "Создал все три типа портфелей"
+  },
+  "academycoursegold": {
+    "name": "”Отличник”",
+    "description": "Прошел курс в Академии на отлично"
+  },
+  "discordtelegram": {
+    "name": "”Интегратор”",
+    "description": "Подключил интеграции с Discord и Telegram"
+  },
+  "connections": {
+    "name": "”Наладил связи”",
+    "description": "Подписался на наши социальные сети"
+  },
+  "subscription": {
+    "name": "”Важный человек”",
+    "description": "Купил подписку на DUST Platform"
+  },
+  "forumfirstpost": {
+    "name": "”Сейчас я вам расскажу”",
+    "description": "Создал свой первый пост в форуме"
+  },
+  "amateur": {
+    "name": "”Крипто-дилетант”",
+    "description": "Собрал 10 лайков на посте в Форуме"
+  },
+  "portfolio10coins": {
+    "name": "”Крипто-монетчик”",
+    "description": "Добавил 10 монет в виртуальный портфель"
+  },
+  "dailyreward28": {
+    "name": "”Истинный холдер”",
+    "description": "Получил 28 ежедневных наград подряд"
+  },
+  "omnipotence": {
+    "name": "”Перчатка всевластия”",
+    "description": "Проголосовал за обновления Forge"
+  }
+}

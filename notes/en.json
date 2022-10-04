@@ -16,7 +16,8 @@
     "changed": "Changed",
     "validation_messages": {
       "required": "The field must be filled",
-      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}"
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+      "max_length": "Max length {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}"
     }
   },
   "delete_note_dialog": {

@@ -17,10 +17,13 @@
       "transactions": "Історія транзакцій",
       "settings": "Налаштування",
       "promocode": "Промокод",
+      "bug_report": "Баг репорт",
       "support": "Чат підтримки",
-      "conferences": "Конференції"
+      "conferences": "Конференції",
+      "notes": "Усі нотатки",
+      "add_note": "Створити нотатку"
     },
-    "sign_up": "Зареєструватися",
+    "sign_up": "Реєстрація",
     "sign_in": "Увійти",
     "logout": "Вийти з облікового запису",
     "in_development": "In development",

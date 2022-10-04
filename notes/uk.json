@@ -1,34 +1,35 @@
 {
   "title": "Нотатки",
   "sort": {
-    "date_desc": "Дата: спочатку нові",
-    "date_asc": "Дата: спочатку старі",
+    "date_desc": "Спочатку нові",
+    "date_asc": "Спочатку старі",
     "alphabet_desc": "За алфавітом А-Я",
     "alphabet_asc": "За алфавітом Я-А"
   },
   "create_note_dialog": {
-    "title": "Створення нотатки",
-    "title_label": "Заголовок",
-    "title_placeholder": "Моя нотатка",
-    "content_placeholder": "Введіть текст нотатки",
     "remove_button": "Видалити нотатку",
     "save": "Зберегти",
+    "title": "Створення нотатки",
+    "title_label": "Заголовок",
+      "title_placeholder": "Моя замітка",
+    "content_placeholder": "Введіть текст нотатки",
+    "changed": "Змінено",
     "validation_messages": {
-      "required": "Поле обов'язково до заповнення",
-      "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
-      "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}"
+      "required": "Поле потрібно заповнити",
+      "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}"
     }
   },
   "delete_note_dialog": {
     "title": "Видалення нотатки",
     "description": "Ви дійсно хочете видалити нотатку?",
-    "delete": "Видалити",
-    "cancel": "Скасувати"
+    "delete": "Вилучити",
+    "cancel": "Скасування",
+    "deleted_successfully": "Нотатка успішно видалена"
   },
   "attention_note_dialog": {
     "title": "Увага",
     "description": "Ви впевнені, що хочете закрити нотатку без збереження?",
-    "delete": "Не зберігати",
-    "cancel": "Скасувати"
+    "dont_save": "Не зберігати",
+    "cancel": "Скасування"
   }
 }

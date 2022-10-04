@@ -1,34 +1,35 @@
 {
-  "title": "Заметки",
+  "title": "Notes",
   "sort": {
-    "date_desc": "Дата: сначала новые",
-    "date_asc": "Дата: сначала старые",
-    "alphabet_desc": "По алфавиту А-Я",
-    "alphabet_asc": "По алфавиту Я-А"
+    "date_desc": "New ones first",
+    "date_asc": "Old ones first",
+    "alphabet_desc": "Alphabetically A-Z",
+    "alphabet_asc": "Alphabetical Z-A"
   },
   "create_note_dialog": {
-    "title": "Cоздание заметки",
-    "title_label": "Заголовок",
-    "title_placeholder": "Моя заметка",
-    "content_placeholder": "Введите текст заметки",
-    "remove_button": "Удалить заметку",
-    "save": "Сохранить",
+    "remove_button": "Delete note",
+    "save": "Save",
+    "title": "Create a note",
+    "title_label": "Header",
+    "title_placeholder": "My note",
+    "content_placeholder": "Enter note text",
+    "changed": "Changed",
     "validation_messages": {
-      "required": "Поле обязательно к заполнению",
-      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
-      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+      "required": "The field must be filled",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}"
     }
   },
   "delete_note_dialog": {
-    "title": "Удаление заметки",
-    "description": "Вы действительно хотите удалить заметку?",
-    "delete": "Удалить",
-    "cancel": "Отмена"
+    "title": "Deleting a note",
+    "description": "Are you sure you want to delete the note?",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "deleted_successfully": "Note successfully deleted"
   },
   "attention_note_dialog": {
-    "title": "Внимание",
-    "description": "Вы уверены, что хотите закрыть заметку без сохранения?",
-    "delete": "Не сохранять",
-    "cancel": "Отмена"
+    "title": "Attention",
+    "description": "Are you sure you want to close the note without saving?",
+    "dont_save": "Do not save",
+    "cancel": "Cancel"
   }
 }

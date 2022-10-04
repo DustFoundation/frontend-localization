@@ -11,7 +11,7 @@
     "save": "Зберегти",
     "title": "Створення нотатки",
     "title_label": "Заголовок",
-      "title_placeholder": "Моя замітка",
+    "title_placeholder": "Моя замітка",
     "content_placeholder": "Введіть текст нотатки",
     "changed": "Змінено",
     "validation_messages": {

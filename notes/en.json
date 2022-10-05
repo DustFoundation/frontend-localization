@@ -1,8 +1,8 @@
 {
   "title": "Notes",
   "sort": {
-    "date_desc": "New ones first",
-    "date_asc": "Old ones first",
+    "date_desc": "Newer first",
+    "date_asc": "Older first",
     "alphabet_desc": "Alphabetically A-Z",
     "alphabet_asc": "Alphabetical Z-A"
   },
@@ -15,7 +15,7 @@
     "content_placeholder": "Enter note text",
     "changed": "Changed",
     "validation_messages": {
-      "required": "The field must be filled",
+      "required": "This field is required",
       "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
       "max_length": "Max length {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}"
     }
@@ -29,8 +29,8 @@
   },
   "attention_note_dialog": {
     "title": "Attention",
-    "description": "Are you sure you want to close the note without saving?",
-    "dont_save": "Do not save",
+    "description": "Are you sure you want to close this note without saving?",
+    "dont_save": "Don't save",
     "cancel": "Cancel"
   }
 }

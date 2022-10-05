@@ -59,5 +59,8 @@
   "portfolio_limit_reached": "Достигнут лимит создания портфелей",
   "error_create_portfolio": "Ошибка при создании портфеля",
   "failed_get_reward": "Не удалось получить дневную награду",
-  "error_auth_telegram": "Ошибка авторизации через телеграм"
+  "error_auth_telegram": "Ошибка авторизации через телеграм",
+  "note_deleted": "Заметка удалена",
+  "note_saved": "Заметка сохранена",
+  "notes_limit": "Достигнут лимит заметок"
 }

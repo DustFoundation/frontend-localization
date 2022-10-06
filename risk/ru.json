@@ -1,0 +1,67 @@
+{
+  "title": "Калькулятор риска",
+  "add_template": "Новый расчет",
+  "sort": {
+    "title": "Сортировка",
+    "date_desc": "Дата: сначала новые",
+    "date_asc": "Дата: сначала старые",
+    "alphabet_desc": "По алфавиту А-Я",
+    "alphabet_asc": "По алфавиту Я-А"
+  },
+  "calculator": {
+    "title_placeholder": "Введите название шаблона",
+    "status_saved": "Название изменено",
+    "saved": "Сохранено",
+    "button_save": "Сохранить",
+    "type_long": "Лонг",
+    "type_short": "Шорт",
+    "search_placeholder": "Поиск",
+    "result_link": "Как это работает?",
+    "result_title": "Результат",
+    "result_item_volume": "Объем сделки с плечом",
+    "result_item_profit": "Тейк-профит",
+    "result_item_proportion": "Пропорция риск/прибыль",
+    "result_item_loss": "Стоп-лосс",
+    "result_item_liquidation": "Ликвидация",
+    "coin_label": "Актив",
+    "volume_label": "Объем сделки",
+    "price_label": "Цена входа",
+    "leverage_label": "Плечо",
+    "risk_label": "Риск",
+    "profit_label": "Прибыль",
+    "tooltips": {
+      "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "price_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "leverage_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "risk_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "profit_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae."
+    }
+  },
+  "list": {
+    "empty": "Нет сохраненных расчетов",
+    "saved": "Сохранено"
+  },
+  "dialog_close_template": {
+    "title": "Вы уверены, что хотите открыть новый расчет?",
+    "text": "Открытие нового расчета очистит все введенные данные и удалит полученные результаты",
+    "button_apply": "Очистить",
+    "button_cancel": "Отмена"
+  },
+  "dialog_delete_template": {
+    "title": "Удаление расчета",
+    "text": "Вы действительно хотите удалить расчет?",
+    "button_apply": "Удалить",
+    "button_cancel": "Отмена"
+  },
+  "dialog_save_template": {
+    "title": "Сохранение расчета",
+    "text": "Вы хотите обновить открытый расчет или сохранить расчет как новый?",
+    "button_apply": "Обновить",
+    "button_cancel": "Сохранить новый"
+  },
+  "dialog_tooltip_template": {
+    "title": "Подсказка",
+    "button_close": "Понятно!"
+  }
+}

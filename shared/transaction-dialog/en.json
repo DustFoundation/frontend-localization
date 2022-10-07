@@ -1,12 +1,12 @@
 {
-  "title": "Укажите хеш или номер транзакции",
+  "title": "Enter transaction hash or number",
   "recommendation": {
-    "title": "Рекомендации",
-    "1": "Чтобы посмотреть номер транзакции, перейдите по ссылке:",
-    "2": "Если вы отправляли USDT с другой биржи, укажите в поле Хэш транзакции (пример TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
-    "3": "Указывайте номер транзакции (Internal transfer) - 43047269665, а не кошелек - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
+    "title": "Recommendations",
+    "1": "To lookup transaction number, follow this link:",
+    "2": "If you've sent USDT from another exchange specify in this field Transaction hash (TRC20 example): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+    "3": "Specify a transaction number (Internal transfer - 43047269665, not your wallet - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
   },
-  "hash_or_number": "Хеш / номер транзакции",
-  "payed": "Я оплатил",
-  "back": "Назад"
+  "hash_or_number": "Transaction hash / number",
+  "payed": "I have paid",
+  "back": "Back"
 }

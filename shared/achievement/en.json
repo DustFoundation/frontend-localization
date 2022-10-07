@@ -1,50 +1,50 @@
 {
   "registration": {
-    "name": "“Хомячелз”",
-    "description": "Прошел успешную регистрацию на платформе"
+    "name": "“The Hamster”",
+    "description": "Passed a successful registration on the platform"
   },
   "onboarding": {
-    "name": "”Первопроходец”",
-    "description": "Прошел ознакомление с платформой"
+    "name": "”Pioneer”",
+    "description": "Passed the familiarization of the platform"
   },
   "portfolioalltypes": {
-    "name": "”Китяра”",
+    "name": "”Keith”",
     "description": "Создал все три типа портфелей"
   },
   "academycoursegold": {
-    "name": "”Отличник”",
-    "description": "Прошел курс в Академии на отлично"
+    "name": "”Excellent”",
+    "description": "Passed the course at the Academy with honors"
   },
   "discordtelegram": {
-    "name": "”Интегратор”",
-    "description": "Подключил интеграции с Discord и Telegram"
+    "name": "”Integrator”",
+    "description": "Connected integrations with Discord and Telegram"
   },
   "connections": {
-    "name": "”Наладил связи”",
-    "description": "Подписался на наши социальные сети"
+    "name": "”Made the connections”",
+    "description": "Signed up for our social networks"
   },
   "subscription": {
-    "name": "”Важный человек”",
-    "description": "Купил подписку на DUST Platform"
+    "name": "”Important person”",
+    "description": "Bought a subscription to the DUST Platform"
   },
   "forumfirstpost": {
-    "name": "”Сейчас я вам расскажу”",
-    "description": "Создал свой первый пост в форуме"
+    "name": "”I'll tell you in a moment”",
+    "description": "Created my first post in the forum"
   },
   "amateur": {
-    "name": "”Крипто-дилетант”",
-    "description": "Собрал 10 лайков на посте в Форуме"
+    "name": "”Crypto-dilettante”",
+    "description": "Collected 10 likes on a Forum post"
   },
   "portfolio10coins": {
-    "name": "”Крипто-монетчик”",
-    "description": "Добавил 10 монет в виртуальный портфель"
+    "name": "”Crypto-monetizer”",
+    "description": "Added 10 coins to the virtual portfolio"
   },
   "dailyreward28": {
-    "name": "”Истинный холдер”",
-    "description": "Получил 28 ежедневных наград подряд"
+    "name": "”True HODLer”",
+    "description": "Received 28 daily awards in a row"
   },
   "omnipotence": {
-    "name": "”Перчатка всевластия”",
-    "description": "Проголосовал за обновления Forge"
+    "name": "”The Glove of Omnipotence”",
+    "description": "Voted for Forge updates"
   }
 }

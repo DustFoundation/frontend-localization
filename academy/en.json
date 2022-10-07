@@ -1,74 +1,74 @@
 {
   "components": {
     "course-finished-dialog": {
-      "title": "Итоговый отзыв о курсе",
-      "module": "Модуль",
-      "leave_review": "Оставить отзыв про курс"
+      "title": "Review our course",
+      "module": "Module",
+      "leave_review": "Leave feedback about the course"
     },
     "menu": {
-      "test": "Тест",
-      "testing": "Тестирование"
+      "test": "Test",
+      "testing": "Assessment"
     },
     "module-finished-dialog": {
-      "module": "Модуль",
-      "open_access": "Открыт доступ к модулю",
-      "thanks_for_review": "Спасибо, ваш отзыв учтен",
-      "awful": "Ужасно",
-      "bad": "Плохо",
-      "ok": "Средне",
-      "good": "Хорошо",
-      "excellent": "Отлично",
-      "rate_module": "Оцените пройденный модуль",
-      "leave_review?": "Желаете оставить отзыв?",
-      "next_lesson": "Следующий урок",
-      "yes": "Да",
-      "no": "Нет"
+      "module": "Module",
+      "open_access": "Access to module granted",
+      "thanks_for_review": "Thanks, your feedback is taken into account",
+      "awful": "Awful",
+      "bad": "Bad",
+      "ok": "Average",
+      "good": "Good",
+      "excellent": "Excellent",
+      "rate_module": "Rate this module",
+      "leave_review?": "Want to leave feedback?",
+      "next_lesson": "Next lesson",
+      "yes": "Yes",
+      "no": "No"
     },
     "module-review-dialog": {
-      "help_us": "Помогите нам улучшить курс",
-      "please_leave_comment_about": "Оставьте пожалуйста отзыв про",
-      "leave_review": "Оставить отзыв",
-      "my_review": "Мой отзыв",
-      "module": "Модуль",
-      "course": "Курс",
-      "back": "Назад"
+      "help_us": "Help us to improve this course",
+      "please_leave_comment_about": "Please leave a review about the",
+      "leave_review": "Leave feedback",
+      "my_review": "My feedback",
+      "module": "Module",
+      "course": "Course",
+      "back": "Back"
     }
   },
   "course-details": {
-    "level": "Уровень:",
-    "count_of_modules": "Модулей:",
-    "count_of_lessons": "Уроков:",
-    "got_badges": "Полученные Значки",
-    "course_progress": "Прогресс курса",
-    "pass_again": "Пройти повторно",
-    "continue_learning": "Продолжить обучение",
-    "start_learning": "Начать обучение",
-    "training_program": "Программа Обучения",
-    "module": "Модуль"
+    "level": "Level:",
+    "count_of_modules": "Modules:",
+    "count_of_lessons": "Lessons:",
+    "got_badges": "Received badges",
+    "course_progress": "Course progress",
+    "pass_again": "Pass again",
+    "continue_learning": "Continue learning",
+    "start_learning": "Start learning",
+    "training_program": "Learning program",
+    "module": "Module"
   },
   "course-lesson": {
-    "pass_test": "Сдать тест",
-    "next_lesson": "Следующий урок",
-    "previous_lesson": "Предыдущий урок"
+    "pass_test": "Take a test",
+    "next_lesson": "Next lesson",
+    "previous_lesson": "Previous lesson"
   },
   "course-test": {
-    "description": " После прохождения теста вы получаете специальный значок, который открывает доступ к следующему модулю.",
-    "ps": "P.S. Пройдите тест без единой ошибки и получите золотой значок!",
-    "check_test": "Проверить тест",
-    "try_once_more": "Попробовать еще",
-    "previous_lesson": "Предыдущий урок",
-    "onward": "Далее"
+    "description": " After you pass the test, you will get a special badge, that will grant you access to the next module",
+    "ps": "P.S. Pass the test with zero errors to get a golden badge!",
+    "check_test": "Check test",
+    "try_once_more": "Try again",
+    "previous_lesson": "Previous lesson",
+    "onward": "Next"
   },
   "courses": {
-    "need_subscription": "Нужно оформить подписку",
-    "new_course_in_development": "Новые курсы уже в разработке!",
-    "level": "Уровень:",
-    "count_of_modules": "Модулей:",
-    "count_of_lessons": "Уроков:",
-    "got_badges": "Полученные Значки",
-    "course_progress": "Прогресс курса",
-    "pass_again": "Пройти повторно",
-    "continue_learning": "Продолжить обучение",
-    "start_learning": "Начать обучение"
+    "need_subscription": "Active subscription required",
+    "new_course_in_development": "New courses are already in development!",
+    "level": "Level:",
+    "count_of_modules": "Modules:",
+    "count_of_lessons": "Lessons:",
+    "got_badges": "Received badges",
+    "course_progress": "Course progress",
+    "pass_again": "Pass again",
+    "continue_learning": "Continue learning",
+    "start_learning": "Start learning"
   }
 }

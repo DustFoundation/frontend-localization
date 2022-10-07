@@ -1,11 +1,11 @@
 {
-  "status": "Статус оплаты:",
-  "entered_hash": "Введенный хэш:",
-  "edit_hash": "Редактировать хэш",
+  "status": "Payment status:",
+  "entered_hash": "Entered hash:",
+  "edit_hash": "Edit hash",
   "transaction_statuses": {
-    "success_1": "успех",
-    "success_2": "Успешное пополнение",
-    "processing_1": "в обработке...",
-    "processing_2": "Летит по блокчейну"
+    "success_1": "success",
+    "success_2": "Top up successful",
+    "processing_1": "processing...",
+    "processing_2": "Flies through blockchain"
   }
 }

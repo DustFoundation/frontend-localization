@@ -1,39 +1,39 @@
 {
   "authorization": {
-    "title": "Авторизация"
+    "title": "Authorization"
   },
   "profile": {
-    "title": "Профиль",
-    "settings": "Настройки",
-    "transactions": "Транзакции"
+    "title": "Profile",
+    "settings": "Settings",
+    "transactions": "Transactions"
   },
   "topup_balance": {
-    "title": "Пополнение баланса"
+    "title": "Top up balance"
   },
   "subscription": {
-    "title": "Подписка"
+    "title": "Subscription"
   },
   "join": {
-    "title": "Присоединиться"
+    "title": "Join"
   },
   "academy": {
-    "title": "Академия"
+    "title": "Academy"
   },
   "portfolio": {
-    "title": "Портфолио",
-    "portfolio_list": "Список портфелей",
-    "ventures": "Венчурный портфель",
-    "portfolio": "Портфель",
-    "portfolio_transactions": "Портфель | Транзакции"
+    "title": "Portfolio",
+    "portfolio_list": "List of portfolios",
+    "ventures": "Venture portfolio",
+    "portfolio": "Portfolio",
+    "portfolio_transactions": "Portfolio | Transactions"
   },
   "forum": {
-    "title": "Форум"
+    "title": "Forum"
   },
   "conferences": {
-    "title": "Конференции"
+    "title": "Conferences"
   },
   "risk": {
-    "title": "Калькулятор риска"
+    "title": "Risk Calculator"
   },
   "notes": {
     "title": "Notes"

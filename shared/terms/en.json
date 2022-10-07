@@ -1,15 +1,15 @@
 {
-  "include": "Что входит",
-  "trial": "Попробовать бесплатно {{days}} {days, plural, =1 {день} =2 {дня} =3 {дня} =4 {дня} other {дней}}",
-  "chose_period": "Выбранное кол-во дней",
-  "all_from": "Все из",
-  "economy": "Экономия",
+  "include": "What's included",
+  "trial": "Free trial {{days}} {days, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
+  "chose_period": "Selected number of days",
+  "all_from": "Everything from",
+  "economy": "You save",
   "includes": {
-    "portfolio": "Все типы портфелей (3 в 1)",
-    "academy": "Обучающие курсы",
-    "forum": "Форум",
-    "discord": "Приватный Discord",
-    "telegram": "Приватный Telegram"
+    "portfolio": "All portfolio types (3 in 1)",
+    "academy": "Training courses",
+    "forum": "Forum",
+    "discord": "Private Discord",
+    "telegram": "Private Telegram"
   },
   "usdt": "USDT"
 }

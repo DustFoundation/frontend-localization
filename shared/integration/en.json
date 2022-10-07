@@ -1,5 +1,5 @@
 {
-  "connect": "Подключить",
-  "connected": "Подключено",
-  "disconnect": "Отключить"
+  "connect": "Connect",
+  "connected": "Connected",
+  "disconnect": "Disconnect"
 }

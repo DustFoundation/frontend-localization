@@ -1,6 +1,7 @@
 {
   "title": "Risk Calculator",
   "add_template": "New calculation",
+  "without_title": "No title",
   "sort": {
     "title": "Sorting",
     "date_desc": "Date: first new",

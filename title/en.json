@@ -4,8 +4,8 @@
   },
   "profile": {
     "title": "Profile",
-    "settings": "Настройки",
-    "transactions": "Транзакции"
+    "settings": "Settings",
+    "transactions": "Transactions"
   },
   "topup_balance": {
     "title": "Top up balance"

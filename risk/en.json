@@ -1,35 +1,35 @@
 {
-  "title": "Калькулятор риска",
-  "add_template": "Новый расчет",
+  "title": "Risk Calculator",
+  "add_template": "New calculation",
   "sort": {
-    "title": "Сортировка",
-    "date_desc": "Дата: сначала новые",
-    "date_asc": "Дата: сначала старые",
-    "alphabet_desc": "По алфавиту А-Я",
-    "alphabet_asc": "По алфавиту Я-А"
+    "title": "Sorting",
+    "date_desc": "Date: first new",
+    "date_asc": "Date: old first",
+    "alphabet_desc": "Alphabetically A to Z",
+    "alphabet_asc": "Alphabetically Z to A"
   },
   "calculator": {
-    "title_placeholder": "Введите название шаблона",
-    "status_saved": "Название изменено",
-    "saved": "Сохранено",
-    "button_save": "Сохранить",
-    "type_long": "Лонг",
-    "type_short": "Шорт",
-    "search_placeholder": "Поиск",
-    "result_link": "Как это работает?",
-    "result_title": "Результат",
-    "result_item_volume": "Объем сделки с плечом",
-    "result_item_profit": "Тейк-профит",
-    "result_item_proportion": "Пропорция риск/прибыль",
-    "result_item_loss": "Стоп-лосс",
-    "result_item_liquidation": "Ликвидация",
-    "coin_label": "Актив",
-    "volume_label": "Объем сделки",
-    "price_label": "Цена входа",
-    "leverage_label": "Плечо",
-    "risk_label": "Риск",
-    "profit_label": "Прибыль",
-    "alert": "Внимание! Ликвидация слишком близко к cтоп-лосс!",
+    "title_placeholder": "Enter the name of the template",
+    "status_saved": "Name changed",
+    "saved": "Saved",
+    "button_save": "Save",
+    "type_long": "Long",
+    "type_short": "Short",
+    "search_placeholder": "Search",
+    "result_link": "How does it work?",
+    "result_title": "Result",
+    "result_item_volume": "Leveraged trade volume",
+    "result_item_profit": "Take Profit",
+    "result_item_proportion": "Risk/profit ratio",
+    "result_item_loss": "Stop Loss",
+    "result_item_liquidation": "Liquidation",
+    "coin_label": "Active",
+    "volume_label": "Transaction volume",
+    "price_label": "Entry price",
+    "leverage_label": "Leverage",
+    "risk_label": "Risk",
+    "profit_label": "Profit",
+    "alert": "Warning! Liquidation is too close to the stop loss!",
     "tooltips": {
       "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
       "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
@@ -40,29 +40,29 @@
     }
   },
   "list": {
-    "empty": "Нет сохраненных расчетов",
-    "saved": "Сохранено"
+    "empty": "No saved calculations",
+    "saved": "Saved"
   },
   "dialog_close_template": {
-    "title": "Вы уверены, что хотите открыть новый расчет?",
-    "text": "Открытие нового расчета очистит все введенные данные и удалит полученные результаты",
-    "button_apply": "Очистить",
-    "button_cancel": "Отмена"
+    "title": "Are you sure you want to open a new account?",
+    "text": "Opening a new calculation will clear all entered data and delete the results",
+    "button_apply": "Clear",
+    "button_cancel": "Cancel"
   },
   "dialog_delete_template": {
-    "title": "Удаление расчета",
-    "text": "Вы действительно хотите удалить расчет?",
-    "button_apply": "Удалить",
-    "button_cancel": "Отмена"
+    "title": "Deleting the calculation",
+    "text": "Do you really want to delete the calculation?",
+    "button_apply": "Remove",
+    "button_cancel": "Cancel"
   },
   "dialog_save_template": {
-    "title": "Сохранение расчета",
-    "text": "Вы хотите обновить открытый расчет или сохранить расчет как новый?",
-    "button_apply": "Обновить",
-    "button_cancel": "Сохранить новый"
+    "title": "Saving the calculation",
+    "text": "Do you want to update an open calculation or save the calculation as a new one?",
+    "button_apply": "Update",
+    "button_cancel": "Save a new"
   },
   "dialog_tooltip_template": {
-    "title": "Подсказка",
-    "button_close": "Понятно!"
+    "title": "Hint",
+    "button_close": "Got it!"
   }
 }

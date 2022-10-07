@@ -29,6 +29,7 @@
     "leverage_label": "Плечо",
     "risk_label": "Ризик",
     "profit_label": "Прибуток",
+    "alert": "Увага! Ліквідація надто близько до стоп-лосс!",
     "tooltips": {
       "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
       "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",

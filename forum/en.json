@@ -139,5 +139,13 @@
     "moderator": "Moderator",
     "no_posts": "Forum is empty :(",
     "create_firs_post": "Create your first post"
+  },
+  "tags": {
+    "Идея": "Idea",
+    "Жалоба": "Complaint",
+    "Партнерство": "Partnership",
+    "Предложение": "Offer",
+    "Обсуждение": "Discussion",
+    "Другое": "Other"
   }
 }

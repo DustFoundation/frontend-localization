@@ -90,7 +90,8 @@
     "nickname": "Nickname",
     "ru": "Русский",
     "en": "English",
-    "uk": "Українська"
+    "uk": "Українська",
+    "saved": "Saved"
   },
   "profile-transactions": {
     "transaction": "Transaction",

@@ -92,6 +92,7 @@
     "all": "All posts",
     "my-tickets": "My posts",
     "create_post": "Create post",
+    "delete_post": "Delete post",
     "no_posts": "Forum is empty :(",
     "create_firs_post": "Create your first post",
     "name": "Post title",

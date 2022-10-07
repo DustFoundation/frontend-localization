@@ -19,6 +19,7 @@
         "date": "Дата (ДД.ММ.РРРР)",
         "date_placeholder": "ДД.ММ.РРРР",
         "total_attachment": "Загальне вкладення",
+        "total_profit": "Загальний прибуток",
         "buy": "Покупка",
         "sell": "Продаж",
         "edit_transaction": "Редагувати транзакцію",

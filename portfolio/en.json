@@ -18,6 +18,7 @@
         "date": "Date (DD.MM.YYYY)",
         "date_placeholder": "DD.MM.YYYY",
         "total_attachment": "Total investment",
+        "total_profit": "Total profit",
         "buy": "Buy",
         "sell": "Sell",
         "edit_transaction": "Edit transaction",

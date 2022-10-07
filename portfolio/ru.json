@@ -19,6 +19,7 @@
         "date": "Дата (ДД.ММ.ГГГГ)",
         "date_placeholder": "DD.MM.YYYY",
         "total_attachment": "Общее вложение",
+        "total_profit": "Общая прибыль",
         "buy": "Покупка",
         "sell": "Продажа",
         "edit_transaction": "Редактировать транзакцию",

@@ -364,7 +364,8 @@
     },
     "series-finance": {
       "title": "Распределение финансов",
-      "total": "Total"
+      "total": "Total",
+      "others": "Другое"
     },
     "transactions-limit-dialog": {
       "title": "Вы превысили лимит транкзаций",

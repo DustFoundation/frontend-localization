@@ -363,7 +363,8 @@
     },
     "series-finance": {
       "title": "Finances breakdown",
-      "total": "Total"
+      "total": "Total",
+      "others": "Others"
     },
     "transactions-limit-dialog": {
       "title": "You've exceeded transactions limit",

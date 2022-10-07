@@ -364,7 +364,8 @@
     },
     "series-finance": {
       "title": "Розподіл фінансів",
-      "total": "Разом"
+      "total": "Разом",
+      "others": "Інші"
     },
     "transactions-limit-dialog": {
       "title": "Ви перевищили ліміт транкзацій",

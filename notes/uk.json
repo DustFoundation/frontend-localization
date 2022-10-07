@@ -7,12 +7,12 @@
     "alphabet_asc": "За алфавітом Я-А"
   },
   "create_note_dialog": {
-    "remove_button": "Видалити нотатку",
+    "remove_button": "Видалити нотаток",
     "save": "Зберегти",
-    "title": "Створення нотатки",
+    "title": "Створення нотатку",
     "title_label": "Заголовок",
     "title_placeholder": "Моя замітка",
-    "content_placeholder": "Введіть текст нотатки",
+    "content_placeholder": "Введіть текст нотатку",
     "changed": "Змінено",
     "validation_messages": {
       "required": "Поле потрібно заповнити",
@@ -21,16 +21,16 @@
     }
   },
   "delete_note_dialog": {
-    "title": "Видалення нотатки",
-    "description": "Ви дійсно хочете видалити нотатку?",
-    "delete": "Вилучити",
-    "cancel": "Скасування",
+    "title": "Видалення нотатку",
+    "description": "Ви дійсно хочете видалити нотаток?",
+    "delete": "Видалити",
+    "cancel": "Скасувати",
     "deleted_successfully": "Нотатка успішно видалена"
   },
   "attention_note_dialog": {
     "title": "Увага",
-    "description": "Ви впевнені, що хочете закрити нотатку без збереження?",
+    "description": "Ви впевнені, що хочете закрити нотаток без збереження?",
     "dont_save": "Не зберігати",
-    "cancel": "Скасування"
+    "cancel": "Скасувати"
   }
 }

@@ -32,6 +32,9 @@
   "conferences": {
     "title": "Конференции"
   },
+  "risk": {
+    "title": "Калькулятор риска"
+  },
   "notes": {
     "title": "Notes"
   }

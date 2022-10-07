@@ -299,7 +299,9 @@
       "amount_coin": "Кол-во монет",
       "date": "Дата",
       "value": "Объем в $",
-      "close": "Закрыть"
+      "close": "Закрыть",
+      "buy": "Покупка",
+      "sell": "Продажа"
     },
     "dialog-venture-coin-info": {
       "title": "Детали венчурного актива",
@@ -443,6 +445,16 @@
       "network": "Сеть",
       "date": "Дата покупки",
       "lock_period": "Период лока"
+    },
+    "unlock_info": {
+      "tge_today": "Cегодня TGE",
+      "to_start_tge": "До начала TGE <span class='period'>{{ diff }}</span>",
+      "cliff_today": "Сегодня начало Cliff",
+      "to_start_cliff": "До начала Cliff <span class='period'>{{ diff }}</span>",
+      "cliff_end": "Сегодня завершение Cliff",
+      "to_end_cliff": "До завершения Cliff <span class='period'>{{ diff }}</span>",
+      "today_unlock": "Cегодня {{ num }} разлок",
+      "to_unlock": "До {{ num }} разлока <span class='period'>{{ diff }}</span>"
     },
     "need_subscription": "Нужно оформить подписку"
   }

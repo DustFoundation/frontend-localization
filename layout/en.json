@@ -6,6 +6,10 @@
       "status": "Active"
     },
     "portfolio": "Portfolio",
+    "portfolio_dropdown": {
+      "all_portfolios": "All portfolios",
+      "risk_calculator": "Risk Calculator"
+    },
     "academy": "Academy",
     "forum": "Forum",
     "main": "Home",
@@ -17,8 +21,11 @@
       "transactions": "Transactions history",
       "settings": "Settings",
       "promocode": "Promocode",
+      "bug_report": "Bug report",
       "support": "Support chat",
-      "conferences": "Conferences"
+      "conferences": "Conferences",
+      "notes": "All notes",
+      "add_note": "Create a note"
     },
     "sign_up": "Sign Up",
     "sign_in": "Sign In",

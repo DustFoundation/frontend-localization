@@ -1,0 +1,37 @@
+{
+  "title": "Нотатки",
+  "create_btn": "Створити нотаток",
+  "sort": {
+    "date_desc": "Спочатку нові",
+    "date_asc": "Спочатку старі",
+    "alphabet_desc": "За алфавітом А-Я",
+    "alphabet_asc": "За алфавітом Я-А"
+  },
+  "create_note_dialog": {
+    "remove_button": "Видалити нотаток",
+    "save": "Зберегти",
+    "title": "Створення нотатку",
+    "title_label": "Заголовок",
+    "title_placeholder": "Моя замітка",
+    "content_placeholder": "Введіть текст нотатку",
+    "changed": "Змінено",
+    "validation_messages": {
+      "required": "Поле потрібно заповнити",
+      "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
+      "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}"
+    }
+  },
+  "delete_note_dialog": {
+    "title": "Видалення нотатку",
+    "description": "Ви дійсно хочете видалити нотаток?",
+    "delete": "Видалити",
+    "cancel": "Скасувати",
+    "deleted_successfully": "Нотатка успішно видалена"
+  },
+  "attention_note_dialog": {
+    "title": "Увага",
+    "description": "Ви впевнені, що хочете закрити нотаток без збереження?",
+    "dont_save": "Не зберігати",
+    "cancel": "Скасувати"
+  }
+}

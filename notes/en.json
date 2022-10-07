@@ -1,0 +1,37 @@
+{
+  "title": "Notes",
+  "create_btn": "Create a note",
+  "sort": {
+    "date_desc": "Newer first",
+    "date_asc": "Older first",
+    "alphabet_desc": "Alphabetically A-Z",
+    "alphabet_asc": "Alphabetical Z-A"
+  },
+  "create_note_dialog": {
+    "remove_button": "Delete note",
+    "save": "Save",
+    "title": "Create a note",
+    "title_label": "Header",
+    "title_placeholder": "My note",
+    "content_placeholder": "Enter note text",
+    "changed": "Changed",
+    "validation_messages": {
+      "required": "This field is required",
+      "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+      "max_length": "Max length {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}"
+    }
+  },
+  "delete_note_dialog": {
+    "title": "Deleting a note",
+    "description": "Are you sure you want to delete the note?",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "deleted_successfully": "Note successfully deleted"
+  },
+  "attention_note_dialog": {
+    "title": "Attention",
+    "description": "Are you sure you want to close this note without saving?",
+    "dont_save": "Don't save",
+    "cancel": "Cancel"
+  }
+}

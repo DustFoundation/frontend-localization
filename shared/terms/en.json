@@ -1,7 +1,7 @@
 {
   "include": "What's included",
   "trial": "Free trial {{days}} {days, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
-  "chose_period": "Выбранное кол-во дней",
+  "chose_period": "Selected number of days",
   "all_from": "Everything from",
   "economy": "You save",
   "includes": {

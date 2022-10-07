@@ -8,6 +8,7 @@
   "balance": "Top up balance",
   "subscription": "Subscription",
   "transaction": "Transactions history",
+  "risk": "Risk Calculator",
   "activation_subscription": "Activate subscription",
   "post_view": "View post",
   "created_posts": "My posts",
@@ -15,5 +16,7 @@
   "news": "New",
   "my-tickets": "My posts",
   "create_ticket": "Create post",
-  "conferences": "Conferences"
+  "conferences": "Conferences",
+  "notes": "Notes",
+  "back": "Back"
 }

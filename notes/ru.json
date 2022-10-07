@@ -1,0 +1,37 @@
+{
+  "title": "Заметки",
+  "create_btn": "Создать заметку",
+  "sort": {
+    "date_desc": "Сначала новые",
+    "date_asc": "Сначала старые",
+    "alphabet_desc": "По алфавиту А-Я",
+    "alphabet_asc": "По алфавиту Я-А"
+  },
+  "create_note_dialog": {
+    "remove_button": "Удалить заметку",
+    "save": "Сохранить",
+    "title": "Создание заметки",
+    "title_label": "Заголовок",
+    "title_placeholder": "Моя заметка",
+    "content_placeholder": "Введите текст заметки",
+    "changed": "Изменено",
+    "validation_messages": {
+      "required": "Поле необходимо заполнить",
+      "min_length": "Минимальная длина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}",
+      "max_length": "Максимальная длина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символов}}"
+    }
+  },
+  "delete_note_dialog": {
+    "title": "Удаление заметки",
+    "description": "Вы действительно хотите удалить заметку?",
+    "delete": "Удалить",
+    "cancel": "Отмена",
+    "deleted_successfully": "Заметка успешно удалена"
+  },
+  "attention_note_dialog": {
+    "title": "Внимание",
+    "description": "Вы уверены, что хотите закрыть заметку без сохранения?",
+    "dont_save": "Не сохранять",
+    "cancel": "Отмена"
+  }
+}

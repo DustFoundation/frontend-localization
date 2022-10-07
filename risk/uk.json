@@ -1,0 +1,68 @@
+{
+  "title": "Калькулятор ризику",
+  "add_template": "Новий розрахунок",
+  "sort": {
+    "title": "Сортування",
+    "date_desc": "Дата: спочатку нові",
+    "date_asc": "Дата: спочатку старі",
+    "alphabet_desc": "За алфавітом А-Я",
+    "alphabet_asc": "За алфавітом Я-А"
+  },
+  "calculator": {
+    "title_placeholder": "Введіть назву шаблону",
+    "status_saved": "Назва змінено",
+    "saved": "Збережено",
+    "button_save": "Зберегти",
+    "type_long": "Лонг",
+    "type_short": "Шорт",
+    "search_placeholder": "Пошук",
+    "result_link": "Як це працює?",
+    "result_title": "Результат",
+    "result_item_volume": "Обсяг угоди з плечем",
+    "result_item_profit": "Тейк-профіт",
+    "result_item_proportion": "Пропорція ризик/прибуток",
+    "result_item_loss": "Стоп-лосс",
+    "result_item_liquidation": "Ліквідація",
+    "coin_label": "Актив",
+    "volume_label": "Обсяг угоди",
+    "price_label": "Ціна входу",
+    "leverage_label": "Плечо",
+    "risk_label": "Ризик",
+    "profit_label": "Прибуток",
+    "alert": "Увага! Ліквідація надто близько до стоп-лосс!",
+    "tooltips": {
+      "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "price_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "leverage_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "risk_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
+      "profit_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae."
+    }
+  },
+  "list": {
+    "empty": "Немає збережених розрахунків",
+    "saved": "Збережено"
+  },
+  "dialog_close_template": {
+    "title": "Ви впевнені, що бажаєте відкрити новий розрахунок?",
+    "text": "Відкриття нового розрахунку очистить усі введені дані та видалить отримані результати",
+    "button_apply": "Очистити",
+    "button_cancel": "Скасування"
+  },
+  "dialog_delete_template": {
+    "title": "Видалення розрахунку",
+    "text": "Ви дійсно бажаєте видалити розрахунок?",
+    "button_apply": "Видалити",
+    "button_cancel": "Скасування"
+  },
+  "dialog_save_template": {
+    "title": "Збереження розрахунку",
+    "text": "Ви хочете оновити відкритий розрахунок чи зберегти розрахунок як новий?",
+    "button_apply": "Оновити",
+    "button_cancel": "Зберегти новий"
+  },
+  "dialog_tooltip_template": {
+    "title": "Підказка",
+    "button_close": "Зрозуміло!"
+  }
+}

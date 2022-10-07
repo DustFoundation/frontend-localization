@@ -3,7 +3,9 @@
     "title": "Authorization"
   },
   "profile": {
-    "title": "Profile"
+    "title": "Profile",
+    "settings": "Настройки",
+    "transactions": "Транзакции"
   },
   "topup_balance": {
     "title": "Top up balance"
@@ -29,5 +31,11 @@
   },
   "conferences": {
     "title": "Conferences"
+  },
+  "risk": {
+    "title": "Risk Calculator"
+  },
+  "notes": {
+    "title": "Notes"
   }
 }

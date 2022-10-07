@@ -1,9 +1,11 @@
 {
   "authorization": {
-    "title": "Авторізація"
+    "title": "Авторизація"
   },
   "profile": {
-    "title": "Профіль"
+    "title": "Профіль",
+    "settings": "Налаштування",
+    "transactions": "Транзакції"
   },
   "topup_balance": {
     "title": "Поповнення балансу"
@@ -29,5 +31,11 @@
   },
   "conferences": {
     "title": "Конференції"
+  },
+  "risk": {
+    "title": "Калькулятор ризику"
+  },
+  "notes": {
+    "title": "Нотатки"
   }
 }

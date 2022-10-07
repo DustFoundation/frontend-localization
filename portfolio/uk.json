@@ -9,12 +9,12 @@
       "first_step": {
         "title": "Крок 1",
         "choose_asset": "Виберіть актив",
-        "search": "Поиск"
+        "search": "Пошук"
       },
       "second_step": {
         "title": "Крок 2",
         "amount": "Кількість",
-        "max": "MAX",
+        "max": "MAКС",
         "price": "Ціна за монету",
         "date": "Дата (ДД.ММ.РРРР)",
         "date_placeholder": "ДД.ММ.РРРР",
@@ -118,7 +118,7 @@
         "every-year": "Раз на рік"
       },
       "unlock_period_types": {
-        "amount": "кіль.",
+        "amount": "кіл.",
         "percent": "%"
       },
       "cliff": {
@@ -299,7 +299,9 @@
       "amount_coin": "Кіл-ть монет",
       "date": "Дата",
       "value": "Об'єм в $",
-      "close": "Закрити"
+      "close": "Закрити",
+      "buy": "Покупка",
+      "sell": "Продаж"
     },
     "dialog-venture-coin-info": {
       "title": "Деталі венчурного активу",
@@ -443,6 +445,16 @@
       "network": "Мережа",
       "date": "Дата купівлі",
       "lock_period": "Період локу"
+    },
+    "unlock_info": {
+      "tge_today": "Сьогодні TGE",
+      "to_start_tge": "До початку TGE <span class='period'>{{ diff }}</span>",
+      "cliff_today": "До початку Cliff",
+      "to_start_cliff": "До початку Cliff <span class='period'>{{ diff }}</span>",
+      "cliff_end": "Сьогодні завершення Cliff",
+      "to_end_cliff": "До завершення Cliff <span class='period'>{{ diff }}</span>",
+      "today_unlock": "Сьогодні {{ num }} разлок",
+      "to_unlock": "До {{ num }} разлоку <span class='period'>{{ diff }}</span>"
     },
     "need_subscription": "Потрібно оформити підписку"
   }

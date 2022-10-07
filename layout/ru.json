@@ -6,6 +6,10 @@
       "status": "Активна"
     },
     "portfolio": "Портфолио",
+    "portfolio_dropdown": {
+      "all_portfolios": "Все портфели",
+      "risk_calculator": "Калькулятор риска"
+    },
     "academy": "Академия",
     "forum": "Форум",
     "main": "Главная",
@@ -17,10 +21,13 @@
       "transactions": "История транзакций",
       "settings": "Настройки",
       "promocode": "Промокод",
+      "bug_report": "Баг репорт",
       "support": "Чат поддержки",
-      "conferences": "Конференции"
+      "conferences": "Конференции",
+      "notes": "Все заметки",
+      "add_note": "Создать заметку"
     },
-    "sign_up": "Зарегистрироваться",
+    "sign_up": "Регистрация",
     "sign_in": "Войти",
     "logout": "Выйти из аккаунта",
     "in_development": "In development",

@@ -298,7 +298,9 @@
       "amount_coin": "Amount of coins",
       "date": "Date",
       "value": "Value in $",
-      "close": "Close"
+      "close": "Close",
+      "buy": "Buying",
+      "sell": "Sale"
     },
     "dialog-venture-coin-info": {
       "title": "Venture asset details",
@@ -442,6 +444,16 @@
       "network": "Network",
       "date": "Purchase date",
       "lock_period": "Lock period"
+    },
+    "unlock_info": {
+      "tge_today": "Today's TGE.",
+      "to_start_tge": "Before TGE <span class='period'>{{ diff }}</span>",
+      "cliff_today": "Today is the beginning of Cliff",
+      "to_start_cliff": "Before the Cliff <span class='period'>{{ diff }}</span>",
+      "cliff_end": "Cliff's completion today",
+      "to_end_cliff": "Before the Cliff is finished <span class='period'>{{ diff }}</span>",
+      "today_unlock": "Today {{ num }} is a breakdown of",
+      "to_unlock": "Before {{ num }} unlocking <span class='period'>{{ diff }}</span>"
     },
     "need_subscription": "Active subscription required"
   }

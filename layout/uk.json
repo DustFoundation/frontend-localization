@@ -6,6 +6,10 @@
       "status": "Активна"
     },
     "portfolio": "Портфоліо",
+    "portfolio_dropdown": {
+      "all_portfolios": "Усі портфелі",
+      "risk_calculator": "Калькулятор ризику"
+    },
     "academy": "Академія",
     "forum": "Форум",
     "main": "Головна",

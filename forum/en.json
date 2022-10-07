@@ -27,6 +27,7 @@
       "change": "Change",
       "reply": "Reply",
       "show": "Show",
+      "show_answer": "Show {{value}} {value, plural, =1 {reply} other {replies}}",
       "edit": "Edit",
       "delete": "Delete"
     },

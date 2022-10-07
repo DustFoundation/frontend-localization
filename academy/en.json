@@ -69,6 +69,14 @@
     "course_progress": "Course progress",
     "pass_again": "Pass again",
     "continue_learning": "Continue learning",
-    "start_learning": "Start learning"
+    "start_learning": "Start learning",
+    "about": "About",
+    "difficulty": {
+      "-1": "Unknown",
+      "0": "Basic",
+      "1": "Elementary",
+      "2": "Medium",
+      "3": "Advanced"
+    }
   }
 }

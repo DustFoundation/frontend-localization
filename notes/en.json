@@ -1,5 +1,6 @@
 {
   "title": "Notes",
+  "create_btn": "Create a note",
   "sort": {
     "date_desc": "Newer first",
     "date_asc": "Older first",

@@ -31,5 +31,8 @@
   },
   "conferences": {
     "title": "Конференции"
+  },
+  "notes": {
+    "title": "Заметки"
   }
 }

@@ -1,0 +1,82 @@
+{
+  "components": {
+    "course-finished-dialog": {
+      "title": "Підсумковий відгук про курс",
+      "module": "Модуль",
+      "leave_review": "Залишити відгук про курс"
+    },
+    "menu": {
+      "test": "Тест",
+      "testing": "Тестування"
+    },
+    "module-finished-dialog": {
+      "module": "Модуль",
+      "open_access": "Відкритий доступ до модуля",
+      "thanks_for_review": "Дякую, ваш відгук враховано",
+      "awful": "Жахливо",
+      "bad": "Погано",
+      "ok": "Ну так собі",
+      "good": "Добре",
+      "excellent": "Відмінно",
+      "rate_module": "Оцініть пройдений модуль",
+      "leave_review?": "Бажаєте залишити відгук?",
+      "next_lesson": "Наступний урок",
+      "yes": "Так",
+      "no": "Ні"
+    },
+    "module-review-dialog": {
+      "help_us": "Допоможіть нам покращити курс",
+      "please_leave_comment_about": "Залиште, будь ласка, відгук про",
+      "leave_review": "Залишити відгук",
+      "my_review": "Мій відгук",
+      "module": "Модуль",
+      "course": "Курс",
+      "back": "Назад"
+    }
+  },
+  "course-details": {
+    "level": "Рівень:",
+    "count_of_modules": "Модулів:",
+    "count_of_lessons": "Уроків:",
+    "got_badges": "Отримані Значки",
+    "course_progress": "Прогрес курсу",
+    "pass_again": "Пройти ще раз",
+    "continue_learning": "Продовжити навчання",
+    "start_learning": "Розпочати навчання",
+    "training_program": "Програма Навчання",
+    "module": "Модуль"
+  },
+  "course-lesson": {
+    "pass_test": "Здати тест",
+    "next_lesson": "Наступний урок",
+    "previous_lesson": "Попередній урок"
+  },
+  "course-test": {
+    "description": "Після проходження тесту ви отримуєте спеціальний значок, який відкриває доступ до наступного модуля.",
+    "ps": "P.S. Пройдіть тест без жодної помилки та отримайте золотий значок!",
+    "check_test": "Перевірити тест",
+    "try_once_more": "Спробувати ще раз",
+    "previous_lesson": "Попередній урок",
+    "onward": "Далі"
+  },
+  "courses": {
+    "need_subscription": "Потрібно оформити підписку",
+    "new_course_in_development": "Нові курси вже в розробці!",
+    "level": "Рівень:",
+    "count_of_modules": "Модулів:",
+    "count_of_lessons": "Уроків:",
+    "got_badges": "Отримані Значки",
+    "course_progress": "Прогрес курса",
+    "pass_again": "Пройти ще раз",
+    "continue_learning": "Продовжити навчання",
+    "start_learning": "Розпочати навчання",
+    "about": "Про курс",
+    "difficulty": {
+      "-1": "Невідомий",
+      "0": "Базовий",
+      "1": "Початковий",
+      "2": "Середній",
+      "3": "Складний"
+    }
+  }
+}

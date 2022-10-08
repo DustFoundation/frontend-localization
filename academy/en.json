@@ -1,0 +1,82 @@
+{
+  "components": {
+    "course-finished-dialog": {
+      "title": "Review our course",
+      "module": "Module",
+      "leave_review": "Leave feedback about the course"
+    },
+    "menu": {
+      "test": "Test",
+      "testing": "Assessment"
+    },
+    "module-finished-dialog": {
+      "module": "Module",
+      "open_access": "Access to module granted",
+      "thanks_for_review": "Thanks, your feedback is taken into account",
+      "awful": "Awful",
+      "bad": "Bad",
+      "ok": "Average",
+      "good": "Good",
+      "excellent": "Excellent",
+      "rate_module": "Rate this module",
+      "leave_review?": "Want to leave feedback?",
+      "next_lesson": "Next lesson",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "module-review-dialog": {
+      "help_us": "Help us to improve this course",
+      "please_leave_comment_about": "Please leave a review about the",
+      "leave_review": "Leave feedback",
+      "my_review": "My feedback",
+      "module": "Module",
+      "course": "Course",
+      "back": "Back"
+    }
+  },
+  "course-details": {
+    "level": "Level:",
+    "count_of_modules": "Modules:",
+    "count_of_lessons": "Lessons:",
+    "got_badges": "Received badges",
+    "course_progress": "Course progress",
+    "pass_again": "Pass again",
+    "continue_learning": "Continue learning",
+    "start_learning": "Start learning",
+    "training_program": "Learning program",
+    "module": "Module"
+  },
+  "course-lesson": {
+    "pass_test": "Take a test",
+    "next_lesson": "Next lesson",
+    "previous_lesson": "Previous lesson"
+  },
+  "course-test": {
+    "description": " After you pass the test, you will get a special badge, that will grant you access to the next module",
+    "ps": "P.S. Pass the test with zero errors to get a golden badge!",
+    "check_test": "Check test",
+    "try_once_more": "Try again",
+    "previous_lesson": "Previous lesson",
+    "onward": "Next"
+  },
+  "courses": {
+    "need_subscription": "Active subscription required",
+    "new_course_in_development": "New courses are already in development!",
+    "level": "Level:",
+    "count_of_modules": "Modules:",
+    "count_of_lessons": "Lessons:",
+    "got_badges": "Received badges",
+    "course_progress": "Course progress",
+    "pass_again": "Pass again",
+    "continue_learning": "Continue learning",
+    "start_learning": "Start learning",
+    "about": "About",
+    "difficulty": {
+      "-1": "Unknown",
+      "0": "Basic",
+      "1": "Elementary",
+      "2": "Medium",
+      "3": "Advanced"
+    }
+  }
+}

@@ -4,9 +4,9 @@
   "without_title": "Без назви",
   "my_template": "Мій шаблон",
   "navigation": {
-    "all_portfolios": "",
-    "calculator": "",
-    "indexes": "Індекси"
+    "all_portfolios": "Усі портфелі",
+    "calculator": "Калькулятор ризику",
+    "indexes": "Индексы"
   },
   "sort": {
     "title": "Сортування",

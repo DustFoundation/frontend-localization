@@ -6,8 +6,8 @@
       "transactions": "Транзакции"
     },
     "navigation": {
-      "all_portfolios": "Усі портфелі",
-      "calculator": "Калькулятор ризику",
+      "all_portfolios": "Все портфели",
+      "calculator": "Калькулятор риска",
       "indexes": "Индексы"
     },
     "dialog-add-coin": {

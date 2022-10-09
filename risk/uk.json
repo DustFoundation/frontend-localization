@@ -3,6 +3,11 @@
   "add_template": "Новий розрахунок",
   "without_title": "Без назви",
   "my_template": "Мій шаблон",
+  "navigation": {
+    "all_portfolios": "",
+    "calculator": "",
+    "indexes": "Індекси"
+  },
   "sort": {
     "title": "Сортування",
     "date_desc": "Дата: спочатку нові",

@@ -3,6 +3,11 @@
   "add_template": "Новый расчет",
   "without_title": "Без названия",
   "my_template": "Мой шаблон",
+  "navigation": {
+    "all_portfolios": "Усі портфелі",
+    "calculator": "Калькулятор ризику",
+    "indexes": "Индексы"
+  },
   "sort": {
     "title": "Сортировка",
     "date_desc": "Дата: сначала новые",

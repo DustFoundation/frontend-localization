@@ -5,6 +5,11 @@
       "main": "Головна",
       "transactions": "Транзакції"
     },
+    "navigation": {
+      "all_portfolios": "",
+      "calculator": "",
+      "indexes": "Індекси"
+    },
     "dialog-add-coin": {
       "first_step": {
         "title": "Крок 1",

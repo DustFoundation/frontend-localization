@@ -3,6 +3,11 @@
   "add_template": "New calculation",
   "without_title": "No title",
   "my_template": "My Template",
+  "navigation": {
+    "all_portfolios": "All portfolios",
+    "calculator": "Risk calculator",
+    "indexes": "Indices"
+  },
   "sort": {
     "title": "Sorting",
     "date_desc": "Date: first new",

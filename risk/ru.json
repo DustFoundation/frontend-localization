@@ -39,12 +39,12 @@
     "alert": "Внимание! Ликвидация слишком близко к cтоп-лосс!",
     "calculate": "Рассчитать",
     "tooltips": {
-      "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "price_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "leverage_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "risk_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "profit_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae."
+      "coin_tooltip": "Актив, выбранный для открытия позиции",
+      "volume_tooltip": "Сумма, на которую осуществляется открытие позиции, без учёта кредитного плеча",
+      "price_tooltip": "Котировка на графике, относительно которой откроется позиция",
+      "leverage_tooltip": "Кредитное плечо позволяет использовать заемные средства для торговли криптовалютами или другими финансовыми активами. Всегда обращайте внимание на то, что использование более высокого кредитного плеча, увеличивает вероятность ликвидации вашей позиции. Ликвидация плечей в % - х100 (1%)",
+      "risk_tooltip": "Потенциальный убыток в % от вашей позиции в случае негативного исхода",
+      "profit_tooltip": "Потенциальная прибыль в % от вашей позиции в случае позитивного исхода"
     }
   },
   "list": {

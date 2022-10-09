@@ -5,11 +5,6 @@
       "main": "Home",
       "transactions":  "Transactions"
     },
-    "navigation": {
-      "all_portfolios": "All portfolios",
-      "calculator": "Risk calculator",
-      "indexes": "Indices"
-    },
     "dialog-add-coin": {
       "first_step": {
         "title": "Step 1",
@@ -412,7 +407,12 @@
   },
   "portfolio-list": {
     "create_portfolio": "Create portfolio",
-    "need_subscription": "Active subscription required"
+    "need_subscription": "Active subscription required",
+    "navigation": {
+      "all_portfolios": "All portfolios",
+      "calculator": "Risk calculator",
+      "indexes": "Indices"
+    }
   },
   "portfolio-transactions": {
     "back": "Back",

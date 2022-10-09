@@ -5,11 +5,6 @@
       "main": "Головна",
       "transactions": "Транзакції"
     },
-    "navigation": {
-      "all_portfolios": "Усі портфелі",
-      "calculator": "Калькулятор ризику",
-      "indexes": "Индексы"
-    },
     "dialog-add-coin": {
       "first_step": {
         "title": "Крок 1",
@@ -413,7 +408,12 @@
   },
   "portfolio-list": {
     "create_portfolio": "Створити портфель",
-    "need_subscription": "Потрібно оформити підписку"
+    "need_subscription": "Потрібно оформити підписку",
+    "navigation": {
+      "all_portfolios": "Усі портфелі",
+      "calculator": "Калькулятор ризику",
+      "indexes": "Індекси"
+    }
   },
   "portfolio-transactions": {
     "back": "Назад",

@@ -5,6 +5,11 @@
       "main": "Home",
       "transactions":  "Transactions"
     },
+    "navigation": {
+      "all_portfolios": "All portfolios",
+      "calculator": "Risk calculator",
+      "indexes": "Indices"
+    },
     "dialog-add-coin": {
       "first_step": {
         "title": "Step 1",

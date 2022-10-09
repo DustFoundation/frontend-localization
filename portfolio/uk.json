@@ -5,6 +5,11 @@
       "main": "Головна",
       "transactions": "Транзакції"
     },
+    "navigation": {
+      "all_portfolios": "Усі портфелі",
+      "calculator": "Калькулятор ризику",
+      "indexes": "Индексы"
+    },
     "dialog-add-coin": {
       "first_step": {
         "title": "Крок 1",

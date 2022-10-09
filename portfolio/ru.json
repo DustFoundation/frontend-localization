@@ -5,11 +5,6 @@
       "main": "Главная",
       "transactions": "Транзакции"
     },
-    "navigation": {
-      "all_portfolios": "Все портфели",
-      "calculator": "Калькулятор риска",
-      "indexes": "Индексы"
-    },
     "dialog-add-coin": {
       "first_step": {
         "title": "Шаг 1",
@@ -413,7 +408,12 @@
   },
   "portfolio-list": {
     "create_portfolio": "Создать портфель",
-    "need_subscription": "Нужно оформить подписку"
+    "need_subscription": "Нужно оформить подписку",
+    "navigation": {
+      "all_portfolios": "Все портфели",
+      "calculator": "Калькулятор риска",
+      "indexes": "Индексы"
+    }
   },
   "portfolio-transactions": {
     "back": "Назад",

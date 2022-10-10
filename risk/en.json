@@ -3,6 +3,11 @@
   "add_template": "New calculation",
   "without_title": "No title",
   "my_template": "My Template",
+  "navigation": {
+    "all_portfolios": "All portfolios",
+    "calculator": "Risk calculator",
+    "indexes": "Indices"
+  },
   "sort": {
     "title": "Sorting",
     "date_desc": "Date: first new",
@@ -34,12 +39,12 @@
     "alert": "Warning! Liquidation is too close to the stop loss!",
     "calculate": "Calculate",
     "tooltips": {
-      "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "price_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "leverage_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "risk_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "profit_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae."
+      "coin_tooltip": "Currency for opening a position",
+      "volume_tooltip": "Amount for which a position is opened, excluding leverage",
+      "price_tooltip": "The quote on the chart at which the position will be opened",
+      "leverage_tooltip": "Leverage allows you to use borrowed funds to trade cryptocurrencies or other financial assets. Always keep in mind that using higher leverage increases the likelihood of your position being liquidated. Liquidation of shoulders in % - x100 (1%)",
+      "risk_tooltip": "Potential loss in % of your position in case of a negative scenario",
+      "profit_tooltip": "Potential profit in % of your position in case of a positive scenario"
     }
   },
   "list": {

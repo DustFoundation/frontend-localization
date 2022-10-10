@@ -3,6 +3,11 @@
   "add_template": "Новий розрахунок",
   "without_title": "Без назви",
   "my_template": "Мій шаблон",
+  "navigation": {
+    "all_portfolios": "Усі портфелі",
+    "calculator": "Калькулятор ризику",
+    "indexes": "Индексы"
+  },
   "sort": {
     "title": "Сортування",
     "date_desc": "Дата: спочатку нові",
@@ -34,12 +39,12 @@
     "alert": "Увага! Ліквідація надто близько до стоп-лосс!",
     "calculate": "Розрахувати",
     "tooltips": {
-      "coin_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "volume_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "price_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "leverage_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "risk_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae.",
-      "profit_tooltip": "Lorem ipsum dolor sit amet. Vel molestiae Quis qui repellendus saepe et incidunt vero in esse dolores hic tenetur ipsum id amet quaerat. Rem adipisci nihil vel eligendi omnis ea eaque beatae."
+      "coin_tooltip": "Актив, що використовується для відкриття позиції",
+      "volume_tooltip": "Сума, на яку здійснюється відкриття позиції, без урахування кредитного плеча",
+      "price_tooltip": "Котирування на графіку, за яким відкриється позиція",
+      "leverage_tooltip": "Кредитне плече дозволяє використовувати позичені кошти для торгівлі криптовалютами або іншими фінансовими активами. Завжди звертайте увагу на те, що використання вищого кредитного плеча збільшує ймовірність ліквідації вашої позиції. Ліквідація плечей у % - х100 (1%)",
+      "risk_tooltip": "Потенційний збиток у % від вашої позиції у разі негативного результату",
+      "profit_tooltip": "Потенційний прибуток у % від вашої позиції у разі позитивного результату"
     }
   },
   "list": {

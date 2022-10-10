@@ -408,7 +408,12 @@
   },
   "portfolio-list": {
     "create_portfolio": "Создать портфель",
-    "need_subscription": "Нужно оформить подписку"
+    "need_subscription": "Нужно оформить подписку",
+    "navigation": {
+      "all_portfolios": "Все портфели",
+      "calculator": "Калькулятор риска",
+      "indexes": "Индексы"
+    }
   },
   "portfolio-transactions": {
     "back": "Назад",

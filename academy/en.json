@@ -11,7 +11,7 @@
     },
     "module-finished-dialog": {
       "module": "Module",
-      "open_access": "Access to module granted",
+      "open_access": "Access to the module granted",
       "thanks_for_review": "Thanks, your feedback is taken into account",
       "awful": "Awful",
       "bad": "Bad",

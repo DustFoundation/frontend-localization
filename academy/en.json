@@ -47,8 +47,8 @@
     "module": "Module"
   },
   "course-lesson": {
-    "pass_test": "Take a test",
-    "next_lesson": "Next lesson",
+    "pass_test": "Pass the test",
+    "next_lesson": "The next lesson",
     "previous_lesson": "Previous lesson"
   },
   "course-test": {

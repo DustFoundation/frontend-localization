@@ -52,7 +52,7 @@
     "previous_lesson": "The previous lesson"
   },
   "course-test": {
-    "description": " After you pass the test, you will get a special badge, that will grant you access to the next module",
+    "description": " After passing the test, you will get a special badge that opens your access to the next module",
     "ps": "P.S. Pass the test with zero errors to get a golden badge!",
     "check_test": "Check test",
     "try_once_more": "Try again",

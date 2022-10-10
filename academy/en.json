@@ -1,7 +1,7 @@
 {
   "components": {
     "course-finished-dialog": {
-      "title": "Review our course",
+      "title": "Final review of our course",
       "module": "Module",
       "leave_review": "Leave your feedback about the course"
     },

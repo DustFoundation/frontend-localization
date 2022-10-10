@@ -63,5 +63,6 @@
   "note_deleted": "Note deleted",
   "note_saved": "Note saved",
   "notes_limit": "The note limit has been reached",
-  "notes_lost_connection": "Notes will be synchronized after the connection is restored."
+  "notes_lost_connection": "Notes will be synchronized after the connection is restored.",
+  "notes_access": "Available to users who have subscribed to the “Platform“"
 }

@@ -1,6 +1,7 @@
 {
   "title": "Notes",
   "create_btn": "Create a note",
+  "empty_note": "Empty note",
   "sort": {
     "date_desc": "Newer first",
     "date_asc": "Older first",
@@ -11,6 +12,7 @@
     "remove_button": "Delete note",
     "save": "Save",
     "title": "Create a note",
+    "edit_title": "Edit note",
     "title_label": "Header",
     "title_placeholder": "My note",
     "content_placeholder": "Enter note text",
@@ -18,7 +20,8 @@
     "validation_messages": {
       "required": "This field is required",
       "min_length": "Minimum length {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
-      "max_length": "Max length {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}"
+      "max_length": "Max length {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+      "not_only_spaces": "Title cannot contain only spaces"
     }
   },
   "delete_note_dialog": {

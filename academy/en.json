@@ -54,7 +54,7 @@
   "course-test": {
     "description": " After passing the test, you will get a special badge that opens your access to the next module",
     "ps": "P.S. Pass the test with zero mistakes to get a golden badge!",
-    "check_test": "Check test",
+    "check_test": "Check the test",
     "try_once_more": "Try again",
     "previous_lesson": "Previous lesson",
     "onward": "Next"

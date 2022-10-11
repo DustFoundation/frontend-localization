@@ -21,7 +21,7 @@
   "forgot-password": {
     "title_1": "Restore the former glory",
     "subtitle_1": "We'll send you a raven with a secret code to restore your password",
-    "get_code": "Send raven",
+    "get_code": "Send a raven",
     "title_2": "The raven has arrived",
     "subtitle_2": "Unwrap a scroll that raven has delivered to your email and enter a secret code below.",
     "code": "Code",

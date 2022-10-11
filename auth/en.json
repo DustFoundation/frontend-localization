@@ -89,7 +89,7 @@
     }
   },
   "sign-up": {
-    "have_account": "Have an account?",
+    "have_account": "Do you have an account?",
     "sign_in": "Sign In",
     "title": "Registration",
     "forgot_password": "Forgot password?",

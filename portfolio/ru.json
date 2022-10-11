@@ -33,7 +33,8 @@
         "invalid_date": "Невалидная дата",
         "min_price": "Цена не может быть меньше чем 0$",
         "max_amount": "Количество не может быть больше {{ max }} {{ coin }}",
-        "min_amount": "Количество не может быть меньше равно 0 {{ coin }}"
+        "min_amount": "Количество не может быть меньше равно 0 {{ coin }}",
+        "incorrectFormat": "Некорректный формат"
       }
     },
     "dialog-add-exchange-portfolio": {

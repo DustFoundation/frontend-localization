@@ -3,13 +3,14 @@
     "breadcrumbs": {
       "portfolio": "Portfolio",
       "main": "Home",
-      "transactions":  "Transactions"
+      "transactions": "Transactions"
     },
     "dialog-add-coin": {
       "first_step": {
         "title": "Step 1",
         "choose_asset": "Choose asset",
-        "search": "Search" },
+        "search": "Search"
+      },
       "second_step": {
         "title": "Step 2",
         "amount": "Amount",
@@ -32,7 +33,8 @@
         "invalid_date": "Invalid date",
         "min_price": "Price cannot be less than 0$",
         "max_amount": "Amount cannot exceed {{ max }} {{ coin }}",
-        "min_amount": "Amount cannot be less than 0 {{ coin }}"
+        "min_amount": "Amount cannot be less than 0 {{ coin }}",
+        "incorrectFormat": "Incorrect format"
       }
     },
     "dialog-add-exchange-portfolio": {

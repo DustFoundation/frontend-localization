@@ -3,7 +3,7 @@
   "create_btn": "Create a note",
   "empty_note": "Empty note",
   "sort": {
-    "custom": "By user",
+    "custom": "In custom order",
     "date_desc": "Date: first new",
     "date_asc": "Date: old first",
     "alphabet_desc": "Alphabetically A to Z",

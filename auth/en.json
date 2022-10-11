@@ -27,7 +27,7 @@
     "code": "Code",
     "send_new_code": "Resend code",
     "get_new_code_after": {
-      "code": "get new code",
+      "code": "get a new code",
       "after": "in {{ timer }} seconds"
     },
     "title_3": "Trial is over",

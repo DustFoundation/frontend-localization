@@ -52,7 +52,7 @@
   "new-password": {
     "title": "Trial is over",
     "subtitle": "You've proved your right to restore the former glory. Now just enter a new password.",
-    "restore_password": "Reset password",
+    "restore_password": "Reset the password",
     "form": {
       "new_password": "New password",
       "repeat_password": "Repeat password",

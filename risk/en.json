@@ -49,7 +49,8 @@
   },
   "list": {
     "empty": "No saved calculations",
-    "saved": "Saved"
+    "saved": "Saved",
+    "title_placeholder": "Enter the title"
   },
   "dialog_close_template": {
     "title": "Are you sure you want to open a new account?",

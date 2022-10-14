@@ -37,7 +37,7 @@
       "email_input_placeholder": "mail@mail.com",
       "back": "Назад",
       "validation_messages": {
-        "required": "Поле обов'язково до заповнення",
+        "required": "Поле обов'язкове до заповнення",
         "invalid_email": "Невалідний формат Email"
       },
       "policy": {

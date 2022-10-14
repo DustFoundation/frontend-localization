@@ -13,7 +13,7 @@
     "change-password-dialog": {
       "title": "Set the password",
       "new_password": "New password",
-      "repeat_password": "Repeat password",
+      "repeat_password": "Repeat the password",
       "change_password": "Change password",
       "password_input_placeholder": "*****************",
       "validation_messages": {

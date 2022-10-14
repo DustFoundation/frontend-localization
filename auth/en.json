@@ -5,7 +5,7 @@
     "code": "Code",
     "send_new_code": "Resend code",
     "get_new_code_after": {
-      "code": "get new code",
+      "code": "get a new code",
       "after": "in {{ timer }} seconds"
     },
     "done": "Done",
@@ -21,13 +21,13 @@
   "forgot-password": {
     "title_1": "Restore the former glory",
     "subtitle_1": "We'll send you a raven with a secret code to restore your password",
-    "get_code": "Send raven",
+    "get_code": "Send a raven",
     "title_2": "The raven has arrived",
-    "subtitle_2": "Unwrap a scroll that raven has delivered to your email and enter a secret code below.",
+    "subtitle_2": "Unwrap the scroll that a raven has delivered to your email and enter a secret code below.",
     "code": "Code",
     "send_new_code": "Resend code",
     "get_new_code_after": {
-      "code": "get new code",
+      "code": "get a new code",
       "after": "in {{ timer }} seconds"
     },
     "title_3": "Trial is over",
@@ -37,7 +37,7 @@
       "mail": "Email",
       "mail_input_placeholder": "mail@mail.com",
       "new_password": "New password",
-      "repeat_password": "Repeat password",
+      "repeat_password": "Repeat the password",
       "password_input_placeholder": "*****************"
     },
     "validation_messages": {
@@ -52,10 +52,10 @@
   "new-password": {
     "title": "Trial is over",
     "subtitle": "You've proved your right to restore the former glory. Now just enter a new password.",
-    "restore_password": "Reset password",
+    "restore_password": "Reset the password",
     "form": {
       "new_password": "New password",
-      "repeat_password": "Repeat password",
+      "repeat_password": "Repeat the password",
       "password_input_placeholder": "*****************"
     },
     "validation_messages": {
@@ -71,7 +71,7 @@
     "no_account": "Don't have an account?",
     "sign_up": "Sign Up",
     "title": "Sign In",
-    "forgot_password": "Forgot password?",
+    "forgot_password": "Forgot your password?",
     "ban_reason": "Ban reason:",
     "banned_until": "Banned until:",
     "sign_in": "Sign In",
@@ -89,10 +89,10 @@
     }
   },
   "sign-up": {
-    "have_account": "Have an account?",
+    "have_account": "Do you have an account?",
     "sign_in": "Sign In",
     "title": "Registration",
-    "forgot_password": "Forgot password?",
+    "forgot_password": "Forgot your password?",
     "ban_reason": "Ban reason:",
     "banned_until": "Banned until:",
     "sign_up": "Sign up",

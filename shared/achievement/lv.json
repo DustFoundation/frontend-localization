@@ -1,0 +1,50 @@
+{
+  "registration": {
+    "name": "“Kāmis”",
+    "description": "Veiksmīgi veicis reģistrāciju platformā"
+  },
+  "onboarding": {
+    "name": "”Pionieris”",
+    "description": "Izgājis platformas iepazīšanās programmu"
+  },
+  "portfolioalltypes": {
+    "name": "”Kīts",
+    "description": "Izveidoja visus trīs portfeļu veidus"
+  },
+  "academycoursegold": {
+    "name": "”Izcilnieks”",
+    "description": "Akadēmijas kursus nokārtojis ar izcilību"
+  },
+  "discordtelegram": {
+    "name": "”Integrators”",
+    "description": "Savienojis kontu ar Discord un Telegram"
+  },
+  "connections": {
+    "name": "”Piesekoja mums”",
+    "description": "Seko mūsu sociālajiem tīkliem"
+  },
+  "subscription": {
+    "name": "”Svarīga persona”",
+    "description": "Iegādājās DUST Platformas abonementu"
+  },
+  "forumfirstpost": {
+    "name": "”Komunikabls”",
+    "description": "Izveidoja savu pirmo ziņu forumā"
+  },
+  "amateur": {
+    "name": "”Kripto-diletants”",
+    "description": "Foruma ziņai savācis 10 ”Patīk”"
+  },
+  "portfolio10coins": {
+    "name": "”Kripto-monetizētājs”",
+    "description": "Virtuālajam portfelim pievienoja 10 monētas"
+  },
+  "dailyreward28": {
+    "name": "”Īstens HODLers”",
+    "description": "Saņēmis visas 28 dienu balvas pēc kārtas"
+  },
+  "omnipotence": {
+    "name": "”Visvarenības cimds”",
+    "description": "Nobalsoja par Forge atjauninājumiem"
+  }
+}

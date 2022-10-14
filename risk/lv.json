@@ -1,0 +1,77 @@
+{
+  "title": "Riska Kalkulators",
+  "add_template": "Jauns aprēķins",
+  "without_title": "Nav nosaukuma",
+  "my_template": "Mana veidne",
+  "navigation": {
+    "all_portfolios": "Visi portfeļi",
+    "calculator": "Riska kalkulators",
+    "indexes": "Indeksi"
+  },
+  "sort": {
+    "title": "Kārtošana",
+    "date_desc": "Datums: vispirms jaunākais",
+    "date_asc": "Datums: vispirms vecākais",
+    "alphabet_desc": "Alfabētiskā secībā no A līdz Z",
+    "alphabet_asc": "Alfabētiskā secībā no Z līdz A"
+  },
+  "calculator": {
+    "title_placeholder": "Ievadiet veidnes nosaukumu",
+    "status_saved": "Vārds mainīts",
+    "saved": "Saglabāts",
+    "button_save": "Saglabāt",
+    "type_long": "Long",
+    "type_short": "Short",
+    "search_placeholder": "Meklēt",
+    "result_link": "Kā tas darbojas?",
+    "result_title": "Rezultāts",
+    "result_item_volume": "Kredītapleca tirdzniecības apjoms",
+    "result_item_profit": "Gūt peļņu",
+    "result_item_proportion": "Riska/ peļņas attiecība",
+    "result_item_loss": "Apturēt zaudējumus",
+    "result_item_liquidation": "Likvidācija",
+    "coin_label": "Aktīvs",
+    "volume_label": "Darījuma apjoms",
+    "price_label": "Ieejas cena",
+    "leverage_label": "Kredīta plecs",
+    "risk_label": "Risks",
+    "profit_label": "Peļna",
+    "alert": "Uzmanību! Likvidācija ir pārāk tuvu apturētam zaudējumam!",
+    "calculate": "Aprēķināt",
+    "tooltips": {
+      "coin_tooltip": "Valūta pozīcijas atvēršanai",
+      "volume_tooltip": "Summa, par kādu tiek atvērta pozīcija, izņemot kredītaplecu",
+      "price_tooltip": "Quote diagrammā, kurā pozīcija tiks atvērta",
+      "leverage_tooltip": "Kredītaplecs ļauj izmantot aizņemtos līdzekļus kriptovalūtu vai citu finanšu aktīvu tirdzniecībai. Vienmēr paturiet prātā, ka, izmantojot lielāku kredītplecu, palielinās iespēja, ka jūsu pozīcija tiks likvidēta. Plecu likvidācija % - x100 (1%)",
+      "risk_tooltip": "Potenciālie zaudējumi % no jūsu pozīcijas negatīva scenārija gadījumā",
+      "profit_tooltip": "Potenciālā peļņa % no jūsu pozīcijas pozitīva scenārija gadījumā"
+    }
+  },
+  "list": {
+    "empty": "Nav saglabātu aprēķinu",
+    "saved": "Saglabāts",
+    "title_placeholder": "Ievadiet nosaukumu"
+  },
+  "dialog_close_template": {
+    "title": "Vai tiešān vēlaties atvērt jaunu kontu?",
+    "text": "Atverot jaunu aprēķinu, tiks dzēsti visi ievadītie dati un dzēsti rezultāti",
+    "button_apply": "Notīrīt",
+    "button_cancel": "Atcelt"
+  },
+  "dialog_delete_template": {
+    "title": "Aprēķinu dzēšana",
+    "text": "Vai tiešām vēlaties dzēst aprēķinu?",
+    "button_apply": "Noņemt",
+    "button_cancel": "Atcelt"
+  },
+  "dialog_save_template": {
+    "title": "Aprēķina saglabāšana",
+    "text": "Vai vēlaties atjaunināt atvērtu aprēķinu vai saglabāt aprēķinu kā jaunu?",
+    "button_apply": "Atjaunināt",
+    "button_cancel": "Saglabāt jaunu"
+  },
+  "dialog_tooltip_template": {
+    "title": "Padoms",
+    "button_close": "Sapratu!"
+  }
+}

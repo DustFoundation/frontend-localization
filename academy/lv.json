@@ -1,0 +1,82 @@
+{
+  "components": {
+    "course-finished-dialog": {
+      "title": "Pārskatīt mūsu kursu",
+      "module": "Modulis",
+      "leave_review": "Atstāt atsauksmes par kursu"
+    },
+    "menu": {
+      "test": "Tests",
+      "testing": "Novērtējums"
+    },
+    "module-finished-dialog": {
+      "module": "Modulis",
+      "open_access": "Piekļuve modulim piešķirta",
+      "thanks_for_review": "Paldies, jūsu atsauksme ir ņemta vērā",
+      "awful": "Šausmīgs",
+      "bad": "Slikts",
+      "ok": "Viduvējs",
+      "good": "Labs",
+      "excellent": "Izcils",
+      "rate_module": "Novērtēt šo moduli",
+      "leave_review?": "Vai vēlaties atstāt atsauksmi?",
+      "next_lesson": "Nākamā nodarbība",
+      "yes": "Jā",
+      "no": "Nē"
+    },
+    "module-review-dialog": {
+      "help_us": "Palīdziet mums uzlabot šo kursu",
+      "please_leave_comment_about": "Lūdzu, sniedziet atsauksmi par",
+      "leave_review": "Sniegt atsauksmi",
+      "my_review": "Manas atsauksmes",
+      "module": "Modulis",
+      "course": "Kurss",
+      "back": "Atpakaļ"
+    }
+  },
+  "course-details": {
+    "level": "Līmenis:",
+    "count_of_modules": "Moduļi:",
+    "count_of_lessons": "Nodarbības:",
+    "got_badges": "Saņemtie žetoni",
+    "course_progress": "Kursa attīstība",
+    "pass_again": "Nokārtot vēlreiz",
+    "continue_learning": "Turpināt mācīties",
+    "start_learning": "Sākt mācīties",
+    "training_program": "Mācību programma",
+    "module": "Modulis"
+  },
+  "course-lesson": {
+    "pass_test": "Veikt testu",
+    "next_lesson": "Nākamā nodarbība",
+    "previous_lesson": "Iepriekšējā nodarbība"
+  },
+  "course-test": {
+    "description": " Pēc testa nokārtošanas jūs saņemsiet īpašu žetonu, kas piešķirs jums piekļuvi nākamajam modulim",
+    "ps": "P.S. Nokārtojiet testu bez kļūdām, lai iegūtu zelta žetonu!",
+    "check_test": "Pārbaudes tests",
+    "try_once_more": "Mēģiniet vēlreiz",
+    "previous_lesson": "Iepriekšējā nodarbība",
+    "onward": "Nākamais"
+  },
+  "courses": {
+    "need_subscription": "Nepieciešans aktīvs abonaments",
+    "new_course_in_development": "Jauni kursi jau tiek izstrādāti!",
+    "level": "Līmenis:",
+    "count_of_modules": "Moduļi:",
+    "count_of_lessons": "Nodarbības:",
+    "got_badges": "Saņemtie žetoni",
+    "course_progress": "Kursa attīstība",
+    "pass_again": "Nokārtot vēlreiz",
+    "continue_learning": "Turpināt mācīties",
+    "start_learning": "Sākt mācīties",
+    "about": "Par",
+    "difficulty": {
+      "-1": "Nezināms",
+      "0": "Pamata",
+      "1": "Vienkāršs",
+      "2": "Vidējs",
+      "3": "Advancēts"
+    }
+  }
+}

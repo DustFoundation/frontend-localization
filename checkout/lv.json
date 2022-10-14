@@ -1,0 +1,130 @@
+{
+  "components": {
+    "binance-pay-dialog": {
+      "enter_sum": "Ievadiet papildināšanas summu",
+      "get_qr": "Saņemt QR kodu maksājuma veikšanai",
+      "min_sum": "Minimālā papildināšanas summa ir {{ num }}$",
+      "scan_qr": "Lai veiktu maksājumu, skenējiet QR kodu ar savu Binance mobilo lietotni",
+      "i_paid": "Esmu samaksājis",
+      "validation_messages": {
+        "required": "Lauks ir jāaizpilda obligāti"
+      }
+    },
+    "change-password-dialog": {
+      "title": "Iestatīt paroli",
+      "new_password": "Jaunā parole",
+      "repeat_password": "Atkārtot paroli",
+      "change_password": "Mainīt paroli",
+      "password_input_placeholder": "*****************",
+      "validation_messages": {
+        "required": "Lauks ir jāaizpilda obligāti",
+        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+        "password_rules": "Parole ir jāsatur vismaz 1 lielais burts un 1 cipars",
+        "passwords_not_match": "Paroles nesakrīt"
+      }
+    },
+    "checkout-email": {
+      "title_1": "Ievadiet savu e-pastu",
+      "subtitle_1": "Mēs nosūtīsim jums ziņojumu ar kodu, lai apstiprinātu jūsu e-pasta adresi",
+      "title_2": "E-pasta apstiprinājums",
+      "subtitle_2": "Ievadiet kodu, ko esam nosūtījuši uz jūsu e-pasta adresi",
+      "selected_subscription": "Izvēlētais abonements <span>{{ name }}</span>",
+      "change_subscription": "Mainīt abonementu",
+      "send_code": "Sūtīt kodu",
+      "send_code_after": "Atkārtoti sūt't kodu pēc <span> {{ time }} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}} <span/>",
+      "send_code_once_more": "Atkārtoti nosūtīt kodu",
+      "email_input_placeholder": "epasts@epasts.lv",
+      "back": "Atpakaļ",
+      "validation_messages": {
+        "required": "Lauks ir jāaizpilda obligāti",
+        "invalid_email": "Nederīgs e-pasta formāts"
+      },
+      "policy": {
+        "agree": "Es piekrītu",
+        "with": "privātuma politika"
+      }
+    },
+    "checkout-footer": {},
+    "checkout-header": {
+      "explore": "Izpētīt",
+      "products": "Produkti",
+      "roadmap": "Ceļvedis",
+      "about_us": {
+        "title": "Par mums",
+        "subtitle": "Mūsu komanda"
+      },
+      "our_brand": {
+        "title": "Mūsu zīmols",
+        "subtitle": "Logotipa lietošana"
+      },
+      "career": {
+        "title": "Karjera",
+        "subtitle": "Atvērtās pozīcijas"
+      },
+      "dust_bro": {
+        "title": "Dust Draugi & Enģeļi",
+        "subtitle": "Partnerības"
+      },
+      "blog": {
+        "title": "Blogs",
+        "subtitle": "Sekojiet līdzi jaunākajām ziņām"
+      },
+      "registration": "Reģistrācija",
+      "entry": "Pieteikties"
+    },
+    "checkout-payment": {
+      "title": "Abonēšanas ilguma izvēle",
+      "video_tutorial": "Video apmācība - kā iegādāties abonementu",
+      "terms_to_use": "Lietošanas noteikumi",
+      "privacy_policy": "Privātuma politika",
+      "warning": "Brīdinājumi par risku",
+      "back": "Atpakaļ",
+      "activate": "Aktivizēt",
+      "onward": "Nākamais",
+      "choose_network": "Atlasiet tīklu USDT parsūtīšanai",
+      "erc20": "ERC20 adrese:",
+      "trc20": "TRC20 adrese:",
+      "bep20": "BEP20 adrese:",
+      "bep2": "BEP2 adrese:",
+      "memo": "MEMO adrese:",
+      "click_to_copy": "Noklikšķiniet, lai kopētu",
+      "copied": "Kopēts",
+      "payed": "Esmu samaksājis",
+      "hash_or_number": "Darījuma hash / numurs",
+      "specify_hash_or_number": "Norādiet hash vai darījuma numuru",
+      "confirm": "Apstiprināt",
+      "faq": "FAQ",
+      "transaction": {
+        "title": "Norādiet hash vai darījuma numuru",
+        "recommendation": {
+          "title": "Ieteikumi",
+          "1": "Lai meklētu darījuma numuru pakalpojumā Binance, izmantojiet šo saiti (autorizēts):",
+          "2": "Ja esat nosūtījis USDT no citas biržas, norādiet šaja laukā Darījuma hash (TRC20 piemērs): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+          "3": "Varat norādīt arī darījuma numuru (Iekšējais pārskaitījums)- 43047269665, taču nejauciet ar savu maku - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
+        }
+      },
+      "important": {
+        "title": "Svarīgi",
+        "1": "Mēs pieņemam maksājums tikai Tether (USDT).",
+        "2": "Papildiniet savu balanci, lai aktivizētu abonamentu.",
+        "3": "Iesakām izmantot «TRC20» tīklu (tīkla maksa ~1$)",
+        "4": "Nosūtot uz šo adresi jebkuru citu monētu vai tokenu, izņemot USDT, var tikt zaudēti līdzekļi.",
+        "5": {
+          "first_part": "Lai aktivizētu abonamentu “{{ subscriptionName }}“ for {{ subscriptionTerm }}",
+          "second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}, jums ir jāpapildina atlikums par {{ subscriptionPrice }} USDT + pievienojiet ~1 USDT, lai segtu tīkla maksu."
+        }
+      },
+      "validation_messages": {
+        "required": "Lauks ir jāaizpilda obligāti",
+        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}"
+      }
+    },
+    "checkout-status": {
+      "processing": "Lido caur blokķēdi",
+      "success": "Maksājums sekmīgs",
+      "status": "Maksājuma statuss:"
+    }
+  },
+  "checkout-main": {}
+}

@@ -1,0 +1,153 @@
+{
+  "components": {
+    "dialog-buy-access": {
+      "title": "Atbloķēt forumu",
+      "subtitle": "Saņemiet ikdienas balvas un piekļūstiet forumam",
+      "on_balance": "Jūsu bilancē",
+      "dust": "DUST",
+      "unlock": "Atbloķēt"
+    },
+    "dialog-delete-ticket": {
+      "title": "Dzēst ziņu",
+      "subtitle": "Vai tiešām vēlaties dzēst savu ziņu?",
+      "delete": "Dzēst",
+      "cancel": "Atcelt"
+    },
+    "dialog-reject-reason": {
+      "title": "Biļetes noraidīšanas iemesls"
+    },
+    "ticket-comments": {
+      "forbidden": "Ir aizliegts atstāt komentārus par noraidītajām vai nepublicētajām ziņām"
+    },
+    "ticket-comments-item": {
+      "leave_comment": "Atstāt komentāru",
+      "show_more": "Rādīt vairāk...",
+      "hide": "Paslēpt",
+      "cancel": "Atcelt",
+      "change": "Mainīt",
+      "reply": "Atbildēt",
+      "show": "Rādīt",
+      "show_answer": "Rādīt {{value}} {value, plural, =1 {reply} other {replies}}",
+      "edit": "Rediģēt",
+      "delete": "Dzēst"
+    },
+    "ticket-item": {
+      "moderate": "Notiek pārskatīšana"
+    },
+    "ticket-leave-comment": {
+      "leave_comment": "Atstāt komentāru",
+      "reply": "Atbildēt",
+      "cancel": "Atcelt"
+    }
+  },
+  "buy-access": {
+    "all": "Visas ziņas",
+    "my-tickets": "Manas ziņas",
+    "create_post": "Izveidot ziņu",
+    "all_posts": "Visas ziņas",
+    "rating": "Vērtējums",
+    "name": "Ziņas nosaukums",
+    "author": "Autors",
+    "date": "Publicēšanas datums",
+    "topic": "Tēma",
+    "views": "Skatījumi",
+    "comments": "Komentāri",
+    "no_posts": "Forums ir tukšs :(",
+    "create_firs_post": "Izveidojiet savu pirmo ziņu"
+  },
+  "create-ticket": {
+    "status": "Statuss:",
+    "sent": "Nosūtīts:",
+    "edit_mode": "Ziņas rediģēšana",
+    "view_mode": "Ziņas skatīšana",
+    "create_post": "Ziņas izveide",
+    "title_post": "Ziņas nosaukums",
+    "title": "Virsraksts",
+    "post_topic": "Publicēt tēmu",
+    "description": "Ziņas teksts / saturs / apraksts",
+    "resend": "Sūtīt atkārtoti",
+    "times_left": "(Pa kreisi {{num}})",
+    "buy_opportunities": "Iegādājieties 10 iespējas, lai izveidotu ziņu (10 DUST)",
+    "moderate": "Notiek pārskatīšana",
+    "rejected": "Noraidīts",
+    "no_reason": "Iemesls nav norādīts",
+    "delete_post": "Dzēst ziņu",
+    "default_user_nickname": "Anonīms",
+    "loaded_photo": "Fotoattēls ir augšupielādēts:",
+    "load_image": "Izvēlēties failu vai velciet to šeit (JPG vai PNG mazāks par 3MB)",
+    "add_image": "Pievienot attēlu",
+    "close": "Aizvērt",
+    "create": "Izveidot",
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "min_length": "Minimālis garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+      "invalid_format_img": "Nederīgs attēla formāts",
+      "file_size_exceeded": "Pārsniegts faila lielums"
+    }
+  },
+  "my-tickets": {
+    "popular": "Populārs",
+    "news": "Juaunums",
+    "all": "Visas ziņas",
+    "my-tickets": "Manas ziņas",
+    "create_post": "Izveidot ziņu",
+    "delete_post": "Dzēst ziņu",
+    "no_posts": "Forums ir tukšs :(",
+    "create_firs_post": "Izveidojiet savu pirmo ziņu",
+    "name": "Ziņas nosaukums",
+    "date": "Publicēšanas datums",
+    "status": "Moderācijas statuss",
+    "comment": "Komentārs",
+    "no_reason": "Iemesls nav norādīts",
+    "view_post": "Skatīt ziņu",
+    "published": "Publicēts:",
+    "sent": "Nosūtīts:",
+    "edit": "Rediģēt",
+    "accepted": "Pieņemts",
+    "moderate": "Notiek pārskatīšana",
+    "rejected": "Noraidīts"
+  },
+  "ticket": {
+    "default_user_nickname": "Anonīms",
+    "up_rating": "Paaugstināt vērtējumu",
+    "remove_voice": "Noņemt balsojumu",
+    "rating": "Vērtējums",
+    "name": "Ziņas nosaukums",
+    "author": "Autors",
+    "date": "Publicēšanas datums",
+    "topic": "Tēma",
+    "views": "Skatījumi",
+    "comments": "Komentāri",
+    "moderator": "Moderators",
+    "edit": "Rediģēt",
+    "delete_post": "Dzēst ziņu",
+    "delete": "Dzēst"
+  },
+  "tickets": {
+    "popular": "Populārs",
+    "news": "Jaunums",
+    "all": "Visas ziņas",
+    "my-tickets": "Manas ziņas",
+    "create_post": "Izveidot ziņu",
+    "all_posts": "Visas ziņas",
+    "rating": "Vērtējums",
+    "name": "Ziņas nosaukums",
+    "author": "Autors",
+    "date": "Publicēšanas datums",
+    "topic": "Tēma",
+    "views": "Skatījumi",
+    "comments": "Komentāri",
+    "moderator": "Moderators",
+    "no_posts": "Forums ir tukšs :(",
+    "create_firs_post": "Izveidojiet savu pirmo ziņu"
+  },
+  "tags": {
+    "Идея": "Ideja",
+    "Жалоба": "Sūdzība",
+    "Партнерство": "Partnerība",
+    "Предложение": "Piedāvājums",
+    "Обсуждение": "Diskusija",
+    "Другое": "Cits"
+  }
+}

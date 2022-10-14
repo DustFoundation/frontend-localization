@@ -1,0 +1,119 @@
+{
+  "confirm-email": {
+    "title": "E-pasta apstiprinājums",
+    "subtitle": "Mēs esam nosūtījuši jums e-pastu ar apstiprinājuma kodu. Lūdzu ievadiet šo kodu zemāk",
+    "code": "Kods",
+    "send_new_code": "Atkārtoti nosūtīt kodu",
+    "get_new_code_after": {
+      "code": "Saņemt jaunu kodu",
+      "after": "pēc {{ timer }} sekundēm"
+    },
+    "done": "Darīts",
+    "back": "Atpakaļ"
+  },
+  "confirm-mfa": {
+    "title": "Verificējiet savu kontu",
+    "subtitle": "Ievadiet kodu, kas norādīts tālāk lietotnē Google",
+    "code": "Kods",
+    "back": "Atpakaļ",
+    "sign_in": "Pierakstīties"
+  },
+  "forgot-password": {
+    "title_1": "Atjaunot bijušo godību",
+    "subtitle_1": "Mēs jums nosūtīsim kraukli ar slepenu kodu, lai atjaunotu paroli",
+    "get_code": "Sūtīt kraukli",
+    "title_2": "Krauklis ir ieradies",
+    "subtitle_2": "Attiniet rullīti, ko krauklis ir nosūtījis uz jūsu e-pastu, un zemāk ievadiet slepeno kodu.",
+    "code": "Kods",
+    "send_new_code": "Atkārtoti nosūtīt kodu",
+    "get_new_code_after": {
+      "code": "Saņemt jaunu kodu",
+      "after": "pēc {{ timer }} sekundēm"
+    },
+    "title_3": "Izmēģinājuma periods ir beidzies",
+    "subtitle_3": "Jūs esat pierādījis savas tiesības atjaunot bijušo slavu. Tagad vienkārši ievadiet jauno paroli.",
+    "restore_password": "Atjaunot paroli",
+    "form": {
+      "mail": "E-pasts",
+      "mail_input_placeholder": "epasts@epasts.lv",
+      "new_password": "Jauna parole",
+      "repeat_password": "Atkārtot paroli",
+      "password_input_placeholder": "*****************"
+    },
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "invalid_email": "Nederīgs e-pasta formāts",
+      "min_length": "Minimālais garums {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+      "passwords_not_match": "Paroles nesakrīt",
+      "password_rules": "Parolei jāsatur vismaz 1 lielais burts un 1 cipars"
+    }
+  },
+  "new-password": {
+    "title": "Izmēģinājuma periods ir beidzies",
+    "subtitle": "Jūs esat pierādījis savas tiesības atjaunot bijušo slavu. Tagad vienkārši ievadiet jauno paroli.",
+    "restore_password": "Atjaunot paroli",
+    "form": {
+      "new_password": "Jauna parole",
+      "repeat_password": "Atkārtot paroli",
+      "password_input_placeholder": "*****************"
+    },
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "invalid_email": "Nederīgs e-pasts",
+      "min_length": "Minimālais garums {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+      "passwords_not_match": "Paroles nesakrīt",
+      "password_rules": "Parolei jāsatur vismaz 1 lielais burts un 1 cipars"
+    }
+  },
+  "sign-in": {
+    "no_account": "Vai jums nav konta?",
+    "sign_up": "Reģistrēties",
+    "title": "Pierakstīties",
+    "forgot_password": "Aizmirsāt paroli?",
+    "ban_reason": "Aizlieguma iemesls:",
+    "banned_until": "Aizliegts līdz:",
+    "sign_in": "Pierakstīties",
+    "form": {
+      "mail": "E-pasts",
+      "mail_input_placeholder": "epasts@epasts.lv",
+      "password": "Parole",
+      "password_input_placeholder": "*****************"
+    },
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "invalid_email": "Nederīgs e-pasts",
+      "min_length": "Minimālais garums {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums {{ max }} {max, plural, =1 {symbol} other {symbols}}"
+    }
+  },
+  "sign-up": {
+    "have_account": "Vai jums ir konts?",
+    "sign_in": "Pierakstīties",
+    "title": "Reģistrācija",
+    "forgot_password": "Aizmirsāt paroli?",
+    "ban_reason": "Aizlieguma iemesls:",
+    "banned_until": "Aizliegts līdz:",
+    "sign_up": "Reģistrēties",
+    "policy": {
+      "agree": "Es piekrītu",
+      "with": "privātuma politika"
+    },
+    "form": {
+      "mail": "E-pasts",
+      "mail_input_placeholder": "epasts@epasts.lv",
+      "password": "Parole",
+      "password_input_placeholder": "*****************",
+      "repeat_password": "Atkārtojiet paroli"
+    },
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "invalid_email": "Nederīgs e-pasta formāts",
+      "min_length": "Minimālais garums {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+      "passwords_not_match": "Paroles nesakrīt",
+      "password_rules": "Parolei jāsatur vismaz 1 lielais burts un 1 cipars"
+    }
+  }
+}

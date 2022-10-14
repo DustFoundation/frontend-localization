@@ -31,7 +31,7 @@
       "subtitle_2": "Введіть нижче код, який надійшов на вашу пошту",
       "selected_subscription": "Вибрано підписку <span>{{ name }}</span>",
       "change_subscription": "Змінити підписку",
-      "send_code": "Послати код",
+      "send_code": "Надіслати код",
       "send_code_after": "Послати код ще раз через <span> {{ time }} {time, plural, =1 {секунду} =2 {секунди} =3 {секунди} =4 {секунди} other {секунд}} <span/>",
       "send_code_once_more": "Надіслати код ще раз",
       "email_input_placeholder": "mail@mail.com",

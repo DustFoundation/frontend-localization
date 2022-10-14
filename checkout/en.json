@@ -11,7 +11,7 @@
       }
     },
     "change-password-dialog": {
-      "title": "Set password",
+      "title": "Set the password",
       "new_password": "New password",
       "repeat_password": "Repeat password",
       "change_password": "Change password",

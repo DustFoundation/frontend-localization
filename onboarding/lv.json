@@ -1,0 +1,102 @@
+{
+  "onboarding-call-dialog": {
+    "title": "Vai vēlaties izlasīt detalizētu Dust Platformas ceļvedi?",
+    "skip": "Izlaist",
+    "yes": "Jā"
+  },
+  "onboarding-dialog": {
+    "back": "Atpakaļ",
+    "onward": "Nākamais",
+    "done": "Gatavs",
+    "portfolio": {
+      "title": "Sadaļa “Portfelis”",
+      "description": "Šajā sadaļā varat izveidot savus portfeļus, izsekot saviem līdzekļiem un ieguldījumiem.",
+      "list": {
+        "1": "Kopējais aptuvenais portfeļu un PNL atlikums",
+        "2": "Ieguldījumu stratēģiju simulācija",
+        "3": "Maiņas portfeļu integrācija vienā vietā",
+        "4": "Riska ieguldījumu aplēses un izsekošana"
+      }
+    },
+    "virtual_portfolio": {
+      "title": "Virtuālais portfelis",
+      "description": "Izmantojot šo portfeli, varat manuāli pievienot aktīvus un simulēt dažāda veida ieguldījumu stratēģijas",
+      "list": {
+        "1": "Manuāla darījumu pievienošana",
+        "2": "1000+ kriptoaktīvi, ko izsekot",
+        "3": "Peļņas/ zaudējumu diagrammas vizualizācija",
+        "4": "Finanšu sadales diagrammas vizualizācija"
+      }
+    },
+    "exchange_portfolio": {
+      "title": "Biržas portfelis",
+      "description": "Izmantojot šo portfeli, varat izsekot biržas portfeļiem, izmantojot API integrācijas.",
+      "list": {
+        "1": "Vienkārša un skaidra integrācija, izmantojot API",
+        "2": "Automātiska darījumu un cenu atjaunināšana",
+        "3": "Peļņas/ zaudējumu diagrammas vizualizācija",
+        "4": "Finanšu sadales diagrammas vizualizācija"
+      }
+    },
+    "venture_portfolio": {
+      "title": "Uzņēmuma portfelis",
+      "description": "Izmantojot šo portfeli, varat izsekot visiem riska ieguldījumiem ar elastīgu konfigurāciju un vizualizācijām.",
+      "list": {
+        "1": "Elastīga riska ieguldījumu izsekošana",
+        "2": "TGE un tokenu atbloķēšanas diagramma",
+        "3": "Detalizēta informācija par riska aktīvu",
+        "4": "Automātiski aprēķini Excel tabulu vietā"
+      }
+    },
+    "forum": {
+      "title": "Sadaļa “Forums”",
+      "description": "Šajā sadaļā varat izveidot ziņas un dalīties savās domās ar līdzīgi domājošu cilvēku kopienu.",
+      "list": {
+        "1": "Ziņu skatīšana vērtēšanas secībā",
+        "2": "Iespēja komentēt citu cilvēku izveidotās ziņas",
+        "3": "Nopelniet DUST tokenu par labākajām ziņām",
+        "4": "Esat lietas kursā par jaunākajiem notikumiem"
+      }
+    },
+    "academy": {
+      "title": "Sadaļa “Akadēmija”",
+      "description": "Šajā sadaļā varat izvēlēties sev interesējošo kursu un iegūt jaunas zināšanas.",
+      "list": {
+        "1": "Katru kursu veido DUST.FOUNDATION komanda",
+        "2": "Sarežģītu tēmu vizuāls attēlojums videoklipos",
+        "3": "Pārbaudījumu nokārtošana katrā modulī",
+        "4": "Moduļu un kursu novērtēšana"
+      }
+    },
+    "balance": {
+      "title": "Sadaļa “Papildināt bilanci”",
+      "description": "Šajā sadaļā varat iegādāties/ pagarināt abonementus platformai un kriptokopienai.",
+      "list": {
+        "1": "Vienkāršs 2 pakāpju maksājuma process",
+        "2": "Atbalsts dažādiem tīkliem un Binance Pay",
+        "3": "Detalizēta video apmācība par to, kā veikt maksājumus jaunpienācējiem",
+        "4": "Ātra līdzekļu ieskaitīšana platformā"
+      }
+    },
+    "subscription": {
+      "title": "Sadaļa “Abonēšana”",
+      "description": "Šajā sadaļā varat izvēlēties un aktivizēt dažāda veida abonementus.",
+      "list": {
+        "1": "7 dienu bezmaksas izmēģinājuma versija (DUST platforma)",
+        "2": "3 abonementu veidi ar dažādu ilgumu",
+        "3": "Integrācijas ar Telegram un Discord",
+        "4": "Atlaižu sistēma un DUST tokena nopelnīšana"
+      }
+    },
+    "profile": {
+      "title": "Sadaļa “Profils”",
+      "description": "Šajā sadaļā varat saņemt ikdienas balvas, sasniegumus un izsekot savam vērtējumam.",
+      "list": {
+        "1": "Izvēlēties savu kriptoavatāru",
+        "2": "Ikdienas atlīdzība par platformas apmeklējumu",
+        "3": "Saņemto sasniegumu saraksts",
+        "4": "Lietotāja vērtējums"
+      }
+    }
+  }
+}

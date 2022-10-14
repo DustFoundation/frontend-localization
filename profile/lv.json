@@ -1,0 +1,124 @@
+{
+  "components": {
+    "achievement-dialog": {
+      "got_achievement": "Sasniegums ir atbloķēts",
+      "close": "Aizvērt"
+    },
+    "activate-mfa-dialog": {
+      "title": "Iespējot 2FA",
+      "subtitle": "Skenējiet QR kodu un ievadiet kodu, lai apstiprinātu autentifikāciju",
+      "code": "Kods",
+      "activate": "Iespējot"
+    },
+    "change-avatar-dialog": {
+      "title": "Mainīt avataru",
+      "accepted_format": "Pieņemamie formāti: JPG, PNG, kas nav lielāki par 3MB",
+      "load_photo": "Augšupielādēt fotoattēlu",
+      "choose_avatar": "Izvēlēties avataru"
+    },
+    "change-password-dialog": {
+      "title": "Mainīt paroli",
+      "subtitle": "Mēs nosūtijām jums e-pastu ar kodu, lai mainītu paroli",
+      "enter_code": "Ievadiet kodu",
+      "enter_data": "Ievadiet datus, lai izveidotu jaunu paroli",
+      "save_password": "Saglabāt paroli",
+      "onward": "Nākamais",
+      "form": {
+        "new_password": "Jauna parole",
+        "repeat_new_password": "Atkārtot jauno paroli",
+        "password_input_placeholder": "*****************"
+      },
+      "validation_messages": {
+        "required": "Lauks ir jāaizpilda obligāti",
+        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+        "password_rules": "Parolei jāsatur vismaz 1 lielais burts un 1 cipars",
+        "passwords_not_match": "Paroles nesakrīt"
+      }
+    },
+    "choose-avatar-dialog": {
+      "title": "Pieejamie avatari",
+      "save": "Saglabāt"
+    },
+    "deactivate-mfa-dialog": {
+      "title": "Atspējot 2FA",
+      "subtitle": "Vai tiešām vēlaties atspējot 2FA?",
+      "disconnect": "Atspējots"
+    }
+  },
+  "profile-main": {
+    "my_character": "Mans personāžs",
+    "level": "līmenis",
+    "experience": "Pieredze",
+    "internal_currency": "Iekšējā valūta",
+    "daily_rewards": "Ikdienas atlīdzības",
+    "day": "Diena {{ day }}",
+    "get_daily_reward": "Saņemt ikdienas atlīdzību",
+    "to_next_reward": "Līdz nākamajai atlīdzībai",
+    "got_reward": "Saņemtie apbalvojumi",
+    "in_development": "Izstrādē",
+    "of": "{{ num1 }} no {{num2}}",
+    "usdt": "USDT",
+    "dust": "DUST TOKEN",
+    "micron": "MICRON",
+    "crypto-bum": "Crypto-hobo",
+    "beta": "BETA"
+  },
+  "profile-settings": {
+    "title": "Profila informācija",
+    "change_avatar": "Mainīt avataru",
+    "delete_avatar": "Dzēst avataru",
+    "security": "Drošība",
+    "change_password": "Mainīt paroli",
+    "mfa": "Divu faktoru autentifikācija",
+    "disconnect_mfa": "Atspējot 2FA",
+    "integrations": "Integrācijas",
+    "security_title": "Drošība",
+    "integrations_title": "Integrācijas",
+    "language_title": "Valodas iestatījumi",
+    "help_title": "Palīdzība",
+    "main_language": "Primārā valoda",
+    "main_language_description": "Izvēlieties primāro satura valodu",
+    "additional_language": "Sekundārā valoda",
+    "additional_language_description": "Izvēlieties valodu, kas tiks izmantota satura attēlošanai gadījumā, ja tulkojums uz primāro valodu nav pieejams",
+    "information_about_platform": "Informācija par platformu",
+    "open": "Atvērt",
+    "help": "Palīdzība",
+    "connect": "Savienot",
+    "password": "Parole",
+    "mail": "E-pasts",
+    "nickname": "Segvārds",
+    "ru": "Русский",
+    "en": "English",
+    "uk": "Українська",
+    "lv": "Latviešu",
+    "saved": "Saglabāts"
+  },
+  "profile-transactions": {
+    "transaction": "Darījums",
+    "date": "Datums",
+    "sum": "Summa",
+    "status": "Statuss",
+    "sum_status": "Summa/ statuss",
+    "information": "Informācija",
+    "no_transaction": "Darījumu nav.",
+    "usdt": "USDT",
+    "transaction_types": {
+      "deposit": "Papildināt bilanci",
+      "subscription": "Abonementa iegāde",
+      "FORUM_ACCESS": "Piekļuve forumam",
+      "FORUM_POSTS_10": "Iegādājās 10 foruma ziņas"
+    },
+    "transaction_statuses": {
+      "created": "Gaida",
+      "pending": "Notiek apstrāde",
+      "pre-approve": "Gaida apstiprinājumu",
+      "approve": "Apstiprināts",
+      "done": "Gatavs",
+      "failed": "Ir radusies kļūda",
+      "canceled": "Atcelts",
+      "expired": "Beigusies",
+      "other": "Nezināms"
+    }
+  }
+}

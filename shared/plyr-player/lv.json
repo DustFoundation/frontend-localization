@@ -1,0 +1,6 @@
+{
+  "auto": "Auto",
+  "normal": "Normāls",
+  "speed": "{type, plural, =1 {Playback speed} other {Playback speed}}",
+  "quality": "Kvalitāte"
+}

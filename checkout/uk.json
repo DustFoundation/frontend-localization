@@ -7,7 +7,7 @@
       "scan_qr": "Відскануйте QR-код у вашому мобільному додатку Binance, щоб зробити оплату",
       "i_paid": "Я оплатив",
       "validation_messages": {
-        "required": "Поле обов'язково до заповнення"
+        "required": "Поле обов'язкове до заповнення"
       }
     },
     "change-password-dialog": {

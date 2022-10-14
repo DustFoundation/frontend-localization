@@ -33,7 +33,7 @@
       "change_subscription": "Change subscription",
       "send_code": "Send the code",
       "send_code_after": "Resend a code in <span> {{ time }} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}} <span/>",
-      "send_code_once_more": "Resend code",
+      "send_code_once_more": "Resend a code",
       "email_input_placeholder": "mail@mail.com",
       "back": "Back",
       "validation_messages": {

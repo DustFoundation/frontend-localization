@@ -32,7 +32,7 @@
       "selected_subscription": "Izvēlētais abonements <span>{{ name }}</span>",
       "change_subscription": "Mainīt abonementu",
       "send_code": "Sūtīt kodu",
-      "send_code_after": "Atkārtoti sūt't kodu pēc <span> {{ time }} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}} <span/>",
+      "send_code_after": "Atkārtoti sūtīt kodu pēc <span> {{ time }} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}} <span/>",
       "send_code_once_more": "Atkārtoti nosūtīt kodu",
       "email_input_placeholder": "epasts@epasts.lv",
       "back": "Atpakaļ",

@@ -12,7 +12,7 @@
         "search": "Meklēt" },
       "second_step": {
         "title": "2. darbība",
-        "amount": "Summa",
+        "amount": "Daudzums",
         "max": "MAX",
         "price": "Cena par monētu",
         "date": "Datums (DD.MM.YYYY)",
@@ -48,11 +48,11 @@
       "enter_secret_key": "Ievadiet slepeno atslēgu",
       "secret_key": "Slepenā atslēga",
       "help": {
-        "1": "Binance biržas vietnē atveriet <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API pārvaldību</a> a> sadaļa",
+        "1": "Binance biržas vietnē atveriet <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API pārvaldība</a> sadaļu",
         "2": "<strong> Izveidojiet jaunu API atslēgu </strong>, nosauciet to, piemēram, <strong>\"DUST Portfelis\"</strong>, un nospiediet <strong>\"Tālāk\"</strong>.",
         "3": "(Ja viss ir kārtībā), <strong>ievadiet 2FA kodus</strong>",
-        "4": "Kopēt <strong>API atslēgu</strong> un <strong>slepeno atslēgu</strong>",
-        "5": "<span> IR VĒLAMS atspējot piekļuvi šai API atslēgai, lai to izdarītu:</span><ol><li>Noklikšķiniet uz <strong>\"Rediģēt ierobežojumus\"</strong>< /li><li>Atspējot <strong>\"Iespējot Spot un Margin tirdzniecību\"</strong></li><li>Noklikšķiniet uz <strong>\"Saglabāt\"</strong></li><li> Ievadiet <strong>divu faktoru autentifikācijas kodu</strong></li></ol>"
+        "4": "Kopējiet <strong>API atslēgu</strong> un <strong>slepeno atslēgu</strong>",
+        "5": "<span> IR VĒLAMS atspējot treidošanas piekļuvi šai API atslēgai, lai to izdarītu:</span><ol><li>Noklikšķiniet uz <strong>\"Rediģēt ierobežojumus\"</strong></li><li>Atspējot <strong>\"Iespējot Spot un Margin tirdzniecību\"</strong></li><li>Noklikšķiniet uz <strong>\"Saglabāt\"</strong></li><li> Ievadiet <strong>divu faktoru autentifikācijas kodu</strong></li></ol>"
       },
       "create": "Izveidot",
       "back": "Atpakaļ",
@@ -151,18 +151,18 @@
         "logo": "Asset logo",
         "format_img": "JPG vai PNG, 1:1 (kvadrāts),<br />ne vairāk kā 3 MB",
         "loaded_photo": "Fotoattēls ir augšupielādēts:",
-        "download": "Lejupielādēt"
+        "download": "Augšupielādēt"
       },
       "second_step": {
         "price": "Pirkuma cena*",
         "price_placeholder": "Cena",
         "amount": "Iegādāto monētu/tokenu daudzums*",
-        "amount_placeholder": "Summa",
+        "amount_placeholder": "monētu daudzums",
         "round": "Rounds",
         "total_attachment": "Kopējais ieguldījums:"
       },
       "third_step": {
-        "network": "Tīkls",
+        "network": "Blokķēžu tīkls",
         "address": "Smart-contract adrese",
         "type": "Projekta tips",
         "date": "Pirkšanas datums (DD.MM.YYYY)*"
@@ -185,7 +185,7 @@
         "end_date": "Beigu datums",
         "start_date": "Sākuma datums",
         "frequency": "Biežums",
-        "info": "{{ amount }} monētas/ tokeni {{ period }} no{{ start }} līdz {{ emd }}",
+        "info": "{{ amount }} monētas/ tokeni - {{ period }}, no {{ start }} līdz {{ end }}.",
         "select_period": "Atlasīt periodu",
         "unlock_impossible": "Atbloķēšana atlasītajam periodam nav iespējams",
         "elem_unlock_date": "Atbloķēšanas datums {{ num }}",
@@ -211,7 +211,7 @@
     "dialog-add-venture-portfolio": {
       "create_portfolio": "Izveidot portfeli",
       "title": "Uzņēmuma portfeļa izveide",
-      "name_placeholder": "Iesācējs kriptovalūtu investors",
+      "name_placeholder": "Kriptovalūtu investors",
       "description_placeholder": "Papildus uzticamiem un pārbaudītiem aktīviem šajā portfelī ir arī daži no daudzsološākajiem un aktīvāk izstrādātajiem projektiem.",
       "name": "Nosaukums",
       "description_not_necessarily": "Apraksts (nav obligāts)",
@@ -230,7 +230,7 @@
       },
       "exchange": {
         "title": "Biržas portfelis",
-        "subtitle": "Integrācija ar apmaiņu un nekustamo īpašumu izsekošanu"
+        "subtitle": "Integrācija ar biržu un to assetu izsekošana"
       },
       "venture": {
         "title": "Uzņēmuma portfelis",
@@ -402,7 +402,7 @@
     "portfolio_empty": "Portfelis ir tukšs...",
     "your_portfolio_empty": "Jūsu portfelis ir tukšs :(",
     "add_asset": "Pievienot assetu",
-    "add_first_asset": "Pievienot pirmo assetu",
+    "add_first_asset": "Pievieno pirmo assetu",
     "need_subscription": "Nepieciešams aktīvs abonements"
   },
   "portfolio-list": {
@@ -434,14 +434,14 @@
     "delete_asset": "Dzēst assetu",
     "edit": "Rediģēt",
     "your_portfolio_empty": "Jūsu portfelis ir tukšs :(",
-    "add_first_asset": "Pievienot pirmo assetu",
-    "unlock_chart": "Atbloķēt riska assetu diagrammu",
+    "add_first_asset": "Pievienojiet pirmo assetu",
+    "unlock_chart": "Riska aktīvu atbloķēšanas diagramma",
     "impossible_to_build": "Šim assetam nav iespējams izveidot diagrammu",
-    "my_assets": "{isMobile, plural, =1 {My assets} other {My venture assets}}",
+    "my_assets": "{isMobile, plural, =1 {My assets} other {Mana uzņēmuma asseti}}",
     "portfolio_empty": "Portfelis ir tukšs...",
     "characteristics": {
-      "price": "{isMobile, plural, =1 {Price} other {Buy price}}",
-      "amount": "{isMobile, plural, =1 {Amount} other {Amount of coins}}",
+      "price": "{isMobile, plural, =1 {Price} other {Pirkuma cena}}",
+      "amount": "{isMobile, plural, =1 {Amount} other {Monētu daudzums}}",
       "investment_volume": "Investīcijas apjoms",
       "type_of_project": "Projekta tips",
       "type": "Tips",

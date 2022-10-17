@@ -17,10 +17,10 @@
       "title": "Biļetes noraidīšanas iemesls"
     },
     "ticket-comments": {
-      "forbidden": "Ir aizliegts atstāt komentārus par noraidītajām vai nepublicētajām ziņām"
+      "forbidden": "Ir aizliegts pievienot komentārus par noraidītajām vai nepublicētajām ziņām"
     },
     "ticket-comments-item": {
-      "leave_comment": "Atstāt komentāru",
+      "leave_comment": "Pievienot komentāru",
       "show_more": "Rādīt vairāk...",
       "hide": "Paslēpt",
       "cancel": "Atcelt",
@@ -35,7 +35,7 @@
       "moderate": "Notiek pārskatīšana"
     },
     "ticket-leave-comment": {
-      "leave_comment": "Atstāt komentāru",
+      "leave_comment": "Pievienot komentāru",
       "reply": "Atbildēt",
       "cancel": "Atcelt"
     }
@@ -45,11 +45,11 @@
     "my-tickets": "Manas ziņas",
     "create_post": "Izveidot ziņu",
     "all_posts": "Visas ziņas",
-    "rating": "Vērtējums",
+    "rating": "Reitings",
     "name": "Ziņas nosaukums",
     "author": "Autors",
     "date": "Publicēšanas datums",
-    "topic": "Tēma",
+    "topic": "Birka",
     "views": "Skatījumi",
     "comments": "Komentāri",
     "no_posts": "Forums ir tukšs :(",
@@ -63,7 +63,7 @@
     "create_post": "Ziņas izveide",
     "title_post": "Ziņas nosaukums",
     "title": "Virsraksts",
-    "post_topic": "Publicēt tēmu",
+    "post_topic": "Ziņas birka",
     "description": "Ziņas teksts / saturs / apraksts",
     "resend": "Sūtīt atkārtoti",
     "times_left": "(Pa kreisi {{num}})",
@@ -77,7 +77,7 @@
     "load_image": "Izvēlēties failu vai velciet to šeit (JPG vai PNG mazāks par 3MB)",
     "add_image": "Pievienot attēlu",
     "close": "Aizvērt",
-    "create": "Izveidot",
+    "create": "Publicēt ziņu",
     "validation_messages": {
       "required": "Lauks ir jāaizpilda obligāti",
       "min_length": "Minimālis garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
@@ -88,7 +88,7 @@
   },
   "my-tickets": {
     "popular": "Populārs",
-    "news": "Juaunums",
+    "news": "Jaunums",
     "all": "Visas ziņas",
     "my-tickets": "Manas ziņas",
     "create_post": "Izveidot ziņu",
@@ -112,11 +112,11 @@
     "default_user_nickname": "Anonīms",
     "up_rating": "Paaugstināt vērtējumu",
     "remove_voice": "Noņemt balsojumu",
-    "rating": "Vērtējums",
+    "rating": "Reitings",
     "name": "Ziņas nosaukums",
     "author": "Autors",
     "date": "Publicēšanas datums",
-    "topic": "Tēma",
+    "topic": "Birka",
     "views": "Skatījumi",
     "comments": "Komentāri",
     "moderator": "Moderators",
@@ -131,11 +131,11 @@
     "my-tickets": "Manas ziņas",
     "create_post": "Izveidot ziņu",
     "all_posts": "Visas ziņas",
-    "rating": "Vērtējums",
+    "rating": "Reitings",
     "name": "Ziņas nosaukums",
     "author": "Autors",
     "date": "Publicēšanas datums",
-    "topic": "Tēma",
+    "topic": "Birka",
     "views": "Skatījumi",
     "comments": "Komentāri",
     "moderator": "Moderators",

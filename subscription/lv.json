@@ -3,15 +3,15 @@
     "dialog-subscription-status": {
       "term": "Abonements uz {{ day }} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} ir aktivizēts!",
       "title": "Laipni lūdzam kriptovalūtu kopienā!",
-      "subtitle": "Sāciet izmantot visas platformas funkcijas un priekšrocības tūlīt!",
-      "to_main": "Sākums"
+      "subtitle": "Sāciet izmantot visas platformas iespējas un priekšrocības jau tūlīt!",
+      "to_main": "Doties uz sākumu"
     },
     "subscription-integrations": {
-      "title": "Discord un Telegram integrācijas",
-      "rule_1": "Lai iegūtu pilnu piekļuvi privātajam Discord serverim un Telegram kanālam, jums ir jāsavieno to integrācijas",
+      "title": "Discord un Telegram integrācija",
+      "rule_1": "Lai iegūtu pilnu piekļuvi privātajam Discord serverim un Telegram kanālam, jums ir jāveic platformu integrācija",
       "rule_2": "Piekļuve tiks piešķirta tikai norādītajiem kontiem! Piekļuves pārsūtīšana uz citu kontu būs iespējama tikai pēc abonementa atjaunošanas.",
       "back": "Atpakaļ",
-      "onward": "Nākamais",
+      "onward": "Turpināt",
       "skip": "Izlaist",
       "attention": "Uzmanību!"
     },
@@ -27,7 +27,7 @@
       "bonus": "Abonējot {{ term }} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}, jūs saņemat {{ bonus_term }} {bonus_term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} for free!",
       "rule_1": "Pirms turpināt, lūdzu, pārliecinieties, vai jūsu bilancē ir pietiekami daudz USDT, lai aktivizētu abonementu!",
       "rule_2": {
-        "first_part": "lai aktivizētu abonementu “{{ subscriptionName }}“ priekš {{ subscriptionTerm }}",
+        "first_part": "Lai aktivizētu abonementu “{{ subscriptionName }}“ priekš {{ subscriptionTerm }}",
         "second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}, jums ir jābūt bilancei vismaz {{ subscriptionPrice }} USDT!"
       },
       "usdt": "USDT",
@@ -44,7 +44,7 @@
     "continue_subscription": "Pagarināt abonementu",
     "activate_subscription": "Aktivizēt abonementu",
     "all_transaction": "Visi darījumi",
-    "detail": "Abonēšanas informācija",
+    "detail": "Abonementa informācija",
     "cryptocommunity": {
       "title": "Kas ir iekļauts Kriptokopienas abonementā?",
       "0": {
@@ -53,7 +53,7 @@
       }
     },
     "platform": {
-      "title": "Kas ir iekļauts platformas abonementā?",
+      "title": "Kas ir iekļauts Platformas abonementā?",
       "soon": "Drīz...",
       "0": {
         "title": "20+ Portfeļi",
@@ -69,14 +69,14 @@
       },
       "3": {
         "title": "Kripto-varonis",
-        "description": "1 no 5 pakāpju personāžiem"
+        "description": "no 1 līdz 5 pakāpju personāžiem"
       },
       "4": {
         "title": "Atlīdzības par aktivitātēm",
         "description": "Atlīdzības un sasniegumu sistēma"
       },
       "5": {
-        "title": "Kripto Kalendārs",
+        "title": "Kripto kalendārs",
         "description": "Kripto notikumu izsekošana"
       }
     }

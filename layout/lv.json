@@ -107,7 +107,7 @@
     "name": "Virsraksts",
     "bag_report": "Kļūdu ziņojums",
     "loaded_file": "Fails augšupielādēts:",
-    "short_description": "Īss apraksts",
+    "short_description": "Īss kļūdas ziņojuma virsraksts",
     "detail_description_problem": "Detalizēts apraksts",
     "description_of_problem": "Problēmas apraksts",
     "validation_messages": {
@@ -115,14 +115,14 @@
       "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
       "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "img": "JPG vai PNG, ne vairāk kā 3MB",
-      "discord_or_email": "Ievadiet e-pastu vai Discord segvārdu"
+      "discord_or_email": "Ievadiet e-pastu vai discord segvārdu"
     },
-    "download": "Lejupielādēt",
+    "download": "Augšupielādēt",
     "send": "Sūtīt",
     "cancel": "Atcelt",
     "contact_with_me": "Sazinieties ar mani!",
-    "enter_email_or_discord": "Ievadiet e-pastu vai Discord segvārdu",
-    "contact": "Sazinies"
+    "enter_email_or_discord": "Ievadiet savu e-pastu vai Discord segvārdu",
+    "contact": "Sazināties"
   },
   "system-notification-dialog": {
     "update": "Atjauninājums ir pieejams",

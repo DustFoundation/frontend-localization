@@ -11,10 +11,10 @@
       }
     },
     "change-password-dialog": {
-      "title": "Set password",
+      "title": "Set the password",
       "new_password": "New password",
-      "repeat_password": "Repeat password",
-      "change_password": "Change password",
+      "repeat_password": "Repeat the password",
+      "change_password": "Change the password",
       "password_input_placeholder": "*****************",
       "validation_messages": {
         "required": "Field is required",
@@ -31,9 +31,9 @@
       "subtitle_2": "Enter the code we have sent to your email address",
       "selected_subscription": "Selected subscription <span>{{ name }}</span>",
       "change_subscription": "Change subscription",
-      "send_code": "Send code",
-      "send_code_after": "Resend code in <span> {{ time }} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}} <span/>",
-      "send_code_once_more": "Resend code",
+      "send_code": "Send the code",
+      "send_code_after": "Resend a code in <span> {{ time }} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}} <span/>",
+      "send_code_once_more": "Resend a code",
       "email_input_placeholder": "mail@mail.com",
       "back": "Back",
       "validation_messages": {

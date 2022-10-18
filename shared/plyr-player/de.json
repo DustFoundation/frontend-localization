@@ -1,6 +1,0 @@
-{
-	"auto": "Auto",
-	"normal": "Schmucklos",
-	"speed": "{type, plural, =1 {Wiedergabegeschwindigkeit} other {Wiedergabegeschwindigkeit}}",
-	"quality": "Qualität"
-}

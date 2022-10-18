@@ -1,0 +1,119 @@
+{
+	"confirm-email": {
+		"title": "Conferma via email",
+		"subtitle": "Ti abbiamo inviato un'email con un codice di conferma. Si prega di inserire questo codice qui sotto",
+		"code": "Codice",
+		"send_new_code": "Codice di rispedizione",
+		"get_new_code_after": {
+			"code": "ottenere un nuovo codice",
+			"after": "in {{timer}} secondi"
+		},
+		"done": "Fatto",
+		"back": "Di ritorno"
+	},
+	"confirm-mfa": {
+		"title": "Verifica il tuo account",
+		"subtitle": "Inserisci il codice elencato nella tua app Google Authenticator di seguito",
+		"code": "Codice",
+		"back": "Di ritorno",
+		"sign_in": "Registrazione"
+	},
+	"forgot-password": {
+		"title_1": "Ripristina l'antico splendore",
+		"subtitle_1": "Ti invieremo un corvo con un codice segreto per ripristinare la tua password",
+		"get_code": "Manda un corvo",
+		"title_2": "Il corvo è arrivato",
+		"subtitle_2": "Scarta la pergamena che un corvo ha consegnato alla tua e-mail e inserisci un codice segreto di seguito.",
+		"code": "Codice",
+		"send_new_code": "Codice di rispedizione",
+		"get_new_code_after": {
+			"code": "ottenere un nuovo codice",
+			"after": "in {{timer}} secondi"
+		},
+		"title_3": "Il processo è finito",
+		"subtitle_3": "Hai dimostrato il tuo diritto di ripristinare l'antico splendore. Ora inserisci una nuova password.",
+		"restore_password": "Resetta la password",
+		"form": {
+			"mail": "E-mail",
+			"mail_input_placeholder": "mail@mail.com",
+			"new_password": "Nuova password",
+			"repeat_password": "Ripetere la password",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "Il campo è obbligatiorio",
+			"invalid_email": "formato email non valido",
+			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
+			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
+			"passwords_not_match": "le passwords non corrispondono",
+			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
+		}
+	},
+	"new-password": {
+		"title": "Il processo è finito",
+		"subtitle": "Hai dimostrato il tuo diritto di ripristinare l'antico splendore. Ora inserisci una nuova password.",
+		"restore_password": "Reimposta la password",
+		"form": {
+			"new_password": "Nuova password",
+			"repeat_password": "Ripetere la password",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "Il campo è obbligatiorio",
+			"invalid_email": "E-mail non valido",
+			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
+			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
+			"passwords_not_match": "le passwords non corrispondono",
+			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
+		}
+	},
+	"sign-in": {
+		"no_account": "Non hai un account?",
+		"sign_up": "Iscrizione",
+		"title": "Registrazione",
+		"forgot_password": "Hai dimenticato la password?",
+		"ban_reason": "Motivo del divieto:",
+		"banned_until": "Bannato fino a:",
+		"sign_in": "Registrazione",
+		"form": {
+			"mail": "E-mail",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Parola d'ordine",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "Il campo è obbligatiorio",
+			"invalid_email": "E-mail non valido",
+			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
+			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}"
+		}
+	},
+	"sign-up": {
+		"have_account": "Hai un account?",
+		"sign_in": "Registrazione",
+		"title": "Registrazione",
+		"forgot_password": "Hai dimenticato la password?",
+		"ban_reason": "Motivo del divieto:",
+		"banned_until": "Bannato fino a:",
+		"sign_up": "Iscrizione",
+		"policy": {
+			"agree": "Sono d'accordo con",
+			"with": "una politica sulla privacy"
+		},
+		"form": {
+			"mail": "E-mail",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Parola d'ordine",
+			"password_input_placeholder": "*****************",
+			"repeat_password": "Ripeti la password"
+		},
+		"validation_messages": {
+			"required": "Il campo è obbligatiorio",
+			"invalid_email": "formato email non valido",
+			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
+			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
+			"passwords_not_match": "le passwords non corrispondono",
+			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"include": "Cosa è incluso",
+	"trial": "Prova gratuita {{gays}} {gays, plural, =1 {giorno} =2 {giorni} =3 {giorni} =4 {giorni} other {giorni}}",
+	"chose_period": "Numero di giorni selezionato",
+	"all_from": "Tutto da",
+	"economy": "Risparmi",
+	"includes": {
+		"portfolio": "Tutti i tipi di portafoglio (3 in 1)",
+		"academy": "Corsi di addestramento",
+		"forum": "Forum",
+		"discord": "Discordia privata",
+		"telegram": "Telegramma privato"
+	},
+	"usdt": "USDT"
+}

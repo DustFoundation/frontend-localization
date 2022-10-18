@@ -1,0 +1,77 @@
+{
+	"title": "Calcolatore del rischio",
+	"add_template": "Nuovo calcolo",
+	"without_title": "Senza titolo",
+	"my_template": "Il mio modello",
+	"navigation": {
+		"all_portfolios": "Tutti i portafogli",
+		"calculator": "Calcolatore del rischio",
+		"indexes": "Indici"
+	},
+	"sort": {
+		"title": "Ordinamento",
+		"date_desc": "Data: primo nuovo",
+		"date_asc": "Data: prima il vecchio",
+		"alphabet_desc": "In ordine alfabetico dalla A alla Z",
+		"alphabet_asc": "In ordine alfabetico dalla Z alla A"
+	},
+	"calculator": {
+		"title_placeholder": "Immettere il nome del modello",
+		"status_saved": "Nome cambiato",
+		"saved": "Salvato",
+		"button_save": "Salva",
+		"type_long": "Lungo",
+		"type_short": "Breve",
+		"search_placeholder": "Ricerca",
+		"result_link": "Come funziona?",
+		"result_title": "Risultato",
+		"result_item_volume": "Volume degli scambi con leva",
+		"result_item_profit": "Avere un profitto",
+		"result_item_proportion": "Rapporto rischio/profitto",
+		"result_item_loss": "Ferma la perdita",
+		"result_item_liquidation": "Liquidazione",
+		"coin_label": "Attivo",
+		"volume_label": "Volume delle transazioni",
+		"price_label": "Prezzo di entrata",
+		"leverage_label": "Leva",
+		"risk_label": "Rischio",
+		"profit_label": "Profitto",
+		"alert": "Avvertimento! La liquidazione è troppo vicina allo stop loss!",
+		"calculate": "Calcolare",
+		"tooltips": {
+			"coin_tooltip": "Valuta per l'apertura di una posizione",
+			"volume_tooltip": "Importo per il quale viene aperta una posizione, leva esclusa",
+			"price_tooltip": "La quotazione sul grafico in cui verrà aperta la posizione",
+			"leverage_tooltip": "La leva ti consente di utilizzare i fondi presi in prestito per scambiare criptovalute o altre attività finanziarie. Tieni sempre presente che l'utilizzo di una leva più alta aumenta la probabilità che la tua posizione venga liquidata. Liquidazione delle spalle in % - x100 (1%)",
+			"risk_tooltip": "Potenziale perdita in % della tua posizione in caso di scenario negativo",
+			"profit_tooltip": "Potenziale profitto in % della tua posizione in caso di scenario positivo"
+		}
+	},
+	"list": {
+		"empty": "Nessun calcolo salvato",
+		"saved": "Salvato",
+		"title_placeholder": "Inserisci il titolo"
+	},
+	"dialog_close_template": {
+		"title": "Sei sicuro di voler aprire un nuovo conto?",
+		"text": "L'apertura di un nuovo calcolo cancellerà tutti i dati inseriti e cancellerà i risultati",
+		"button_apply": "Chiaro",
+		"button_cancel": "Annulla"
+	},
+	"dialog_delete_template": {
+		"title": "Cancellazione del calcolo",
+		"text": "Vuoi davvero eliminare il calcolo?",
+		"button_apply": "Rimuovere",
+		"button_cancel": "Annulla"
+	},
+	"dialog_save_template": {
+		"title": "Salvataggio del calcolo",
+		"text": "Vuoi aggiornare un calcolo aperto o salvarlo come nuovo?",
+		"button_apply": "Aggiornare",
+		"button_cancel": "Salvane uno nuovo"
+	},
+	"dialog_tooltip_template": {
+		"title": "Suggerimento",
+		"button_close": "Fatto!"
+	}
+}

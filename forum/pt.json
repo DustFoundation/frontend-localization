@@ -1,0 +1,153 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "Desbloquear fórum para",
+			"subtitle": "Colete recompensas diárias e tenha acesso à seção \"Fórum\"",
+			"on_balance": "No seu saldo",
+			"dust": "PÓ",
+			"unlock": "Desbloquear"
+		},
+		"dialog-delete-ticket": {
+			"title": "Excluindo uma postagem",
+			"subtitle": "Tem certeza de que deseja excluir a postagem que criou?",
+			"delete": "Excluir",
+			"cancel": "Cancelar"
+		},
+		"dialog-reject-reason": {
+			"title": "Motivo da rejeição do bilhete"
+		},
+		"ticket-comments": {
+			"forbidden": "É proibido postar comentários em uma postagem rejeitada ou não publicada"
+		},
+		"ticket-comments-item": {
+			"leave_comment": "Deixe um comentário",
+			"show_more": "Mostre mais...",
+			"hide": "Esconder",
+			"cancel": "Cancelar",
+			"change": "Mudar",
+			"reply": "Responder",
+			"show": "mostrar",
+			"show_answer": "Mostrar {{value}} {value, plural, =1 {answer} =2 {answers} =3 {answers} =4 {answers} other {answers}}",
+			"edit": "Editar",
+			"delete": "Excluir"
+		},
+		"ticket-item": {
+			"moderate": "Sob consideração"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "Deixe um comentário",
+			"reply": "Responder",
+			"cancel": "Cancelar"
+		}
+	},
+	"buy-access": {
+		"all": "Todas as publicações",
+		"my-tickets": "Postagens criadas",
+		"create_post": "Criar postagem",
+		"all_posts": "Todas as publicações",
+		"rating": "Avaliação",
+		"name": "Título da postagem",
+		"author": "Autor",
+		"date": "Data de publicação",
+		"topic": "Tema",
+		"views": "Visualizações",
+		"comments": "Comentários",
+		"no_posts": "Fórum vazio :(",
+		"create_firs_post": "Crie sua primeira postagem"
+	},
+	"create-ticket": {
+		"status": "Status:",
+		"sent": "Enviado:",
+		"edit_mode": "Pós-edição",
+		"view_mode": "Visualização de postagem",
+		"create_post": "Criar uma postagem",
+		"title_post": "Título da postagem",
+		"title": "cabeçalho",
+		"post_topic": "Postar assunto",
+		"description": "Texto/conteúdo/descrição do post",
+		"resend": "reenviar",
+		"times_left": "(restante {{num}})",
+		"buy_opportunities": "Compre 10 oportunidades para criar um post (10 DUST)",
+		"moderate": "Sob consideração",
+		"rejected": "Desviado",
+		"no_reason": "Motivo não especificado",
+		"delete_post": "Apague a postagem",
+		"default_user_nickname": "Anônimo",
+		"loaded_photo": "Foto enviada:",
+		"load_image": "Carregue ou arraste um arquivo (JPG ou PNG menor que 3 MB)",
+		"add_image": "Adicionar imagem",
+		"close": "perto",
+		"create": "Crio",
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"invalid_format_img": "Formato de imagem inválido",
+			"file_size_exceeded": "Tamanho do arquivo excedido"
+		}
+	},
+	"my-tickets": {
+		"popular": "Melhor",
+		"news": "Novo",
+		"all": "Todas as publicações",
+		"my-tickets": "Postagens criadas",
+		"create_post": "Criar postagem",
+		"delete_post": "Apague a postagem",
+		"no_posts": "Fórum vazio :(",
+		"create_firs_post": "Crie sua primeira postagem",
+		"name": "Título da postagem",
+		"date": "Data de publicação",
+		"status": "Status de moderação",
+		"comment": "Comente",
+		"no_reason": "Motivo não especificado",
+		"view_post": "Visualização de postagem",
+		"published": "Publicados:",
+		"sent": "Enviado:",
+		"edit": "Editar",
+		"accepted": "Publicados",
+		"moderate": "Sob consideração",
+		"rejected": "Desviado"
+	},
+	"ticket": {
+		"default_user_nickname": "Anônimo",
+		"up_rating": "Aumentar classificação",
+		"remove_voice": "remover voz",
+		"rating": "Avaliação",
+		"name": "Título da postagem",
+		"author": "Autor",
+		"date": "Data de publicação",
+		"topic": "Tema",
+		"views": "Visualizações",
+		"comments": "Comentários",
+		"moderator": "Moderador",
+		"edit": "Editar",
+		"delete_post": "Apague a postagem",
+		"delete": "Excluir"
+	},
+	"tickets": {
+		"popular": "Melhor",
+		"news": "Novo",
+		"all": "Todas as publicações",
+		"my-tickets": "Postagens criadas",
+		"create_post": "Criar postagem",
+		"all_posts": "Todas as publicações",
+		"rating": "Avaliação",
+		"name": "Título da postagem",
+		"author": "Autor",
+		"date": "Data de publicação",
+		"topic": "Tema",
+		"views": "Visualizações",
+		"comments": "Comentários",
+		"moderator": "Moderador",
+		"no_posts": "Fórum vazio :(",
+		"create_firs_post": "Crie sua primeira postagem"
+	},
+	"tags": {
+		"Идея": "Uma ideia",
+		"Жалоба": "Uma queixa",
+		"Партнерство": "Parceria",
+		"Предложение": "Proposta",
+		"Обсуждение": "Discussão",
+		"Другое": "Outro"
+	}
+}

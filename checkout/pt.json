@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "Especifique o valor de reabastecimento",
+			"get_qr": "Obtenha um código QR para pagamento",
+			"min_sum": "Valor mínimo do depósito {{num}}$",
+			"scan_qr": "Digitalize o código QR em seu aplicativo móvel da Binance para pagar",
+			"i_paid": "eu paguei",
+			"validation_messages": {
+				"required": "O campo é obrigatório"
+			}
+		},
+		"change-password-dialog": {
+			"title": "Defina uma senha",
+			"new_password": "Nova Senha",
+			"repeat_password": "Repita a senha",
+			"change_password": "Mudar senha",
+			"password_input_placeholder": "*****************",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"password_rules": "A senha deve conter pelo menos: 1 letra latina minúscula, 1 número",
+				"passwords_not_match": "As senhas não coincidem"
+			}
+		},
+		"checkout-email": {
+			"title_1": "Digite seu e-mail",
+			"subtitle_1": "Nós lhe enviaremos um e-mail com um código de verificação.",
+			"title_2": "Confirmação de e-mail",
+			"subtitle_2": "Digite o código abaixo que foi enviado para seu e-mail",
+			"selected_subscription": "Assinatura selecionada <span>{{name}}</span>",
+			"change_subscription": "Alterar assinatura",
+			"send_code": "Enviar código",
+			"send_code_after": "Envie o código novamente após <span>{{time}} {time, plural, =1 {segundos} =2 {segundos} =3 {segundos} =4 {segundos} other {segundos}}</span>",
+			"send_code_once_more": "Envie o Código Novamente",
+			"email_input_placeholder": "mail@mail.com",
+			"back": "De volta",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"invalid_email": "Formato de email inválido"
+			},
+			"policy": {
+				"agree": "Eu concordo com",
+				"with": "política de Privacidade"
+			}
+		},
+		"checkout-header": {
+			"explore": "Explorar",
+			"products": "Produtos",
+			"roadmap": "Roteiro",
+			"about_us": {
+				"title": "Sobre nós",
+				"subtitle": "Nosso comando"
+			},
+			"our_brand": {
+				"title": "Nossa marca",
+				"subtitle": "Uso do logotipo"
+			},
+			"career": {
+				"title": "Carreira",
+				"subtitle": "Vagas Disponíveis"
+			},
+			"dust_bro": {
+				"title": "Dust Bro & Angels",
+				"subtitle": "Parcerias"
+			},
+			"blog": {
+				"title": "Blogue",
+				"subtitle": "Mantenha-se atualizado com as últimas notícias"
+			},
+			"registration": "Cadastro",
+			"entry": "Conecte-se"
+		},
+		"checkout-payment": {
+			"title": "Seleção do período de assinatura",
+			"video_tutorial": "Tutorial em vídeo sobre como comprar uma assinatura",
+			"terms_to_use": "Termos de uso",
+			"privacy_policy": "Política de Privacidade",
+			"warning": "Avisos de risco",
+			"back": "De volta",
+			"activate": "Ativar",
+			"onward": "Mais longe",
+			"choose_network": "Selecione a rede para transferência USDT",
+			"erc20": "Endereço ERC20:",
+			"trc20": "Endereço TRC20:",
+			"bep20": "Endereço BEP20:",
+			"bep2": "Endereço BEP2:",
+			"memo": "Endereço MEMO:",
+			"click_to_copy": "Clique para copiar",
+			"copied": "Copiado",
+			"payed": "eu paguei",
+			"hash_or_number": "Número de hash/transação",
+			"specify_hash_or_number": "Especifique o hash ou o número da transação",
+			"confirm": "confirme",
+			"faq": "Perguntas frequentes",
+			"transaction": {
+				"title": "Especifique o hash ou o número da transação",
+				"recommendation": {
+					"1": "Para visualizar o número da transação, acesse o link:",
+					"2": "Se você enviou USDT de outra troca, insira no campo Hash de transação (exemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "Especifique o número da transação (transferência interna) - 43047269665, não a carteira - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "Recomendações"
+				}
+			},
+			"important": {
+				"1": "Só aceitamos pagamento em Tether (USDT).",
+				"2": "O reabastecimento do saldo é necessário para ativar a assinatura.",
+				"3": "Recomendamos o uso da rede \"TRC20\" (comissão ~$1)",
+				"4": "O envio de uma moeda ou token diferente do USDT para este endereço pode resultar em perda de fundos.",
+				"5": {
+					"first_part": "Para ativar a assinatura “{{subscriptionName}}“ para {{subscriptionTerm}}",
+					"second_part": "{subscriptionTerm, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}} você precisa completar seu saldo em {{subscripticenPron USDT + comissão de rede}}"
+				},
+				"title": "Importante"
+			},
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "Voando no blockchain",
+			"success": "Reabastecimento bem-sucedido",
+			"status": "Estado de pagamento:"
+		}
+	}
+}

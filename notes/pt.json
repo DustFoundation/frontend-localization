@@ -1,0 +1,41 @@
+{
+	"title": "Notas",
+	"create_btn": "Criar nota",
+	"empty_note": "nota em branco",
+	"sort": {
+		"custom": "Em ordem personalizada",
+		"date_desc": "Data: mais recente primeiro",
+		"date_asc": "Data: antigo primeiro",
+		"alphabet_desc": "Alfabeticamente A-Z",
+		"alphabet_asc": "Alfabética Z-A"
+	},
+	"create_note_dialog": {
+		"remove_button": "Excluir nota",
+		"save": "Salvar",
+		"title": "Criar uma nota",
+		"edit_title": "Editando uma nota",
+		"title_label": "cabeçalho",
+		"title_placeholder": "Minha nota",
+		"content_placeholder": "Digite o texto da nota",
+		"changed": "Mudado",
+		"validation_messages": {
+			"required": "O campo deve ser preenchido",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"not_only_spaces": "O título não pode conter apenas espaços"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Apagando uma nota",
+		"description": "Tem certeza de que deseja excluir a nota?",
+		"delete": "Excluir",
+		"cancel": "Cancelar",
+		"deleted_successfully": "Nota excluída com sucesso"
+	},
+	"attention_note_dialog": {
+		"title": "Atenção",
+		"description": "Tem certeza de que deseja fechar a nota sem salvar?",
+		"dont_save": "Não salve",
+		"cancel": "Cancelar"
+	}
+}

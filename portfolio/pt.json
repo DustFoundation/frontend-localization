@@ -1,0 +1,468 @@
+{
+	"components": {
+		"breadcrumbs": {
+			"portfolio": "Portfólio",
+			"main": "casa",
+			"transactions": "Transações"
+		},
+		"dialog-add-coin": {
+			"first_step": {
+				"title": "Passo 1",
+				"choose_asset": "Escolha um ativo",
+				"search": "Procurar"
+			},
+			"second_step": {
+				"title": "Passo 2",
+				"amount": "Quantidade",
+				"max": "MÁX.",
+				"price": "Preço por moeda",
+				"date": "Data (DD.MM.AAAA)",
+				"date_placeholder": "DD.MM.AAAA",
+				"total_attachment": "Investimento total",
+				"total_profit": "Lucro total",
+				"buy": "Comprar",
+				"sell": "Oferta",
+				"edit_transaction": "Editar transação",
+				"delete_transaction": "Excluir transação",
+				"add_transaction": "Adicionar uma transação"
+			},
+			"change": "Mudar",
+			"add": "Adicionar",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"invalid_date": "Data inválida",
+				"min_price": "O preço não pode ser inferior a 0$",
+				"max_amount": "A quantidade não pode ser maior que {{max}} {{coin}}",
+				"min_amount": "A quantidade não pode ser inferior a 0 {{coin}}"
+			}
+		},
+		"dialog-add-exchange-portfolio": {
+			"title": "Criando uma carteira de câmbio",
+			"selected_exchange": "Troca selecionada*",
+			"portfolio_name": "Nome do portfólio*",
+			"name_placeholder": "Scarvigolova",
+			"portfolio_description": "Descrição do portfólio",
+			"description_placeholder": "Uma carteira composta pelos ativos mais arriscados e promissores do mercado. Prepare-se para dizer adeus ao sono e ao dinheiro.",
+			"api_key_rule": "Pedimos apenas <strong>permissões de visualização</strong> . Isso não nos dá acesso às suas chaves privadas ou a capacidade de mover seus fundos. Só precisamos disso para mostrar o desempenho do seu portfólio e análises.",
+			"enter_api_key": "Digite a chave da API",
+			"api_key": "Chave API",
+			"enter_secret_key": "Digite a chave secreta",
+			"secret_key": "A chave secreta",
+			"help": {
+				"1": "No site da exchange Binance, abra <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"blank\">a seção API</a>",
+				"2": "<strong>Crie uma nova chave de API</strong> chamada <strong>&quot;DUST Portfolio&quot;</strong> , por exemplo, e clique em <strong>&quot;criar nova chave&quot;</strong>",
+				"3": "(Se tudo deu certo), <strong>digite o código de autenticação de dois fatores</strong>",
+				"4": "Copie <strong>a chave de API</strong> e a <strong>chave secreta</strong>",
+				"5": "<span>É RECOMENDADO desabilitar o acesso à negociação para esta chave de API, para isso:</span><ol><li> Clique <strong>em &quot;Configurações&quot;</strong></li><li> Desative <strong>&quot;Acesso ao comércio&quot;</strong></li><li> Clique <strong>em &quot;Salvar&quot;</strong></li><li> Insira o código <strong>de autenticação de dois fatores</strong></li></ol>"
+			},
+			"create": "Crio",
+			"back": "De volta",
+			"onward": "Mais longe",
+			"important": "Importante",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"repeat": "Não deve ser repetido"
+			}
+		},
+		"dialog-add-regular-portfolio": {
+			"create_portfolio": "Criar portfólio",
+			"title": "Criando um portfólio virtual",
+			"name_placeholder": "Porta-caixa",
+			"description_placeholder": "O portfólio inclui ativos fundamentais do mercado de criptomoedas. Com essa maleta, você pode dormir em paz.",
+			"description_not_necessarily": "Descrição (opcional)",
+			"name": "Nome",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"repeat": "Não deve ser repetido"
+			}
+		},
+		"dialog-add-venture-asset": {
+			"unlock_types": {
+				"linear": "Linear",
+				"full": "um tempo",
+				"custom": "Personalizado"
+			},
+			"asset_type": {
+				"blockchain": "Blockchain",
+				"defi": "DeFi",
+				"gamefi": "GameFi",
+				"metaverse": "Metaverso",
+				"launchpad": "Plataforma de lançamento",
+				"payments": "Pagamentos",
+				"fun_token": "Ficha Divertida",
+				"nft": "NFT",
+				"other": "Outro"
+			},
+			"rounds": {
+				"public": "Público",
+				"private": "Privado",
+				"strategic": "Estratégico",
+				"presale": "Pré-sal",
+				"preseed": "Pré-semente",
+				"seed": "Semente",
+				"round_a": "Rodada A",
+				"round_b": "Rodada B",
+				"round_c": "Rodada C",
+				"round_d": "Rodada D",
+				"other": "Outro"
+			},
+			"periods": {
+				"every-day": "Uma vez por dia",
+				"every-week": "Uma vez por semana",
+				"every-month": "Uma vez por mês",
+				"every-quarter": "Uma vez por trimestre",
+				"every-half-year": "Semi anualmente",
+				"every-year": "Uma vez por ano"
+			},
+			"unlock_period_types": {
+				"amount": "uma mão.",
+				"percent": "%"
+			},
+			"cliff": {
+				"MONTH": "meses",
+				"YEAR": "ano"
+			},
+			"main": {
+				"add": "Adicionando um ativo de empreendimento",
+				"edit": "Editando um ativo de empreendimento",
+				"title_1": "Informações introdutórias",
+				"title_2": "informação financeira",
+				"title_3": "Informação técnica",
+				"title_4": "Indique a data e (ou)% do desbloqueio no TGE",
+				"title_5": "Período de alocação de ativos",
+				"tge": "TGE - (Token Generation Event), sinônimo de \"ICO\", que significa \"colocação inicial de moedas\".",
+				"total": "Total",
+				"onward": "Mais longe",
+				"back": "De volta",
+				"done": "feito",
+				"date_placeholder": "DD.MM.AAAA",
+				"period_date_placeholder": "DD.MM.AAAA - DD.MM.AAAA"
+			},
+			"first_step": {
+				"name": "Nome*",
+				"name_placeholder": "Nome do recurso",
+				"ticker": "Marcador*",
+				"ticker_placeholder": "Marcador",
+				"sait": "Local",
+				"description": "Descrição",
+				"logo": "Logotipo do recurso",
+				"format_img": "JPG ou PNG, 1:1 (quadrado),<br /> não mais que 3MB",
+				"loaded_photo": "Foto enviada:",
+				"download": "Download"
+			},
+			"second_step": {
+				"price": "Preço de compra*",
+				"price_placeholder": "Preço",
+				"amount": "Número de moedas/tokens comprados*",
+				"amount_placeholder": "Quantidade",
+				"round": "Redondo",
+				"total_attachment": "Investimento total:"
+			},
+			"third_step": {
+				"network": "Internet",
+				"address": "Endereço de contrato inteligente",
+				"type": "Tipo de projeto",
+				"date": "Data da compra (DD.MM.AAAA)*"
+			},
+			"fourth_step": {
+				"unlock": "% diferença",
+				"unlock_placeholder": "0-100%",
+				"date": "Encontro",
+				"tba": "TBA - (To Be Announced), \"a ser anunciado mais tarde\" ou \"a ser anunciado\".",
+				"cliff": "Cliff - período de bloqueio de token",
+				"period_cliff": "período do penhasco",
+				"lockup": "Penhasco (bloqueio)",
+				"no": "Não"
+			},
+			"fifth_step": {
+				"vesting": "Aquisição",
+				"vesting_description": "Vesting - o processo de distribuição de moedas compradas em tempo hábil",
+				"unlock_date": "Divisão de data",
+				"period": "Período de distribuição",
+				"end_date": "Data final",
+				"start_date": "Data de início",
+				"frequency": "Periodicidade",
+				"info": "Por {{amount}} moedas/tokens {{period}} de {{start}} a {{end}}",
+				"select_period": "Escolha o período",
+				"unlock_impossible": "O desbloqueio para este período não é possível",
+				"elem_unlock_date": "Data {{num}} desbloqueio",
+				"invalid_sequence": "Não pode ser antes da data de compra ou data de desbloqueio",
+				"value_in_period": "O volume do desbloqueio durante este período",
+				"left_to_distribute": "Resta distribuir:",
+				"volume_distributed": "Todo o volume é distribuído",
+				"invalid_unlock": " *Divisões incorretas"
+			},
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"min_price": "O preço não pode ser inferior a 0$",
+				"invalid_date": "Data inválida",
+				"file_type": "Tipo de arquivo inválido",
+				"file_size": "O tamanho excede {{size}}mb",
+				"max_value": "Valor máximo {{max}}",
+				"min_value": " O valor deve ser maior que {{min}}",
+				"invalid_period": "Não pode ser antes da data de compra ou data de desbloqueio"
+			}
+		},
+		"dialog-add-venture-portfolio": {
+			"create_portfolio": "Criar portfólio",
+			"title": "Construindo um portfólio de empreendimentos",
+			"name_placeholder": "Investidor de criptomoedas iniciante",
+			"description_placeholder": "Além de ativos confiáveis e comprovados, o portfólio inclui alguns dos projetos mais promissores e em desenvolvimento ativo.",
+			"name": "Nome",
+			"description_not_necessarily": "Descrição (opcional)",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"repeat": "Não deve ser repetido",
+				"file_size": "O tamanho excede {{size}}mb"
+			}
+		},
+		"dialog-create-portfolio": {
+			"virtual": {
+				"title": "Portfólio virtual",
+				"subtitle": "Criação de um portfólio virtual a partir de ativos criptográficos"
+			},
+			"exchange": {
+				"title": "Carteira de câmbio",
+				"subtitle": "Integração com exchanges e rastreamento de ativos reais"
+			},
+			"venture": {
+				"title": "Portfólio de empreendimentos",
+				"subtitle": "Adicionando novos projetos adquiridos em um estágio inicial"
+			},
+			"need_subscription": "Precisa se inscrever",
+			"create_portfolio": "Criar portfólio"
+		},
+		"dialog-delete-coin": {
+			"title": "Excluindo um ativo",
+			"subtitle": "Tem certeza de que deseja remover <span>{{name}}</span> do seu portfólio?",
+			"delete": "Excluir",
+			"cancel": "Cancelar"
+		},
+		"dialog-delete-portfolio": {
+			"title": "Excluindo um portfólio",
+			"subtitle": "Tem certeza de que deseja remover <span>{{name}}</span> do seu portfólio?",
+			"delete": "Excluir",
+			"cancel": "Cancelar"
+		},
+		"dialog-delete-transaction": {
+			"title": "Excluindo uma transação",
+			"subtitle": "Tem certeza de que deseja remover a transação do seu portfólio?",
+			"delete": "Excluir",
+			"cancel": "Cancelar"
+		},
+		"dialog-delete-venture-asset": {
+			"title": "Excluindo um ativo",
+			"subtitle": "Tem certeza de que deseja remover <span>{{name}}</span> do seu portfólio?",
+			"delete": "Excluir",
+			"cancel": "Cancelar"
+		},
+		"dialog-edit-exchange-portfolio": {
+			"title": "Edição de chave",
+			"enter_api_key": "Chave API",
+			"enter_secret_key": "A chave secreta",
+			"cancel": "Cancelar",
+			"save": "Salvar",
+			"attention": "Atenção!",
+			"notice": "O portfólio atual será excluído e um novo será carregado em seu lugar",
+			"replace": "Substituir",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}"
+			}
+		},
+		"dialog-edit-portfolio": {
+			"title": "Edição de portfólio",
+			"name_placeholder": "Porta-caixa",
+			"description_placeholder": "O portfólio inclui ativos fundamentais do mercado de criptomoedas. Com essa maleta, você pode dormir em paz.",
+			"name": "Nome",
+			"description_not_necessarily": "Descrição (opcional)",
+			"save": "Salvar",
+			"validation_messages": {
+				"required": "O campo é obrigatório",
+				"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+				"repeat": "Não deve ser repetido"
+			}
+		},
+		"dialog-transaction-info": {
+			"title": "Detalhes da transação",
+			"type": "Modelo",
+			"price": "Preço",
+			"amount_coin": "Número de moedas",
+			"date": "Encontro",
+			"value": "Volume em $",
+			"close": "perto",
+			"buy": "Comprar",
+			"sell": "Oferta"
+		},
+		"dialog-venture-coin-info": {
+			"title": "Detalhes do ativo do empreendimento",
+			"characteristics": {
+				"price": "{isMobile, plural, =1 {preço} other {preço de compra}}",
+				"amount": "{isMobile, plural, =1 {Número} other {Número de moedas}}",
+				"investment_volume": "Tamanho do investimento",
+				"type_of_project": "Tipo de projeto",
+				"type": "Modelo",
+				"round": "Redondo",
+				"description": "Descrição",
+				"sait": "Local",
+				"network": "Internet",
+				"date": "Data de compra",
+				"lock_period": "Período loka"
+			},
+			"close": "perto"
+		},
+		"invalid-api-key-dialog": {
+			"title": "Chave de API inválida",
+			"subtitle": "Você precisará alterar sua chave de API para que possamos atualizar seu portfólio."
+		},
+		"portfolio-coin": {
+			"all_transaction": "todas as transacções",
+			"need_subscription": "Precisa se inscrever",
+			"add_transaction": "Adicionar uma transação",
+			"delete_asset": "Remover moeda",
+			"delete": "Excluir"
+		},
+		"portfolio-list-item": {
+			"update_data": "Atualização de dados",
+			"need_subscription": "Precisa se inscrever",
+			"edit": "Editar",
+			"delete": "Excluir",
+			"open": "Abrir",
+			"virtual": "Portfólio virtual",
+			"exchange": "Carteira de câmbio",
+			"venture": "Portfólio de empreendimentos",
+			"investment_value": "Tamanho do investimento",
+			"portfolio_valuation": "Avaliação de portfólio"
+		},
+		"portfolio-pnl": {
+			"total_attachments": "Investimento total",
+			"total_investment": "Investimento total",
+			"invested_to_portfolio": "Investido em um portfólio",
+			"portfolio_evaluation": "Avaliação de portfólio",
+			"all_times_pnl": "PNL total de todos os tempos",
+			"portfolio_pnl": "Portfólio PNL",
+			"total_portfolio_evaluation": "Avaliação geral da carteira"
+		},
+		"portfolio-transaction": {
+			"buy": "Comprar",
+			"sell": "Oferta",
+			"deposit": "Entrada",
+			"withdraw": "Cancelamento",
+			"transfer": "Tradução",
+			"need_subscription": "Precisa se inscrever",
+			"edit_transaction": "Editar transação",
+			"delete_transaction": "Excluir transação"
+		},
+		"series-finance": {
+			"title": "Distribuição de finanças",
+			"total": "Total",
+			"others": "Outro"
+		},
+		"transactions-limit-dialog": {
+			"title": "Você excedeu o limite de transações",
+			"subtitle": "Ative sua assinatura para obter um número ilimitado de transações na seção \"Portfólio\"",
+			"used_transactions": "Transações usadas:",
+			"of": "{{num1}} ou {{num2}}",
+			"activate_subscription": "Ativar assinatura"
+		},
+		"interval": {
+			"1_day": "1 dia",
+			"7_days": "7 dias",
+			"1_month": "1 mês",
+			"3_months": "3 meses",
+			"1_year": "1 ano",
+			"all_time": "Tempo todo"
+		}
+	},
+	"portfolio": {
+		"last_time_update": "Ultima atualização:",
+		"update_started": "Atualização iniciada:",
+		"not_updated": "Não atualizado",
+		"to_update": "Antes da atualização",
+		"update": "Atualizar",
+		"portfolio_capitalization": "Capitalização do portfólio",
+		"portfolio_profitability": "Devolução do portfólio",
+		"portfolio_description": "Descrição do portfólio",
+		"my_assets": "Meus ativos",
+		"finance": "Finança",
+		"price": "Preço",
+		"average_price": "qua preço de compra",
+		"amount_coin": "Número de moedas",
+		"profit_loss": "Perda de lucro",
+		"description": "Descrição do portfólio",
+		"portfolio_empty": "A pasta está vazia...",
+		"your_portfolio_empty": "Seu portfólio está vazio :(",
+		"add_asset": "Adicionar recurso",
+		"add_first_asset": "Adicione o primeiro recurso",
+		"need_subscription": "Precisa se inscrever"
+	},
+	"portfolio-list": {
+		"create_portfolio": "Criar portfólio",
+		"need_subscription": "Precisa se inscrever",
+		"navigation": {
+			"all_portfolios": "Todos os portfólios",
+			"calculator": "Calculadora de Risco",
+			"indexes": "Índices"
+		}
+	},
+	"portfolio-transactions": {
+		"back": "De volta",
+		"price": "Preço",
+		"average_price": "qua preço de compra",
+		"amount_coin": "Número de moedas",
+		"profit_loss": "Perda de lucro",
+		"date": "Encontro",
+		"value": "Volume em $",
+		"commission": "Comissão",
+		"add": "Adicionar",
+		"transactions": "Transações",
+		"add_transaction": "Adicionar transação",
+		"need_subscription": "Precisa se inscrever"
+	},
+	"portfolio-venture": {
+		"add_asset": "Adicionar recurso",
+		"description": "Descrição do portfólio",
+		"delete_asset": "Excluir recurso",
+		"edit": "Editar",
+		"your_portfolio_empty": "Seu portfólio está vazio :(",
+		"add_first_asset": "Adicione o primeiro recurso",
+		"unlock_chart": "Cronograma de alocação de ativos de empreendimento",
+		"impossible_to_build": "Não é possível criar um gráfico para este ativo",
+		"my_assets": "{isMobile, plural, =1 {Meus ativos} other {Meus ativos de empreendimento}}",
+		"portfolio_empty": "A pasta está vazia...",
+		"characteristics": {
+			"price": "{isMobile, plural, =1 {preço} other {preço de compra}}",
+			"amount": "{isMobile, plural, =1 {Número} other {Número de moedas}}",
+			"investment_volume": "Tamanho do investimento",
+			"type_of_project": "Tipo de projeto",
+			"type": "Modelo",
+			"round": "Redondo",
+			"description": "Descrição",
+			"sait": "Local",
+			"network": "Internet",
+			"date": "Data de compra",
+			"lock_period": "Período loka"
+		},
+		"unlock_info": {
+			"tge_today": "TGE hoje",
+			"to_start_tge": "Antes do TGE <span class='period'>{{diff}}</span>",
+			"cliff_today": "Cliff começa hoje",
+			"to_start_cliff": "Antes do Penhasco <span class='period'>{{diff}}</span>",
+			"cliff_end": "Hoje é o fim do penhasco",
+			"to_end_cliff": "Até o final do Penhasco <span class='period'>{{diff}}</span>",
+			"today_unlock": "Hoje {{num}} separação",
+			"to_unlock": "Antes de {{num}} desbloquear <span class='period'>{{diff}}</span>"
+		},
+		"need_subscription": "Precisa se inscrever"
+	}
+}

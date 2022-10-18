@@ -1,0 +1,152 @@
+{
+	"header": {
+		"subscription_activate": "Ativar assinatura",
+		"subscription_activated": {
+			"text": "Assinatura",
+			"status": "Ativo"
+		},
+		"portfolio": "Portfólio",
+		"portfolio_dropdown": {
+			"all_portfolios": "Todos os portfólios",
+			"risk_calculator": "Calculadora de Risco"
+		},
+		"academy": "Academia",
+		"forum": "Fórum",
+		"main": "casa",
+		"conferences": "Conferências",
+		"menu": {
+			"profile": "Perfil pessoal",
+			"balance": "Reposição de saldo",
+			"subscription": "Assinatura",
+			"transactions": "Histórico de transações",
+			"settings": "Definições",
+			"promocode": "Código promocional",
+			"bug_report": "Relatório da equipe",
+			"support": "Bate-papo de suporte",
+			"conferences": "Conferências"
+		},
+		"sign_up": "Cadastro",
+		"sign_in": "Entrar",
+		"logout": "Sair",
+		"in_development": "Em desenvolvimento",
+		"beta": "BETA",
+		"dust": "PÓ",
+		"usdt": "USDT",
+		"micron": "mícron"
+	},
+	"notes_dropdown": {
+		"notes": "Todas as notas",
+		"add_note": "Criar nota"
+	},
+	"notifications": {
+		"count_of_notification": "Novas notificações",
+		"clear": "Limpar todas as notificações",
+		"types": {
+			"SUBSCRIPTION_ADDED": {
+				"title": "Compra de assinatura bem-sucedida",
+				"description": "Você comprou com sucesso uma assinatura para {{term}} {term, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}}"
+			},
+			"SUBSCRIPTION_UPDATED": {
+				"title": "Renovação de assinatura bem-sucedida",
+				"description": "Você renovou com sucesso sua assinatura para {{term}} {term, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}}"
+			},
+			"SUBSCRIPTION_ENDING_SOON": {
+				"title": "A assinatura está perto do colapso",
+				"description": "Desculpe, mas sua assinatura tem apenas {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}... Sentiremos sua falta !"
+			},
+			"BALANCE_ADDED": {
+				"title": "Reposição de saldo",
+				"description": "Sua conta foi financiada com {{amount}} USDT"
+			},
+			"TELEGRAM_INVITED": {
+				"title": "Convite de telegrama",
+				"description": "Seu convite para o Telegram. Boa sorte neste inferno!"
+			},
+			"TELEGRAM_INVITED_1": {
+				"title": "Convite para bate-papo do Telegram",
+				"description": "Seu convite para o bate-papo do Telegram. Boa sorte neste inferno!"
+			},
+			"TELEGRAM_INVITED_2": {
+				"title": "Convite para o Canal do Telegram",
+				"description": "Seu convite para o canal LUCK do Telegram. Boa sorte!"
+			},
+			"PAYMENT_ORDER_SUCCESS": {
+				"title": "Reposição de saldo",
+				"description": "O pedido de reposição do saldo foi concluído."
+			},
+			"PAYMENT_ORDER_FAILED": {
+				"title": "Reposição de saldo",
+				"description": "Erro ao executar uma solicitação para reabastecer o saldo!"
+			},
+			"PAYMENT_TXID_EXIST": {
+				"title": "Reposição de saldo",
+				"description": "Seu número de transação já está em uso por outro usuário!"
+			},
+			"PAYMENT_FAILED": {
+				"title": "Reposição de saldo",
+				"description": "Ocorreu um erro ao criar um pedido de reposição do saldo, contacte a Administração!"
+			},
+			"SUBSCRIPTION_SUCCESS": {
+				"title": "Inscrevendo-se",
+				"description": "Subscrito"
+			}
+		}
+	},
+	"promocode-dialog": {
+		"title": "Ativação do código promocional",
+		"enter_promocode": "Insira o código promocional",
+		"activate": "Ativar código promocional",
+		"example": "Ex: X2dDjsa29GKO",
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}"
+		}
+	},
+	"report-dialog": {
+		"name": "Nome",
+		"bag_report": "Relatório da equipe",
+		"loaded_file": "Arquivo carregado:",
+		"short_description": "Pequena descrição",
+		"detail_description_problem": "Descrição detalhada do problema",
+		"description_of_problem": "Descrição do problema",
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"img": "JPG ou PNG, não mais que 3 MB",
+			"discord_or_email": "Digite o e-mail ou apelido Discord"
+		},
+		"download": "Download",
+		"send": "Mandar",
+		"cancel": "Cancelar",
+		"contact_with_me": "Entre em contato comigo para feedback",
+		"enter_email_or_discord": "Digite o e-mail ou apelido Discord",
+		"contact": "Contato"
+	},
+	"system-notification-dialog": {
+		"update": "Atualização disponível",
+		"failed": "Ops",
+		"offline": "Sem conexão",
+		"update_detected": "Nova versão do aplicativo detectada: {{version}}",
+		"update_ready": "Uma nova versão está disponível {{version}}. Você gostaria de atualizar?",
+		"update_failed": "Ocorreu um erro ao instalar a atualização {{version}}",
+		"network_offline": "A Internet está fora do ar, você precisa recarregar a página",
+		"yes": "Sim, atualize",
+		"no": "Não"
+	},
+	"cookies": {
+		"cookies_settings": "Gerenciar cookies",
+		"intro": "Usamos cookies para melhorar sua experiência de usuário, análise de uso de aplicativos e habilitar o suporte por chat.",
+		"get_know_with_start": "Verificação de saída",
+		"cookies_policy": "Política de cookies",
+		"get_known_with_end": "mais",
+		"accept": "Aceitar",
+		"settings": "Gestão",
+		"analytic_cookies": "Cookies de análise",
+		"analytic_cookies_description": "A ativação desses cookies nos permitirá rastrear sua interação com nosso site e fazer melhorias.",
+		"support_chat": "Bate-papo de suporte",
+		"support_chat_description": "Se você deseja ter acesso ao chat de suporte, esses cookies são necessários.",
+		"save": "Salvar",
+		"back": "De volta"
+	}
+}

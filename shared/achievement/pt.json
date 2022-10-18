@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "\"Homyachels\"",
+		"description": "Cadastrado com sucesso na plataforma"
+	},
+	"onboarding": {
+		"name": "\"Pioneiro\"",
+		"description": "Familiarização aprovada com a plataforma"
+	},
+	"portfolioalltypes": {
+		"name": "Kitiara",
+		"description": "Criou todos os três tipos de portfólios"
+	},
+	"academycoursegold": {
+		"name": "\"Excelente\"",
+		"description": "Passou o curso na Academia com excelentes notas"
+	},
+	"discordtelegram": {
+		"name": "\"Integrador\"",
+		"description": "Integrações habilitadas com Discord e Telegram"
+	},
+	"connections": {
+		"name": "\"Conexões feitas\"",
+		"description": "Inscrito em nossas redes sociais"
+	},
+	"subscription": {
+		"name": "\"Pessoa importante\"",
+		"description": "Comprou uma assinatura da DUST Platform"
+	},
+	"forumfirstpost": {
+		"name": "\"Agora eu vou te contar\"",
+		"description": "Criei minha primeira postagem no fórum"
+	},
+	"amateur": {
+		"name": "“Criptoamador”",
+		"description": "Coletou 10 curtidas em uma postagem no Fórum"
+	},
+	"portfolio10coins": {
+		"name": "\"Cripto-coiner\"",
+		"description": "Adicionadas 10 moedas ao portfólio virtual"
+	},
+	"dailyreward28": {
+		"name": "\"Titular Verdadeiro\"",
+		"description": "Recebeu 28 prêmios diários seguidos"
+	},
+	"omnipotence": {
+		"name": "\"Luva da Onipotência\"",
+		"description": "Atualizações do Forge votadas"
+	}
+}

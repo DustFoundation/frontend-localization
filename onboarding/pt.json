@@ -1,0 +1,102 @@
+{
+	"onboarding-call-dialog": {
+		"title": "Gostaria de conhecer o passo a passo da DUST PLATFORM?",
+		"skip": "Pular",
+		"yes": "Sim"
+	},
+	"onboarding-dialog": {
+		"back": "De volta",
+		"onward": "Mais longe",
+		"done": "feito",
+		"portfolio": {
+			"title": "Seção \"Portfólio\"",
+			"description": "Nesta seção, você tem a oportunidade de criar seus portfólios pessoais, rastrear ativos e seus investimentos.",
+			"list": {
+				"1": "Avaliação Total da Carteira e PNL",
+				"2": "Simulação virtual de estratégias de investimento",
+				"3": "Integração de carteiras de ações em um só lugar",
+				"4": "Cálculo e acompanhamento de investimentos de risco"
+			}
+		},
+		"virtual_portfolio": {
+			"title": "Portfólio virtual",
+			"description": "Neste portfólio, você pode adicionar ativos manualmente e simular diferentes tipos de estratégias de investimento.",
+			"list": {
+				"1": "Adicionando transações manualmente",
+				"2": "Mais de 1000 ativos de criptografia para rastrear",
+				"3": "Visualização na forma de gráficos de receita/perda",
+				"4": "Visualização de distribuição financeira do gráfico de pizza"
+			}
+		},
+		"exchange_portfolio": {
+			"title": "Carteira de câmbio",
+			"description": "Neste portfólio, você pode acompanhar seus portfólios de exchanges por meio da integração de API.",
+			"list": {
+				"1": "Integração simples e clara via API",
+				"2": "Atualização automática de transações e preços",
+				"3": "Visualização na forma de gráficos de receita/perda",
+				"4": "Visualização de distribuição financeira do gráfico de pizza"
+			}
+		},
+		"venture_portfolio": {
+			"title": "Portfólio de empreendimentos",
+			"description": "Neste portfólio, você pode acompanhar todos os investimentos em empreendimentos com personalização e visualização flexíveis.",
+			"list": {
+				"1": "Acompanhamento flexível de investimentos de risco",
+				"2": "TGE e gráfico de desbloqueio",
+				"3": "Informações detalhadas sobre o ativo do empreendimento",
+				"4": "Cálculos automáticos em vez de planilhas do Excel"
+			}
+		},
+		"forum": {
+			"title": "Seção “Fórum”",
+			"description": "Nesta seção, você tem a oportunidade de criar postagens e compartilhar seus pensamentos com uma comunidade de pessoas que pensam como você.",
+			"list": {
+				"1": "Exibir postagens por classificação",
+				"2": "A capacidade de participar da discussão da postagem de outra pessoa",
+				"3": "Ganhe DUST Token pelos melhores posts",
+				"4": "Mantenha-se atualizado com os últimos desenvolvimentos"
+			}
+		},
+		"academy": {
+			"title": "Seção da Academia",
+			"description": "Nesta seção, você tem a oportunidade de escolher o curso de seu interesse e adquirir novos conhecimentos.",
+			"list": {
+				"1": "Cada curso é escrito pela equipe DUST.FOUNDATION",
+				"2": "Visualização de tópicos complexos em vídeo",
+				"3": "Passando nos testes em cada módulo",
+				"4": "Avaliação de módulos e cursos"
+			}
+		},
+		"balance": {
+			"title": "Seção \"Reabastecimento de saldo\"",
+			"description": "Nesta seção, você tem a oportunidade de pagar/renovar sua assinatura da plataforma e da comunidade criptográfica.",
+			"list": {
+				"1": "Método de pagamento fácil em 2 passos",
+				"2": "Suporte para diferentes redes e Binance Pay",
+				"3": "Tutorial em vídeo de pagamento detalhado para iniciantes",
+				"4": "Transferência rápida de fundos para a plataforma"
+			}
+		},
+		"subscription": {
+			"title": "Seção \"Assinatura\"",
+			"description": "Nesta seção, você tem a oportunidade de selecionar e ativar diferentes tipos de assinatura.",
+			"list": {
+				"1": "7 dias de teste gratuito (Plataforma DUST)",
+				"2": "3 tipos de assinatura com diferentes períodos",
+				"3": "Integrações com Telegram e Discord",
+				"4": "Sistema de desconto e acúmulo de DUST Token"
+			}
+		},
+		"profile": {
+			"title": "Seção “Perfil Pessoal”",
+			"description": "Nesta seção, você tem a oportunidade de receber recompensas diárias, conquistas, acompanhar sua classificação.",
+			"list": {
+				"1": "Escolhendo seu personagem de criptografia",
+				"2": "Recompensas diárias por visitar a plataforma",
+				"3": "Lista de conquistas",
+				"4": "Avaliação do utilizador"
+			}
+		}
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"confirm-email": {
+		"title": "Confirmação de e-mail",
+		"subtitle": "Digite o código abaixo que foi enviado para seu e-mail",
+		"code": "O código",
+		"send_new_code": "Enviar novo código",
+		"get_new_code_after": {
+			"code": "obter um novo código",
+			"after": "em {{timer}} segundos"
+		},
+		"done": "feito",
+		"back": "De volta"
+	},
+	"confirm-mfa": {
+		"title": "Verifique sua conta",
+		"subtitle": "Digite abaixo o código de verificação do seu Google Authenticator",
+		"code": "O código",
+		"back": "De volta",
+		"sign_in": "Entrar"
+	},
+	"forgot-password": {
+		"title_1": "Restaurar a antiga glória",
+		"subtitle_1": "Enviaremos um corvo para suas terras com um código secreto para redefinir sua senha.",
+		"get_code": "enviar um corvo",
+		"title_2": "Ravena chegou",
+		"subtitle_2": "Abra o pergaminho que o corvo entregou no seu correio e digite o código secreto abaixo.",
+		"code": "O código",
+		"send_new_code": "Enviar novo código",
+		"get_new_code_after": {
+			"code": "obter um novo código",
+			"after": "em {{timer}} segundos"
+		},
+		"title_3": "Teste aprovado",
+		"subtitle_3": "Você provou o direito de restaurar a antiga glória. Resta apenas inserir uma nova senha.",
+		"restore_password": "Restaurar senha",
+		"form": {
+			"mail": "Um correio",
+			"mail_input_placeholder": "mail@mail.com",
+			"new_password": "Nova Senha",
+			"repeat_password": "Repita a senha",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"invalid_email": "Formato de email inválido",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"passwords_not_match": "As senhas não coincidem",
+			"password_rules": "A senha deve conter pelo menos: 1 letra latina minúscula, 1 número"
+		}
+	},
+	"new-password": {
+		"title": "Teste aprovado",
+		"subtitle": "Você provou o direito de restaurar a antiga glória. Resta apenas inserir uma nova senha.",
+		"restore_password": "Restaurar senha",
+		"form": {
+			"new_password": "Nova Senha",
+			"repeat_password": "Repita a senha",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"invalid_email": "Formato de email inválido",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"passwords_not_match": "As senhas não coincidem",
+			"password_rules": "A senha deve conter pelo menos: 1 letra latina minúscula, 1 número"
+		}
+	},
+	"sign-in": {
+		"no_account": "Não tem uma conta?",
+		"sign_up": "Registro",
+		"title": "Conecte-se",
+		"forgot_password": "Esqueceu sua senha?",
+		"ban_reason": "Motivo da proibição:",
+		"banned_until": "Banido até:",
+		"sign_in": "Entrar",
+		"form": {
+			"mail": "Um correio",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Senha",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"invalid_email": "Formato de email inválido",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}"
+		}
+	},
+	"sign-up": {
+		"have_account": "Ter uma conta?",
+		"sign_in": "Entrar",
+		"title": "Cadastro",
+		"forgot_password": "Esqueceu sua senha?",
+		"ban_reason": "Motivo da proibição:",
+		"banned_until": "Banido até:",
+		"sign_up": "Registro",
+		"policy": {
+			"agree": "Eu concordo com",
+			"with": "política de Privacidade"
+		},
+		"form": {
+			"mail": "Um correio",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Senha",
+			"password_input_placeholder": "*****************",
+			"repeat_password": "Repita a senha"
+		},
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"invalid_email": "Formato de email inválido",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
+			"passwords_not_match": "As senhas não coincidem",
+			"password_rules": "A senha deve conter pelo menos: 1 letra latina minúscula, 1 número"
+		}
+	}
+}

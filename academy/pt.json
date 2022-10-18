@@ -1,0 +1,82 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Revisão final do curso",
+			"module": "Módulo",
+			"leave_review": "Deixe um comentário sobre o curso"
+		},
+		"menu": {
+			"test": "Teste",
+			"testing": "Teste"
+		},
+		"module-finished-dialog": {
+			"module": "Módulo",
+			"open_access": "O acesso ao módulo está aberto",
+			"thanks_for_review": "Obrigado, seu feedback foi levado em consideração.",
+			"awful": "Terrível",
+			"bad": "Seriamente",
+			"ok": "Médio",
+			"good": "Bom",
+			"excellent": "Excelente",
+			"rate_module": "Avalie o módulo concluído",
+			"leave_review?": "Gostaria de deixar uma avaliação?",
+			"next_lesson": "Próxima lição",
+			"yes": "Sim",
+			"no": "Não"
+		},
+		"module-review-dialog": {
+			"help_us": "Ajude-nos a melhorar o curso",
+			"please_leave_comment_about": "Por favor, deixe um comentário sobre",
+			"leave_review": "Deixar feedback",
+			"my_review": "Minha avaliação",
+			"module": "Módulo",
+			"course": "Curso",
+			"back": "De volta"
+		}
+	},
+	"course-details": {
+		"level": "Nível:",
+		"count_of_modules": "Módulos:",
+		"count_of_lessons": "Lições:",
+		"got_badges": "Emblemas ganhos",
+		"course_progress": "progresso do curso",
+		"pass_again": "Passe novamente",
+		"continue_learning": "Continuar aprendendo",
+		"start_learning": "Comece a aprender",
+		"training_program": "Programa de treinamento",
+		"module": "Módulo"
+	},
+	"course-lesson": {
+		"pass_test": "Passar no teste",
+		"next_lesson": "Próxima lição",
+		"previous_lesson": "Lição anterior"
+	},
+	"course-test": {
+		"description": " Depois de passar no teste, você recebe um crachá especial que dá acesso ao próximo módulo.",
+		"ps": "P.S. Passe no teste sem um único erro e ganhe um distintivo de ouro!",
+		"check_test": "Teste de verificação",
+		"try_once_more": "Tente novamente",
+		"previous_lesson": "Lição anterior",
+		"onward": "Mais longe"
+	},
+	"courses": {
+		"need_subscription": "Precisa se inscrever",
+		"new_course_in_development": "Novos cursos já estão em desenvolvimento!",
+		"level": "Nível:",
+		"count_of_modules": "Módulos:",
+		"count_of_lessons": "Lições:",
+		"got_badges": "Emblemas ganhos",
+		"course_progress": "progresso do curso",
+		"pass_again": "Passe novamente",
+		"continue_learning": "Continuar aprendendo",
+		"start_learning": "Comece a aprender",
+		"about": "Sobre o curso",
+		"difficulty": {
+			"0": "Base",
+			"1": "Elementar",
+			"2": "Média",
+			"3": "Difícil",
+			"-1": "Desconhecido"
+		}
+	}
+}

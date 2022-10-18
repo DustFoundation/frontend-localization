@@ -1,0 +1,77 @@
+{
+	"title": "Calculadora de Risco",
+	"add_template": "Novo cálculo",
+	"without_title": "Sem título",
+	"my_template": "Meu modelo",
+	"navigation": {
+		"all_portfolios": "Todos os portfólios",
+		"calculator": "Calculadora de Risco",
+		"indexes": "Índices"
+	},
+	"sort": {
+		"title": "Ordenação",
+		"date_desc": "Data: mais recente primeiro",
+		"date_asc": "Data: antigo primeiro",
+		"alphabet_desc": "Alfabeticamente A-Z",
+		"alphabet_asc": "Alfabética Z-A"
+	},
+	"calculator": {
+		"title_placeholder": "Digite o nome do modelo",
+		"status_saved": "Título alterado",
+		"saved": "Salvou",
+		"button_save": "Salvar",
+		"type_long": "Grandes",
+		"type_short": "Curto",
+		"search_placeholder": "Procurar",
+		"result_link": "Como funciona?",
+		"result_title": "Resultado",
+		"result_item_volume": "Volume de negócios com alavancagem",
+		"result_item_profit": "Obter lucros",
+		"result_item_proportion": "relação risco/recompensa",
+		"result_item_loss": "Parar a perda de",
+		"result_item_liquidation": "Liquidação",
+		"coin_label": "Ativo",
+		"volume_label": "Volume de negócios",
+		"price_label": "Taxa de entrada",
+		"leverage_label": "Ombro",
+		"risk_label": "Risco",
+		"profit_label": "Lucro",
+		"alert": "Atenção! Liquidação muito perto de parar a perda!",
+		"calculate": "Calcular",
+		"tooltips": {
+			"coin_tooltip": "Ativo selecionado para abrir uma posição",
+			"volume_tooltip": "O valor para o qual uma posição é aberta, excluindo alavancagem",
+			"price_tooltip": "Cotação no gráfico, em relação à qual a posição será aberta",
+			"leverage_tooltip": "A alavancagem permite que você use fundos emprestados para negociar criptomoedas ou outros ativos financeiros. Tenha sempre em mente que usar uma alavancagem mais alta aumenta a probabilidade de sua posição ser liquidada. Eliminação de ombros em % - x100 (1%)",
+			"risk_tooltip": "Perda potencial em % da sua posição em caso de resultado negativo",
+			"profit_tooltip": "Lucro potencial em % da sua posição em caso de resultado positivo"
+		}
+	},
+	"list": {
+		"empty": "Nenhum cálculo salvo",
+		"saved": "Salvou",
+		"title_placeholder": "Digite o título"
+	},
+	"dialog_close_template": {
+		"title": "Tem certeza de que deseja abrir uma nova conta?",
+		"text": "Abrir um novo cálculo limpará todos os dados inseridos e excluirá os resultados",
+		"button_apply": "Claro",
+		"button_cancel": "Cancelar"
+	},
+	"dialog_delete_template": {
+		"title": "Excluindo um cálculo",
+		"text": "Tem certeza de que deseja excluir o cálculo?",
+		"button_apply": "Excluir",
+		"button_cancel": "Cancelar"
+	},
+	"dialog_save_template": {
+		"title": "Salvando um cálculo",
+		"text": "Deseja atualizar um cálculo aberto ou salvar o cálculo como um novo?",
+		"button_apply": "Atualizar",
+		"button_cancel": "salvar novo"
+	},
+	"dialog_tooltip_template": {
+		"title": "Dica",
+		"button_close": "Claro!"
+	}
+}

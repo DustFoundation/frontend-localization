@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "Selecione a rede para transferência USDT",
+		"top_up_amount": "Montante de recarga",
+		"enter_top_up_amount": "Insira o valor de reabastecimento",
+		"pay": "Pagar",
+		"click_to_copy": "Clique para copiar",
+		"copied": "Copiado",
+		"erc20": "Endereço ERC20:",
+		"trc20": "Endereço TRC20:",
+		"bep20": "Endereço BEP20:",
+		"bep2": "Endereço BEP2:",
+		"memo": "Endereço MEMO:",
+		"important": {
+			"1": "Só aceitamos pagamento em Tether (USDT).",
+			"2": "O reabastecimento do saldo é necessário para ativar a assinatura.",
+			"3": "Recomendamos o uso da rede \"TRC20\" (comissão ~$1)",
+			"4": "O envio de uma moeda ou token diferente do USDT para este endereço pode resultar em perda de fundos.",
+			"5": {
+				"first_part": "Para ativar a assinatura “{{subscriptionName}}“ para {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}} você precisa completar seu saldo em {{subscripticenPron USDT + comissão de rede}}"
+			},
+			"title": "Importante"
+		},
+		"video_tutorial": "Tutorial em vídeo sobre como comprar uma assinatura",
+		"warning": "Avisos de risco",
+		"specify_hash_or_number": "Especifique o hash ou o número da transação",
+		"recommendation": {
+			"1": "Para visualizar o número da transação na Binance, siga o link (enquanto estiver logado):",
+			"2": "Se você enviou USDT de outra troca, insira no campo Hash de transação (exemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "Você também pode especificar o número da transação (transferência interna) - 43047269665, mas não confunda com a carteira - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Recomendações"
+		},
+		"to_pay": "Pagamentos {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Passo 1",
+				"description": "Abra o aplicativo Binance em seu smartphone e escaneie o código QR clicando no ícone na parte superior da interface da página inicial."
+			},
+			"2": {
+				"title": "Passo 2",
+				"description": "Em seguida, você verá uma janela confirmando a transação. Verifique se o valor está correto e confirme a transação. Em seguida, clique em \"Eu paguei\"."
+			}
+		},
+		"validation_messages": {
+			"required": "O campo é obrigatório",
+			"min_length": "Comprimento mínimo {{min}} {min, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}"
+		},
+		"hash_or_number": "Número de hash/transação",
+		"faq": "Perguntas frequentes",
+		"payed": "eu paguei",
+		"terms_to_use": "Termos de uso",
+		"privacy_policy": "Política de Privacidade",
+		"back": "De volta",
+		"confirm": "confirme"
+	}
+}

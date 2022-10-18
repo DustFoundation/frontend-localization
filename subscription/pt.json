@@ -1,0 +1,84 @@
+{
+	"components": {
+		"dialog-subscription-status": {
+			"term": "Assinatura de {{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} ativada!",
+			"title": "Bem-vindo à comunidade de entusiastas de criptomoedas!",
+			"subtitle": "Comece a aproveitar todos os benefícios e recursos da plataforma agora mesmo!",
+			"to_main": "Para principal"
+		},
+		"subscription-integrations": {
+			"title": "Integração de contas Discord e Telegram",
+			"rule_1": "Para obter acesso total ao servidor privado Discord e ao canal Telegram, você precisa conectar integrações a eles.",
+			"rule_2": "O acesso será concedido apenas a essas contas! Você pode alterar o acesso a outra conta ao renovar sua assinatura.",
+			"back": "De volta",
+			"onward": "Mais longe",
+			"skip": "Pular",
+			"attention": "Atenção!"
+		},
+		"subscription-term": {
+			"top_up_on": "Recarregar em",
+			"select_subscription": "Escolha uma assinatura",
+			"go": "Vamos para",
+			"transaction_in_progress": "Transação em andamento",
+			"on_your_balance": "No seu saldo",
+			"selected_subscription": "Assinatura selecionada:",
+			"test_period": "(período de teste)",
+			"on_day": "em {{day}} {day, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}}",
+			"bonus": "Com uma assinatura de {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} você recebe {{bonusterm}} {bonusterm, plural, = =2 {dias} =3 {dias} =4 {dias} other {dias}} de graça!",
+			"rule_1": "Antes de continuar, verifique se você tem USDT suficiente em seu saldo para ativar sua assinatura pelo período de sua escolha!",
+			"rule_2": {
+				"first_part": "Para ativar a assinatura “{{subscriptionName}}“ para {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}} você deve ter pelo menos {{subscriptionPrice}} USDT em sua conta!"
+			},
+			"usdt": "USDT",
+			"activate": "Ativar",
+			"back": "De volta",
+			"attention": "Atenção!"
+		}
+	},
+	"subscription-main": {
+		"title": "Assinatura de poeira",
+		"active": "Ativo",
+		"inactive": "Inativo",
+		"to_end_subscription": "Até o final da assinatura “{{name}}”:",
+		"continue_subscription": "Renove sua assinatura",
+		"activate_subscription": "Ativar assinatura",
+		"all_transaction": "todas as transacções",
+		"detail": "Mais sobre assinatura",
+		"cryptocommunity": {
+			"0": {
+				"title": "Acesso à comunidade de criptografia",
+				"description": "Servidor Discord privado com entusiastas de criptografia"
+			},
+			"title": "O que está incluído na assinatura do Cryptocommunity?"
+		},
+		"platform": {
+			"0": {
+				"title": "20 portfólios em Portfólio",
+				"description": "Manutenção e rastreamento de ativos"
+			},
+			"1": {
+				"title": "Acesso à Academia",
+				"description": "Material educativo sobre criptomoedas"
+			},
+			"2": {
+				"title": "Acesso ao fórum de criptografia",
+				"description": "Criando e comentando em posts"
+			},
+			"3": {
+				"title": "Um personagem criptográfico",
+				"description": "1 de 5 personagens atualizáveis"
+			},
+			"4": {
+				"title": "Recompensas de atividade",
+				"description": "Sistema de prêmios e conquistas"
+			},
+			"5": {
+				"title": "Calendário de criptografia",
+				"description": "Rastreamento de eventos de criptografia"
+			},
+			"title": "O que está incluído na assinatura da Plataforma?",
+			"soon": "Em breve..."
+		}
+	}
+}

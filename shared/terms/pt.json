@@ -1,0 +1,15 @@
+{
+	"include": "O que está incluído",
+	"trial": "Experimente gratuitamente {{days}} {days, plural, =1 {dia} =2 {dias} =3 {dias} =4 {dias} other {dias}}",
+	"chose_period": "Número de dias selecionado",
+	"all_from": "Tudo de",
+	"economy": "Salvando",
+	"includes": {
+		"portfolio": "Todos os tipos de portfólios (3 em 1)",
+		"academy": "Cursos de treinamento",
+		"forum": "Fórum",
+		"discord": "Discórdia Privada",
+		"telegram": "Telegrama Privado"
+	},
+	"usdt": "USDT"
+}

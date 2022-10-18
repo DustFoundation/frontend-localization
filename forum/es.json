@@ -1,0 +1,153 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "Desbloquear foro para",
+			"subtitle": "Reúna recompensas diarias y obtenga acceso al foro",
+			"on_balance": "en tu saldo",
+			"dust": "POLVO",
+			"unlock": "desbloquear"
+		},
+		"dialog-delete-ticket": {
+			"title": "Eliminar mensaje",
+			"subtitle": "¿Seguro que quieres eliminar tu publicación?",
+			"delete": "Borrar",
+			"cancel": "Cancelar"
+		},
+		"dialog-reject-reason": {
+			"title": "Motivo de rechazo del ticket"
+		},
+		"ticket-comments": {
+			"forbidden": "Está prohibido dejar comentarios en las publicaciones rechazadas o no publicadas."
+		},
+		"ticket-comments-item": {
+			"leave_comment": "Deje un comentario",
+			"show_more": "Mostrar más...",
+			"hide": "Ocultar",
+			"cancel": "Cancelar",
+			"change": "Cambio",
+			"reply": "Respuesta",
+			"show": "Espectáculo",
+			"show_answer": "Mostrar {{value}} {value, plural, =1 {respuesta} other {respuestas}}",
+			"edit": "Editar",
+			"delete": "Borrar"
+		},
+		"ticket-item": {
+			"moderate": "Bajo revisión"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "Deje un comentario",
+			"reply": "Respuesta",
+			"cancel": "Cancelar"
+		}
+	},
+	"buy-access": {
+		"all": "Todos los mensajes",
+		"my-tickets": "Mis publicaciones",
+		"create_post": "Crear publicación",
+		"all_posts": "Todos los mensajes",
+		"rating": "Clasificación",
+		"name": "Título de la entrada",
+		"author": "Autor",
+		"date": "Fecha de publicación",
+		"topic": "Tema",
+		"views": "Puntos de vista",
+		"comments": "Comentarios",
+		"no_posts": "el foro esta vacio :(",
+		"create_firs_post": "Crea tu primera publicación"
+	},
+	"create-ticket": {
+		"status": "Estado:",
+		"sent": "Enviado:",
+		"edit_mode": "Editar una publicación",
+		"view_mode": "Ver una publicación",
+		"create_post": "Crear una publicación",
+		"title_post": "Título de la entrada",
+		"title": "Título",
+		"post_topic": "Publicar tema",
+		"description": "Publicar texto / contenido / descripción",
+		"resend": "reenviar",
+		"times_left": "(Izquierda {{num}})",
+		"buy_opportunities": "Compre 10 oportunidades para crear una publicación (10 DUST)",
+		"moderate": "En revisión",
+		"rejected": "Rechazado",
+		"no_reason": "No se especifica el motivo",
+		"delete_post": "Eliminar mensaje",
+		"default_user_nickname": "Anónimo",
+		"loaded_photo": "Foto subida:",
+		"load_image": "Elija un archivo o arrástrelo aquí (JPG o PNG menos de 3 MB)",
+		"add_image": "Añadir imagen",
+		"close": "Cerca",
+		"create": "Crear",
+		"validation_messages": {
+			"required": "Se requiere campo",
+			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
+			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
+			"invalid_format_img": "Formato de imagen inválido",
+			"file_size_exceeded": "Tamaño de archivo excedido"
+		}
+	},
+	"my-tickets": {
+		"popular": "Popular",
+		"news": "Nuevo",
+		"all": "Todos los mensajes",
+		"my-tickets": "Mis publicaciones",
+		"create_post": "Crear publicación",
+		"delete_post": "Eliminar mensaje",
+		"no_posts": "el foro esta vacio :(",
+		"create_firs_post": "Crea tu primera publicación",
+		"name": "Título de la entrada",
+		"date": "Fecha de publicación",
+		"status": "Estado de moderación",
+		"comment": "Comentario",
+		"no_reason": "No se especifica el motivo",
+		"view_post": "Ver publicacion",
+		"published": "Publicado:",
+		"sent": "Enviado:",
+		"edit": "Editar",
+		"accepted": "Aceptado",
+		"moderate": "En revisión",
+		"rejected": "Rechazado"
+	},
+	"ticket": {
+		"default_user_nickname": "Anónimo",
+		"up_rating": "Subir calificación",
+		"remove_voice": "Eliminar voto",
+		"rating": "Clasificación",
+		"name": "Título de la entrada",
+		"author": "Autor",
+		"date": "Fecha de publicación",
+		"topic": "Tema",
+		"views": "Puntos de vista",
+		"comments": "Comentarios",
+		"moderator": "Moderador",
+		"edit": "Editar",
+		"delete_post": "Eliminar mensaje",
+		"delete": "Borrar"
+	},
+	"tickets": {
+		"popular": "Popular",
+		"news": "Nuevo",
+		"all": "Todos los mensajes",
+		"my-tickets": "Mis publicaciones",
+		"create_post": "Crear publicación",
+		"all_posts": "Todos los mensajes",
+		"rating": "Clasificación",
+		"name": "Título de la entrada",
+		"author": "Autor",
+		"date": "Fecha de publicación",
+		"topic": "Tema",
+		"views": "Puntos de vista",
+		"comments": "Comentarios",
+		"moderator": "Moderador",
+		"no_posts": "el foro esta vacio :(",
+		"create_firs_post": "Crea tu primera publicación"
+	},
+	"tags": {
+		"Идея": "Ocurrencia",
+		"Жалоба": "Queja",
+		"Партнерство": "Camaradería",
+		"Предложение": "Oferta",
+		"Обсуждение": "Discusión",
+		"Другое": "Otro"
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Logro desbloqueado",
+			"close": "Cerca"
+		},
+		"activate-mfa-dialog": {
+			"title": "Habilitar 2FA",
+			"subtitle": "Escanee el código QR e ingrese el código para confirmar la autenticación",
+			"code": "Código",
+			"activate": "Habilitar"
+		},
+		"change-avatar-dialog": {
+			"title": "Cambiar avatar",
+			"accepted_format": "Formatos aceptables: JPG, PNG de no más de 3 MB",
+			"load_photo": "Subir foto",
+			"choose_avatar": "elegir avatar"
+		},
+		"change-password-dialog": {
+			"title": "Cambia la contraseña",
+			"subtitle": "Te enviamos un email con un código para cambiar tu contraseña",
+			"enter_code": "Introduzca el código",
+			"enter_data": "Introduce los datos para crear una nueva contraseña",
+			"save_password": "Guardar contraseña",
+			"onward": "próximo",
+			"form": {
+				"new_password": "Nueva contraseña",
+				"repeat_new_password": "repita la nueva contraseña",
+				"password_input_placeholder": "****************"
+			},
+			"validation_messages": {
+				"required": "Se requiere campo",
+				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
+				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
+				"password_rules": "La contraseña debe contener al menos 1 letra mayúscula y 1 dígito",
+				"passwords_not_match": "Las contraseñas no coinciden"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Avatares disponibles",
+			"save": "Ahorrar"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "Deshabilitar 2FA",
+			"subtitle": "¿Está seguro de que desea deshabilitar 2FA?",
+			"disconnect": "Desactivado"
+		}
+	},
+	"profile-main": {
+		"my_character": "Mi personaje",
+		"level": "nivel",
+		"experience": "Experiencia",
+		"internal_currency": "Moneda interna",
+		"daily_rewards": "Recompensas diarias",
+		"day": "Día día]",
+		"get_daily_reward": "Obtener recompensa diaria",
+		"to_next_reward": "Hasta la próxima recompensa",
+		"got_reward": "Recompensas recibidas",
+		"in_development": "En desarrollo",
+		"of": "{{num1}} de {{num2}}",
+		"usdt": "USDT",
+		"dust": "FICHA DE POLVO",
+		"micron": "MICRÓN",
+		"crypto-bum": "cripto-vagabundo",
+		"beta": "BETA"
+	},
+	"profile-settings": {
+		"title": "Informacion personal",
+		"change_avatar": "Cambiar avatar",
+		"delete_avatar": "Eliminar avatar",
+		"security": "Seguridad",
+		"change_password": "cambiar contraseñas",
+		"mfa": "Autenticación de dos factores",
+		"disconnect_mfa": "Deshabilitar 2FA",
+		"integrations": "integraciones",
+		"security_title": "Seguridad",
+		"integrations_title": "integraciones",
+		"language_title": "Ajustes de idioma",
+		"help_title": "Ayuda",
+		"main_language": "Lenguaje primario",
+		"main_language_description": "Elija el idioma de visualización del contenido principal",
+		"additional_language": "Idioma secundario",
+		"additional_language_description": "Elija un idioma que se utilizará para mostrar el contenido en caso de que la traducción al idioma principal no esté disponible",
+		"information_about_platform": "Información sobre la plataforma",
+		"open": "Abierto",
+		"help": "Ayuda",
+		"connect": "Conectar",
+		"password": "Clave",
+		"mail": "Correo electrónico",
+		"nickname": "Apodo",
+		"ru": "ruso",
+		"en": "inglés",
+		"uk": "ucranio",
+		"lv": "letón",
+		"saved": "Salvado"
+	},
+	"profile-transactions": {
+		"transaction": "Transacción",
+		"date": "Fecha",
+		"sum": "Monto",
+		"status": "Estado",
+		"sum_status": "Importe/Estado",
+		"information": "Información",
+		"no_transaction": "No hay transacciones.",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "recargar saldo",
+			"subscription": "compra de suscripción",
+			"FORUM_ACCESS": "Acceso al foro",
+			"FORUM_POSTS_10": "Compró 10 publicaciones en el foro"
+		},
+		"transaction_statuses": {
+			"created": "Pendiente",
+			"pending": "Procesando",
+			"pre-approve": "esperando confirmación",
+			"approve": "Confirmado",
+			"done": "Hecho",
+			"failed": "Un error ha ocurrido",
+			"canceled": "Cancelado",
+			"expired": "Venció",
+			"other": "Desconocido"
+		}
+	}
+}

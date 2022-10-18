@@ -1,0 +1,82 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Revisión final de nuestro curso",
+			"module": "Módulo",
+			"leave_review": "Deja tus comentarios sobre el curso"
+		},
+		"menu": {
+			"test": "Prueba",
+			"testing": "Evaluación"
+		},
+		"module-finished-dialog": {
+			"module": "Módulo",
+			"open_access": "Acceso al módulo concedido",
+			"thanks_for_review": "Gracias, tu comentario es tomado en cuenta",
+			"awful": "Horrible",
+			"bad": "Malo",
+			"ok": "Promedio",
+			"good": "Bueno",
+			"excellent": "Excelente",
+			"rate_module": "Califica este módulo",
+			"leave_review?": "¿Le gustaría dejar sus comentarios?",
+			"next_lesson": "Siguiente lección",
+			"yes": "Sí",
+			"no": "No"
+		},
+		"module-review-dialog": {
+			"help_us": "Ayúdanos a mejorar este curso",
+			"please_leave_comment_about": "Por favor, ¿podría dejar una reseña sobre el",
+			"leave_review": "Deja los comentarios",
+			"my_review": "Mi retroalimentación",
+			"module": "Módulo",
+			"course": "Curso",
+			"back": "atrás"
+		}
+	},
+	"course-details": {
+		"level": "Nivel:",
+		"count_of_modules": "Módulos:",
+		"count_of_lessons": "Lecciones:",
+		"got_badges": "insignias recibidas",
+		"course_progress": "Progreso del curso",
+		"pass_again": "Pasa otra vez",
+		"continue_learning": "Continuar aprendiendo",
+		"start_learning": "Comienza a aprender",
+		"training_program": "el programa de aprendizaje",
+		"module": "Módulo"
+	},
+	"course-lesson": {
+		"pass_test": "Aprobar el examen",
+		"next_lesson": "la próxima lección",
+		"previous_lesson": "la lección anterior"
+	},
+	"course-test": {
+		"description": " Después de pasar la prueba, obtendrá una insignia especial que abre su acceso al siguiente módulo",
+		"ps": "PD ¡Pase la prueba sin errores para obtener una insignia de oro!",
+		"check_test": "Revisa la prueba",
+		"try_once_more": "Intentar otra vez",
+		"previous_lesson": "la lección anterior",
+		"onward": "próximo"
+	},
+	"courses": {
+		"need_subscription": "Se requiere suscripción activa",
+		"new_course_in_development": "¡Ya hay nuevos cursos en desarrollo!",
+		"level": "Nivel:",
+		"count_of_modules": "Módulos:",
+		"count_of_lessons": "Lecciones:",
+		"got_badges": "insignias recibidas",
+		"course_progress": "Progreso del curso",
+		"pass_again": "Pasa otra vez",
+		"continue_learning": "Continuar aprendiendo",
+		"start_learning": "Comienza a aprender",
+		"about": "Sobre",
+		"difficulty": {
+			"0": "Básico",
+			"1": "Elemental",
+			"2": "Medio",
+			"3": "Avanzado",
+			"-1": "Desconocido"
+		}
+	}
+}

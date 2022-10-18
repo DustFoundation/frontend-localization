@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "Introduce el importe de la recarga",
+			"get_qr": "Obtener código QR para el pago",
+			"min_sum": "La cantidad mínima de recarga es {{num}}$",
+			"scan_qr": "Escanee el código QR con su aplicación móvil Binance para realizar un pago",
+			"i_paid": "He pagado",
+			"validation_messages": {
+				"required": "Se requiere campo"
+			}
+		},
+		"change-password-dialog": {
+			"title": "Establecer la contraseña",
+			"new_password": "Nueva contraseña",
+			"repeat_password": "repite la contraseña",
+			"change_password": "cambiar la contraseña",
+			"password_input_placeholder": "****************",
+			"validation_messages": {
+				"required": "Se requiere campo",
+				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
+				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
+				"password_rules": "La contraseña debe contener al menos 1 letra mayúscula y 1 dígito",
+				"passwords_not_match": "Las contraseñas no coinciden"
+			}
+		},
+		"checkout-email": {
+			"title_1": "Ingrese su correo electrónico",
+			"subtitle_1": "Te enviaremos un mensaje con un código para confirmar tu dirección de correo electrónico",
+			"title_2": "Confirmación de correo electrónico",
+			"subtitle_2": "Introduce el código que te hemos enviado a tu dirección de correo electrónico",
+			"selected_subscription": "Suscripción seleccionada <span>{{name}}</span>",
+			"change_subscription": "Cambiar suscripción",
+			"send_code": "Envía el código",
+			"send_code_after": "Reenviar un código en <span>{{time}} {time, plural, =1 {segundo} =2 {segundos} =3 {segundos} =4 {segundos} other {segundos}}</span>",
+			"send_code_once_more": "Reenviar un código",
+			"email_input_placeholder": "correo@correo.com",
+			"back": "atrás",
+			"validation_messages": {
+				"required": "Se requiere campo",
+				"invalid_email": "Formato de correo inválido"
+			},
+			"policy": {
+				"agree": "estoy de acuerdo con",
+				"with": "una política de privacidad"
+			}
+		},
+		"checkout-header": {
+			"explore": "Explorar",
+			"products": "productos",
+			"roadmap": "Mapa vial",
+			"about_us": {
+				"title": "Sobre nosotros",
+				"subtitle": "Nuestro equipo"
+			},
+			"our_brand": {
+				"title": "Nuestra marca",
+				"subtitle": "Uso del logotipo"
+			},
+			"career": {
+				"title": "Carreras",
+				"subtitle": "posiciones abiertas"
+			},
+			"dust_bro": {
+				"title": "Polvo hermano y ángeles",
+				"subtitle": "Asociaciones"
+			},
+			"blog": {
+				"title": "Blog",
+				"subtitle": "Manténgase al día con las últimas noticias"
+			},
+			"registration": "Registro",
+			"entry": "Iniciar sesión"
+		},
+		"checkout-payment": {
+			"title": "Selección de la duración de la suscripción",
+			"video_tutorial": "Video tutorial - cómo comprar una suscripción",
+			"terms_to_use": "Términos de Uso",
+			"privacy_policy": "Política de privacidad",
+			"warning": "Advertencias de riesgo",
+			"back": "atrás",
+			"activate": "Activar",
+			"onward": "próximo",
+			"choose_network": "Seleccione una red para la transferencia de USDT",
+			"erc20": "Dirección ERC20:",
+			"trc20": "Dirección TRC20:",
+			"bep20": "BEP20 Dirección:",
+			"bep2": "Dirección BEP2:",
+			"memo": "MEMO Dirección:",
+			"click_to_copy": "Haga clic para copiar",
+			"copied": "copiado",
+			"payed": "He pagado",
+			"hash_or_number": "Hash de transacción / número",
+			"specify_hash_or_number": "Especificar hash o número de transacción",
+			"confirm": "Confirmar",
+			"faq": "Preguntas más frecuentes",
+			"transaction": {
+				"title": "Especificar hash o número de transacción",
+				"recommendation": {
+					"1": "Para buscar el número de transacción en Binance, siga este enlace:",
+					"2": "Si ha enviado USDT desde otro intercambio, especifique en este campo Hash de transacción (ejemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "También puede especificar un número de transacción (Transferencia interna) - 43047269665, pero no lo confunda con su billetera - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "Recomendaciones"
+				}
+			},
+			"important": {
+				"1": "Aceptamos pagos solo en Tether (USDT).",
+				"2": "Recarga tu saldo para activar tu suscripción.",
+				"3": "Recomendamos usar la red «TRC20» (tarifa ~1$)",
+				"4": "Enviar cualquier otra moneda o token a esta dirección, excepto USDT, puede resultar en la pérdida de sus fondos.",
+				"5": {
+					"first_part": "Para activar una suscripción “{{subscriptionName}}“ para {{subscriptionTerm}}",
+					"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} necesita recargar su saldo para {{subscriptionP e1}} USDT +c tarifa de red."
+				},
+				"title": "Importante"
+			},
+			"validation_messages": {
+				"required": "Se requiere campo",
+				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "Vuela a través de blockchain",
+			"success": "Pago exitoso",
+			"status": "Estado de pago:"
+		}
+	}
+}

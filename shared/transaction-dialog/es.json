@@ -1,0 +1,12 @@
+{
+	"title": "Ingrese el hash o el número de la transacción",
+	"recommendation": {
+		"1": "Para buscar el número de transacción, siga este enlace:",
+		"2": "Si ha enviado USDT desde otro intercambio, especifique en este campo Hash de transacción (ejemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+		"3": "Especifique un número de transacción (Transferencia interna - 43047269665, no su billetera - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+		"title": "Recomendaciones"
+	},
+	"hash_or_number": "Hash/número de transacción",
+	"payed": "He pagado",
+	"back": "atrás"
+}

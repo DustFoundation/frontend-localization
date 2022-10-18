@@ -1,0 +1,41 @@
+{
+	"title": "notas",
+	"create_btn": "crear una nota",
+	"empty_note": "nota vacía",
+	"sort": {
+		"custom": "En orden personalizado",
+		"date_desc": "Fecha: primera noticia",
+		"date_asc": "Fecha: antiguo primero",
+		"alphabet_desc": "Alfabéticamente de la A a la Z",
+		"alphabet_asc": "Alfabéticamente de la Z a la A"
+	},
+	"create_note_dialog": {
+		"remove_button": "Borrar nota",
+		"save": "Ahorrar",
+		"title": "crear una nota",
+		"edit_title": "Editar nota",
+		"title_label": "Encabezamiento",
+		"title_placeholder": "Mi nota",
+		"content_placeholder": "Ingrese el texto de la nota",
+		"changed": "Cambió",
+		"validation_messages": {
+			"required": "Este campo es obligatorio",
+			"min_length": "Longitud mínima {{min}} {min, plural, =1 {símbolo} =2 {símbolo} =3 {símbolo} =4 {símbolo} other {símbolos}}",
+			"max_length": "Longitud máxima {{max}} {max, plural, =1 {símbolo} =2 {símbolo} =3 {símbolo} =4 {símbolo} other {símbolos}}",
+			"not_only_spaces": "El título no puede contener solo espacios"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Borrar una nota",
+		"description": "¿Está seguro de que desea eliminar la nota?",
+		"delete": "Borrar",
+		"cancel": "Cancelar",
+		"deleted_successfully": "Nota eliminada con éxito"
+	},
+	"attention_note_dialog": {
+		"title": "Atención",
+		"description": "¿Está seguro de que desea cerrar esta nota sin guardarla?",
+		"dont_save": "no guardes",
+		"cancel": "Cancelar"
+	}
+}

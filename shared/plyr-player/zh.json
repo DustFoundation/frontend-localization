@@ -1,0 +1,6 @@
+{
+	"auto": "汽车",
+	"normal": "普通的",
+	"speed": "{type, plural, =1 {播放速度} other {播放速度}}",
+	"quality": "质量"
+}

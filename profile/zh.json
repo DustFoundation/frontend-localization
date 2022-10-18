@@ -1,0 +1,124 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "成就解锁",
+			"close": "关"
+		},
+		"activate-mfa-dialog": {
+			"title": "启用 2FA",
+			"subtitle": "扫描二维码并输入验证码确认",
+			"code": "代码",
+			"activate": "使能够"
+		},
+		"change-avatar-dialog": {
+			"title": "更改头像",
+			"accepted_format": "可接受的格式：JPG、PNG 不大于 3MB",
+			"load_photo": "上传照片",
+			"choose_avatar": "选择头像"
+		},
+		"change-password-dialog": {
+			"title": "更改密码",
+			"subtitle": "我们向您发送了一封电子邮件，其中包含更改密码的代码",
+			"enter_code": "输入代码",
+			"enter_data": "输入数据以创建新密码",
+			"save_password": "保存密码",
+			"onward": "下一个",
+			"form": {
+				"new_password": "新密码",
+				"repeat_new_password": "重复新密码",
+				"password_input_placeholder": "*****************"
+			},
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "密码必须至少包含 1 个大写字母和 1 个数字",
+				"passwords_not_match": "密码不匹配"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "可用头像",
+			"save": "节省"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "禁用 2FA",
+			"subtitle": "您确定要禁用 2FA 吗？",
+			"disconnect": "已禁用"
+		}
+	},
+	"profile-main": {
+		"my_character": "我的角色",
+		"level": "等级",
+		"experience": "经验",
+		"internal_currency": "内部货币",
+		"daily_rewards": "每日奖励",
+		"day": "天 {{day}}",
+		"get_daily_reward": "获得每日奖励",
+		"to_next_reward": "直到下一个奖励",
+		"got_reward": "获得奖励",
+		"in_development": "开发中",
+		"of": "{{num1}} 个，共 {{num2}} 个",
+		"usdt": "USDT",
+		"dust": "灰尘令牌",
+		"micron": "美光",
+		"crypto-bum": "加密流浪汉",
+		"beta": "测试版"
+	},
+	"profile-settings": {
+		"title": "个人信息",
+		"change_avatar": "更改头像",
+		"delete_avatar": "删除头像",
+		"security": "安全",
+		"change_password": "更改密码",
+		"mfa": "两因素身份验证",
+		"disconnect_mfa": "禁用 2FA",
+		"integrations": "集成",
+		"security_title": "安全",
+		"integrations_title": "集成",
+		"language_title": "语言设定",
+		"help_title": "帮助",
+		"main_language": "主要语言",
+		"main_language_description": "选择主要内容显示语言",
+		"additional_language": "次要语言",
+		"additional_language_description": "选择一种在无法翻译成主要语言时用于显示内容的语言",
+		"information_about_platform": "平台信息",
+		"open": "打开",
+		"help": "帮助",
+		"connect": "连接",
+		"password": "密码",
+		"mail": "电子邮件",
+		"nickname": "昵称",
+		"ru": "俄语",
+		"en": "英语",
+		"uk": "乌克兰",
+		"lv": "拉脱维亚语",
+		"saved": "已保存"
+	},
+	"profile-transactions": {
+		"transaction": "交易",
+		"date": "日期",
+		"sum": "数量",
+		"status": "地位",
+		"sum_status": "金额/状态",
+		"information": "信息",
+		"no_transaction": "没有交易。",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "充值余额",
+			"subscription": "订阅购买",
+			"FORUM_ACCESS": "访问论坛",
+			"FORUM_POSTS_10": "购买了 10 个论坛帖子"
+		},
+		"transaction_statuses": {
+			"created": "待办的",
+			"pending": "加工",
+			"pre-approve": "等待确认中",
+			"approve": "确认的",
+			"done": "完毕",
+			"failed": "发生错误",
+			"canceled": "取消",
+			"expired": "已到期",
+			"other": "未知"
+		}
+	}
+}

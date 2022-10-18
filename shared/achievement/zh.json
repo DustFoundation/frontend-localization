@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "“仓鼠”",
+		"description": "通过平台注册成功"
+	},
+	"onboarding": {
+		"name": "“先锋”",
+		"description": "通过平台的熟悉"
+	},
+	"portfolioalltypes": {
+		"name": "“基思”",
+		"description": "创建了所有三种类型的投资组合"
+	},
+	"academycoursegold": {
+		"name": "“出色的”",
+		"description": "以优异的成绩通过学院的课程"
+	},
+	"discordtelegram": {
+		"name": "“集成商”",
+		"description": "与 Discord 和 Telegram 的连接集成"
+	},
+	"connections": {
+		"name": "“建立联系”",
+		"description": "注册我们的社交网络"
+	},
+	"subscription": {
+		"name": "“重要的人”",
+		"description": "购买了 DUST 平台的订阅"
+	},
+	"forumfirstpost": {
+		"name": "“我一会儿告诉你”",
+		"description": "在论坛中创建了我的第一个帖子"
+	},
+	"amateur": {
+		"name": "“加密爱好者”",
+		"description": "在一个论坛帖子上收集了 10 个赞"
+	},
+	"portfolio10coins": {
+		"name": "“加密货币化”",
+		"description": "向虚拟投资组合添加 10 个硬币"
+	},
+	"dailyreward28": {
+		"name": "“真正的HODLer”",
+		"description": "连续获得28个每日奖励"
+	},
+	"omnipotence": {
+		"name": "“全能手套”",
+		"description": "投票支持 Forge 更新"
+	}
+}

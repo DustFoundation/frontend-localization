@@ -1,0 +1,77 @@
+{
+	"title": "风险计算器",
+	"add_template": "新计算",
+	"without_title": "无题",
+	"my_template": "我的模板",
+	"navigation": {
+		"all_portfolios": "所有投资组合",
+		"calculator": "风险计算器",
+		"indexes": "指数"
+	},
+	"sort": {
+		"title": "排序",
+		"date_desc": "日期：第一个新",
+		"date_asc": "日期：老一号",
+		"alphabet_desc": "按字母顺序 A 到 Z",
+		"alphabet_asc": "按字母顺序从 Z 到 A"
+	},
+	"calculator": {
+		"title_placeholder": "输入模板名称",
+		"status_saved": "名称已更改",
+		"saved": "已保存",
+		"button_save": "节省",
+		"type_long": "长",
+		"type_short": "短的",
+		"search_placeholder": "搜索",
+		"result_link": "它是如何工作的？",
+		"result_title": "结果",
+		"result_item_volume": "杠杆交易量",
+		"result_item_profit": "获利",
+		"result_item_proportion": "风险/利润比率",
+		"result_item_loss": "止损",
+		"result_item_liquidation": "清算",
+		"coin_label": "积极的",
+		"volume_label": "交易量",
+		"price_label": "入场价",
+		"leverage_label": "杠杆作用",
+		"risk_label": "风险",
+		"profit_label": "利润",
+		"alert": "警告！强平离止损太近了！",
+		"calculate": "计算",
+		"tooltips": {
+			"coin_tooltip": "开仓货币",
+			"volume_tooltip": "开仓金额，不包括杠杆",
+			"price_tooltip": "图表上将开仓的报价",
+			"leverage_tooltip": "杠杆允许您使用借入的资金来交易加密货币或其他金融资产。永远记住，使用更高的杠杆会增加你的头寸被清算的可能性。平仓以 % - x100 (1%) 为单位",
+			"risk_tooltip": "如果出现负面情况，您头寸的潜在损失百分比",
+			"profit_tooltip": "在积极的情况下，您头寸的潜在利润百分比"
+		}
+	},
+	"list": {
+		"empty": "没有保存的计算",
+		"saved": "已保存",
+		"title_placeholder": "输入标题"
+	},
+	"dialog_close_template": {
+		"title": "您确定要开设一个新帐户吗？",
+		"text": "打开新计算将清除所有输入的数据并删除结果",
+		"button_apply": "清除",
+		"button_cancel": "取消"
+	},
+	"dialog_delete_template": {
+		"title": "删除计算",
+		"text": "真的要删除计算吗？",
+		"button_apply": "消除",
+		"button_cancel": "取消"
+	},
+	"dialog_save_template": {
+		"title": "保存计算",
+		"text": "是否要更新打开的计算或将计算另存为新计算？",
+		"button_apply": "更新",
+		"button_cancel": "保存一个新的"
+	},
+	"dialog_tooltip_template": {
+		"title": "暗示",
+		"button_close": "知道了！"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"status": "支付状态：",
+	"entered_hash": "输入哈希：",
+	"edit_hash": "编辑哈希",
+	"transaction_statuses": {
+		"success_1": "成功",
+		"success_2": "充值成功",
+		"processing_1": "加工...",
+		"processing_2": "穿越区块链"
+	}
+}

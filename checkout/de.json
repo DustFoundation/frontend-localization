@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "Geben Sie die Auffüllmenge an",
+			"get_qr": "Holen Sie sich einen QR-Code für die Zahlung",
+			"min_sum": "Mindesteinzahlungsbetrag {{num}}$",
+			"scan_qr": "Scannen Sie den QR-Code auf Ihrer mobilen Binance-App, um zu bezahlen",
+			"i_paid": "Ich habe bezahlt",
+			"validation_messages": {
+				"required": "Dieses Feld ist erforderlich"
+			}
+		},
+		"change-password-dialog": {
+			"title": "Legen Sie ein Passwort fest",
+			"new_password": "Neues Passwort",
+			"repeat_password": "Wiederholen Sie das Passwort",
+			"change_password": "Passwort ändern",
+			"password_input_placeholder": "*****************",
+			"validation_messages": {
+				"required": "Dieses Feld ist erforderlich",
+				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+				"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+				"password_rules": "Das Passwort muss mindestens enthalten: 1 lateinischer Kleinbuchstabe, 1 Zahl",
+				"passwords_not_match": "Passwörter stimmen nicht überein"
+			}
+		},
+		"checkout-email": {
+			"title_1": "Geben sie ihre E-Mail Adresse ein",
+			"subtitle_1": "Wir senden Ihnen eine E-Mail mit einem Bestätigungscode.",
+			"title_2": "Email Bestätigung",
+			"subtitle_2": "Geben Sie den unten stehenden Code ein, der an Ihre E-Mail gesendet wurde",
+			"selected_subscription": "Abonnement ausgewählt <span>{{name}}</span>",
+			"change_subscription": "Abonnement ändern",
+			"send_code": "Code senden",
+			"send_code_after": "Code erneut senden nach <span>{{time}} {time, plural, =1 {Sekunden} =2 {Sekunden} =3 {Sekunden} =4 {Sekunden} other {Sekunden}}</span>",
+			"send_code_once_more": "Code nochmal senden",
+			"email_input_placeholder": "mail@mail.com",
+			"back": "zurück",
+			"validation_messages": {
+				"required": "Dieses Feld ist erforderlich",
+				"invalid_email": "ungültiges Email-Format"
+			},
+			"policy": {
+				"agree": "Ich bin einverstanden mit",
+				"with": "Datenschutz-Bestimmungen"
+			}
+		},
+		"checkout-header": {
+			"explore": "Entdecken",
+			"products": "Produkte",
+			"roadmap": "Fahrplan",
+			"about_us": {
+				"title": "Über uns",
+				"subtitle": "Unser Befehl"
+			},
+			"our_brand": {
+				"title": "Unsere Marke",
+				"subtitle": "Verwendung des Logos"
+			},
+			"career": {
+				"title": "Karriere",
+				"subtitle": "Aktuelle Stellenangebote"
+			},
+			"dust_bro": {
+				"title": "Dust Bro & Angels",
+				"subtitle": "Partnerschaften"
+			},
+			"blog": {
+				"title": "Bloggen",
+				"subtitle": "Bleiben Sie auf dem Laufenden mit den neuesten Nachrichten"
+			},
+			"registration": "Anmeldung",
+			"entry": "Anmeldung"
+		},
+		"checkout-payment": {
+			"title": "Auswahl des Abonnementzeitraums",
+			"video_tutorial": "Video-Tutorial zum Kauf eines Abonnements",
+			"terms_to_use": "Nutzungsbedingungen",
+			"privacy_policy": "Datenschutz-Bestimmungen",
+			"warning": "Risikowarnungen",
+			"back": "zurück",
+			"activate": "aktivieren Sie",
+			"onward": "Des Weiteren",
+			"choose_network": "Wählen Sie das Netzwerk für die USDT-Übertragung aus",
+			"erc20": "ERC20-Adresse:",
+			"trc20": "TRC20-Adresse:",
+			"bep20": "BEP20-Adresse:",
+			"bep2": "BEP2-Adresse:",
+			"memo": "MEMO-Adresse:",
+			"click_to_copy": "Zum Kopieren klicken",
+			"copied": "Kopiert",
+			"payed": "Ich habe bezahlt",
+			"hash_or_number": "Hash-/Transaktionsnummer",
+			"specify_hash_or_number": "Hash oder Transaktionsnummer angeben",
+			"confirm": "Bestätigen",
+			"faq": "FAQ",
+			"transaction": {
+				"title": "Hash oder Transaktionsnummer angeben",
+				"recommendation": {
+					"1": "Um die Transaktionsnummer anzuzeigen, folgen Sie dem Link:",
+					"2": "Wenn Sie USDT von einer anderen Börse gesendet haben, geben Sie in das Transaktions-Hash-Feld ein (Beispiel TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "Geben Sie die Transaktionsnummer an (interne Überweisung) - 43047269665, nicht die Brieftasche - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "Empfehlungen"
+				}
+			},
+			"important": {
+				"1": "Wir akzeptieren nur Zahlungen in Tether (USDT).",
+				"2": "Das Auffüllen des Guthabens ist erforderlich, um das Abonnement zu aktivieren.",
+				"3": "Wir empfehlen die Verwendung des \"TRC20\"-Netzwerks (Provision ~ 1 $)",
+				"4": "Das Senden eines anderen Coins oder Tokens als USDT an diese Adresse kann zu Geldverlusten führen.",
+				"5": {
+					"first_part": "So aktivieren Sie das Abonnement „{{subscriptionName}}“ für {{subscriptionTerm}}",
+					"second_part": "{subscriptionTerm, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} müssen Sie Ihr Guthaben um {{subscriptionPronPron}} USDi Provision aufladen"
+				},
+				"title": "Wichtig"
+			},
+			"validation_messages": {
+				"required": "Dieses Feld ist erforderlich",
+				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "Fliegen auf der Blockchain",
+			"success": "Erfolgreicher Nachschub",
+			"status": "Zahlungsstatus:"
+		}
+	}
+}

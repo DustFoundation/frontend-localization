@@ -1,0 +1,153 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "Forum entsperren für",
+			"subtitle": "Sammeln Sie tägliche Belohnungen und erhalten Sie Zugang zum Abschnitt \"Forum\".",
+			"on_balance": "Auf Ihrem Guthaben",
+			"dust": "STAUB",
+			"unlock": "Freischalten"
+		},
+		"dialog-delete-ticket": {
+			"title": "Löschen eines Beitrags",
+			"subtitle": "Möchten Sie den von Ihnen erstellten Beitrag wirklich löschen?",
+			"delete": "Löschen",
+			"cancel": "Absagen"
+		},
+		"dialog-reject-reason": {
+			"title": "Grund für die Ablehnung des Tickets"
+		},
+		"ticket-comments": {
+			"forbidden": "Es ist verboten, Kommentare zu einem abgelehnten oder unveröffentlichten Beitrag zu posten"
+		},
+		"ticket-comments-item": {
+			"leave_comment": "Hinterlasse einen Kommentar",
+			"show_more": "Zeig mehr...",
+			"hide": "Ausblenden",
+			"cancel": "Absagen",
+			"change": "Veränderung",
+			"reply": "Antwort",
+			"show": "Zeigen",
+			"show_answer": "Zeige {{value}} {value, plural, =1 {Antwort} =2 {Antworten} =3 {Antworten} =4 {Antworten} other {Antworten}}",
+			"edit": "Bearbeiten",
+			"delete": "Löschen"
+		},
+		"ticket-item": {
+			"moderate": "Unter Berücksichtigung"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "Hinterlasse einen Kommentar",
+			"reply": "Antwort",
+			"cancel": "Absagen"
+		}
+	},
+	"buy-access": {
+		"all": "Alle Artikel",
+		"my-tickets": "Beiträge erstellt",
+		"create_post": "Beitrag erstellen",
+		"all_posts": "Alle Artikel",
+		"rating": "Bewertung",
+		"name": "Titel des Beitrags",
+		"author": "Autor",
+		"date": "Veröffentlichungsdatum",
+		"topic": "Thema",
+		"views": "Ansichten",
+		"comments": "Kommentare",
+		"no_posts": "Forum leer :(",
+		"create_firs_post": "Erstellen Sie Ihren ersten Beitrag"
+	},
+	"create-ticket": {
+		"status": "Status:",
+		"sent": "Gesendet:",
+		"edit_mode": "Nachbearbeitung",
+		"view_mode": "Beitragsansicht",
+		"create_post": "Erstellen Sie einen Beitrag",
+		"title_post": "Titel des Beitrags",
+		"title": "Header",
+		"post_topic": "Betreff posten",
+		"description": "Text / Inhalt / Beschreibung des Beitrags",
+		"resend": "erneut senden",
+		"times_left": "(verbleibende {{num}})",
+		"buy_opportunities": "Kaufen Sie 10 Gelegenheiten, einen Beitrag zu erstellen (10 DUST)",
+		"moderate": "Unter Berücksichtigung",
+		"rejected": "Abgewichen",
+		"no_reason": "Grund nicht angegeben",
+		"delete_post": "Beitrag entfernen",
+		"default_user_nickname": "Anonym",
+		"loaded_photo": "Foto hochgeladen:",
+		"load_image": "Datei hochladen oder ziehen (JPG oder PNG kleiner als 3 MB)",
+		"add_image": "Bild hinzufügen",
+		"close": "nah dran",
+		"create": "Schaffen",
+		"validation_messages": {
+			"required": "Dieses Feld ist erforderlich",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"invalid_format_img": "Ungültiges Bildformat",
+			"file_size_exceeded": "Dateigröße überschritten"
+		}
+	},
+	"my-tickets": {
+		"popular": "Am besten",
+		"news": "Neu",
+		"all": "Alle Artikel",
+		"my-tickets": "Beiträge erstellt",
+		"create_post": "Beitrag erstellen",
+		"delete_post": "Beitrag entfernen",
+		"no_posts": "Forum leer :(",
+		"create_firs_post": "Erstellen Sie Ihren ersten Beitrag",
+		"name": "Titel des Beitrags",
+		"date": "Veröffentlichungsdatum",
+		"status": "Moderationsstatus",
+		"comment": "Kommentar",
+		"no_reason": "Grund nicht angegeben",
+		"view_post": "Beitragsansicht",
+		"published": "Veröffentlicht:",
+		"sent": "Gesendet:",
+		"edit": "Bearbeiten",
+		"accepted": "Veröffentlicht",
+		"moderate": "Unter Berücksichtigung",
+		"rejected": "Abgewichen"
+	},
+	"ticket": {
+		"default_user_nickname": "Anonym",
+		"up_rating": "Bewertung erhöhen",
+		"remove_voice": "Stimme entfernen",
+		"rating": "Bewertung",
+		"name": "Titel des Beitrags",
+		"author": "Autor",
+		"date": "Veröffentlichungsdatum",
+		"topic": "Thema",
+		"views": "Ansichten",
+		"comments": "Kommentare",
+		"moderator": "Moderation",
+		"edit": "Bearbeiten",
+		"delete_post": "Beitrag entfernen",
+		"delete": "Löschen"
+	},
+	"tickets": {
+		"popular": "Am besten",
+		"news": "Neu",
+		"all": "Alle Artikel",
+		"my-tickets": "Beiträge erstellt",
+		"create_post": "Beitrag erstellen",
+		"all_posts": "Alle Artikel",
+		"rating": "Bewertung",
+		"name": "Titel des Beitrags",
+		"author": "Autor",
+		"date": "Veröffentlichungsdatum",
+		"topic": "Thema",
+		"views": "Ansichten",
+		"comments": "Kommentare",
+		"moderator": "Moderation",
+		"no_posts": "Forum leer :(",
+		"create_firs_post": "Erstellen Sie Ihren ersten Beitrag"
+	},
+	"tags": {
+		"Идея": "Eine Idee",
+		"Жалоба": "Eine Beschwerde",
+		"Партнерство": "Partnerschaft",
+		"Предложение": "Vorschlag",
+		"Обсуждение": "Diskussion",
+		"Другое": "Sonstiges"
+	}
+}

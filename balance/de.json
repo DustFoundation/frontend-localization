@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "Wählen Sie das Netzwerk für die USDT-Übertragung aus",
+		"top_up_amount": "Aufladebetrag",
+		"enter_top_up_amount": "Geben Sie die Auffüllmenge ein",
+		"pay": "Zahlen",
+		"click_to_copy": "Zum Kopieren klicken",
+		"copied": "Kopiert",
+		"erc20": "ERC20-Adresse:",
+		"trc20": "TRC20-Adresse:",
+		"bep20": "BEP20-Adresse:",
+		"bep2": "BEP2-Adresse:",
+		"memo": "MEMO-Adresse:",
+		"important": {
+			"1": "Wir akzeptieren nur Zahlungen in Tether (USDT).",
+			"2": "Das Auffüllen des Guthabens ist erforderlich, um das Abonnement zu aktivieren.",
+			"3": "Wir empfehlen die Verwendung des \"TRC20\"-Netzwerks (Provision ~ 1 $)",
+			"4": "Das Senden eines anderen Coins oder Tokens als USDT an diese Adresse kann zu Geldverlusten führen.",
+			"5": {
+				"first_part": "So aktivieren Sie das Abonnement „{{subscriptionName}}“ für {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} müssen Sie Ihr Guthaben um {{subscriptionPronPron}} USDi Provision aufladen"
+			},
+			"title": "Wichtig"
+		},
+		"video_tutorial": "Video-Tutorial zum Kauf eines Abonnements",
+		"warning": "Risikowarnungen",
+		"specify_hash_or_number": "Hash oder Transaktionsnummer angeben",
+		"recommendation": {
+			"1": "Um die Transaktionsnummer auf Binance anzuzeigen, folge dem Link (während du eingeloggt bist):",
+			"2": "Wenn Sie USDT von einer anderen Börse gesendet haben, geben Sie in das Transaktions-Hash-Feld ein (Beispiel TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "Sie können auch die Transaktionsnummer (Interne Überweisung) angeben - 43047269665, aber nicht mit der Brieftasche verwechseln - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Empfehlungen"
+		},
+		"to_pay": "Zahlungen {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Schritt 1",
+				"description": "Öffnen Sie die Binance-App auf Ihrem Smartphone und scannen Sie den QR-Code, indem Sie auf das Symbol oben auf der Homepage-Oberfläche klicken."
+			},
+			"2": {
+				"title": "Schritt 2",
+				"description": "Als nächstes sehen Sie ein Fenster, das die Transaktion bestätigt. Vergewissern Sie sich, dass der Betrag korrekt ist, und bestätigen Sie die Transaktion. Klicken Sie dann auf „Ich habe bezahlt“."
+			}
+		},
+		"validation_messages": {
+			"required": "Dieses Feld ist erforderlich",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
+		},
+		"hash_or_number": "Hash-/Transaktionsnummer",
+		"faq": "FAQ",
+		"payed": "Ich habe bezahlt",
+		"terms_to_use": "Nutzungsbedingungen",
+		"privacy_policy": "Datenschutz-Bestimmungen",
+		"back": "zurück",
+		"confirm": "Bestätigen"
+	}
+}

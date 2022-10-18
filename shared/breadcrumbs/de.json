@@ -1,0 +1,22 @@
+{
+	"main": "Heimat",
+	"settings": "Einstellungen",
+	"profile": "Persönliches Profil",
+	"forum": "Forum",
+	"academy": "Akademie",
+	"portfolio": "Portfolio",
+	"balance": "Guthabenauffüllung",
+	"subscription": "Unterschrift",
+	"transaction": "Verlauf der Transaktionen",
+	"risk": "Risikorechner",
+	"activation_subscription": "Aktivierung von Abonnements",
+	"post_view": "Beitragsansicht",
+	"created_posts": "Beiträge erstellt",
+	"popular": "Am besten",
+	"news": "Neu",
+	"my-tickets": "Beiträge erstellt",
+	"create_ticket": "Erstellen Sie einen Beitrag",
+	"conferences": "Konferenzen",
+	"notes": "Anmerkungen",
+	"back": "zurück"
+}

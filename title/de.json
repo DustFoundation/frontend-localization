@@ -1,0 +1,41 @@
+{
+	"authorization": {
+		"title": "Genehmigung"
+	},
+	"profile": {
+		"title": "Profil",
+		"settings": "Einstellungen",
+		"transactions": "Transaktionen"
+	},
+	"topup_balance": {
+		"title": "Guthabenauffüllung"
+	},
+	"subscription": {
+		"title": "Unterschrift"
+	},
+	"join": {
+		"title": "Verbinden"
+	},
+	"academy": {
+		"title": "Akademie"
+	},
+	"portfolio": {
+		"title": "Portfolio",
+		"portfolio_list": "Liste der Portfolios",
+		"ventures": "Venture-Portfolio",
+		"portfolio": "Aktentasche",
+		"portfolio_transactions": "Portfolio | Transaktionen"
+	},
+	"forum": {
+		"title": "Forum"
+	},
+	"conferences": {
+		"title": "Konferenzen"
+	},
+	"risk": {
+		"title": "Risikorechner"
+	},
+	"notes": {
+		"title": "Anmerkungen"
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"onboarding-call-dialog": {
+		"title": "Chcesz krok po kroku zapoznać się z DUST PLATFORM?",
+		"skip": "Pomijać",
+		"yes": "TAk"
+	},
+	"onboarding-dialog": {
+		"back": "Z powrotem",
+		"onward": "Dalej",
+		"done": "Gotowe",
+		"portfolio": {
+			"title": "Sekcja „Portfel”",
+			"description": "W tej sekcji masz możliwość tworzenia osobistych portfeli, śledzenia aktywów i inwestycji.",
+			"list": {
+				"1": "Całkowita wycena portfela i PNL",
+				"2": "Wirtualna symulacja strategii inwestycyjnych",
+				"3": "Integracja portfeli akcji w jednym miejscu",
+				"4": "Obliczanie i śledzenie inwestycji venture"
+			}
+		},
+		"virtual_portfolio": {
+			"title": "Wirtualne portfolio",
+			"description": "W tym portfelu możesz ręcznie dodawać aktywa i symulować różne rodzaje strategii inwestycyjnych.",
+			"list": {
+				"1": "Ręczne dodawanie transakcji",
+				"2": "1000+ aktywów kryptograficznych do śledzenia",
+				"3": "Wizualizacja w postaci wykresów przychodów/strat",
+				"4": "Wizualizacja dystrybucji finansowej wykresu kołowego"
+			}
+		},
+		"exchange_portfolio": {
+			"title": "Portfel giełdowy",
+			"description": "W tym portfelu możesz śledzić swoje portfele z giełd poprzez integrację API.",
+			"list": {
+				"1": "Prosta i przejrzysta integracja przez API",
+				"2": "Automatyczna aktualizacja transakcji i cen",
+				"3": "Wizualizacja w postaci wykresów przychodów/strat",
+				"4": "Wizualizacja dystrybucji finansowej wykresu kołowego"
+			}
+		},
+		"venture_portfolio": {
+			"title": "Portfolio przedsięwzięć",
+			"description": "W tym portfolio możesz śledzić wszystkie inwestycje venture z elastycznym dostosowywaniem i wizualizacją.",
+			"list": {
+				"1": "Elastyczne śledzenie inwestycji venture",
+				"2": "TGE i odblokowanie wykresu",
+				"3": "Szczegółowe informacje o aktywach przedsięwzięcia",
+				"4": "Automatyczne obliczenia zamiast arkuszy kalkulacyjnych Excel"
+			}
+		},
+		"forum": {
+			"title": "Sekcja „Forum”",
+			"description": "W tej sekcji masz możliwość tworzenia postów i dzielenia się swoimi przemyśleniami ze społecznością ludzi o podobnych poglądach.",
+			"list": {
+				"1": "Wyświetlaj posty według oceny",
+				"2": "Możliwość uczestniczenia w dyskusji na temat cudzego postu",
+				"3": "Zdobądź token DUST za najlepsze posty",
+				"4": "Bądź na bieżąco z najnowszymi osiągnięciami"
+			}
+		},
+		"academy": {
+			"title": "Sekcja Akademii",
+			"description": "W tej sekcji masz możliwość wybrania interesującego Cię kursu i zdobycia nowej wiedzy.",
+			"list": {
+				"1": "Każdy kurs jest pisany przez zespół DUST.FOUNDATION",
+				"2": "Wizualizacja złożonych tematów w wideo",
+				"3": "Zaliczenie testów w każdym module",
+				"4": "Ocena modułów i kursów"
+			}
+		},
+		"balance": {
+			"title": "Sekcja „Uzupełnianie salda”",
+			"description": "W tej sekcji masz możliwość opłacenia/przedłużenia subskrypcji platformy i społeczności kryptograficznej.",
+			"list": {
+				"1": "Łatwa metoda płatności w 2 krokach",
+				"2": "Wsparcie dla różnych sieci i Binance Pay",
+				"3": "Szczegółowy samouczek wideo dotyczący płatności dla początkujących",
+				"4": "Szybki transfer środków na platformę"
+			}
+		},
+		"subscription": {
+			"title": "Sekcja „Subskrypcja”",
+			"description": "W tej sekcji masz możliwość wyboru i aktywacji różnych rodzajów subskrypcji.",
+			"list": {
+				"1": "7-dniowy bezpłatny okres próbny (platforma DUST)",
+				"2": "3 rodzaje subskrypcji z różnymi okresami",
+				"3": "Integracje z Telegramem i Discord",
+				"4": "System rabatowy i naliczanie DUST Token"
+			}
+		},
+		"profile": {
+			"title": "Sekcja „Profil osobisty”",
+			"description": "W tej sekcji masz możliwość otrzymywania codziennych nagród, osiągnięć, śledzenia swojej oceny.",
+			"list": {
+				"1": "Wybór postaci krypto",
+				"2": "Codzienne nagrody za odwiedzenie platformy",
+				"3": "Lista osiągnięć",
+				"4": "Ocena użytkownika"
+			}
+		}
+	}
+}

@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "Określ kwotę uzupełnienia",
+			"get_qr": "Uzyskaj kod QR do zapłaty",
+			"min_sum": "Minimalna kwota wpłaty {{num}}$",
+			"scan_qr": "Zeskanuj kod QR w aplikacji mobilnej Binance, aby zapłacić",
+			"i_paid": "zapłaciłem",
+			"validation_messages": {
+				"required": "To pole jest wymagane"
+			}
+		},
+		"change-password-dialog": {
+			"title": "Ustaw hasło",
+			"new_password": "nowe hasło",
+			"repeat_password": "Powtórz hasło",
+			"change_password": "Zmień hasło",
+			"password_input_placeholder": "*****************",
+			"validation_messages": {
+				"required": "To pole jest wymagane",
+				"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+				"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+				"password_rules": "Hasło musi zawierać co najmniej: 1 małą literę łacińską, 1 cyfrę",
+				"passwords_not_match": "Hasła nie pasują do siebie"
+			}
+		},
+		"checkout-email": {
+			"title_1": "Wprowadź swój email",
+			"subtitle_1": "Wyślemy Ci e-mail z kodem weryfikacyjnym.",
+			"title_2": "Potwierdzenie e-mailem",
+			"subtitle_2": "Wpisz poniższy kod, który został wysłany na Twój e-mail",
+			"selected_subscription": "Wybrana subskrypcja <span>{{name}}</span>",
+			"change_subscription": "Zmień subskrypcję",
+			"send_code": "Wyślij kod",
+			"send_code_after": "Wyślij kod ponownie po <span>{{time}} {time, plural, =1 {sekundy} =2 {sekundy} =3 {sekundy} =4 {sekundy} other {sekundy}}</span>",
+			"send_code_once_more": "Wyślij kod ponownie",
+			"email_input_placeholder": "poczta@mail.com",
+			"back": "Z powrotem",
+			"validation_messages": {
+				"required": "To pole jest wymagane",
+				"invalid_email": "niewłaściwy format wiadomości email"
+			},
+			"policy": {
+				"agree": "zgadzam się z",
+				"with": "Polityka prywatności"
+			}
+		},
+		"checkout-header": {
+			"explore": "Badać",
+			"products": "Produkty",
+			"roadmap": "Mapa drogowa",
+			"about_us": {
+				"title": "O nas",
+				"subtitle": "Nasze polecenie"
+			},
+			"our_brand": {
+				"title": "Nasza marka",
+				"subtitle": "Korzystanie z logo"
+			},
+			"career": {
+				"title": "Kariera",
+				"subtitle": "Aktualne oferty pracy"
+			},
+			"dust_bro": {
+				"title": "Pył Bra & Anioły",
+				"subtitle": "Związki partnerskie"
+			},
+			"blog": {
+				"title": "Blog",
+				"subtitle": "Bądź na bieżąco z najnowszymi wiadomościami"
+			},
+			"registration": "Rejestracja",
+			"entry": "Zaloguj sie"
+		},
+		"checkout-payment": {
+			"title": "Wybór okresu subskrypcji",
+			"video_tutorial": "Samouczek wideo dotyczący zakupu abonamentu",
+			"terms_to_use": "Warunki korzystania",
+			"privacy_policy": "Polityka prywatności",
+			"warning": "Ostrzeżenia o ryzyku",
+			"back": "Z powrotem",
+			"activate": "Aktywuj",
+			"onward": "Dalej",
+			"choose_network": "Wybierz sieć do transferu USDT",
+			"erc20": "Adres ERC20:",
+			"trc20": "Adres TRC20:",
+			"bep20": "Adres BEP20:",
+			"bep2": "Adres BEP2:",
+			"memo": "Adres notatek:",
+			"click_to_copy": "Kliknij, aby skopiować",
+			"copied": "Skopiowane",
+			"payed": "zapłaciłem",
+			"hash_or_number": "Hash / numer transakcji",
+			"specify_hash_or_number": "Podaj skrót lub numer transakcji",
+			"confirm": "Potwierdzać",
+			"faq": "FAQ",
+			"transaction": {
+				"title": "Podaj skrót lub numer transakcji",
+				"recommendation": {
+					"1": "Aby wyświetlić numer transakcji, kliknij link:",
+					"2": "Jeśli wysłałeś USDT z innej giełdy, wpisz w polu Hash transakcji (przykład TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "Podaj numer transakcji (przelew wewnętrzny) - 43047269665, a nie portfel - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "Zalecenia"
+				}
+			},
+			"important": {
+				"1": "Akceptujemy tylko płatności w Tether (USDT).",
+				"2": "Do aktywacji abonamentu niezbędne jest uzupełnienie salda.",
+				"3": "Zalecamy korzystanie z sieci „TRC20” (prowizja ~ 1 USD)",
+				"4": "Wysłanie monety lub tokena innego niż USDT na ten adres może spowodować utratę środków.",
+				"5": {
+					"first_part": "Aby aktywować subskrypcję „{{subscriptionName}}” na {{subscriptionTerm}}",
+					"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} musisz doładować swoje saldo do dnia {{sio}}"
+				},
+				"title": "Ważny"
+			},
+			"validation_messages": {
+				"required": "To pole jest wymagane",
+				"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "Latanie na blockchainie",
+			"success": "Pomyślne uzupełnienie",
+			"status": "Stan płatności:"
+		}
+	}
+}

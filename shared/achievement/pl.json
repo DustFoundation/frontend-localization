@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "„Homiachele”",
+		"description": "Pomyślnie zarejestrowano na platformie"
+	},
+	"onboarding": {
+		"name": "\"Pionier\"",
+		"description": "Przeszedł zaznajomienie się z platformą"
+	},
+	"portfolioalltypes": {
+		"name": "Kitiar",
+		"description": "Utworzył wszystkie trzy rodzaje portfeli"
+	},
+	"academycoursegold": {
+		"name": "\"Doskonały\"",
+		"description": "Zaliczył kurs w Akademii z ocenami doskonałymi"
+	},
+	"discordtelegram": {
+		"name": "\"Integrator\"",
+		"description": "Włączone integracje z Discordem i Telegramem"
+	},
+	"connections": {
+		"name": "„Wykonane połączenia”",
+		"description": "Subskrybujesz nasze sieci społecznościowe"
+	},
+	"subscription": {
+		"name": "\"Ważna osoba\"",
+		"description": "Kupiłem subskrypcję platformy DUST"
+	},
+	"forumfirstpost": {
+		"name": "\"Teraz ci powiem\"",
+		"description": "Utworzyłem mój pierwszy post na forum"
+	},
+	"amateur": {
+		"name": "„Kryptoamator”",
+		"description": "Zebrano 10 polubień na poście na Forum"
+	},
+	"portfolio10coins": {
+		"name": "„Krypto-coiner”",
+		"description": "Dodano 10 monet do wirtualnego portfela"
+	},
+	"dailyreward28": {
+		"name": "„Prawdziwy Posiadacz”",
+		"description": "Otrzymano 28 codziennych nagród z rzędu"
+	},
+	"omnipotence": {
+		"name": "„Rękawica Wszechmocy”",
+		"description": "Zagłosowane aktualizacje kuźni"
+	}
+}

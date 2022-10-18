@@ -1,0 +1,152 @@
+{
+	"header": {
+		"subscription_activate": "Aktywuj subskrypcję",
+		"subscription_activated": {
+			"text": "Podpis",
+			"status": "Aktywny"
+		},
+		"portfolio": "Teczka",
+		"portfolio_dropdown": {
+			"all_portfolios": "Wszystkie portfele",
+			"risk_calculator": "Kalkulator ryzyka"
+		},
+		"academy": "Akademia",
+		"forum": "Forum",
+		"main": "Dom",
+		"conferences": "Konferencje",
+		"menu": {
+			"profile": "Profil osobisty",
+			"balance": "Uzupełnianie salda",
+			"subscription": "Podpis",
+			"transactions": "Historia transakcji",
+			"settings": "Ustawienia",
+			"promocode": "kod promocyjny",
+			"bug_report": "Raport zespołu",
+			"support": "Wsparcie Czat",
+			"conferences": "Konferencje"
+		},
+		"sign_up": "Rejestracja",
+		"sign_in": "Wejść",
+		"logout": "Wyloguj się",
+		"in_development": "W rozwoju",
+		"beta": "BETA",
+		"dust": "PYŁ",
+		"usdt": "USDT",
+		"micron": "MIKRON"
+	},
+	"notes_dropdown": {
+		"notes": "Wszystkie notatki",
+		"add_note": "Utwórz notatkę"
+	},
+	"notifications": {
+		"count_of_notification": "Nowe powiadomienia",
+		"clear": "Wyczyść wszystkie powiadomienia",
+		"types": {
+			"SUBSCRIPTION_ADDED": {
+				"title": "Udany zakup subskrypcji",
+				"description": "Pomyślnie kupiłeś subskrypcję na {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_UPDATED": {
+				"title": "Pomyślne odnowienie subskrypcji",
+				"description": "Pomyślnie odnowiłeś swoją subskrypcję na {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_ENDING_SOON": {
+				"title": "Subskrypcja jest bliska upadku",
+				"description": "Przepraszamy, ale Twoja subskrypcja ma tylko {{daysToExpire}} {daysToExpire, plural, =1 {dzień} =2 {dni} =3 {dni}  t {dni} !"
+			},
+			"BALANCE_ADDED": {
+				"title": "Uzupełnianie salda",
+				"description": "Twoje konto zostało zasilone kwotą {{amount}} USDT"
+			},
+			"TELEGRAM_INVITED": {
+				"title": "Zaproszenie do telegramu",
+				"description": "Twoje zaproszenie do Telegramu. Powodzenia w tym piekle!"
+			},
+			"TELEGRAM_INVITED_1": {
+				"title": "Zaproszenie do czatu telegramu",
+				"description": "Twoje zaproszenie do czatu Telegram. Powodzenia w tym piekle!"
+			},
+			"TELEGRAM_INVITED_2": {
+				"title": "Zaproszenie do kanału Telegram",
+				"description": "Twoje zaproszenie na kanał Telegram LUCK. Powodzenia!"
+			},
+			"PAYMENT_ORDER_SUCCESS": {
+				"title": "Uzupełnianie salda",
+				"description": "Wniosek o uzupełnienie salda został wypełniony."
+			},
+			"PAYMENT_ORDER_FAILED": {
+				"title": "Uzupełnianie salda",
+				"description": "Błąd podczas wykonywania prośby o uzupełnienie salda!"
+			},
+			"PAYMENT_TXID_EXIST": {
+				"title": "Uzupełnianie salda",
+				"description": "Twój numer transakcji jest już używany przez innego użytkownika!"
+			},
+			"PAYMENT_FAILED": {
+				"title": "Uzupełnianie salda",
+				"description": "Wystąpił błąd podczas tworzenia wniosku o uzupełnienie salda, skontaktuj się z Administracją!"
+			},
+			"SUBSCRIPTION_SUCCESS": {
+				"title": "Subskrybowanie",
+				"description": "Subskrybowany"
+			}
+		}
+	},
+	"promocode-dialog": {
+		"title": "Aktywacja kodu promocyjnego",
+		"enter_promocode": "Wpisz kod promocyjny",
+		"activate": "Aktywuj kod promocyjny",
+		"example": "Np.: X2dDjsa29GKO",
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}"
+		}
+	},
+	"report-dialog": {
+		"name": "Nazwa",
+		"bag_report": "Raport zespołu",
+		"loaded_file": "Przesłany plik:",
+		"short_description": "Krótki opis",
+		"detail_description_problem": "Szczegółowy opis problemu",
+		"description_of_problem": "opis problemu",
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"img": "JPG lub PNG, nie więcej niż 3 MB",
+			"discord_or_email": "Wpisz e-mail lub nick Discord"
+		},
+		"download": "Ściągnij",
+		"send": "Wysłać",
+		"cancel": "Anulować",
+		"contact_with_me": "Skontaktuj się ze mną, aby uzyskać opinię",
+		"enter_email_or_discord": "Wpisz e-mail lub nick Discord",
+		"contact": "Kontakt"
+	},
+	"system-notification-dialog": {
+		"update": "Dostępna aktualizacja",
+		"failed": "Ups!",
+		"offline": "Brak połączenia",
+		"update_detected": "Wykryto nową wersję aplikacji: {{version}}",
+		"update_ready": "Dostępna jest nowa wersja {{version}}. Chciałbyś zaktualizować?",
+		"update_failed": "Wystąpił błąd podczas instalowania aktualizacji {{version}}",
+		"network_offline": "Internet nie działa, musisz ponownie załadować stronę",
+		"yes": "Tak, zaktualizuj",
+		"no": "Nie"
+	},
+	"cookies": {
+		"cookies_settings": "Zarządzaj plikami cookie",
+		"intro": "Używamy plików cookie, aby poprawić wrażenia użytkownika, analizy użytkowania aplikacji i umożliwić obsługę czatu.",
+		"get_know_with_start": "Kasy",
+		"cookies_policy": "Polityka Cookie",
+		"get_known_with_end": "jeszcze",
+		"accept": "Akceptować",
+		"settings": "Kierownictwo",
+		"analytic_cookies": "Analityczne pliki cookie",
+		"analytic_cookies_description": "Włączenie tych plików cookie pozwoli nam śledzić Twoją interakcję z naszą witryną i wprowadzać ulepszenia.",
+		"support_chat": "Wsparcie Czat",
+		"support_chat_description": "Jeśli chcesz mieć dostęp do czatu pomocy technicznej, te pliki cookie są wymagane.",
+		"save": "Ratować",
+		"back": "Z powrotem"
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Końcowa recenzja kursu",
+			"module": "Moduł",
+			"leave_review": "Zostaw opinię o kursie"
+		},
+		"menu": {
+			"test": "Test",
+			"testing": "Testowanie"
+		},
+		"module-finished-dialog": {
+			"module": "Moduł",
+			"open_access": "Dostęp do modułu jest otwarty",
+			"thanks_for_review": "Dziękujemy, Twoja opinia została wzięta pod uwagę.",
+			"awful": "Straszny",
+			"bad": "Źle",
+			"ok": "Średni",
+			"good": "Dobrze",
+			"excellent": "Doskonały",
+			"rate_module": "Oceń ukończony moduł",
+			"leave_review?": "Czy chcesz zostawić recenzję?",
+			"next_lesson": "Następna lekcja",
+			"yes": "TAk",
+			"no": "Nie"
+		},
+		"module-review-dialog": {
+			"help_us": "Pomóż nam ulepszyć kurs",
+			"please_leave_comment_about": "Proszę zostawić opinię na temat",
+			"leave_review": "Wystawić opinię",
+			"my_review": "Moja recenzja",
+			"module": "Moduł",
+			"course": "Kurs",
+			"back": "Z powrotem"
+		}
+	},
+	"course-details": {
+		"level": "Poziom:",
+		"count_of_modules": "Moduły:",
+		"count_of_lessons": "Lekcje:",
+		"got_badges": "Zdobyte odznaki",
+		"course_progress": "postęp kursu",
+		"pass_again": "Podaj ponownie",
+		"continue_learning": "Kontynuuj naukę",
+		"start_learning": "Zacząć naukę",
+		"training_program": "Program treningowy",
+		"module": "Moduł"
+	},
+	"course-lesson": {
+		"pass_test": "Zdać egzamin",
+		"next_lesson": "Następna lekcja",
+		"previous_lesson": "Poprzednia lekcja"
+	},
+	"course-test": {
+		"description": " Po zdaniu testu otrzymujesz specjalną odznakę, która daje dostęp do kolejnego modułu.",
+		"ps": "PS Zdaj test bez jednego błędu i zdobądź złotą odznakę!",
+		"check_test": "Sprawdź test",
+		"try_once_more": "Spróbuj ponownie",
+		"previous_lesson": "Poprzednia lekcja",
+		"onward": "Dalej"
+	},
+	"courses": {
+		"need_subscription": "Musisz się zasubskrybować",
+		"new_course_in_development": "Nowe kursy są już w fazie rozwoju!",
+		"level": "Poziom:",
+		"count_of_modules": "Moduły:",
+		"count_of_lessons": "Lekcje:",
+		"got_badges": "Zdobyte odznaki",
+		"course_progress": "postęp kursu",
+		"pass_again": "Podaj ponownie",
+		"continue_learning": "Kontynuuj naukę",
+		"start_learning": "Zacząć naukę",
+		"about": "O kursie",
+		"difficulty": {
+			"0": "Baza",
+			"1": "Podstawowy",
+			"2": "Przeciętny",
+			"3": "Trudny",
+			"-1": "Nieznany"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"authorization": {
+		"title": "Valtuutus"
+	},
+	"profile": {
+		"title": "Profiili",
+		"settings": "asetukset",
+		"transactions": "Tapahtumat"
+	},
+	"topup_balance": {
+		"title": "Lisää saldoa"
+	},
+	"subscription": {
+		"title": "Tilaus"
+	},
+	"join": {
+		"title": "Liittyä seuraan"
+	},
+	"academy": {
+		"title": "Akatemia"
+	},
+	"portfolio": {
+		"title": "Portfolio",
+		"portfolio_list": "Luettelo portfolioista",
+		"ventures": "Venture portfolio",
+		"portfolio": "Portfolio",
+		"portfolio_transactions": "Portfolio | Tapahtumat"
+	},
+	"forum": {
+		"title": "Foorumi"
+	},
+	"conferences": {
+		"title": "Konferenssit"
+	},
+	"risk": {
+		"title": "Riskilaskuri"
+	},
+	"notes": {
+		"title": "Huomautuksia"
+	}
+}

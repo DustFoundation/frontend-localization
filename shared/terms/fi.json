@@ -1,0 +1,15 @@
+{
+	"include": "Mitä sisältyy",
+	"trial": "Ilmainen kokeilu {{days}} {days, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
+	"chose_period": "Valittu päivien lukumäärä",
+	"all_from": "Kaikki alkaen",
+	"economy": "Säästät",
+	"includes": {
+		"portfolio": "Kaikki portfoliotyypit (3 in 1)",
+		"academy": "Koulutuskurssit",
+		"forum": "Foorumi",
+		"discord": "Yksityinen Discord",
+		"telegram": "Yksityinen Telegram"
+	},
+	"usdt": "USDT"
+}

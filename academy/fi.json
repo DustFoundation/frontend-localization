@@ -1,0 +1,82 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Kurssimme viimeinen arvostelu",
+			"module": "Moduuli",
+			"leave_review": "Jätä palautetta kurssista"
+		},
+		"menu": {
+			"test": "Testata",
+			"testing": "Arviointi"
+		},
+		"module-finished-dialog": {
+			"module": "Moduuli",
+			"open_access": "Moduuliin pääsy myönnetty",
+			"thanks_for_review": "Kiitos, palautteesi otetaan huomioon",
+			"awful": "Kamalaa",
+			"bad": "Huono",
+			"ok": "Keskiverto",
+			"good": "Hyvä",
+			"excellent": "Erinomainen",
+			"rate_module": "Arvioi tämä moduuli",
+			"leave_review?": "Haluatko jättää palautetta?",
+			"next_lesson": "Seuraava oppitunti",
+			"yes": "Joo",
+			"no": "Ei"
+		},
+		"module-review-dialog": {
+			"help_us": "Auta meitä parantamaan tätä kurssia",
+			"please_leave_comment_about": "Ole hyvä ja voisitko jättää arvostelun aiheesta",
+			"leave_review": "Jätä palautetta",
+			"my_review": "Palautteeni",
+			"module": "Moduuli",
+			"course": "Kurssi",
+			"back": "Takaisin"
+		}
+	},
+	"course-details": {
+		"level": "Taso:",
+		"count_of_modules": "Moduulit:",
+		"count_of_lessons": "Oppitunnit:",
+		"got_badges": "Saaneet merkit",
+		"course_progress": "Kurssin edistyminen",
+		"pass_again": "Ohita uudelleen",
+		"continue_learning": "Jatka oppimista",
+		"start_learning": "Aloita oppiminen",
+		"training_program": "Oppimisohjelma",
+		"module": "Moduuli"
+	},
+	"course-lesson": {
+		"pass_test": "Läpäise testi",
+		"next_lesson": "Seuraava oppitunti",
+		"previous_lesson": "Edellinen oppitunti"
+	},
+	"course-test": {
+		"description": " Testin läpäisemisen jälkeen saat erityisen merkin, joka avaa pääsysi seuraavaan moduuliin",
+		"ps": "P.S. Läpäise testi ilman virheitä saadaksesi kultaisen merkin!",
+		"check_test": "Tarkista testi",
+		"try_once_more": "Yritä uudelleen",
+		"previous_lesson": "Edellinen oppitunti",
+		"onward": "Seuraava"
+	},
+	"courses": {
+		"need_subscription": "Aktiivinen tilaus vaaditaan",
+		"new_course_in_development": "Uusia kursseja on jo kehitteillä!",
+		"level": "Taso:",
+		"count_of_modules": "Moduulit:",
+		"count_of_lessons": "Oppitunnit:",
+		"got_badges": "Saaneet merkit",
+		"course_progress": "Kurssin edistyminen",
+		"pass_again": "Ohita uudelleen",
+		"continue_learning": "Jatka oppimista",
+		"start_learning": "Aloita oppiminen",
+		"about": "Noin",
+		"difficulty": {
+			"0": "Perus",
+			"1": "Perus",
+			"2": "Keskikokoinen",
+			"3": "Pitkälle kehittynyt",
+			"-1": "Tuntematon"
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"auto": "Auto",
+	"normal": "Normaali",
+	"speed": "{type, plural, =1 {Toistonopeus} other {Toistonopeus}}",
+	"quality": "Laatu"
+}

@@ -1,0 +1,124 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Saavutus avattu",
+			"close": "kiinni"
+		},
+		"activate-mfa-dialog": {
+			"title": "Ota 2FA käyttöön",
+			"subtitle": "Skannaa QR-koodi ja vahvista todennus antamalla koodi",
+			"code": "Koodi",
+			"activate": "ota käyttöön"
+		},
+		"change-avatar-dialog": {
+			"title": "Vaihda avataria",
+			"accepted_format": "Hyväksytyt muodot: JPG, PNG enintään 3 Mt",
+			"load_photo": "Lataa valokuva",
+			"choose_avatar": "Valitse avatar"
+		},
+		"change-password-dialog": {
+			"title": "Vaihda salasana",
+			"subtitle": "Lähetimme sinulle sähköpostin, joka sisältää koodin salasanan vaihtamista varten",
+			"enter_code": "Syötä koodi",
+			"enter_data": "Anna tiedot luodaksesi uuden salasanan",
+			"save_password": "Tallenna salasana",
+			"onward": "Seuraava",
+			"form": {
+				"new_password": "Uusi salasana",
+				"repeat_new_password": "toista uusi salasana",
+				"password_input_placeholder": "*****************"
+			},
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "Salasanassa on oltava vähintään yksi iso kirjain ja yksi numero",
+				"passwords_not_match": "Salasanat eivät täsmää"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Avatarit saatavilla",
+			"save": "Tallentaa"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "Poista 2FA käytöstä",
+			"subtitle": "Haluatko varmasti poistaa 2FA:n käytöstä?",
+			"disconnect": "Liikuntarajoitteinen"
+		}
+	},
+	"profile-main": {
+		"my_character": "Luonteeni",
+		"level": "taso",
+		"experience": "Kokea",
+		"internal_currency": "Sisäinen valuutta",
+		"daily_rewards": "Päivittäiset palkinnot",
+		"day": "Päivä {{day}}",
+		"get_daily_reward": "Saat päivittäisen palkinnon",
+		"to_next_reward": "Seuraavaan palkintoon asti",
+		"got_reward": "Saavutettu palkintoja",
+		"in_development": "Kehityksessä",
+		"of": "{{num1}} / {{num2}}",
+		"usdt": "USDT",
+		"dust": "PÖLYLYHYT",
+		"micron": "MIKRONI",
+		"crypto-bum": "Krypto-hobo",
+		"beta": "BEETA"
+	},
+	"profile-settings": {
+		"title": "Henkilökohtaisia tietoja",
+		"change_avatar": "Vaihda avataria",
+		"delete_avatar": "Poista avatar",
+		"security": "Turvallisuus",
+		"change_password": "Vaihda salasanat",
+		"mfa": "Kaksivaiheinen todennus",
+		"disconnect_mfa": "Poista 2FA käytöstä",
+		"integrations": "Integraatiot",
+		"security_title": "Turvallisuus",
+		"integrations_title": "Integraatiot",
+		"language_title": "Kieliasetukset",
+		"help_title": "auta",
+		"main_language": "Ensisijainen kieli",
+		"main_language_description": "Valitse pääsisällön näyttökieli",
+		"additional_language": "Toissijainen kieli",
+		"additional_language_description": "Valitse kieli, jota käytetään sisällön näyttämiseen, jos käännöstä pääkielelle ei ole saatavilla",
+		"information_about_platform": "Tietoja alustasta",
+		"open": "Avata",
+		"help": "auta",
+		"connect": "Kytkeä",
+		"password": "Salasana",
+		"mail": "Sähköposti",
+		"nickname": "Nimimerkki",
+		"ru": "Venäjän kieli",
+		"en": "Englanti",
+		"uk": "ukrainalainen",
+		"lv": "Latvialainen",
+		"saved": "Tallennettu"
+	},
+	"profile-transactions": {
+		"transaction": "Tapahtuma",
+		"date": "Päivämäärä",
+		"sum": "Määrä",
+		"status": "Tila",
+		"sum_status": "Määrä/tila",
+		"information": "Tiedot",
+		"no_transaction": "Ei liiketoimia.",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "Lisää saldoa",
+			"subscription": "Tilauksen ostaminen",
+			"FORUM_ACCESS": "Pääsy foorumille",
+			"FORUM_POSTS_10": "Ostin 10 keskustelupalstaa"
+		},
+		"transaction_statuses": {
+			"created": "Odottaa",
+			"pending": "Käsittely",
+			"pre-approve": "odottaa vahvistusta",
+			"approve": "Vahvistettu",
+			"done": "Tehty",
+			"failed": "Virhe on tapahtunut",
+			"canceled": "Peruutettu",
+			"expired": "Vanhentunut",
+			"other": "Tuntematon"
+		}
+	}
+}

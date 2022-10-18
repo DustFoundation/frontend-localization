@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "\"Hamsteri\"",
+		"description": "Läpäisi onnistuneen rekisteröinnin alustalle"
+	},
+	"onboarding": {
+		"name": "\"Pioneeri\"",
+		"description": "Läpäisi alustan tutustumisen"
+	},
+	"portfolioalltypes": {
+		"name": "\"Keith\"",
+		"description": "Loi kaikki kolme portfoliotyyppiä"
+	},
+	"academycoursegold": {
+		"name": "\"Erinomainen\"",
+		"description": "Läpäisi Akatemian kurssin arvosanoin"
+	},
+	"discordtelegram": {
+		"name": "\"Integraattori\"",
+		"description": "Yhdistetyt integraatiot Discordin ja Telegramin kanssa"
+	},
+	"connections": {
+		"name": "”Tein liitännät”",
+		"description": "Rekisteröidy sosiaalisiin verkostoihimme"
+	},
+	"subscription": {
+		"name": "\"Tärkeä henkilö\"",
+		"description": "Osti DUST Platform -tilauksen"
+	},
+	"forumfirstpost": {
+		"name": "”Kerron sinulle hetken kuluttua”",
+		"description": "Tein ensimmäisen postaukseni foorumille"
+	},
+	"amateur": {
+		"name": "\"Krypto-harrastaja\"",
+		"description": "Keräsi 10 tykkäystä foorumiviestiin"
+	},
+	"portfolio10coins": {
+		"name": "”Crypto-rahallistaja”",
+		"description": "Virtuaalisalkkuun lisättiin 10 kolikkoa"
+	},
+	"dailyreward28": {
+		"name": "\"Todellinen HODLer\"",
+		"description": "Sai 28 päivittäistä palkintoa peräkkäin"
+	},
+	"omnipotence": {
+		"name": "\"Kaikkivaltiuden hansikas\"",
+		"description": "Äänesti Forgen päivitysten puolesta"
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "Avaa foorumi käyttäjälle",
+			"subtitle": "Kerää päivittäisiä palkintoja ja hanki pääsy foorumiin",
+			"on_balance": "Tasapainollasi",
+			"dust": "PÖLY",
+			"unlock": "Avata"
+		},
+		"dialog-delete-ticket": {
+			"title": "Poista viesti",
+			"subtitle": "Haluatko varmasti poistaa viestisi?",
+			"delete": "Poistaa",
+			"cancel": "Peruuttaa"
+		},
+		"dialog-reject-reason": {
+			"title": "Lipun hylkäämisen syy"
+		},
+		"ticket-comments": {
+			"forbidden": "Hylättyihin tai julkaisemattomiin viesteihin kommentoiminen on kiellettyä"
+		},
+		"ticket-comments-item": {
+			"leave_comment": "Jätä kommentti",
+			"show_more": "Näytä lisää...",
+			"hide": "Piilottaa",
+			"cancel": "Peruuttaa",
+			"change": "Muuttaa",
+			"reply": "Vastaa",
+			"show": "Näytä",
+			"show_answer": "Näytä {{value}} {value, plural, =1 {reply} other {vastaukset}}",
+			"edit": "Muokata",
+			"delete": "Poistaa"
+		},
+		"ticket-item": {
+			"moderate": "Tarkistuksessa"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "Jätä kommentti",
+			"reply": "Vastaa",
+			"cancel": "Peruuttaa"
+		}
+	},
+	"buy-access": {
+		"all": "Kaikki viestit",
+		"my-tickets": "Omat viestit",
+		"create_post": "Luo viesti",
+		"all_posts": "Kaikki viestit",
+		"rating": "Luokitus",
+		"name": "Viestin otsikko",
+		"author": "Tekijä",
+		"date": "Julkaisupäivämäärä",
+		"topic": "Aihe",
+		"views": "Näkymät",
+		"comments": "Kommentit",
+		"no_posts": "Foorumi on tyhjä :(",
+		"create_firs_post": "Luo ensimmäinen viestisi"
+	},
+	"create-ticket": {
+		"status": "Tila:",
+		"sent": "Lähetetty:",
+		"edit_mode": "Viestin muokkaaminen",
+		"view_mode": "Viestin katseleminen",
+		"create_post": "Viestin luominen",
+		"title_post": "Viestin otsikko",
+		"title": "Otsikko",
+		"post_topic": "Lähetä aihe",
+		"description": "Lähetä teksti / sisältö / kuvaus",
+		"resend": "Uudelleen lähettää",
+		"times_left": "(vasen {{num}})",
+		"buy_opportunities": "Osta 10 mahdollisuutta luoda viesti (10 DUST)",
+		"moderate": "Tarkastuksessa",
+		"rejected": "Hylätty",
+		"no_reason": "Syytä ei ole määritelty",
+		"delete_post": "Poista viesti",
+		"default_user_nickname": "Nimetön",
+		"loaded_photo": "Kuva ladattu:",
+		"load_image": "Valitse tiedosto tai vedä se tähän (JPG tai PNG alle 3 Mt)",
+		"add_image": "Lisää kuva",
+		"close": "kiinni",
+		"create": "Luoda",
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"invalid_format_img": "Virheellinen kuvamuoto",
+			"file_size_exceeded": "Tiedoston koko ylitetty"
+		}
+	},
+	"my-tickets": {
+		"popular": "Suosittu",
+		"news": "Uusi",
+		"all": "Kaikki viestit",
+		"my-tickets": "Omat viestit",
+		"create_post": "Luo viesti",
+		"delete_post": "Poista viesti",
+		"no_posts": "Foorumi on tyhjä :(",
+		"create_firs_post": "Luo ensimmäinen viestisi",
+		"name": "Viestin otsikko",
+		"date": "Julkaisupäivämäärä",
+		"status": "Valvonnan tila",
+		"comment": "Kommentti",
+		"no_reason": "Syytä ei ole määritelty",
+		"view_post": "Näytä viesti",
+		"published": "Julkaistu:",
+		"sent": "Lähetetty:",
+		"edit": "Muokata",
+		"accepted": "Hyväksytty",
+		"moderate": "Tarkastuksessa",
+		"rejected": "Hylätty"
+	},
+	"ticket": {
+		"default_user_nickname": "Nimetön",
+		"up_rating": "Nosta arvosanaa",
+		"remove_voice": "Poista ääni",
+		"rating": "Luokitus",
+		"name": "Viestin otsikko",
+		"author": "Tekijä",
+		"date": "Julkaisupäivämäärä",
+		"topic": "Aihe",
+		"views": "Näkymät",
+		"comments": "Kommentit",
+		"moderator": "Moderaattori",
+		"edit": "Muokata",
+		"delete_post": "Poista viesti",
+		"delete": "Poistaa"
+	},
+	"tickets": {
+		"popular": "Suosittu",
+		"news": "Uusi",
+		"all": "Kaikki viestit",
+		"my-tickets": "Omat viestit",
+		"create_post": "Luo viesti",
+		"all_posts": "Kaikki viestit",
+		"rating": "Luokitus",
+		"name": "Viestin otsikko",
+		"author": "Tekijä",
+		"date": "Julkaisupäivämäärä",
+		"topic": "Aihe",
+		"views": "Näkymät",
+		"comments": "Kommentit",
+		"moderator": "Moderaattori",
+		"no_posts": "Foorumi on tyhjä :(",
+		"create_firs_post": "Luo ensimmäinen viestisi"
+	},
+	"tags": {
+		"Идея": "Idea",
+		"Жалоба": "Valitus",
+		"Партнерство": "Kumppanuus",
+		"Предложение": "Tarjous",
+		"Обсуждение": "Keskustelu",
+		"Другое": "Muut"
+	}
+}

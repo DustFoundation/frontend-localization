@@ -1,0 +1,152 @@
+{
+	"header": {
+		"subscription_activate": "Aktivoi tilaus",
+		"subscription_activated": {
+			"text": "Tilaus",
+			"status": "Aktiivinen"
+		},
+		"portfolio": "Portfolio",
+		"portfolio_dropdown": {
+			"all_portfolios": "Kaikki portfoliot",
+			"risk_calculator": "Riskilaskuri"
+		},
+		"academy": "Akatemia",
+		"forum": "Foorumi",
+		"main": "Koti",
+		"conferences": "Konferenssit",
+		"menu": {
+			"profile": "Profiili",
+			"balance": "Lisää saldoa",
+			"subscription": "Tilaus",
+			"transactions": "Tapahtumahistoria",
+			"settings": "asetukset",
+			"promocode": "Tarjouskoodi",
+			"bug_report": "Virhe raportti",
+			"support": "Tukikeskustelu",
+			"conferences": "Konferenssit"
+		},
+		"sign_up": "Kirjaudu",
+		"sign_in": "Kirjaudu sisään",
+		"logout": "Kirjautua ulos",
+		"in_development": "Kehityksessä",
+		"beta": "BEETA",
+		"dust": "PÖLY",
+		"usdt": "USDT",
+		"micron": "MIKRONI"
+	},
+	"notes_dropdown": {
+		"notes": "Kaikki muistiinpanot",
+		"add_note": "Luo muistiinpano"
+	},
+	"notifications": {
+		"count_of_notification": "Uusia ilmoituksia",
+		"clear": "Tyhjennä kaikki ilmoitukset",
+		"types": {
+			"SUBSCRIPTION_ADDED": {
+				"title": "Tilauksen osto onnistui",
+				"description": "Olet ostanut tilauksen {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_UPDATED": {
+				"title": "Tilauksen uusiminen onnistui",
+				"description": "Olet onnistuneesti uusinut tilauksen {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_ENDING_SOON": {
+				"title": "Tilauksesi päättyy pian",
+				"description": "Olemme pahoillamme, mutta tilauksesi päättyy {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =2 {days} =s {days} =4} {t...ts} =3 {pv tulee ikävä sinua!"
+			},
+			"BALANCE_ADDED": {
+				"title": "Täydennä saldoa",
+				"description": "Tiliäsi täydennettiin {{amount}} USDT:lla"
+			},
+			"TELEGRAM_INVITED": {
+				"title": "Kutsua johonkin",
+				"description": "Kutsusi Telegramiin. Onnea helvetissä!"
+			},
+			"TELEGRAM_INVITED_1": {
+				"title": "Kutsu Telegram-chatiin",
+				"description": "Kutsusi Telegram-chatiin. Onnea helvetissä!"
+			},
+			"TELEGRAM_INVITED_2": {
+				"title": "Kutsu Telegram-kanavalle",
+				"description": "Kutsusi Telegram-kanavalle LUCK. Onnea!"
+			},
+			"PAYMENT_ORDER_SUCCESS": {
+				"title": "Saldon täydennys",
+				"description": "Tilaus saldosi täydentämiseksi suoritettiin."
+			},
+			"PAYMENT_ORDER_FAILED": {
+				"title": "Saldon täydennys",
+				"description": "Tilaus saldosi täydentämiseksi epäonnistui!"
+			},
+			"PAYMENT_TXID_EXIST": {
+				"title": "Saldon täydennys",
+				"description": "Tapahtumanumerosi on jo toisen käyttäjän käytössä!"
+			},
+			"PAYMENT_FAILED": {
+				"title": "Saldon täydennys",
+				"description": "Tilauksen luominen saldosi täydentämiseksi epäonnistui, ota yhteyttä hallintoon!"
+			},
+			"SUBSCRIPTION_SUCCESS": {
+				"title": "Tilaus",
+				"description": "Tilaus onnistui"
+			}
+		}
+	},
+	"promocode-dialog": {
+		"title": "Tarjouskoodin aktivointi",
+		"enter_promocode": "Anna tarjouskoodi",
+		"activate": "Aktivoi tarjouskoodi",
+		"example": "Esimerkki: X2dDjsa29GKO",
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}"
+		}
+	},
+	"report-dialog": {
+		"name": "Otsikko",
+		"bag_report": "Virhe raportti",
+		"loaded_file": "Tiedosto ladattu:",
+		"short_description": "Lyhyt kuvaus",
+		"detail_description_problem": "Yksityiskohtainen kuvaus",
+		"description_of_problem": "Ongelman kuvaus",
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"img": "JPG tai PNG, enintään 3 Mt",
+			"discord_or_email": "Anna sähköpostiosoite tai Discord-lempinimi"
+		},
+		"download": "ladata",
+		"send": "Lähettää",
+		"cancel": "Peruuttaa",
+		"contact_with_me": "Ota minuun yhteyttä",
+		"enter_email_or_discord": "Anna sähköpostiosoite tai Discord-lempinimi",
+		"contact": "Ottaa yhteyttä"
+	},
+	"system-notification-dialog": {
+		"update": "Päivitys on saatavilla",
+		"failed": "Oho",
+		"offline": "Offline-tilassa",
+		"update_detected": "Sovelluspäivitys havaittu: {{version}}",
+		"update_ready": "Päivitys on valmis {{version}}. Haluatko päivittää?",
+		"update_failed": "Päivityksen {{version}} asennuksen aikana tapahtui virhe",
+		"network_offline": "Yhteys katkesi, sivu vaaditaan uudelleen",
+		"yes": "Kyllä, päivitä",
+		"no": "Ei"
+	},
+	"cookies": {
+		"cookies_settings": "Hallinnoi evästeitä",
+		"intro": "Käytämme evästeitä parantaaksemme käyttökokemustasi, sovellusten käyttöanalytiikkaa ja mahdollistaaksemme chat-tuen.\n",
+		"get_know_with_start": "Tutustu kanssa",
+		"cookies_policy": "Evästekäytäntö",
+		"get_known_with_end": "lisää",
+		"accept": "Hyväksyä",
+		"settings": "asetukset",
+		"analytic_cookies": "Analytics-evästeet",
+		"analytic_cookies_description": "Näiden evästeiden salliminen antaa meille mahdollisuuden seurata vuorovaikutustasi sivustollamme ja tehdä parannuksia.",
+		"support_chat": "Tukikeskustelu",
+		"support_chat_description": "Jos haluat päästä tukikeskusteluun, nämä evästeet ovat pakollisia.",
+		"save": "Tallentaa",
+		"back": "Takaisin"
+	}
+}

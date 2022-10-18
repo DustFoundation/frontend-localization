@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "Valitse verkko USDT-siirtoa varten",
+		"top_up_amount": "Täydennysmäärä",
+		"enter_top_up_amount": "Syötä lataussumma",
+		"pay": "Maksaa",
+		"click_to_copy": "Napsauta kopioidaksesi",
+		"copied": "Kopioitu",
+		"erc20": "ERC20 osoite:",
+		"trc20": "TRC20 Osoite:",
+		"bep20": "BEP20 Osoite:",
+		"bep2": "BEP2-osoite:",
+		"memo": "MEMO-osoite:",
+		"important": {
+			"1": "Hyväksymme maksut vain Tetherissä (USDT).",
+			"2": "Aktivoi tilauksesi lisäämällä saldosi.",
+			"3": "Suosittelemme käyttämään «TRC20» verkkoa (maksu ~1$)",
+			"4": "Minkä tahansa muun kolikon tai rahakkeen lähettäminen tähän osoitteeseen USDT:tä lukuun ottamatta voi johtaa varojen menettämiseen.",
+			"5": {
+				"first_part": "Tilauksen \"{{subscriptionName}}\" aktivointi käyttäjälle {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}, sinun on lisättävä saldoosi ~1 USD USD +T +T +T Ps kattaaksesi verkkomaksu."
+			},
+			"title": "Tärkeä"
+		},
+		"video_tutorial": "Video-opastus - tilauksen ostaminen",
+		"warning": "Riskivaroitukset",
+		"specify_hash_or_number": "Määritä hash tai tapahtuman numero",
+		"recommendation": {
+			"1": "Voit etsiä tapahtumanumeron Binancesta seuraamalla tätä linkkiä (valtuutettu):",
+			"2": "Jos olet lähettänyt USDT:n toisesta pörssistä, määritä tässä kentässä Transaction hash (TRC20-esimerkki): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "Voit myös määrittää tapahtumanumeron (sisäinen siirto) - 43047269665, mutta älä sekoita lompakkoosi - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Suositukset"
+		},
+		"to_pay": "Maksettava summa: {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Vaihe 1",
+				"description": "Avaa Binance-sovellus puhelimellasi ja skannaa QR-koodi napsauttamalla sovelluksen etusivun oikeassa yläkulmassa olevaa kuvaketta."
+			},
+			"2": {
+				"title": "Vaihe 2",
+				"description": "Nyt näet tapahtuman vahvistusikkunan. Tarkista maksusumma ja vahvista tapahtuma. Napsauta sen jälkeen \"Olen maksanut\"."
+			}
+		},
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}"
+		},
+		"hash_or_number": "Tapahtuman tiiviste / numero",
+		"faq": "FAQ",
+		"payed": "olen maksanut",
+		"terms_to_use": "Käyttöehdot",
+		"privacy_policy": "Tietosuojakäytäntö",
+		"back": "Takaisin",
+		"confirm": "Vahvistaa"
+	}
+}

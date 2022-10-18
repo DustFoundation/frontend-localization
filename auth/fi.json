@@ -1,0 +1,119 @@
+{
+	"confirm-email": {
+		"title": "Sähköpostivarmistus",
+		"subtitle": "Olemme lähettäneet sinulle sähköpostin, jossa on vahvistuskoodi. Syötä tämä koodi alle",
+		"code": "Koodi",
+		"send_new_code": "Lähetä koodi uudelleen",
+		"get_new_code_after": {
+			"code": "hanki uusi koodi",
+			"after": "{{timer}} sekunnissa"
+		},
+		"done": "Tehty",
+		"back": "Takaisin"
+	},
+	"confirm-mfa": {
+		"title": "Vahvista tilisi",
+		"subtitle": "Anna alla oleva Google Authenticator -sovelluksessasi oleva koodi",
+		"code": "Koodi",
+		"back": "Takaisin",
+		"sign_in": "Kirjaudu sisään"
+	},
+	"forgot-password": {
+		"title_1": "Palauta entinen loisto",
+		"subtitle_1": "Lähetämme sinulle korpin salaisen koodin avulla salasanasi palauttamiseksi",
+		"get_code": "Lähetä korppi",
+		"title_2": "Korppi on saapunut",
+		"subtitle_2": "Avaa rulla, jonka korppi on toimittanut sähköpostiisi, ja kirjoita salainen koodi alle.",
+		"code": "Koodi",
+		"send_new_code": "Lähetä koodi uudelleen",
+		"get_new_code_after": {
+			"code": "hanki uusi koodi",
+			"after": "{{timer}} sekunnissa"
+		},
+		"title_3": "Oikeudenkäynti on ohi",
+		"subtitle_3": "Olet osoittanut oikeutesi palauttaa entinen kunnia. Kirjoita nyt vain uusi salasana.",
+		"restore_password": "Nollaa salasana",
+		"form": {
+			"mail": "Sähköposti",
+			"mail_input_placeholder": "mail@mail.com",
+			"new_password": "Uusi salasana",
+			"repeat_password": "Toista salasana",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"invalid_email": "Virheellinen sähköpostin muoto",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "Salasanat eivät täsmää",
+			"password_rules": "Salasanassa on oltava vähintään yksi iso kirjain ja yksi numero"
+		}
+	},
+	"new-password": {
+		"title": "Oikeudenkäynti on ohi",
+		"subtitle": "Olet osoittanut oikeutesi palauttaa entinen kunnia. Kirjoita nyt vain uusi salasana.",
+		"restore_password": "Palauta salasana",
+		"form": {
+			"new_password": "Uusi salasana",
+			"repeat_password": "Toista salasana",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"invalid_email": "Virheellinen sähköpostiosoite",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "Salasanat eivät täsmää",
+			"password_rules": "Salasanassa on oltava vähintään yksi iso kirjain ja yksi numero"
+		}
+	},
+	"sign-in": {
+		"no_account": "Eikö sinulla ole tiliä?",
+		"sign_up": "Kirjaudu",
+		"title": "Kirjaudu sisään",
+		"forgot_password": "Unohditko salasanasi?",
+		"ban_reason": "Kiellon syy:",
+		"banned_until": "Kielletty asti:",
+		"sign_in": "Kirjaudu sisään",
+		"form": {
+			"mail": "Sähköposti",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Salasana",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"invalid_email": "Virheellinen sähköpostiosoite",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}"
+		}
+	},
+	"sign-up": {
+		"have_account": "Onko sinulla tili?",
+		"sign_in": "Kirjaudu sisään",
+		"title": "Rekisteröinti",
+		"forgot_password": "Unohditko salasanasi?",
+		"ban_reason": "Kiellon syy:",
+		"banned_until": "Kielto asti:",
+		"sign_up": "Kirjaudu",
+		"policy": {
+			"agree": "olen samaa mieltä",
+			"with": "tietosuojakäytäntö"
+		},
+		"form": {
+			"mail": "Sähköposti",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Salasana",
+			"password_input_placeholder": "*****************",
+			"repeat_password": "Toista salasana"
+		},
+		"validation_messages": {
+			"required": "Kenttä on pakollinen",
+			"invalid_email": "Virheellinen sähköpostin muoto",
+			"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "Salasanat eivät täsmää",
+			"password_rules": "Salasanassa on oltava vähintään yksi iso kirjain ja yksi numero"
+		}
+	}
+}

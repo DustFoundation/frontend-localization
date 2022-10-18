@@ -1,0 +1,41 @@
+{
+	"title": "Huomautuksia",
+	"create_btn": "Luo muistiinpano",
+	"empty_note": "Tyhjä muistiinpano",
+	"sort": {
+		"custom": "Tilausjärjestyksessä",
+		"date_desc": "Päivämäärä: ensimmäinen uusi",
+		"date_asc": "Päivämäärä: vanha ensin",
+		"alphabet_desc": "Aakkosjärjestyksessä A-Z",
+		"alphabet_asc": "Aakkosjärjestyksessä Z - A"
+	},
+	"create_note_dialog": {
+		"remove_button": "Poista muistiinpano",
+		"save": "Tallentaa",
+		"title": "Luo muistiinpano",
+		"edit_title": "Muokkaa muistiinpanoa",
+		"title_label": "Otsikko",
+		"title_placeholder": "Minun huomautukseni",
+		"content_placeholder": "Kirjoita muistiinpanon teksti",
+		"changed": "Muutettu",
+		"validation_messages": {
+			"required": "Tämä kenttä pitää täyttää",
+			"min_length": "Vähimmäispituus {{min}} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+			"max_length": "Suurin pituus {{max}} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+			"not_only_spaces": "Otsikko ei voi sisältää vain välilyöntejä"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Muistiinpanon poistaminen",
+		"description": "Haluatko varmasti poistaa muistiinpanon?",
+		"delete": "Poistaa",
+		"cancel": "Peruuttaa",
+		"deleted_successfully": "Huomautus poistettu onnistuneesti"
+	},
+	"attention_note_dialog": {
+		"title": "Huomio",
+		"description": "Haluatko varmasti sulkea tämän muistiinpanon tallentamatta?",
+		"dont_save": "Älä säästä",
+		"cancel": "Peruuttaa"
+	}
+}

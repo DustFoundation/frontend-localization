@@ -1,0 +1,22 @@
+{
+	"main": "Koti",
+	"settings": "asetukset",
+	"profile": "Profiili",
+	"forum": "Foorumi",
+	"academy": "Akatemia",
+	"portfolio": "Portfolio",
+	"balance": "Lisää saldoa",
+	"subscription": "Tilaus",
+	"transaction": "Tapahtumahistoria",
+	"risk": "Riskilaskuri",
+	"activation_subscription": "Aktivoi tilaus",
+	"post_view": "Näytä viesti",
+	"created_posts": "Omat viestit",
+	"popular": "Suosittu",
+	"news": "Uusi",
+	"my-tickets": "Omat viestit",
+	"create_ticket": "Luo viesti",
+	"conferences": "Konferenssit",
+	"notes": "Huomautuksia",
+	"back": "Takaisin"
+}

@@ -1,0 +1,468 @@
+{
+	"components": {
+		"breadcrumbs": {
+			"portfolio": "Portfolio",
+			"main": "Koti",
+			"transactions": "Tapahtumat"
+		},
+		"dialog-add-coin": {
+			"first_step": {
+				"title": "Vaihe 1",
+				"choose_asset": "Valitse omaisuus",
+				"search": "Hae"
+			},
+			"second_step": {
+				"title": "Vaihe 2",
+				"amount": "Määrä",
+				"max": "MAX",
+				"price": "Hinta per kolikko",
+				"date": "Päivämäärä (PP.KK.VVVV)",
+				"date_placeholder": "PP.KK.VVVV",
+				"total_attachment": "Kokonaisinvestointi",
+				"total_profit": "Koko tuotto",
+				"buy": "Ostaa",
+				"sell": "Myydä",
+				"edit_transaction": "Muokkaa tapahtumaa",
+				"delete_transaction": "Poista tapahtuma",
+				"add_transaction": "Lisää tapahtuma"
+			},
+			"change": "Muuttaa",
+			"add": "Lisätä",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"invalid_date": "Väärä päivämäärä",
+				"min_price": "Hinta ei voi olla alle 0 dollaria",
+				"max_amount": "Summa ei voi ylittää {{max}} {{coin}}",
+				"min_amount": "Summa ei voi olla pienempi kuin 0 {{coin}}"
+			}
+		},
+		"dialog-add-exchange-portfolio": {
+			"title": "Vaihtoportfolion luominen",
+			"selected_exchange": "Valittu vaihto*",
+			"portfolio_name": "Portfolion nimi*",
+			"name_placeholder": "Giga Chad",
+			"portfolio_description": "Portfolion kuvaus",
+			"description_placeholder": "Salkku, joka koostuu markkinoiden riskialttiimmista ja lupaavimmista varoista. Ole valmis sanomaan hyvästit unelle ja rahalle.",
+			"api_key_rule": "Pyydämme vain <strong>lukuoikeuksia</strong> . Se ei anna meille pääsyä henkilökohtaisiin avaimiisi tai kykyä siirtää varojasi. Tarvitsemme sitä vain näyttääksemme sinulle portfoliosi ja analytiikkasi tehokkuuden.",
+			"enter_api_key": "Anna API-avain",
+			"api_key": "API-avain",
+			"enter_secret_key": "Anna salainen avain",
+			"secret_key": "Salainen avain",
+			"help": {
+				"1": "Avaa Binance Exchange -verkkosivustolla <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">API Management</a> -osio",
+				"2": "<strong>Luo uusi API-avain</strong> , anna sille nimi, esimerkiksi <strong>&quot;DUST Portfolio&quot;</strong> ja paina <strong>&quot;Seuraava&quot;</strong>",
+				"3": "(Jos kaikki on kunnossa), <strong>syötä 2FA-koodia</strong>",
+				"4": "Kopioi <strong>API-avain</strong> ja <strong>salainen avain</strong>",
+				"5": "<span>ON SUOVETTA estää pääsy tämän API-avaimen kaupankäyntiin tehdäksesi näin:</span><ol><li> Napsauta <strong>&quot;Muokkaa rajoituksia&quot;</strong></li><li> Poista käytöstä <strong>&quot;Ota spot- ja marginaalikauppa käyttöön&quot;</strong></li><li> Napsauta <strong>&quot;Tallenna&quot;</strong></li><li> Syötä <strong>kaksivaiheinen todennuskoodi</strong></li></ol>"
+			},
+			"create": "Luoda",
+			"back": "Takaisin",
+			"onward": "Seuraava",
+			"important": "Tärkeä",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Ei pidä toistaa"
+			}
+		},
+		"dialog-add-regular-portfolio": {
+			"create_portfolio": "Luo portfolio",
+			"title": "Virtuaalisen portfolion luominen",
+			"name_placeholder": "Todellinen HODLer",
+			"description_placeholder": "Tämä salkku sisältää perusomaisuutta kaikkialla kryptomarkkinoilla. Voit nukkua rauhassa.",
+			"description_not_necessarily": "Kuvaus (ei välttämätön)",
+			"name": "Otsikko",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Ei pidä toistaa"
+			}
+		},
+		"dialog-add-venture-asset": {
+			"unlock_types": {
+				"linear": "Lineaarinen",
+				"full": "Koko",
+				"custom": "Mukautettu"
+			},
+			"asset_type": {
+				"blockchain": "Blockchain",
+				"defi": "DeFi",
+				"gamefi": "GameFi",
+				"metaverse": "Metaverse",
+				"launchpad": "Laukaisualusta",
+				"payments": "Maksut",
+				"fun_token": "Hauska Token",
+				"nft": "NFT",
+				"other": "muu"
+			},
+			"rounds": {
+				"public": "Julkinen",
+				"private": "Yksityinen",
+				"strategic": "Strateginen",
+				"presale": "Esisuola",
+				"preseed": "Esisiementä",
+				"seed": "Siemen",
+				"round_a": "Kierros A",
+				"round_b": "Kierros B",
+				"round_c": "Kierros C",
+				"round_d": "Kierros D",
+				"other": "muu"
+			},
+			"periods": {
+				"every-day": "Päivittäin",
+				"every-week": "Viikoittain",
+				"every-month": "Kuukausittain",
+				"every-quarter": "Neljännesvuosittain",
+				"every-half-year": "6 kuukauden välein",
+				"every-year": "Vuosittain"
+			},
+			"unlock_period_types": {
+				"amount": "määrä.",
+				"percent": "%"
+			},
+			"cliff": {
+				"MONTH": "kuukausi.",
+				"YEAR": "vuosi"
+			},
+			"main": {
+				"add": "Venture-omaisuuden lisääminen",
+				"edit": "Venture-omaisuuden muokkaaminen",
+				"title_1": "Johdanto",
+				"title_2": "Taloustiedot",
+				"title_3": "Tekninen informaatio",
+				"title_4": "Valitse päivämäärä ja (tai) avausprosentti TGE:ssä",
+				"title_5": "Omaisuuden jakelun kesto",
+				"tge": "TGE — (Token Generation Event), synonyymi \"ICO\", joka tarkoittaa \"alkuperäistä kolikon tarjontaa\".",
+				"total": "Kaikki yhteensä",
+				"onward": "Seuraava",
+				"back": "Takaisin",
+				"done": "Tehty",
+				"date_placeholder": "PP.KK.VVVV",
+				"period_date_placeholder": "PP.KK.VVVV – PP.KK.VVVV"
+			},
+			"first_step": {
+				"name": "Otsikko*",
+				"name_placeholder": "Omaisuuden nimi",
+				"ticker": "Ticker*",
+				"ticker_placeholder": "Ticker",
+				"sait": "Verkkosivusto",
+				"description": "Kuvaus",
+				"logo": "Omaisuuden logo",
+				"format_img": "JPG tai PNG, 1:1 (neliö),<br /> enintään 3 Mt",
+				"loaded_photo": "Kuva ladattu:",
+				"download": "ladata"
+			},
+			"second_step": {
+				"price": "ostohinta*",
+				"price_placeholder": "Hinta",
+				"amount": "Ostettujen kolikoiden/rahakkeiden määrä*",
+				"amount_placeholder": "Määrä",
+				"round": "Pyöristää",
+				"total_attachment": "Kokonaisinvestointi:"
+			},
+			"third_step": {
+				"network": "Verkko",
+				"address": "Älykäs sopimusosoite",
+				"type": "Projektin tyyppi",
+				"date": "Ostopäivä (PP.KK.VVVV)*"
+			},
+			"fourth_step": {
+				"unlock": "% auki",
+				"unlock_placeholder": "0-100 %",
+				"date": "Päivämäärä",
+				"tba": "TBA – (ilmoitetaan myöhemmin)",
+				"cliff": "Cliff — aika, jonka on kuluttava ennen kuin rahakkeiden vapauttaminen alkaa",
+				"period_cliff": "Kalliokausi",
+				"lockup": "Cliff (lukitus)",
+				"no": "Ei"
+			},
+			"fifth_step": {
+				"vesting": "Oikeuden saaminen",
+				"vesting_description": "Oikeuden myöntäminen — prosessi, jossa varat lukitaan ja jaetaan tietylle ajanjaksolle",
+				"unlock_date": "Avauspäivämäärä",
+				"period": "Jakeluaika",
+				"end_date": "Päättymispäivä",
+				"start_date": "Aloituspäivämäärä",
+				"frequency": "Taajuus",
+				"info": "{{amount}} kolikkoa/rahaketta {{period}} {{start}} - {{emd}}",
+				"select_period": "Valitse ajanjakso",
+				"unlock_impossible": "Lukituksen avaaminen valitulle ajanjaksolle on mahdotonta",
+				"elem_unlock_date": "Avauspäivämäärä {{num}}",
+				"invalid_sequence": "Ei voi olla aikaisempi kuin ostopäivä tai lukituksen avauspäivä",
+				"value_in_period": "Avaa äänenvoimakkuus tälle ajanjaksolle",
+				"left_to_distribute": "Jakelua jäljellä:",
+				"volume_distributed": "Koko volyymi on jaettu",
+				"invalid_unlock": " * Virheelliset avaukset"
+			},
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"min_price": "Hinta ei voi olla alle 0 dollaria",
+				"invalid_date": "Väärä päivämäärä",
+				"file_type": "väärä tiedostotyyppi",
+				"file_size": "Tiedoston koko ylittää {{size}} Mt",
+				"max_value": "Suurin arvo on {{max}}",
+				"min_value": " Arvon tulee olla pienempi kuin {{min}}",
+				"invalid_period": "Ei voi olla aikaisempi kuin ostopäivä tai lukituksen avauspäivä"
+			}
+		},
+		"dialog-add-venture-portfolio": {
+			"create_portfolio": "Luo portfolio",
+			"title": "Venture-salkun luominen",
+			"name_placeholder": "Aloitteleva kryptosijoittaja",
+			"description_placeholder": "Luotettavien ja hyväksi havaittujen omaisuuserien lisäksi tähän portfolioon kuuluu myös lupaavimpia ja aktiivisesti kehitettyjä projekteja.",
+			"name": "Otsikko",
+			"description_not_necessarily": "Kuvaus (ei välttämätön)",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Ei pidä toistaa",
+				"file_size": "Koko ylittää {{size}} Mt"
+			}
+		},
+		"dialog-create-portfolio": {
+			"virtual": {
+				"title": "Virtuaalinen portfolio",
+				"subtitle": "Virtuaalisen kryptovarasalkun luominen"
+			},
+			"exchange": {
+				"title": "Vaihtosalkku",
+				"subtitle": "Integraatiot pörsseihin ja kiinteistöjen seuranta"
+			},
+			"venture": {
+				"title": "Venture portfolio",
+				"subtitle": "Varhaisessa vaiheessa ostettujen uusien projektien lisääminen"
+			},
+			"need_subscription": "Aktiivinen tilaus vaaditaan",
+			"create_portfolio": "Luo portfolio"
+		},
+		"dialog-delete-coin": {
+			"title": "Poista sisältö",
+			"subtitle": "Haluatko varmasti poistaa <span>{{name}}</span> portfoliostasi?",
+			"delete": "Poistaa",
+			"cancel": "Peruuttaa"
+		},
+		"dialog-delete-portfolio": {
+			"title": "Poista portfolio",
+			"subtitle": "Haluatko varmasti poistaa portfoliosi <span>{{name}}</span> ?",
+			"delete": "Poistaa",
+			"cancel": "Peruuttaa"
+		},
+		"dialog-delete-transaction": {
+			"title": "Poista tapahtuma",
+			"subtitle": "Haluatko varmasti poistaa tämän tapahtuman portfoliostasi?",
+			"delete": "Poistaa",
+			"cancel": "Peruuttaa"
+		},
+		"dialog-delete-venture-asset": {
+			"title": "Poista sisältö",
+			"subtitle": "Haluatko varmasti poistaa <span>{{name}}</span> portfoliostasi?",
+			"delete": "Poistaa",
+			"cancel": "Peruuttaa"
+		},
+		"dialog-edit-exchange-portfolio": {
+			"title": "Muokkaa avaimia",
+			"enter_api_key": "API-avain",
+			"enter_secret_key": "Salainen avain",
+			"cancel": "Peruuttaa",
+			"save": "Tallentaa",
+			"attention": "Huomio!",
+			"notice": "Nykyinen portfolio poistetaan ja uusi ladataan tilalle",
+			"replace": "Korvata",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"dialog-edit-portfolio": {
+			"title": "Muokkaa portfoliota",
+			"name_placeholder": "Todellinen HODLer",
+			"description_placeholder": "Tämä salkku sisältää perusomaisuutta kaikkialla kryptomarkkinoilla. Voit nukkua rauhassa.",
+			"name": "Otsikko",
+			"description_not_necessarily": "Kuvaus (ei välttämätön)",
+			"save": "Tallentaa",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Ei pidä toistaa"
+			}
+		},
+		"dialog-transaction-info": {
+			"title": "Maksutapahtuman tiedot",
+			"type": "Tyyppi",
+			"price": "Hinta",
+			"amount_coin": "Kolikoiden määrä",
+			"date": "Päivämäärä",
+			"value": "Arvo $",
+			"close": "kiinni",
+			"buy": "Ostaminen",
+			"sell": "Myynti"
+		},
+		"dialog-venture-coin-info": {
+			"title": "Venture-omaisuuden tiedot",
+			"characteristics": {
+				"price": "{isMobile, plural, =1 {Price} other {Ostohinta}}",
+				"amount": "{isMobile, plural, =1 {Summa} other {Kolikoiden määrä}}",
+				"investment_volume": "Investointien määrä",
+				"type_of_project": "Projektin tyyppi",
+				"type": "Tyyppi",
+				"round": "Pyöristää",
+				"description": "Kuvaus",
+				"sait": "Verkkosivusto",
+				"network": "Verkko",
+				"date": "Ostopäivä",
+				"lock_period": "Lukitusaika"
+			},
+			"close": "kiinni"
+		},
+		"invalid-api-key-dialog": {
+			"title": "Virheellinen API-avain",
+			"subtitle": "Sinun on vaihdettava API-avain, jotta voimme päivittää portfoliosi."
+		},
+		"portfolio-coin": {
+			"all_transaction": "Kaikki tapahtumat",
+			"need_subscription": "Aktiivinen tilaus vaaditaan",
+			"add_transaction": "Lisää tapahtuma",
+			"delete_asset": "Poista kolikko",
+			"delete": "Poistaa"
+		},
+		"portfolio-list-item": {
+			"update_data": "Tietojen päivittäminen",
+			"need_subscription": "Aktiivinen tilaus vaaditaan",
+			"edit": "Muokata",
+			"delete": "Poistaa",
+			"open": "Avata",
+			"virtual": "Virtuaalinen portfolio",
+			"exchange": "Vaihtosalkku",
+			"venture": "Venture portfolio",
+			"investment_value": "Investointien määrä",
+			"portfolio_valuation": "Portfolion arviointi"
+		},
+		"portfolio-pnl": {
+			"total_attachments": "Investointien kokonaismäärä",
+			"total_investment": "Investointien kokonaismäärä",
+			"invested_to_portfolio": "Sijoitettu portfolioon",
+			"portfolio_evaluation": "Portfolion arviointi",
+			"all_times_pnl": "Kaikkien aikojen PNL",
+			"portfolio_pnl": "PNL-salkku",
+			"total_portfolio_evaluation": "Salkun kokonaisarviointi"
+		},
+		"portfolio-transaction": {
+			"buy": "Ostaa",
+			"sell": "Myydä",
+			"deposit": "Tallettaa",
+			"withdraw": "Peruuttaa",
+			"transfer": "Siirtää",
+			"need_subscription": "Aktiivinen tilaus vaaditaan",
+			"edit_transaction": "Muokkaa tapahtumaa",
+			"delete_transaction": "Poista tapahtuma"
+		},
+		"series-finance": {
+			"title": "Talouden erittely",
+			"total": "Kaikki yhteensä",
+			"others": "muut"
+		},
+		"transactions-limit-dialog": {
+			"title": "Olet ylittänyt tapahtumarajan",
+			"subtitle": "Aktivoi tilaus saadaksesi rajattomasti Portfolio-tapahtumia",
+			"used_transactions": "Käytetyt tapahtumat:",
+			"of": "{{num1}} kohteesta {{num2}}",
+			"activate_subscription": "Aktivoi tilaus"
+		},
+		"interval": {
+			"1_day": "1 päivä",
+			"7_days": "7 päivää",
+			"1_month": "1 kuukausi",
+			"3_months": "3 minun",
+			"1_year": "1 vuosi",
+			"all_time": "Koko ajan"
+		}
+	},
+	"portfolio": {
+		"last_time_update": "Viimeksi päivitetty:",
+		"update_started": "Päivitys aloitettu:",
+		"not_updated": "Ei päivitetty",
+		"to_update": "Päivitykseen asti",
+		"update": "Päivittää",
+		"portfolio_capitalization": "Salkun pääomitus",
+		"portfolio_profitability": "Portfolion kannattavuus",
+		"portfolio_description": "Portfolion kuvaus",
+		"my_assets": "Omaisuuteni",
+		"finance": "Talous",
+		"price": "Hinta",
+		"average_price": "Keskim. ostohinta",
+		"amount_coin": "Kolikoiden määrä",
+		"profit_loss": "Voitonmenetys",
+		"description": "Portfolion kuvaus",
+		"portfolio_empty": "Portfolio on tyhjä...",
+		"your_portfolio_empty": "Salkkusi on tyhjä :(",
+		"add_asset": "Lisää omaisuus",
+		"add_first_asset": "Lisää ensimmäinen omaisuus",
+		"need_subscription": "Aktiivinen tilaus vaaditaan"
+	},
+	"portfolio-list": {
+		"create_portfolio": "Luo portfolio",
+		"need_subscription": "Aktiivinen tilaus vaaditaan",
+		"navigation": {
+			"all_portfolios": "Kaikki portfoliot",
+			"calculator": "Riskialskuri",
+			"indexes": "Indeksit"
+		}
+	},
+	"portfolio-transactions": {
+		"back": "Takaisin",
+		"price": "Hinta",
+		"average_price": "Keskim. ostohinta",
+		"amount_coin": "Kolikoiden määrä",
+		"profit_loss": "Voitonmenetys",
+		"date": "Päivämäärä",
+		"value": "Arvo $",
+		"commission": "Maksu",
+		"add": "Lisätä",
+		"transactions": "Tapahtumat",
+		"add_transaction": "Lisää tapahtuma",
+		"need_subscription": "Aktiivinen tilaus vaaditaan"
+	},
+	"portfolio-venture": {
+		"add_asset": "Lisää omaisuus",
+		"description": "Portfolion kuvaus",
+		"delete_asset": "Poista sisältö",
+		"edit": "Muokata",
+		"your_portfolio_empty": "Salkkusi on tyhjä :(",
+		"add_first_asset": "Lisää ensimmäinen omaisuus",
+		"unlock_chart": "Avaa riskipääoman kaavio",
+		"impossible_to_build": "Tälle omaisuudelle on mahdotonta rakentaa kaaviota",
+		"my_assets": "{isMobile, plural, =1 {Omat varat} other {Omat pääomasijoitukset}}",
+		"portfolio_empty": "Portfolio on tyhjä...",
+		"characteristics": {
+			"price": "{isMobile, plural, =1 {Price} other {Ostohinta}}",
+			"amount": "{isMobile, plural, =1 {Summa} other {Kolikoiden määrä}}",
+			"investment_volume": "Investointien määrä",
+			"type_of_project": "Projektin tyyppi",
+			"type": "Tyyppi",
+			"round": "Pyöristää",
+			"description": "Kuvaus",
+			"sait": "Verkkosivusto",
+			"network": "Verkko",
+			"date": "Ostopäivä",
+			"lock_period": "Lukitusaika"
+		},
+		"unlock_info": {
+			"tge_today": "Tämän päivän TGE.",
+			"to_start_tge": "Ennen TGE <span class='period'>:tä {{diff}}</span>",
+			"cliff_today": "Tänään on Cliffin alku",
+			"to_start_cliff": "Ennen <span class='period'>kalliota {{diff}}</span>",
+			"cliff_end": "Cliff valmistuu tänään",
+			"to_end_cliff": "Ennen kuin Cliff on valmis <span class='period'>{{diff}}</span>",
+			"today_unlock": "Tänään {{num}} on erittely",
+			"to_unlock": "Ennen {{num}} lukituksen <span class='period'>avaamista {{diff}}</span>"
+		},
+		"need_subscription": "Aktiivinen tilaus vaaditaan"
+	}
+}

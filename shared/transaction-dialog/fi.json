@@ -1,0 +1,12 @@
+{
+	"title": "Anna tapahtuman hash tai numero",
+	"recommendation": {
+		"1": "Voit etsiä tapahtumanumeron tästä linkistä:",
+		"2": "Jos olet lähettänyt USDT:n toisesta pörssistä, määritä tässä kentässä Transaction hash (TRC20-esimerkki): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+		"3": "Määritä tapahtumanumero (sisäinen siirto - 43047269665, ei lompakkosi - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+		"title": "Suositukset"
+	},
+	"hash_or_number": "Tapahtuman hash / numero",
+	"payed": "olen maksanut",
+	"back": "Takaisin"
+}

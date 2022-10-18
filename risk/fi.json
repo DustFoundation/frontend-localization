@@ -1,0 +1,77 @@
+{
+	"title": "Riskilaskuri",
+	"add_template": "Uusi laskelma",
+	"without_title": "Ei otsikkoa",
+	"my_template": "Oma malli",
+	"navigation": {
+		"all_portfolios": "Kaikki portfoliot",
+		"calculator": "Riskilaskuri",
+		"indexes": "Indeksit"
+	},
+	"sort": {
+		"title": "Lajittelu",
+		"date_desc": "Päivämäärä: ensimmäinen uusi",
+		"date_asc": "Päivämäärä: vanha ensin",
+		"alphabet_desc": "Aakkosjärjestyksessä A-Z",
+		"alphabet_asc": "Aakkosjärjestyksessä Z - A"
+	},
+	"calculator": {
+		"title_placeholder": "Kirjoita mallin nimi",
+		"status_saved": "Nimi muutettu",
+		"saved": "Tallennettu",
+		"button_save": "Tallentaa",
+		"type_long": "Pitkä",
+		"type_short": "Lyhyt",
+		"search_placeholder": "Hae",
+		"result_link": "Kuinka se toimii?",
+		"result_title": "Tulos",
+		"result_item_volume": "Viputettu kaupan volyymi",
+		"result_item_profit": "Ota voittoa",
+		"result_item_proportion": "Riski/tuotto-suhde",
+		"result_item_loss": "Stop Loss",
+		"result_item_liquidation": "Selvitystila",
+		"coin_label": "Aktiivinen",
+		"volume_label": "Tapahtuman määrä",
+		"price_label": "Sisäänpääsyn hinta",
+		"leverage_label": "Vipuvaikutus",
+		"risk_label": "Riski",
+		"profit_label": "Voitto",
+		"alert": "Varoitus! Selvitystila on liian lähellä stop lossa!",
+		"calculate": "Laskea",
+		"tooltips": {
+			"coin_tooltip": "Valuutta positioiden avaamiseen",
+			"volume_tooltip": "Summa, jolle positio avataan, ei sisällä vipuvaikutusta",
+			"price_tooltip": "Kaavion lainaus, jossa positio avataan",
+			"leverage_tooltip": "Vipuvaikutuksen avulla voit käyttää lainattuja varoja kryptovaluuttojen tai muiden rahoitusvarojen kauppaan. Muista aina, että suuremman vipuvaikutuksen käyttäminen lisää todennäköisyyttä, että asemasi realisoidaan. Hartioiden likvidaatio % - x100 (1 %)",
+			"risk_tooltip": "Mahdollinen menetys prosentteina asemastasi negatiivisen skenaarion tapauksessa",
+			"profit_tooltip": "Mahdollinen voitto prosentteina positiostasi positiivisen skenaarion tapauksessa"
+		}
+	},
+	"list": {
+		"empty": "Ei tallennettuja laskelmia",
+		"saved": "Tallennettu",
+		"title_placeholder": "Kirjoita otsikko"
+	},
+	"dialog_close_template": {
+		"title": "Haluatko varmasti avata uuden tilin?",
+		"text": "Uuden laskelman avaaminen tyhjentää kaikki syötetyt tiedot ja poistaa tulokset",
+		"button_apply": "Asia selvä",
+		"button_cancel": "Peruuttaa"
+	},
+	"dialog_delete_template": {
+		"title": "Laskelman poistaminen",
+		"text": "Haluatko todella poistaa laskelman?",
+		"button_apply": "Poista",
+		"button_cancel": "Peruuttaa"
+	},
+	"dialog_save_template": {
+		"title": "Tallennetaan laskelma",
+		"text": "Haluatko päivittää avoimen laskelman vai tallentaa laskelman uutena?",
+		"button_apply": "Päivittää",
+		"button_cancel": "Tallenna uusi"
+	},
+	"dialog_tooltip_template": {
+		"title": "Vihje",
+		"button_close": "Sain sen!"
+	}
+}

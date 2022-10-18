@@ -1,0 +1,102 @@
+{
+	"onboarding-call-dialog": {
+		"title": "Haluatko lukea vaiheittaisen oppaan DUST PLATFORM -sovellukseen?",
+		"skip": "Ohita",
+		"yes": "Joo"
+	},
+	"onboarding-dialog": {
+		"back": "Takaisin",
+		"onward": "Seuraava",
+		"done": "Tehty",
+		"portfolio": {
+			"title": "\"Portfolio\" -osio",
+			"description": "Tässä osiossa voit luoda portfoliosi, seurata omaisuuttasi ja sijoituksiasi.",
+			"list": {
+				"1": "Salkkujen arvioitu kokonaissaldo ja PNL",
+				"2": "Sijoitusstrategioiden simulointi",
+				"3": "Pörssisalkkujen integrointi yhteen paikkaan",
+				"4": "Riskisijoitusten arviot ja seuranta"
+			}
+		},
+		"virtual_portfolio": {
+			"title": "Virtuaalinen portfolio",
+			"description": "Tämän salkun avulla voit lisätä omaisuutta manuaalisesti ja simuloida erilaisia sijoitusstrategioita.",
+			"list": {
+				"1": "Tapahtumien manuaalinen lisääminen",
+				"2": "Yli 1000 salausomaisuutta seurattavaksi",
+				"3": "Voittojen/tappioiden kaaviokuva",
+				"4": "Pie Сchart visualisointi talouden jakautumisesta"
+			}
+		},
+		"exchange_portfolio": {
+			"title": "Vaihtosalkku",
+			"description": "Tämän portfolion avulla voit seurata vaihtoportfolioitasi API-integraatioiden avulla.",
+			"list": {
+				"1": "Yksinkertainen ja selkeä integrointi API:lla",
+				"2": "Tapahtumien ja hintojen automaattinen päivitys",
+				"3": "Voittojen/tappioiden kaaviokuva",
+				"4": "Pie Сchart visualisointi talouden jakautumisesta"
+			}
+		},
+		"venture_portfolio": {
+			"title": "Venture portfolio",
+			"description": "Tämän salkun avulla voit seurata kaikkia riskisijoituksia joustavan konfiguroinnin ja visualisointien avulla.",
+			"list": {
+				"1": "Joustava pääomasijoitusten seuranta",
+				"2": "Kaavio TGE:stä ja avauksista",
+				"3": "Yksityiskohtaiset tiedot venture-omaisuudesta",
+				"4": "Automaattiset laskelmat Excel-taulukoiden sijaan"
+			}
+		},
+		"forum": {
+			"title": "\"Foorumi\" -osio",
+			"description": "Tässä osiossa voit luoda viestejä ja jakaa ajatuksesi samanmielisten ihmisten yhteisön kanssa.",
+			"list": {
+				"1": "Viestien katselu luokitusjärjestyksessä",
+				"2": "Mahdollisuus kommentoida muiden luomia viestejä",
+				"3": "Ansaitse DUST Token parhaista viesteistä",
+				"4": "Pysy ajan tasalla viimeisimmistä tapahtumista"
+			}
+		},
+		"academy": {
+			"title": "\"Akatemia\" -osio",
+			"description": "Tässä osiossa voit valita itseäsi kiinnostavan kurssin ja saada uutta tietoa.",
+			"list": {
+				"1": "Jokaisen kurssin on luonut DUST.FOUNDATION -tiimi",
+				"2": "Monimutkaisten aiheiden visuaalinen esitys videoissa",
+				"3": "Testien läpäiseminen jokaisessa moduulissa",
+				"4": "Moduulien ja kurssien arviointi"
+			}
+		},
+		"balance": {
+			"title": "\"Täytä saldo\" -osio",
+			"description": "Tässä osiossa voit ostaa/pidentää tilauksia alustalle ja kryptoyhteisölle.",
+			"list": {
+				"1": "Helppo 2-vaiheinen maksuprosessi",
+				"2": "Eri verkkojen tuki ja Binance Pay",
+				"3": "Yksityiskohtainen video-opastus maksujen suorittamisesta uusille tulokkaille",
+				"4": "Nopea varojen hyvitys alustalle"
+			}
+		},
+		"subscription": {
+			"title": "\"Tilaus\"-osio",
+			"description": "Tässä osiossa voit valita ja aktivoida erityyppisiä tilauksia.",
+			"list": {
+				"1": "7 päivän ilmainen kokeilu (DUST Platform)",
+				"2": "3 erityyppistä tilausta eri kestoisin",
+				"3": "Integraatiot Telegramin ja Discordin kanssa",
+				"4": "Alennusjärjestelmä ja DUST Tokenin ansaitseminen"
+			}
+		},
+		"profile": {
+			"title": "\"Profiili\" -osio",
+			"description": "Tässä osiossa voit saada päivittäisiä palkintoja, saavutuksia ja seurata arvosanaasi.",
+			"list": {
+				"1": "Valitse kryptoavataarisi",
+				"2": "Päivittäiset palkinnot alustalla käymisestä",
+				"3": "Luettelo saavutetuista saavutuksista",
+				"4": "Käyttäjäarvostelu"
+			}
+		}
+	}
+}

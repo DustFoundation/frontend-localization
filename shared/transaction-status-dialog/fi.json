@@ -1,0 +1,11 @@
+{
+	"status": "Maksun tilanne:",
+	"entered_hash": "Syötetty hash:",
+	"edit_hash": "Muokkaa tiivistettä",
+	"transaction_statuses": {
+		"success_1": "menestys",
+		"success_2": "Täydennys onnistui",
+		"processing_1": "käsittely...",
+		"processing_2": "Lentää lohkoketjun läpi"
+	}
+}

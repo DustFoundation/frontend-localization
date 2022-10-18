@@ -1,0 +1,84 @@
+{
+	"components": {
+		"dialog-subscription-status": {
+			"term": "Tilaus {{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} aktivoitu!",
+			"title": "Tervetuloa kryptoyhteisöön!",
+			"subtitle": "Aloita kaikkien alustan toimintojen ja etujen käyttö heti!",
+			"to_main": "Koti"
+		},
+		"subscription-integrations": {
+			"title": "Discord- ja Telegram-integraatiot",
+			"rule_1": "Saadaksesi täyden pääsyn yksityiseen Discord-palvelimeen ja Telegram-kanavaan, sinun on yhdistettävä niiden integraatiot",
+			"rule_2": "Pääsy myönnetään vain tietyille tileille! Käyttöoikeuden siirto toiselle tilille on mahdollista vain tilauksen uusimisen yhteydessä.",
+			"back": "Takaisin",
+			"onward": "Seuraava",
+			"skip": "Ohita",
+			"attention": "Huomio!"
+		},
+		"subscription-term": {
+			"top_up_on": "Täydennä",
+			"select_subscription": "Valitse tilaus",
+			"go": "Mennä",
+			"transaction_in_progress": "Kauppa käynnissä",
+			"on_your_balance": "Tasapainollasi",
+			"selected_subscription": "Valittu tilaus:",
+			"test_period": "(koeaika)",
+			"on_day": "{{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
+			"bonus": "Tilaamalla {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} saat [bonusmnrnmrnuruer } =2 {päivää} =3 {päivää} =4 {päivää} other {days}} ilmaiseksi!",
+			"rule_1": "Ennen kuin jatkat, varmista, että saldollasi on tarpeeksi USDT tilauksesi aktivoimiseksi!",
+			"rule_2": {
+				"first_part": "aktivoidaksesi {{subscriptionName}}-tilauksen {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} sinulla on oltava saldossa vähintään!"
+			},
+			"usdt": "USDT",
+			"activate": "Aktivoida",
+			"back": "Takaisin",
+			"attention": "Huomio!"
+		}
+	},
+	"subscription-main": {
+		"title": "Pöly-tilaus",
+		"active": "Aktiivinen",
+		"inactive": "Epäaktiivinen",
+		"to_end_subscription": "Tilaus \"{{name}}\" päättyy:",
+		"continue_subscription": "Laajenna tilausta",
+		"activate_subscription": "Aktivoi tilaus",
+		"all_transaction": "Kaikki tapahtumat",
+		"detail": "Tilauksen tiedot",
+		"cryptocommunity": {
+			"0": {
+				"title": "Pääsy krypto-yhteisöön",
+				"description": "Yksityinen Discord-palvelin krypto-harrastajien kanssa"
+			},
+			"title": "Mitä Cryptocommunity-tilaus sisältää?"
+		},
+		"platform": {
+			"0": {
+				"title": "20 portfoliota salkussa",
+				"description": "Omaisuuden kirjanpito ja seuranta"
+			},
+			"1": {
+				"title": "Pääsy Akatemiaan",
+				"description": "Koulutusresursseja kryptovaluutoista"
+			},
+			"2": {
+				"title": "Pääsy kryptofoorumiin",
+				"description": "Luo ja kommentoi viestejä"
+			},
+			"3": {
+				"title": "Kryptosankari",
+				"description": "1 viidestä tasoitavasta hahmosta"
+			},
+			"4": {
+				"title": "Aktiviteetti palkitsee",
+				"description": "Palkinto- ja saavutusjärjestelmä"
+			},
+			"5": {
+				"title": "Krypto kalenteri",
+				"description": "Kryptotapahtumien seuranta"
+			},
+			"title": "Mitä Platform-tilaus sisältää?",
+			"soon": "Pian..."
+		}
+	}
+}

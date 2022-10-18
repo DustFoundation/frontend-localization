@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "Syötä lataussumma",
+			"get_qr": "Hanki QR-koodi maksua varten",
+			"min_sum": "Vähimmäislataus on {{num}}$",
+			"scan_qr": "Skannaa QR-koodi Binance-mobiilisovelluksellasi suorittaaksesi maksun",
+			"i_paid": "olen maksanut",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen"
+			}
+		},
+		"change-password-dialog": {
+			"title": "Aseta salasana",
+			"new_password": "Uusi salasana",
+			"repeat_password": "Toista salasana",
+			"change_password": "Vaihda salasana",
+			"password_input_placeholder": "*****************",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "Salasanassa on oltava vähintään yksi iso kirjain ja yksi numero",
+				"passwords_not_match": "Salasanat eivät täsmää"
+			}
+		},
+		"checkout-email": {
+			"title_1": "Kirjoita sähköpostiosoitteesi",
+			"subtitle_1": "Lähetämme sinulle koodin sisältävän viestin sähköpostiosoitteesi vahvistamiseksi",
+			"title_2": "Sähköpostivarmistus",
+			"subtitle_2": "Syötä koodi, jonka olemme lähettäneet sähköpostiosoitteeseesi",
+			"selected_subscription": "Valittu tilaus <span>{{name}}</span>",
+			"change_subscription": "Muuta tilausta",
+			"send_code": "Lähetä koodi",
+			"send_code_after": "Lähetä koodi uudelleen <span>{{time}} kuluttua {time, plural, =1 {sekuntia} =2 {sekuntia} =3 {sekuntia} =4 {sekuntia} other {sekuntia}}</span>",
+			"send_code_once_more": "Lähetä koodi uudelleen",
+			"email_input_placeholder": "mail@mail.com",
+			"back": "Takaisin",
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"invalid_email": "Virheellinen sähköpostin muoto"
+			},
+			"policy": {
+				"agree": "olen samaa mieltä",
+				"with": "tietosuojakäytäntö"
+			}
+		},
+		"checkout-header": {
+			"explore": "Tutkia",
+			"products": "Tuotteet",
+			"roadmap": "Tiekartta",
+			"about_us": {
+				"title": "Meistä",
+				"subtitle": "Tiimimme"
+			},
+			"our_brand": {
+				"title": "Meidän brändi",
+				"subtitle": "Logon käyttö"
+			},
+			"career": {
+				"title": "Urapaikat",
+				"subtitle": "Avoimet paikat"
+			},
+			"dust_bro": {
+				"title": "Dust Bro & Angels",
+				"subtitle": "Kumppanuudet"
+			},
+			"blog": {
+				"title": "Blogi",
+				"subtitle": "Pysy ajan tasalla viimeisimmistä uutisista"
+			},
+			"registration": "Rekisteröinti",
+			"entry": "Kirjaudu sisään"
+		},
+		"checkout-payment": {
+			"title": "Tilauksen pituuden valinta",
+			"video_tutorial": "Video-opastus - tilauksen ostaminen",
+			"terms_to_use": "Käyttöehdot",
+			"privacy_policy": "Tietosuojakäytäntö",
+			"warning": "Riskivaroitukset",
+			"back": "Takaisin",
+			"activate": "Aktivoida",
+			"onward": "Seuraava",
+			"choose_network": "Valitse verkko USDT-siirtoa varten",
+			"erc20": "ERC20 osoite:",
+			"trc20": "TRC20 Osoite:",
+			"bep20": "BEP20 Osoite:",
+			"bep2": "BEP2-osoite:",
+			"memo": "MEMO-osoite:",
+			"click_to_copy": "Napsauta kopioidaksesi",
+			"copied": "Kopioitu",
+			"payed": "olen maksanut",
+			"hash_or_number": "Tapahtuman tiiviste / numero",
+			"specify_hash_or_number": "Määritä hash tai tapahtuman numero",
+			"confirm": "Vahvistaa",
+			"faq": "FAQ",
+			"transaction": {
+				"title": "Määritä hash tai tapahtuman numero",
+				"recommendation": {
+					"1": "Voit etsiä tapahtumanumeron Binancesta seuraamalla tätä linkkiä:",
+					"2": "Jos olet lähettänyt USDT:n toisesta pörssistä, määritä tässä kentässä Transaction hash (TRC20-esimerkki): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "Voit myös määrittää tapahtumanumeron (sisäinen siirto) - 43047269665, mutta älä sekoita lompakkoosi - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "Suositukset"
+				}
+			},
+			"important": {
+				"1": "Hyväksymme maksut vain Tetherissä (USDT).",
+				"2": "Aktivoi tilauksesi lisäämällä saldosi.",
+				"3": "Suosittelemme käyttämään «TRC20» verkkoa (maksu ~1$)",
+				"4": "Minkä tahansa muun kolikon tai rahakkeen lähettäminen tähän osoitteeseen USDT:tä lukuun ottamatta voi johtaa varojen menettämiseen.",
+				"5": {
+					"first_part": "Tilauksen \"{{subscriptionName}}\" aktivointi käyttäjälle {{subscriptionTerm}}",
+					"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}, sinun on lisättävä saldoosi ~1 USD USD +T +T +T Ps kattaaksesi verkkomaksu."
+				},
+				"title": "Tärkeä"
+			},
+			"validation_messages": {
+				"required": "Kenttä on pakollinen",
+				"min_length": "Vähimmäispituus on {{min}} {min, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "Lentää lohkoketjun läpi",
+			"success": "Maksu suoritettu",
+			"status": "Maksun tilanne:"
+		}
+	}
+}

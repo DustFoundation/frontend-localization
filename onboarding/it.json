@@ -1,0 +1,102 @@
+{
+	"onboarding-call-dialog": {
+		"title": "Vuoi leggere una guida passo per passo a DUST PLATFORM?",
+		"skip": "Saltare",
+		"yes": "sì"
+	},
+	"onboarding-dialog": {
+		"back": "Indietro",
+		"onward": "Prossimo",
+		"done": "Fatto",
+		"portfolio": {
+			"title": "Sezione “Portafoglio”.",
+			"description": "In questa sezione puoi creare i tuoi portafogli, monitorare i tuoi asset e i tuoi investimenti.",
+			"list": {
+				"1": "Saldo totale stimato di portafogli e PNL",
+				"2": "Simulazione di strategie di investimento",
+				"3": "Integrazione di portafogli di scambio in un unico luogo",
+				"4": "Stime e tracciabilità degli investimenti di capitale venture"
+			}
+		},
+		"virtual_portfolio": {
+			"title": "Portafoglio virtuale",
+			"description": "Con questo portafoglio, puoi aggiungere risorse manualmente e simulare diversi tipi di strategie di investimento.",
+			"list": {
+				"1": "Aggiunta manuale delle transazioni",
+				"2": "Oltre 1000 criptovalute da tracciare",
+				"3": "Visualizzazione grafica di reddito/perdita",
+				"4": "Pie Сhart visualizzazione della distribuzione delle finanze"
+			}
+		},
+		"exchange_portfolio": {
+			"title": "Portafoglio di scambio",
+			"description": "Con questo portafoglio, puoi monitorare i tuoi portafogli di scambio utilizzando integrazioni API.",
+			"list": {
+				"1": "Integrazione semplice e chiara tramite API",
+				"2": "Aggiornamento automatico delle transazioni e dei prezzi",
+				"3": "Visualizzazione grafica di reddito/perdita",
+				"4": "Pie Сhart visualizzazione della distribuzione delle finanze"
+			}
+		},
+		"venture_portfolio": {
+			"title": "Portafoglio di avventura",
+			"description": "Con questo portfolio, puoi tenere traccia di tutti gli investimenti di venture capital con configurazioni e visualizzazioni flessibili.",
+			"list": {
+				"1": "Tracciamento flessibile degli investimenti di venture capital",
+				"2": "Grafico di TGE e sblocca",
+				"3": "Informazioni dettagliate sui venture capital",
+				"4": "Calcoli automatici al posto delle tabelle Excel"
+			}
+		},
+		"forum": {
+			"title": "Sezione \"Forum\".",
+			"description": "In questa sezione potete creare messaggi e condividere i vostri pensieri con le comunità che la pensano allo stesso modo.",
+			"list": {
+				"1": "Visualizzazione dei post in ordine di valutazione",
+				"2": "Possibilità di commentare i post creati da altre persone",
+				"3": "Guadagna token DUST per i migliori post",
+				"4": "Rimani aggiornato sugli ultimi eventi"
+			}
+		},
+		"academy": {
+			"title": "Sezione \"Accademia\".",
+			"description": "In questa sezione puoi scegliere il corso che ti interessa e acquisire nuove conoscenze.",
+			"list": {
+				"1": "Ogni corso è creato dal team DUST.FOUNDATION",
+				"2": "Rappresentazione visiva di argomenti complessi nei video",
+				"3": "Superamento delle prove in ogni modulo",
+				"4": "Valutazione di moduli e corsi"
+			}
+		},
+		"balance": {
+			"title": "Sezione “Ricarica saldo”.",
+			"description": "In questa sezione puoi acquistare/estendere abbonamenti per piattaforma e cripto-comunità.",
+			"list": {
+				"1": "Facile processo di pagamento in 2 passaggi",
+				"2": "Supporto di diverse reti e Binance Pay",
+				"3": "Tutorial video dettagliato su come effettuare pagamenti per i nuovi arrivati",
+				"4": "Accredito rapido dei fondi sulla piattaforma"
+			}
+		},
+		"subscription": {
+			"title": "Sezione “Abbonamento”.",
+			"description": "In questa sezione puoi scegliere e attivare diverse tipologie di abbonamento.",
+			"list": {
+				"1": "7 giorni di prova gratuita (Piattaforma DUST)",
+				"2": "3 tipologie di abbonamento con durate diverse",
+				"3": "Integrazioni con Telegram e Discord",
+				"4": "Sistema di sconti e accumulo di DUST Token"
+			}
+		},
+		"profile": {
+			"title": "Sezione \"Profilo\".",
+			"description": "In questa sezione puoi ottenere premi giornalieri, risultati e tenere traccia della tua valutazione.",
+			"list": {
+				"1": "Scegli il tuo cripto-avatar",
+				"2": "Premi giornaliere per visitare la piattaforma",
+				"3": "Elenco dei risultati ricevuti",
+				"4": "Voto dell'utente"
+			}
+		}
+	}
+}

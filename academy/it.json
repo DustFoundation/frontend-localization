@@ -26,12 +26,12 @@
 		},
 		"module-review-dialog": {
 			"help_us": "Aiutaci a migliorare questo corso",
-			"please_leave_comment_about": "Per favore, potresti lasciare una recensione sul",
+			"please_leave_comment_about": "Si prega di lasciare una recensione",
 			"leave_review": "Lascia il feedback",
 			"my_review": "Il mio feedback",
 			"module": "Modulo",
 			"course": "Corso",
-			"back": "Di ritorno"
+			"back": "Indietro"
 		}
 	},
 	"course-details": {
@@ -40,23 +40,23 @@
 		"count_of_lessons": "Lezioni:",
 		"got_badges": "Distintivi ricevuti",
 		"course_progress": "Avanzamento del corso",
-		"pass_again": "Passa di nuovo",
+		"pass_again": "Rifare",
 		"continue_learning": "Continua ad imparare",
-		"start_learning": "Inizia a imparare",
-		"training_program": "Il programma di apprendimento",
+		"start_learning": "Inizia ad imparare",
+		"training_program": "programma d'insegnamento",
 		"module": "Modulo"
 	},
 	"course-lesson": {
 		"pass_test": "Passare il test",
-		"next_lesson": "La prossima lezione",
-		"previous_lesson": "La lezione precedente"
+		"next_lesson": "prossima lezione",
+		"previous_lesson": "lezione precedente"
 	},
 	"course-test": {
 		"description": " Dopo aver superato il test, riceverai un badge speciale che ti consentirà di accedere al modulo successivo",
 		"ps": "PS Supera il test senza errori per ottenere un badge d'oro!",
 		"check_test": "Controlla il test",
 		"try_once_more": "Riprova",
-		"previous_lesson": "La lezione precedente",
+		"previous_lesson": "lezione precedente",
 		"onward": "Prossimo"
 	},
 	"courses": {
@@ -74,8 +74,8 @@
 		"difficulty": {
 			"0": "Di base",
 			"1": "Elementare",
-			"2": "medio",
-			"3": "Avanzate",
+			"2": "Medio",
+			"3": "Avanzato",
 			"-1": "Sconosciuto"
 		}
 	}

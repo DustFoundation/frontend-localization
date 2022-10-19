@@ -5,7 +5,7 @@
 	"sort": {
 		"custom": "In ordine personalizzato",
 		"date_desc": "Data: primo nuovo",
-		"date_asc": "Data: prima il vecchio",
+		"date_asc": "Data: prima vecchio",
 		"alphabet_desc": "In ordine alfabetico dalla A alla Z",
 		"alphabet_asc": "In ordine alfabetico dalla Z alla A"
 	},
@@ -14,8 +14,8 @@
 		"save": "Salva",
 		"title": "Crea una nota",
 		"edit_title": "Modifica nota",
-		"title_label": "Intestazione",
-		"title_placeholder": "La mia nota",
+		"title_label": "Titolo",
+		"title_placeholder": "Mia nota",
 		"content_placeholder": "Inserisci il testo della nota",
 		"changed": "Cambiato",
 		"validation_messages": {

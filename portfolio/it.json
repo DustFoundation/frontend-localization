@@ -2,13 +2,13 @@
 	"components": {
 		"breadcrumbs": {
 			"portfolio": "Portafoglio",
-			"main": "Casa",
+			"main": "Homepage",
 			"transactions": "Transazioni"
 		},
 		"dialog-add-coin": {
 			"first_step": {
 				"title": "Passo 1",
-				"choose_asset": "Scegli risorsa",
+				"choose_asset": "Scegli asset",
 				"search": "Ricerca"
 			},
 			"second_step": {
@@ -19,7 +19,7 @@
 				"date": "Data (GG.MM.AAAA)",
 				"date_placeholder": "GG.MM.AAAA",
 				"total_attachment": "Investimento totale",
-				"total_profit": "Profitto totale",
+				"total_profit": "Profito totale",
 				"buy": "Acquistare",
 				"sell": "Vendere",
 				"edit_transaction": "Modifica transazione",
@@ -56,7 +56,7 @@
 				"5": "<span>È DESIDERATO disabilitare l&#39;accesso al trading per questa chiave API, per fare ciò:</span><ol><li> Fai clic su <strong>&quot;Modifica restrizioni&quot;</strong></li><li> Disattiva <strong>&quot;Abilita trading spot e margine&quot;</strong></li><li> Fai clic su <strong>&quot;Salva&quot;</strong></li><li> Immettere il codice <strong>di autenticazione a due fattori</strong></li></ol>"
 			},
 			"create": "Creare",
-			"back": "Di ritorno",
+			"back": "Indietro",
 			"onward": "Prossimo",
 			"important": "Importante",
 			"validation_messages": {
@@ -137,7 +137,7 @@
 				"tge": "TGE — (Token Generation Event), sinonimo \"ICO\", che significa \"offerta iniziale di monete\".",
 				"total": "Totale",
 				"onward": "Prossimo",
-				"back": "Di ritorno",
+				"back": "Indietro",
 				"done": "Fatto",
 				"date_placeholder": "GG.MM.AAAA",
 				"period_date_placeholder": "GG.MM.AAAA - GG.MM.AAAA"

@@ -42,7 +42,7 @@
 			},
 			"policy": {
 				"agree": "Sono d'accordo con",
-				"with": "una politica sulla privacy"
+				"with": "politica sulla privacy"
 			}
 		},
 		"checkout-header": {
@@ -59,10 +59,10 @@
 			},
 			"career": {
 				"title": "Carriere",
-				"subtitle": "Posizioni aperte"
+				"subtitle": "Lavora con noi"
 			},
 			"dust_bro": {
-				"title": "Fratello della polvere e angeli",
+				"title": "Fratelli e angeli di Dust ",
 				"subtitle": "Partnership"
 			},
 			"blog": {
@@ -76,9 +76,9 @@
 			"title": "Selezione della durata dell'abbonamento",
 			"video_tutorial": "Video tutorial - come acquistare un abbonamento",
 			"terms_to_use": "Termini di utilizzo",
-			"privacy_policy": "Politica sulla riservatezza",
+			"privacy_policy": "Politica sulla privacy",
 			"warning": "Avvertenze sui rischi",
-			"back": "Di ritorno",
+			"back": "Indietro",
 			"activate": "Attivare",
 			"onward": "Prossimo",
 			"choose_network": "Seleziona una rete per il trasferimento USDT",

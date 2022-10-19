@@ -1,11 +1,11 @@
 {
-	"main": "Casa",
+	"main": "Homepage",
 	"settings": "Impostazioni",
 	"profile": "Profilo",
 	"forum": "Forum",
 	"academy": "Accademia",
 	"portfolio": "Portafoglio",
-	"balance": "Ricarica il saldo",
+	"balance": "Ricarica",
 	"subscription": "Sottoscrizione",
 	"transaction": "Cronologia delle transazioni",
 	"risk": "Calcolatore del rischio",
@@ -18,5 +18,5 @@
 	"create_ticket": "Crea post",
 	"conferences": "Conferenze",
 	"notes": "Appunti",
-	"back": "Di ritorno"
+	"back": "Indietro"
 }

@@ -4,7 +4,7 @@
 			"term": "Abbonamento per {{day}} {gay, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} attivato!",
 			"title": "Benvenuto nella comunità delle criptovalute!",
 			"subtitle": "Inizia subito a utilizzare tutte le funzionalità e i vantaggi della piattaforma!",
-			"to_main": "Casa"
+			"to_main": "Homepage"
 		},
 		"subscription-integrations": {
 			"title": "Integrazioni Discord e Telegram",

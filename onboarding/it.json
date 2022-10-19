@@ -1,12 +1,12 @@
 {
 	"onboarding-call-dialog": {
-		"title": "Vuoi leggere una guida passo passo a DUST PLATFORM?",
+		"title": "Vuoi leggere una guida passo per passo a DUST PLATFORM?",
 		"skip": "Saltare",
 		"yes": "sì"
 	},
 	"onboarding-dialog": {
-		"back": "Di ritorno",
-		"onward": "Nex",
+		"back": "Indietro",
+		"onward": "Prossimo",
 		"done": "Fatto",
 		"portfolio": {
 			"title": "Sezione “Portafoglio”.",
@@ -15,7 +15,7 @@
 				"1": "Saldo totale stimato di portafogli e PNL",
 				"2": "Simulazione di strategie di investimento",
 				"3": "Integrazione di portafogli di scambio in un unico luogo",
-				"4": "Stime e tracciabilità degli investimenti di venture capital"
+				"4": "Stime e tracciabilità degli investimenti di capitale venture"
 			}
 		},
 		"virtual_portfolio": {
@@ -24,7 +24,7 @@
 			"list": {
 				"1": "Aggiunta manuale delle transazioni",
 				"2": "Oltre 1000 criptovalute da tracciare",
-				"3": "Visualizzazione grafica di utili/perdite",
+				"3": "Visualizzazione grafica di reddito/perdita",
 				"4": "Pie Сhart visualizzazione della distribuzione delle finanze"
 			}
 		},
@@ -34,7 +34,7 @@
 			"list": {
 				"1": "Integrazione semplice e chiara tramite API",
 				"2": "Aggiornamento automatico delle transazioni e dei prezzi",
-				"3": "Visualizzazione grafica di utili/perdite",
+				"3": "Visualizzazione grafica di reddito/perdita",
 				"4": "Pie Сhart visualizzazione della distribuzione delle finanze"
 			}
 		},
@@ -44,13 +44,13 @@
 			"list": {
 				"1": "Tracciamento flessibile degli investimenti di venture capital",
 				"2": "Grafico di TGE e sblocca",
-				"3": "Informazioni dettagliate su un asset di rischio",
+				"3": "Informazioni dettagliate sui venture capital",
 				"4": "Calcoli automatici al posto delle tabelle Excel"
 			}
 		},
 		"forum": {
 			"title": "Sezione \"Forum\".",
-			"description": "In questa sezione puoi creare post e condividere i tuoi pensieri con una community di persone che la pensano allo stesso modo.",
+			"description": "In questa sezione potete creare messaggi e condividere i vostri pensieri con le comunità che la pensano allo stesso modo.",
 			"list": {
 				"1": "Visualizzazione dei post in ordine di valutazione",
 				"2": "Possibilità di commentare i post creati da altre persone",
@@ -93,7 +93,7 @@
 			"description": "In questa sezione puoi ottenere premi giornalieri, risultati e tenere traccia della tua valutazione.",
 			"list": {
 				"1": "Scegli il tuo cripto-avatar",
-				"2": "Ricompense giornaliere per la visita di una piattaforma",
+				"2": "Premi giornaliere per visitare la piattaforma",
 				"3": "Elenco dei risultati ricevuti",
 				"4": "Voto dell'utente"
 			}

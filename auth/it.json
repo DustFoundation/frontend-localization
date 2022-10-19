@@ -3,36 +3,36 @@
 		"title": "Conferma via email",
 		"subtitle": "Ti abbiamo inviato un'email con un codice di conferma. Si prega di inserire questo codice qui sotto",
 		"code": "Codice",
-		"send_new_code": "Codice di rispedizione",
+		"send_new_code": "Invia nuovo codice",
 		"get_new_code_after": {
 			"code": "ottenere un nuovo codice",
 			"after": "in {{timer}} secondi"
 		},
 		"done": "Fatto",
-		"back": "Di ritorno"
+		"back": "Indietro"
 	},
 	"confirm-mfa": {
 		"title": "Verifica il tuo account",
-		"subtitle": "Inserisci il codice elencato nella tua app Google Authenticator di seguito",
+		"subtitle": "Inserisci il codice di verifica qui sotto dal tuo Google Authenticator",
 		"code": "Codice",
-		"back": "Di ritorno",
+		"back": "Indietro",
 		"sign_in": "Registrazione"
 	},
 	"forgot-password": {
-		"title_1": "Ripristina l'antico splendore",
+		"title_1": "Ripristinare la gloria",
 		"subtitle_1": "Ti invieremo un corvo con un codice segreto per ripristinare la tua password",
 		"get_code": "Manda un corvo",
 		"title_2": "Il corvo è arrivato",
-		"subtitle_2": "Scarta la pergamena che un corvo ha consegnato alla tua e-mail e inserisci un codice segreto di seguito.",
+		"subtitle_2": "Apri la pergamena che il corvo ha consegnato alla tua email e inserisci il codice segreto qui sotto",
 		"code": "Codice",
-		"send_new_code": "Codice di rispedizione",
+		"send_new_code": "Invia nuovo codice",
 		"get_new_code_after": {
 			"code": "ottenere un nuovo codice",
 			"after": "in {{timer}} secondi"
 		},
 		"title_3": "Il processo è finito",
-		"subtitle_3": "Hai dimostrato il tuo diritto di ripristinare l'antico splendore. Ora inserisci una nuova password.",
-		"restore_password": "Resetta la password",
+		"subtitle_3": "Hai dimostrato il diritto di ripristinare la gloria. Resta solo da inserire una nuova password.",
+		"restore_password": "Recuperare la password",
 		"form": {
 			"mail": "E-mail",
 			"mail_input_placeholder": "mail@mail.com",
@@ -45,13 +45,13 @@
 			"invalid_email": "formato email non valido",
 			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
-			"passwords_not_match": "le passwords non corrispondono",
+			"passwords_not_match": "le password non corrispondono",
 			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
 		}
 	},
 	"new-password": {
 		"title": "Il processo è finito",
-		"subtitle": "Hai dimostrato il tuo diritto di ripristinare l'antico splendore. Ora inserisci una nuova password.",
+		"subtitle": "Hai dimostrato il tuo diritto di ripristinare la gloria. Ora inserisci una nuova password.",
 		"restore_password": "Reimposta la password",
 		"form": {
 			"new_password": "Nuova password",
@@ -63,7 +63,7 @@
 			"invalid_email": "E-mail non valido",
 			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
-			"passwords_not_match": "le passwords non corrispondono",
+			"passwords_not_match": "le password non corrispondono",
 			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
 		}
 	},
@@ -94,11 +94,11 @@
 		"title": "Registrazione",
 		"forgot_password": "Hai dimenticato la password?",
 		"ban_reason": "Motivo del divieto:",
-		"banned_until": "Bannato fino a:",
+		"banned_until": "Bandito fino a:",
 		"sign_up": "Iscrizione",
 		"policy": {
 			"agree": "Sono d'accordo con",
-			"with": "una politica sulla privacy"
+			"with": "Politica sulla privacy"
 		},
 		"form": {
 			"mail": "E-mail",
@@ -112,7 +112,7 @@
 			"invalid_email": "formato email non valido",
 			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
-			"passwords_not_match": "le passwords non corrispondono",
+			"passwords_not_match": "le password non corrispondono",
 			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
 		}
 	}

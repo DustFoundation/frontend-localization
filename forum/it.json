@@ -2,9 +2,9 @@
 	"components": {
 		"dialog-buy-access": {
 			"title": "Sblocca forum per",
-			"subtitle": "Ottieni ricompense giornaliere e accedi al Forum",
+			"subtitle": "Raccogli i premi giornalieri e accedi alla sezione “Forum”",
 			"on_balance": "Sul tuo saldo",
-			"dust": "POLVERE",
+			"dust": "DUST",
 			"unlock": "Sbloccare"
 		},
 		"dialog-delete-ticket": {
@@ -144,7 +144,7 @@
 	},
 	"tags": {
 		"Идея": "Idea",
-		"Жалоба": "Rimostranza",
+		"Жалоба": "Reclamo",
 		"Партнерство": "Collaborazione",
 		"Предложение": "Offerta",
 		"Обсуждение": "Discussione",

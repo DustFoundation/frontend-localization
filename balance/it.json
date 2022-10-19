@@ -1,7 +1,7 @@
 {
 	"balance-main": {
 		"title": "Seleziona una rete per il trasferimento USDT",
-		"top_up_amount": "Ricaricare l'importo",
+		"top_up_amount": "L'importo di ricarica",
 		"enter_top_up_amount": "Inserisci l'importo della ricarica",
 		"pay": "Paga",
 		"click_to_copy": "Fare clic per copiare",
@@ -51,7 +51,7 @@
 		"payed": "Ho pagato",
 		"terms_to_use": "Termini di utilizzo",
 		"privacy_policy": "Politica sulla riservatezza",
-		"back": "Di ritorno",
+		"back": "Indietro",
 		"confirm": "Confermare"
 	}
 }

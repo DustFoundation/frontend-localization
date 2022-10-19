@@ -6,9 +6,9 @@
 	"economy": "Risparmi",
 	"includes": {
 		"portfolio": "Tutti i tipi di portafoglio (3 in 1)",
-		"academy": "Corsi di addestramento",
+		"academy": "Lezioni",
 		"forum": "Forum",
-		"discord": "Discordia privata",
+		"discord": "Discord privato",
 		"telegram": "Telegramma privato"
 	},
 	"usdt": "USDT"

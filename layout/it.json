@@ -12,7 +12,7 @@
 		},
 		"academy": "Accademia",
 		"forum": "Forum",
-		"main": "Casa",
+		"main": "Homepage",
 		"conferences": "Conferenze",
 		"menu": {
 			"profile": "Profilo",
@@ -147,6 +147,6 @@
 		"support_chat": "Chat di supporto",
 		"support_chat_description": "Se desideri accedere alla chat di supporto, questi cookie sono obbligatori.",
 		"save": "Salva",
-		"back": "Di ritorno"
+		"back": "Indietro"
 	}
 }

@@ -1,8 +1,8 @@
 {
 	"main": "Oops! Qualcosa è andato storto...",
 	"new_achievement": "Nuovo traguardo",
-	"received_coins": "Ricevute {{value}} unità di monete.",
-	"balance_replenished": "Il tuo saldo è stato reintegrato correttamente",
+	"received_coins": "Ricevute {{value}} di monete.",
+	"balance_replenished": "Il tuo saldo è stato accreditato con successo",
 	"successfully_subscribed": "Abbonato con successo",
 	"used_promo": "Il tuo codice promozionale è già stato utilizzato da un altro utente!",
 	"not_found_promo": "Si è verificato un errore durante il controllo del codice promozionale",
@@ -64,6 +64,6 @@
 	"note_saved": "Nota salvata",
 	"notes_limit": "Il limite di note è stato raggiunto",
 	"notes_lost_connection": "Le note verranno sincronizzate dopo il ripristino della connessione.",
-	"notes_access": "Disponibile per gli utenti che hanno sottoscritto la “Piattaforma”",
-	"latter_sent": "Lettera inviata alla tua posta"
+	"notes_access": "Disponibile per gli utenti abbonati di “Piattaforma”",
+	"latter_sent": "email inviata alla tua posta"
 }

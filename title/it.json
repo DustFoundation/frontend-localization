@@ -8,13 +8,13 @@
 		"transactions": "Transazioni"
 	},
 	"topup_balance": {
-		"title": "Ricarica il saldo"
+		"title": "Ricarica"
 	},
 	"subscription": {
 		"title": "Sottoscrizione"
 	},
 	"join": {
-		"title": "Giuntura"
+		"title": "Unirsi"
 	},
 	"academy": {
 		"title": "Accademia"
@@ -22,7 +22,7 @@
 	"portfolio": {
 		"title": "Portafoglio",
 		"portfolio_list": "Elenco dei portafogli",
-		"ventures": "Portafoglio di avventura",
+		"ventures": "Portafoglio di venture",
 		"portfolio": "Portafoglio",
 		"portfolio_transactions": "Portafoglio | Transazioni"
 	},

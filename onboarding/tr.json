@@ -1,0 +1,102 @@
+{
+	"onboarding-call-dialog": {
+		"title": "TOZ PLATFORMU için adım adım bir kılavuz okumak ister misiniz?",
+		"skip": "Atlamak",
+		"yes": "Evet"
+	},
+	"onboarding-dialog": {
+		"back": "Geri",
+		"onward": "Sonraki",
+		"done": "Tamamlandı",
+		"portfolio": {
+			"title": "\"Portföy\" bölümü",
+			"description": "Bu bölümde portföylerinizi oluşturabilir, varlıklarınızı ve yatırımlarınızı takip edebilirsiniz.",
+			"list": {
+				"1": "Toplam tahmini portföy bakiyesi ve PNL",
+				"2": "Yatırım stratejilerinin simülasyonu",
+				"3": "Borsa portföylerinin tek bir yerde entegrasyonu",
+				"4": "Girişim yatırımlarının tahminleri ve takibi"
+			}
+		},
+		"virtual_portfolio": {
+			"title": "sanal portföy",
+			"description": "Bu portföy ile varlıkları manuel olarak ekleyebilir ve farklı yatırım stratejilerini simüle edebilirsiniz.",
+			"list": {
+				"1": "İşlemlerin manuel olarak eklenmesi",
+				"2": "İzlenecek 1000'den fazla kripto varlığı",
+				"3": "Kar/zararın grafik görselleştirmesi",
+				"4": "Finans dağılımının Pie Сhart görselleştirmesi"
+			}
+		},
+		"exchange_portfolio": {
+			"title": "Borsa portföyü",
+			"description": "Bu portföy ile API entegrasyonlarını kullanarak borsa portföylerinizi takip edebilirsiniz.",
+			"list": {
+				"1": "API kullanarak basit ve net entegrasyon",
+				"2": "İşlemlerin ve fiyatların otomatik güncellenmesi",
+				"3": "Kar/zararın grafik görselleştirmesi",
+				"4": "Finans dağılımının Pie Сhart görselleştirmesi"
+			}
+		},
+		"venture_portfolio": {
+			"title": "Girişim portföyü",
+			"description": "Bu portföy ile tüm girişim yatırımlarını esnek konfigürasyon ve görselleştirmeler ile takip edebilirsiniz.",
+			"list": {
+				"1": "Girişim yatırımlarının esnek takibi",
+				"2": "TGE tablosu ve kilitler",
+				"3": "Bir girişim varlığı hakkında ayrıntılı bilgi",
+				"4": "Excel tabloları yerine otomatik hesaplamalar"
+			}
+		},
+		"forum": {
+			"title": "\"Forum\" bölümü",
+			"description": "Bu bölümde, benzer düşünen insanlardan oluşan bir toplulukla gönderiler oluşturabilir ve düşüncelerinizi paylaşabilirsiniz.",
+			"list": {
+				"1": "Yayınları derecelendirme sırasına göre görüntüleme",
+				"2": "Başkaları tarafından oluşturulan gönderilere yorum yapabilme",
+				"3": "En iyi gönderiler için DUST Token kazanın",
+				"4": "En son etkinliklerden haberdar olun"
+			}
+		},
+		"academy": {
+			"title": "\"Akademi\" bölümü",
+			"description": "Bu bölümde ilgilendiğiniz kursu seçebilir ve yeni bilgiler edinebilirsiniz.",
+			"list": {
+				"1": "Her kurs DUST.FOUNDATION ekibi tarafından oluşturulur.",
+				"2": "Videolarda karmaşık konuların görsel temsili",
+				"3": "Her modülde testleri geçmek",
+				"4": "Modüllerin ve kursların değerlendirilmesi"
+			}
+		},
+		"balance": {
+			"title": "\"Bakiyeyi tamamla\" bölümü",
+			"description": "Bu bölümde, platform ve kripto topluluğu için abonelik satın alabilir/uzatabilirsiniz.",
+			"list": {
+				"1": "2 adımda kolay ödeme süreci",
+				"2": "Farklı ağlar ve Binance Pay desteği",
+				"3": "Yeni gelenler için nasıl ödeme yapılacağına dair ayrıntılı video eğitimi",
+				"4": "Platforma hızlı kredilendirme fonları"
+			}
+		},
+		"subscription": {
+			"title": "\"Abonelik\" bölümü",
+			"description": "Bu bölümde, farklı abonelik türlerini seçip etkinleştirebilirsiniz.",
+			"list": {
+				"1": "7 günlük ücretsiz deneme (DUST Platformu)",
+				"2": "Farklı sürelerde 3 tür abonelik",
+				"3": "Telegram ve Discord ile Entegrasyonlar",
+				"4": "İndirim sistemi ve DUST Token kazanımı"
+			}
+		},
+		"profile": {
+			"title": "\"Profil\" bölümü",
+			"description": "Bu bölümde günlük ödüller, başarılar elde edebilir ve puanınızı takip edebilirsiniz.",
+			"list": {
+				"1": "Kripto avatarınızı seçin",
+				"2": "Bir platformu ziyaret etmek için günlük ödüller",
+				"3": "Alınan başarıların listesi",
+				"4": "Kullanıcı oyu"
+			}
+		}
+	}
+}

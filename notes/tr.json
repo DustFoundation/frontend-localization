@@ -1,0 +1,41 @@
+{
+	"title": "Notlar",
+	"create_btn": "Not oluştur",
+	"empty_note": "boş not",
+	"sort": {
+		"custom": "özel siparişte",
+		"date_desc": "Tarih: ilk yeni",
+		"date_asc": "Tarih: önce eski",
+		"alphabet_desc": "Alfabetik olarak A'dan Z'ye",
+		"alphabet_asc": "Alfabetik olarak Z'den A'ya"
+	},
+	"create_note_dialog": {
+		"remove_button": "Notu sil",
+		"save": "Kaydetmek",
+		"title": "Not oluştur",
+		"edit_title": "Notu düzenle",
+		"title_label": "başlık",
+		"title_placeholder": "Notum",
+		"content_placeholder": "Not metnini girin",
+		"changed": "değişti",
+		"validation_messages": {
+			"required": "Bu alan gereklidir",
+			"min_length": "Minimum uzunluk {{min}} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk {{max}} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+			"not_only_spaces": "Başlık yalnızca boşluk içeremez"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Not silme",
+		"description": "Notu silmek istediğinizden emin misiniz?",
+		"delete": "Silmek",
+		"cancel": "İptal",
+		"deleted_successfully": "Not başarıyla silindi"
+	},
+	"attention_note_dialog": {
+		"title": "Dikkat",
+		"description": "Bu notu kaydetmeden kapatmak istediğinizden emin misiniz?",
+		"dont_save": "kaydetme",
+		"cancel": "İptal"
+	}
+}

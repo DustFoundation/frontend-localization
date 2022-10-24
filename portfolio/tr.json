@@ -1,0 +1,468 @@
+{
+	"components": {
+		"breadcrumbs": {
+			"portfolio": "portföy",
+			"main": "Ev",
+			"transactions": "işlemler"
+		},
+		"dialog-add-coin": {
+			"first_step": {
+				"title": "Aşama 1",
+				"choose_asset": "Varlık seçin",
+				"search": "Arama"
+			},
+			"second_step": {
+				"title": "Adım 2",
+				"amount": "Tutar",
+				"max": "MAKS",
+				"price": "jeton başına fiyat",
+				"date": "Tarih (GG.AA.YYYY)",
+				"date_placeholder": "GG.AA.YYYY",
+				"total_attachment": "Toplam yatırım",
+				"total_profit": "Toplam kar",
+				"buy": "Satın almak",
+				"sell": "Satmak",
+				"edit_transaction": "İşlemi düzenle",
+				"delete_transaction": "İşlemi sil",
+				"add_transaction": "İşlem ekle"
+			},
+			"change": "Değiştirmek",
+			"add": "Ekle",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"invalid_date": "Geçersiz tarih",
+				"min_price": "Fiyat 0$'dan az olamaz",
+				"max_amount": "Tutar {{max}} {{coin}} değerini aşamaz",
+				"min_amount": "Tutar 0'dan az olamaz {{coin}}"
+			}
+		},
+		"dialog-add-exchange-portfolio": {
+			"title": "Borsa portföyünün oluşturulması",
+			"selected_exchange": "Seçilen değişim*",
+			"portfolio_name": "Portföy başlığı*",
+			"name_placeholder": "Giga Çad",
+			"portfolio_description": "Portföy açıklaması",
+			"description_placeholder": "Piyasadaki en riskli ve en umut verici varlıklardan oluşan portföy. Uykunuza ve paranıza veda etmeye hazır olun.",
+			"api_key_rule": "Sadece <strong>okuma izinleri</strong> istiyoruz. Kişisel anahtarlarınıza erişmemizi veya paranızı transfer etmemizi sağlamaz. Yalnızca portföyünüzün ve analizlerinizin etkinliğini göstermek için buna ihtiyacımız var.",
+			"enter_api_key": "API anahtarını girin",
+			"api_key": "API anahtarı",
+			"enter_secret_key": "Gizli anahtarı girin",
+			"secret_key": "Gizli anahtar",
+			"help": {
+				"1": "Bir Binance değişim web sitesinde <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">API Yönetimi</a> bölümünü açın",
+				"2": "<strong>Yeni API anahtarı oluşturun</strong> , örneğin <strong>&quot;DUST Portföyü&quot;</strong> olarak adlandırın ve <strong>&quot;İleri&quot;</strong> ye basın",
+				"3": "(Her şey yolundaysa), <strong>2FA kodlarını girin</strong>",
+				"4": "<strong>API anahtarını</strong> ve <strong>gizli anahtarı</strong> kopyalayın",
+				"5": "<span>Bunu yapmak için bu API anahtarı için ticarete erişimi devre dışı bırakmak İSTENİR:</span><ol><li> <strong>&quot;Kısıtlamaları düzenle&quot;yi</strong> tıklayın</li><li> <strong>&quot;Spot ve Marj Ticaretini Etkinleştir&quot;</strong> seçeneğini devre dışı bırakın</li><li> <strong>&quot;Kaydet&quot; i tıklayın</strong></li><li> <strong>İki faktörlü kimlik doğrulama</strong> kodunu girin</li></ol>"
+			},
+			"create": "Oluşturmak",
+			"back": "Geri",
+			"onward": "Sonraki",
+			"important": "Önemli",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "tekrar etmemeli"
+			}
+		},
+		"dialog-add-regular-portfolio": {
+			"create_portfolio": "Portföy oluştur",
+			"title": "Sanal portföy oluşturma",
+			"name_placeholder": "Gerçek HODLer",
+			"description_placeholder": "Bu portföy, kripto pazarındaki temel varlıkları içerir. Huzur içinde uyuyabilirsin.",
+			"description_not_necessarily": "Açıklama (gerekli değil)",
+			"name": "Başlık",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "tekrar etmemeli"
+			}
+		},
+		"dialog-add-venture-asset": {
+			"unlock_types": {
+				"linear": "Doğrusal",
+				"full": "Tam dolu",
+				"custom": "Gelenek"
+			},
+			"asset_type": {
+				"blockchain": "blok zinciri",
+				"defi": "DeFi",
+				"gamefi": "OyunFi",
+				"metaverse": "Sanal evren",
+				"launchpad": "Başlatma paneli",
+				"payments": "ödemeler",
+				"fun_token": "eğlence jetonu",
+				"nft": "NFT",
+				"other": "Başka"
+			},
+			"rounds": {
+				"public": "Halk",
+				"private": "Özel",
+				"strategic": "Stratejik",
+				"presale": "ön tuz",
+				"preseed": "ön tohum",
+				"seed": "Tohum",
+				"round_a": "A Turu",
+				"round_b": "B Yuvarlak",
+				"round_c": "Yuvarlak C",
+				"round_d": "D yuvarlak",
+				"other": "Başka"
+			},
+			"periods": {
+				"every-day": "Günlük",
+				"every-week": "Haftalık",
+				"every-month": "Aylık",
+				"every-quarter": "üç ayda bir",
+				"every-half-year": "6 ayda bir",
+				"every-year": "Yıllık"
+			},
+			"unlock_period_types": {
+				"amount": "tutar.",
+				"percent": "%"
+			},
+			"cliff": {
+				"MONTH": "ay.",
+				"YEAR": "yıl"
+			},
+			"main": {
+				"add": "Girişim varlığının eklenmesi",
+				"edit": "Girişim varlığının düzenlenmesi",
+				"title_1": "giriiş",
+				"title_2": "Finansal bilgi",
+				"title_3": "Teknik Bilgiler",
+				"title_4": "TGE'de tarihi ve (veya) kilit açma yüzdesini seçin",
+				"title_5": "Varlık dağıtım süresi",
+				"tge": "TGE — (Token Generation Event), eşanlamlı \"ICO\", \"ilk jeton teklifi\" anlamına gelir.",
+				"total": "Toplam",
+				"onward": "Sonraki",
+				"back": "Geri",
+				"done": "Tamamlandı",
+				"date_placeholder": "GG.AA.YYYY",
+				"period_date_placeholder": "GG.AA.YYYY - GG.AA.YYYY"
+			},
+			"first_step": {
+				"name": "Başlık*",
+				"name_placeholder": "Öğe adı",
+				"ticker": "kayan yazı*",
+				"ticker_placeholder": "hisse senedi",
+				"sait": "İnternet sitesi",
+				"description": "Tanım",
+				"logo": "Varlık logosu",
+				"format_img": "JPG veya PNG, 1:1 (kare),<br /> 3MB&#39;den fazla değil",
+				"loaded_photo": "Fotoğraf yüklendi:",
+				"download": "İndirmek"
+			},
+			"second_step": {
+				"price": "Satın alma fiyatı*",
+				"price_placeholder": "Fiyat",
+				"amount": "Satın alınan jeton / jeton miktarı*",
+				"amount_placeholder": "Tutar",
+				"round": "Yuvarlak",
+				"total_attachment": "Toplam yatırım:"
+			},
+			"third_step": {
+				"network": "Ağ",
+				"address": "Akıllı sözleşme adresi",
+				"type": "Proje tipi",
+				"date": "Satın alma tarihi (GG.AA.YYYY)*"
+			},
+			"fourth_step": {
+				"unlock": "% kilit açıldı",
+				"unlock_placeholder": "%0-100",
+				"date": "Tarih",
+				"tba": "TBA — (Açıklanacak)",
+				"cliff": "Cliff — jetonların serbest bırakılması başlamadan önce geçmesi gereken süre",
+				"period_cliff": "uçurum dönemi",
+				"lockup": "Cliff (Kilitlenme)",
+				"no": "Numara"
+			},
+			"fifth_step": {
+				"vesting": "yelek",
+				"vesting_description": "Hakediş - varlıkların belirli bir süre boyunca kilitlendiği ve dağıtıldığı süreç",
+				"unlock_date": "Kilit açma tarihi",
+				"period": "dağıtım dönemi",
+				"end_date": "Bitiş tarihi",
+				"start_date": "Başlangıç tarihi",
+				"frequency": "Sıklık",
+				"info": "{{start}} tarihinden {{emd}} tarihine kadar {{amount}} jeton/jeton {{period}}",
+				"select_period": "Dönem seçin",
+				"unlock_impossible": "Seçilen süre için kilidin açılması imkansız",
+				"elem_unlock_date": "Kilit açma tarihi {{num}}",
+				"invalid_sequence": "Satın alma tarihinden veya kilit açma tarihinden önce olamaz",
+				"value_in_period": "Bu dönem için hacmin kilidini aç",
+				"left_to_distribute": "Dağıtmak için sol:",
+				"volume_distributed": "Tüm hacim dağıtılır",
+				"invalid_unlock": " * Geçersiz kilit açmalar"
+			},
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"min_price": "Fiyat 0$'dan az olamaz",
+				"invalid_date": "Geçersiz tarih",
+				"file_type": "Geçersiz dosya türü",
+				"file_size": "Dosya boyutu {{size}}MB'yi aşıyor",
+				"max_value": "Maksimum değer: {{max}}",
+				"min_value": " Değer {{min}} değerinden küçük olmalıdır",
+				"invalid_period": "Satın alma tarihinden veya kilit açma tarihinden önce olamaz"
+			}
+		},
+		"dialog-add-venture-portfolio": {
+			"create_portfolio": "Portföy oluştur",
+			"title": "Girişim portföyünün oluşturulması",
+			"name_placeholder": "Acemi kripto yatırımcısı",
+			"description_placeholder": "Güvenilir ve kanıtlanmış varlıkların yanı sıra, bu portföy aynı zamanda en umut verici ve aktif olarak geliştirilen projelerden bazılarını da içerir.",
+			"name": "Başlık",
+			"description_not_necessarily": "Açıklama (gerekli değil)",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "tekrar etmemeli",
+				"file_size": "Boyut {{size}}MB'yi aşıyor"
+			}
+		},
+		"dialog-create-portfolio": {
+			"virtual": {
+				"title": "sanal portföy",
+				"subtitle": "Sanal bir kripto varlık portföyünün oluşturulması"
+			},
+			"exchange": {
+				"title": "Borsa portföyü",
+				"subtitle": "Borsalar ile entegrasyonlar ve gerçek varlıkların takibi"
+			},
+			"venture": {
+				"title": "Girişim portföyü",
+				"subtitle": "Erken aşamalarda satın alınan yeni projelerin eklenmesi"
+			},
+			"need_subscription": "Etkin abonelik gerekli",
+			"create_portfolio": "Portföy oluştur"
+		},
+		"dialog-delete-coin": {
+			"title": "Öğeyi sil",
+			"subtitle": "<span>{{name}}</span> dosyasını portföyünüzden silmek istediğinizden emin misiniz?",
+			"delete": "Silmek",
+			"cancel": "İptal"
+		},
+		"dialog-delete-portfolio": {
+			"title": "Portföyü sil",
+			"subtitle": "<span>{{name}}</span> portföyünüzü silmek istediğinizden emin misiniz?",
+			"delete": "Silmek",
+			"cancel": "İptal"
+		},
+		"dialog-delete-transaction": {
+			"title": "İşlemi sil",
+			"subtitle": "Bu işlemi portföyünüzden silmek istediğinizden emin misiniz?",
+			"delete": "Silmek",
+			"cancel": "İptal"
+		},
+		"dialog-delete-venture-asset": {
+			"title": "Öğeyi sil",
+			"subtitle": "<span>{{name}}</span> dosyasını portföyünüzden silmek istediğinizden emin misiniz?",
+			"delete": "Silmek",
+			"cancel": "İptal"
+		},
+		"dialog-edit-exchange-portfolio": {
+			"title": "Anahtarları düzenle",
+			"enter_api_key": "API anahtarı",
+			"enter_secret_key": "Gizli anahtar",
+			"cancel": "İptal",
+			"save": "Kaydetmek",
+			"attention": "Dikkat!",
+			"notice": "Mevcut portföy silinecek ve yerine yenisi yüklenecek",
+			"replace": "Yer değiştirmek",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"dialog-edit-portfolio": {
+			"title": "Portföyü düzenle",
+			"name_placeholder": "Gerçek HODLer",
+			"description_placeholder": "Bu portföy, kripto pazarındaki temel varlıkları içerir. Huzur içinde uyuyabilirsin.",
+			"name": "Başlık",
+			"description_not_necessarily": "Açıklama (gerekli değil)",
+			"save": "Kaydetmek",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "tekrar etmemeli"
+			}
+		},
+		"dialog-transaction-info": {
+			"title": "Ödeme detayları",
+			"type": "Tip",
+			"price": "Fiyat",
+			"amount_coin": "madeni para miktarı",
+			"date": "Tarih",
+			"value": "$ cinsinden değer",
+			"close": "Kapat",
+			"buy": "Alış",
+			"sell": "Satış"
+		},
+		"dialog-venture-coin-info": {
+			"title": "Girişim varlık ayrıntıları",
+			"characteristics": {
+				"price": "{isMobile, plural, =1 {Fiyat} other {Satın alma fiyatı}}",
+				"amount": "{isMobile, plural, =1 {Miktar} other {Para miktarı}}",
+				"investment_volume": "Yatırım hacmi",
+				"type_of_project": "Proje türü",
+				"type": "Tip",
+				"round": "Yuvarlak",
+				"description": "Tanım",
+				"sait": "İnternet sitesi",
+				"network": "Ağ",
+				"date": "Satınalma tarihi",
+				"lock_period": "Kilit dönemi"
+			},
+			"close": "Kapat"
+		},
+		"invalid-api-key-dialog": {
+			"title": "Geçersiz API anahtarı",
+			"subtitle": "Portföyünüzü güncelleyebilmemiz için API anahtarını değiştirmeniz gerekiyor."
+		},
+		"portfolio-coin": {
+			"all_transaction": "Tüm İşlemler",
+			"need_subscription": "Etkin abonelik gerekli",
+			"add_transaction": "İşlem ekle",
+			"delete_asset": "Bozuk parayı sil",
+			"delete": "Silmek"
+		},
+		"portfolio-list-item": {
+			"update_data": "Verilerin güncellenmesi",
+			"need_subscription": "Etkin abonelik gerekli",
+			"edit": "Düzenlemek",
+			"delete": "Silmek",
+			"open": "Açık",
+			"virtual": "sanal portföy",
+			"exchange": "Borsa portföyü",
+			"venture": "Girişim portföyü",
+			"investment_value": "Yatırım miktarı",
+			"portfolio_valuation": "Portföy değerlendirmesi"
+		},
+		"portfolio-pnl": {
+			"total_attachments": "Toplam yatırım tutarı",
+			"total_investment": "Toplam yatırım tutarı",
+			"invested_to_portfolio": "Portföye yatırım yapıldı",
+			"portfolio_evaluation": "Portföy değerlendirmesi",
+			"all_times_pnl": "Tüm zamanlar PNL",
+			"portfolio_pnl": "PNL portföyü",
+			"total_portfolio_evaluation": "Toplam portföy değerlendirmesi"
+		},
+		"portfolio-transaction": {
+			"buy": "Satın almak",
+			"sell": "Satmak",
+			"deposit": "Depozito",
+			"withdraw": "Geri çekilmek",
+			"transfer": "Aktar",
+			"need_subscription": "Etkin abonelik gerekli",
+			"edit_transaction": "İşlemi düzenle",
+			"delete_transaction": "İşlemi sil"
+		},
+		"series-finance": {
+			"title": "Finans dökümü",
+			"total": "Toplam",
+			"others": "Diğerleri"
+		},
+		"transactions-limit-dialog": {
+			"title": "İşlem limitini aştınız",
+			"subtitle": "Sınırsız Portföy işlemleri almak için bir aboneliği etkinleştirin",
+			"used_transactions": "Kullanılan işlemler:",
+			"of": "{{num2}}'den {{num1}}",
+			"activate_subscription": "Aboneliği etkinleştir"
+		},
+		"interval": {
+			"1_day": "1 gün",
+			"7_days": "7 gün",
+			"1_month": "1 ay",
+			"3_months": "3 benim",
+			"1_year": "1 yıl",
+			"all_time": "Her zaman"
+		}
+	},
+	"portfolio": {
+		"last_time_update": "Son güncelleme:",
+		"update_started": "Güncelleme başladı:",
+		"not_updated": "Güncellenmedi",
+		"to_update": "güncellemeye kadar",
+		"update": "Güncelleme",
+		"portfolio_capitalization": "Portföy büyük harf kullanımı",
+		"portfolio_profitability": "Portföy karlılığı",
+		"portfolio_description": "Portföy açıklaması",
+		"my_assets": "Varlıklarım",
+		"finance": "finans",
+		"price": "Fiyat",
+		"average_price": "Ort. satın alma fiyatı",
+		"amount_coin": "madeni para miktarı",
+		"profit_loss": "Kar kaybı",
+		"description": "Portföy açıklaması",
+		"portfolio_empty": "Portföy boş...",
+		"your_portfolio_empty": "Portföyünüz boş :(",
+		"add_asset": "Öğe ekle",
+		"add_first_asset": "İlk öğeyi ekle",
+		"need_subscription": "Etkin abonelik gerekli"
+	},
+	"portfolio-list": {
+		"create_portfolio": "Portföy oluştur",
+		"need_subscription": "Etkin abonelik gerekli",
+		"navigation": {
+			"all_portfolios": "Tüm portföyler",
+			"calculator": "Risk hesaplayıcı",
+			"indexes": "Endeksler"
+		}
+	},
+	"portfolio-transactions": {
+		"back": "Geri",
+		"price": "Fiyat",
+		"average_price": "Ort. satın alma fiyatı",
+		"amount_coin": "madeni para miktarı",
+		"profit_loss": "Kar kaybı",
+		"date": "Tarih",
+		"value": "$ cinsinden değer",
+		"commission": "Ücret",
+		"add": "Ekle",
+		"transactions": "işlemler",
+		"add_transaction": "İşlem ekle",
+		"need_subscription": "Etkin abonelik gerekli"
+	},
+	"portfolio-venture": {
+		"add_asset": "Öğe ekle",
+		"description": "Portföy açıklaması",
+		"delete_asset": "Öğeyi sil",
+		"edit": "Düzenlemek",
+		"your_portfolio_empty": "Portföyünüz boş :(",
+		"add_first_asset": "İlk öğeyi ekle",
+		"unlock_chart": "Girişim varlıklarının grafiğini açın",
+		"impossible_to_build": "Bu varlık için grafik oluşturmak imkansız",
+		"my_assets": "{isMobile, plural, =1 {Varlıklarım} other {Girişim varlıklarım}}",
+		"portfolio_empty": "Portföy boş...",
+		"characteristics": {
+			"price": "{isMobile, plural, =1 {Fiyat} other {Satın alma fiyatı}}",
+			"amount": "{isMobile, plural, =1 {Miktar} other {Para miktarı}}",
+			"investment_volume": "Yatırım hacmi",
+			"type_of_project": "Proje tipi",
+			"type": "Tip",
+			"round": "Yuvarlak",
+			"description": "Tanım",
+			"sait": "İnternet sitesi",
+			"network": "Ağ",
+			"date": "Satınalma tarihi",
+			"lock_period": "Kilit dönemi"
+		},
+		"unlock_info": {
+			"tge_today": "Bugünün TGE'si.",
+			"to_start_tge": "TGE&#39;den önce <span class='period'>{{diff}}</span>",
+			"cliff_today": "Bugün Cliff'in başlangıcı",
+			"to_start_cliff": "Uçurumdan Önce <span class='period'>{{diff}}</span>",
+			"cliff_end": "Cliff'in bugün tamamlanması",
+			"to_end_cliff": "Uçurum <span class='period'>bitmeden {{diff}}</span>",
+			"today_unlock": "Bugün {{num}},",
+			"to_unlock": "{{num}}, <span class='period'>{{</span> diff}} kilidini açmadan önce"
+		},
+		"need_subscription": "Etkin abonelik gerekli"
+	}
+}

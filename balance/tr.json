@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "USDT transferi için bir ağ seçin",
+		"top_up_amount": "Miktarı artırmak",
+		"enter_top_up_amount": "Doldurma miktarını girin",
+		"pay": "Ödemek",
+		"click_to_copy": "Kopyalamak için tıklayın",
+		"copied": "kopyalandı",
+		"erc20": "ERC20 Adresi:",
+		"trc20": "TRC20 Adresi:",
+		"bep20": "BEP20 Adresi:",
+		"bep2": "BEP2 Adresi:",
+		"memo": "NOT Adresi:",
+		"important": {
+			"1": "Ödemeleri yalnızca Tether (USDT) ile kabul ediyoruz.",
+			"2": "Aboneliğinizi etkinleştirmek için bakiyenizi doldurun.",
+			"3": "«TRC20» ağını kullanmanızı öneririz (ücret ~1$)",
+			"4": "USDT dışında bu adrese başka bir madeni para veya jeton göndermek, paranızın kaybolmasına neden olabilir.",
+			"5": {
+				"first_part": "{{subscriptionTerm}} için \"{{subscriptionName}}\" aboneliğini etkinleştirmek için",
+				"second_part": "{subscriptionTerm, plural, =1 {gün} =2 {gün} =3 {gün} =4 {gün} other {gün}} ip ip USDi {{su}} için bakiyenizi doldurmanız gerekiyor ağ ücreti."
+			},
+			"title": "Önemli"
+		},
+		"video_tutorial": "Video eğitimi - nasıl abonelik satın alınır",
+		"warning": "Risk uyarıları",
+		"specify_hash_or_number": "Hash veya işlem sayısını belirtin",
+		"recommendation": {
+			"1": "Binance'de işlem numarasını aramak için bu bağlantıyı takip edin (yetkili):",
+			"2": "Başka bir borsadan USDT gönderdiyseniz, bu alanda şunu belirtin: İşlem karması (TRC20 örneği): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "Ayrıca bir işlem numarası da belirtebilirsiniz (Dahili transfer) - 43047269665, ancak cüzdanınızla karıştırmayın - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Öneriler"
+		},
+		"to_pay": "Ödenecek tutar: {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Aşama 1",
+				"description": "Telefonunuzda bir Binance uygulaması açın ve uygulamanın ana sayfasının sağ üst köşesindeki bir simgeye tıklayarak QR kodunu tarayın."
+			},
+			"2": {
+				"title": "Adım 2",
+				"description": "Şimdi bir işlem onay penceresi göreceksiniz. Ödeme tutarını doğrulayın ve işlemi onaylayın. Bundan sonra \"Ödedim\" e tıklayın."
+			}
+		},
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}"
+		},
+		"hash_or_number": "İşlem Karması / numarası",
+		"faq": "SSS",
+		"payed": "ben ödedim",
+		"terms_to_use": "Kullanım Şartları",
+		"privacy_policy": "Gizlilik Politikası",
+		"back": "Geri",
+		"confirm": "Onaylamak"
+	}
+}

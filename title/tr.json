@@ -1,0 +1,41 @@
+{
+	"authorization": {
+		"title": "yetki"
+	},
+	"profile": {
+		"title": "Profil",
+		"settings": "Ayarlar",
+		"transactions": "işlemler"
+	},
+	"topup_balance": {
+		"title": "Bakiyeyi tamamla"
+	},
+	"subscription": {
+		"title": "abonelik"
+	},
+	"join": {
+		"title": "Katılmak"
+	},
+	"academy": {
+		"title": "Akademi"
+	},
+	"portfolio": {
+		"title": "portföy",
+		"portfolio_list": "Portföy listesi",
+		"ventures": "Girişim portföyü",
+		"portfolio": "portföy",
+		"portfolio_transactions": "portföy | işlemler"
+	},
+	"forum": {
+		"title": "Forum"
+	},
+	"conferences": {
+		"title": "Konferanslar"
+	},
+	"risk": {
+		"title": "Risk Hesaplayıcı"
+	},
+	"notes": {
+		"title": "Notlar"
+	}
+}

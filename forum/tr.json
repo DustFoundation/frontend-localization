@@ -1,0 +1,154 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "forumun kilidini aç",
+			"subtitle": "Günlük ödüller toplayın ve Forum'a erişin",
+			"on_balance": "senin dengende",
+			"dust": "TOZ",
+			"unlock": "Kilidini aç"
+		},
+		"dialog-delete-ticket": {
+			"title": "Gönderiyi sil",
+			"subtitle": "Gönderinizi silmek istediğinizden emin misiniz?",
+			"delete": "Silmek",
+			"cancel": "İptal"
+		},
+		"dialog-reject-reason": {
+			"title": "Bilet reddetme nedeni"
+		},
+		"ticket-comments": {
+			"forbidden": "Reddedilen veya yayınlanmayan gönderilere yorum yapmak yasaktır."
+		},
+		"ticket-comments-item": {
+			"leave_comment": "Yorum bırak",
+			"show_more": "Daha fazla göster...",
+			"hide": "Saklamak",
+			"cancel": "İptal",
+			"change": "Değiştirmek",
+			"reply": "Cevap vermek",
+			"show": "Göstermek",
+			"show_answer": "{{value}} {value, plural, =1 {cevap} other {cevaplar}} göster",
+			"edit": "Düzenlemek",
+			"delete": "Silmek"
+		},
+		"ticket-item": {
+			"moderate": "İnceleme altında"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "Yorum bırak",
+			"reply": "Cevap vermek",
+			"cancel": "İptal"
+		}
+	},
+	"buy-access": {
+		"all": "Tüm gönderiler",
+		"my-tickets": "Benim gönderilerim",
+		"create_post": "Gönderi oluştur",
+		"all_posts": "Tüm gönderiler",
+		"rating": "Değerlendirme",
+		"name": "Yazı başlığı",
+		"author": "Yazar",
+		"date": "Yayın tarihi",
+		"topic": "Başlık",
+		"views": "Görüntüleme",
+		"comments": "Yorumlar",
+		"no_posts": "Forum boş :(",
+		"create_firs_post": "İlk gönderinizi oluşturun"
+	},
+	"create-ticket": {
+		"status": "Durum:",
+		"sent": "Gönderilmiş:",
+		"edit_mode": "Bir gönderiyi düzenleme",
+		"view_mode": "Bir gönderiyi görüntüleme",
+		"create_post": "gönderi oluşturma",
+		"title_post": "Yazı başlığı",
+		"title": "Başlık",
+		"post_topic": "Konu yayınla",
+		"description": "Metin / içerik / açıklama yayınlayın",
+		"description_placeholder": "Tanım",
+		"resend": "Yeniden gönder",
+		"times_left": "(Sol {{num}})",
+		"buy_opportunities": "Bir gönderi oluşturmak için 10 fırsat satın alın (10 DUST)",
+		"moderate": "İncelemede",
+		"rejected": "Reddedildi",
+		"no_reason": "Nedeni belirtilmedi",
+		"delete_post": "Gönderiyi sil",
+		"default_user_nickname": "Anonim",
+		"loaded_photo": "Fotoğraf yüklendi:",
+		"load_image": "Bir dosya seçin veya buraya sürükleyin (JPG veya PNG 3MB'den küçük)",
+		"add_image": "Resim eklemek",
+		"close": "Kapat",
+		"create": "Oluşturmak",
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"invalid_format_img": "Geçersiz resim formatı",
+			"file_size_exceeded": "Dosya boyutu aşıldı"
+		}
+	},
+	"my-tickets": {
+		"popular": "Popüler",
+		"news": "Yeni",
+		"all": "Tüm gönderiler",
+		"my-tickets": "Benim gönderilerim",
+		"create_post": "Gönderi oluştur",
+		"delete_post": "Gönderiyi sil",
+		"no_posts": "Forum boş :(",
+		"create_firs_post": "İlk gönderinizi oluşturun",
+		"name": "Yazı başlığı",
+		"date": "Yayın tarihi",
+		"status": "moderasyon durumu",
+		"comment": "Yorum",
+		"no_reason": "Nedeni belirtilmedi",
+		"view_post": "Gönderiyi görüntüle",
+		"published": "Yayınlanan:",
+		"sent": "Gönderilmiş:",
+		"edit": "Düzenlemek",
+		"accepted": "Kabul edilmiş",
+		"moderate": "İncelemede",
+		"rejected": "Reddedildi"
+	},
+	"ticket": {
+		"default_user_nickname": "Anonim",
+		"up_rating": "Derecelendirmeyi yükselt",
+		"remove_voice": "Oyu kaldır",
+		"rating": "Değerlendirme",
+		"name": "Yazı başlığı",
+		"author": "Yazar",
+		"date": "Yayın tarihi",
+		"topic": "Başlık",
+		"views": "Görüntüleme",
+		"comments": "Yorumlar",
+		"moderator": "moderatör",
+		"edit": "Düzenlemek",
+		"delete_post": "Gönderiyi sil",
+		"delete": "Silmek"
+	},
+	"tickets": {
+		"popular": "Popüler",
+		"news": "Yeni",
+		"all": "Tüm gönderiler",
+		"my-tickets": "Benim gönderilerim",
+		"create_post": "Gönderi oluştur",
+		"all_posts": "Tüm gönderiler",
+		"rating": "Değerlendirme",
+		"name": "Yazı başlığı",
+		"author": "Yazar",
+		"date": "Yayın tarihi",
+		"topic": "Başlık",
+		"views": "Görüntüleme",
+		"comments": "Yorumlar",
+		"moderator": "moderatör",
+		"no_posts": "Forum boş :(",
+		"create_firs_post": "İlk gönderinizi oluşturun"
+	},
+	"tags": {
+		"Идея": "Fikir",
+		"Жалоба": "Şikayet",
+		"Партнерство": "ortaklık",
+		"Предложение": "Teklif",
+		"Обсуждение": "Tartışma",
+		"Другое": "Başka"
+	}
+}

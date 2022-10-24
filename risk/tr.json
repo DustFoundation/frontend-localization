@@ -1,0 +1,78 @@
+{
+	"title": "Risk Hesaplayıcı",
+	"add_template": "Yeni hesaplama",
+	"without_title": "Başlık yok",
+	"my_template": "Şablonum",
+	"navigation": {
+		"all_portfolios": "Tüm portföyler",
+		"calculator": "Risk hesaplayıcı",
+		"indexes": "Endeksler"
+	},
+	"sort": {
+		"title": "sıralama",
+		"date_desc": "Tarih: ilk yeni",
+		"date_asc": "Tarih: önce eski",
+		"alphabet_desc": "Alfabetik olarak A'dan Z'ye",
+		"alphabet_asc": "Alfabetik olarak Z'den A'ya"
+	},
+	"calculator": {
+		"title_placeholder": "Şablonun adını girin",
+		"status_saved": "İsim değişti",
+		"saved": "kaydedildi",
+		"button_save": "Kaydetmek",
+		"type_long": "Uzun",
+		"type_short": "Kısa",
+		"search_placeholder": "Arama",
+		"result_link": "O nasıl çalışır?",
+		"result_title": "Sonuç",
+		"result_item_volume": "Kaldıraçlı ticaret hacmi",
+		"result_item_profit": "Kar almak",
+		"result_item_proportion": "Risk/kar oranı",
+		"result_item_loss": "Kaybı durdurmak",
+		"result_item_liquidation": "Tasfiye",
+		"coin_label": "Aktif",
+		"volume_label": "İşlem hacmi",
+		"price_label": "Giriş ücreti",
+		"leverage_label": "Kaldıraç",
+		"risk_label": "Risk",
+		"profit_label": "Kâr",
+		"stop_loss_alert": "Dikkat! Tasfiyeniz, zarar durdurmanızın üzerindedir. Bu oran ile durduğunuz yere ulaşmadan likidasyon alırsınız.",
+		"alert": "Uyarı! Tasfiye kaybı durdurmaya çok yakın!",
+		"calculate": "Hesaplamak",
+		"tooltips": {
+			"coin_tooltip": "Pozisyon açmak için para birimi",
+			"volume_tooltip": "Kaldıraç hariç bir pozisyonun açıldığı tutar",
+			"price_tooltip": "Pozisyonun açılacağı grafikteki fiyat teklifi",
+			"leverage_tooltip": "Kaldıraç, kripto para birimleri veya diğer finansal varlıklarla ticaret yapmak için ödünç alınan fonları kullanmanıza olanak tanır. Daha yüksek kaldıraç kullanmanın pozisyonunuzun tasfiye edilme olasılığını artırdığını daima unutmayın. Omuzların % - x100 (% 1) cinsinden tasfiyesi",
+			"risk_tooltip": "Olumsuz bir senaryo durumunda pozisyonunuzun %'si olarak potansiyel kayıp",
+			"profit_tooltip": "Olumlu bir senaryo olması durumunda pozisyonunuzun yüzdesi olarak potansiyel kâr"
+		}
+	},
+	"list": {
+		"empty": "Kaydedilmiş hesaplama yok",
+		"saved": "kaydedildi",
+		"title_placeholder": "Başlığı girin"
+	},
+	"dialog_close_template": {
+		"title": "Yeni bir hesap açmak istediğinizden emin misiniz?",
+		"text": "Yeni bir hesaplama açmak, girilen tüm verileri siler ve sonuçları siler",
+		"button_apply": "Temizlemek",
+		"button_cancel": "İptal"
+	},
+	"dialog_delete_template": {
+		"title": "Hesaplamanın silinmesi",
+		"text": "Hesaplamayı gerçekten silmek istiyor musunuz?",
+		"button_apply": "Kaldırmak",
+		"button_cancel": "İptal"
+	},
+	"dialog_save_template": {
+		"title": "Hesaplamayı kaydetme",
+		"text": "Açık bir hesaplamayı güncellemek mi yoksa hesaplamayı yenisi olarak kaydetmek mi istiyorsunuz?",
+		"button_apply": "Güncelleme",
+		"button_cancel": "Yeni kaydet"
+	},
+	"dialog_tooltip_template": {
+		"title": "İpucu",
+		"button_close": "Anladım!"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"main": "Ev",
+	"settings": "Ayarlar",
+	"profile": "Profil",
+	"forum": "Forum",
+	"academy": "Akademi",
+	"portfolio": "portföy",
+	"balance": "Bakiyeyi tamamla",
+	"subscription": "abonelik",
+	"transaction": "İşlem geçmişi",
+	"risk": "Risk Hesaplayıcı",
+	"activation_subscription": "Aboneliği etkinleştir",
+	"post_view": "Gönderiyi görüntüle",
+	"created_posts": "Benim gönderilerim",
+	"popular": "Popüler",
+	"news": "Yeni",
+	"my-tickets": "Benim gönderilerim",
+	"create_ticket": "Gönderi oluştur",
+	"conferences": "Konferanslar",
+	"notes": "Notlar",
+	"back": "Geri"
+}

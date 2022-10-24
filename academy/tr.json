@@ -1,0 +1,83 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Kursumuzun son incelemesi",
+			"module": "Modül",
+			"leave_review": "Kurs hakkında görüşlerinizi bırakın"
+		},
+		"menu": {
+			"test": "Ölçek",
+			"testing": "Değerlendirme"
+		},
+		"module-finished-dialog": {
+			"module": "Modül",
+			"open_access": "Verilen modüle erişim",
+			"thanks_for_review": "Teşekkürler görüşleriniz dikkate alınmıştır",
+			"awful": "Berbat",
+			"bad": "Kötü",
+			"ok": "Ortalama",
+			"good": "İyi",
+			"excellent": "Harika",
+			"rate_module": "Bu modülü değerlendirin",
+			"leave_review?": "Geri bildiriminizi bırakmak ister misiniz?",
+			"next_lesson": "Gelecek ders",
+			"yes": "Evet",
+			"no": "Numara"
+		},
+		"module-review-dialog": {
+			"help_us": "Bu kursu geliştirmemize yardımcı olun",
+			"please_leave_comment_about": "lütfen konu hakkında yorum yaparmısınız",
+			"leave_review": "Geri bildirim bırakın",
+			"my_review": "Benim geribildirimim",
+			"module": "Modül",
+			"course": "Kurs",
+			"back": "Geri"
+		}
+	},
+	"course-details": {
+		"need_subscription": "Etkin abonelik gerekli",
+		"level": "Seviye:",
+		"count_of_modules": "Modüller:",
+		"count_of_lessons": "Dersler:",
+		"got_badges": "Alınan rozetler",
+		"course_progress": "Kurs ilerlemesi",
+		"pass_again": "Tekrar geç",
+		"continue_learning": "Öğrenmeye devam et",
+		"start_learning": "Öğrenmeye başla",
+		"training_program": "öğrenme programı",
+		"module": "Modül"
+	},
+	"course-lesson": {
+		"pass_test": "Sınavdan geç",
+		"next_lesson": "sonraki ders",
+		"previous_lesson": "önceki ders"
+	},
+	"course-test": {
+		"description": " Testi geçtikten sonra, bir sonraki modüle erişiminizi açan özel bir rozet alacaksınız.",
+		"ps": "not Altın bir rozet almak için testi sıfır hatayla geçin!",
+		"check_test": "testi kontrol et",
+		"try_once_more": "Tekrar deneyin",
+		"previous_lesson": "önceki ders",
+		"onward": "Sonraki"
+	},
+	"courses": {
+		"need_subscription": "Etkin abonelik gerekli",
+		"new_course_in_development": "Yeni kurslar zaten geliştirme aşamasında!",
+		"level": "Seviye:",
+		"count_of_modules": "Modüller:",
+		"count_of_lessons": "Dersler:",
+		"got_badges": "Alınan rozetler",
+		"course_progress": "Kurs ilerlemesi",
+		"pass_again": "Tekrar geç",
+		"continue_learning": "Öğrenmeye devam et",
+		"start_learning": "Öğrenmeye başla",
+		"about": "Hakkında",
+		"difficulty": {
+			"0": "Temel",
+			"1": "İlköğretim",
+			"2": "Orta",
+			"3": "Gelişmiş",
+			"-1": "Bilinmeyen"
+		}
+	}
+}

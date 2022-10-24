@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "\"Hamster\"",
+		"description": "Platformda başarılı bir kayıt geçti"
+	},
+	"onboarding": {
+		"name": "\"Öncü\"",
+		"description": "Platformun aşinalığını geçti"
+	},
+	"portfolioalltypes": {
+		"name": "\"Keith\"",
+		"description": "Üç tür portföyü de oluşturdu"
+	},
+	"academycoursegold": {
+		"name": "\"Harika\"",
+		"description": "Akademi'deki kursu onur ile geçti"
+	},
+	"discordtelegram": {
+		"name": "“Entegratör”",
+		"description": "Discord ve Telegram ile bağlantılı entegrasyonlar"
+	},
+	"connections": {
+		"name": "“Bağlantıları kurduk”",
+		"description": "Sosyal ağlarımıza kaydoldu"
+	},
+	"subscription": {
+		"name": "\"Önemli kişi\"",
+		"description": "DUST Platformuna abonelik satın aldı"
+	},
+	"forumfirstpost": {
+		"name": "\"Birazdan anlatacağım\"",
+		"description": "Forumdaki ilk mesajımı oluşturdum"
+	},
+	"amateur": {
+		"name": "\"Kripto meraklısı\"",
+		"description": "Bir Forum gönderisinde 10 beğeni toplandı"
+	},
+	"portfolio10coins": {
+		"name": "“Kripto para kazandıran”",
+		"description": "Sanal portföye 10 jeton eklendi"
+	},
+	"dailyreward28": {
+		"name": "\"Gerçek HODLER\"",
+		"description": "Üst üste 28 günlük ödül aldı"
+	},
+	"omnipotence": {
+		"name": "\"Her şeye gücü yeten Eldiven\"",
+		"description": "Forge güncellemeleri için oy verildi"
+	}
+}

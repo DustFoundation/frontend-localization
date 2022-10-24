@@ -1,0 +1,7 @@
+{
+	"title": "Video oynatıcı kurulumu",
+	"auto": "Oto",
+	"normal": "Normal",
+	"speed": "{type, plural, =1 {Oynatma hızı} other {Oynatma hızı}}",
+	"quality": "Kalite"
+}

@@ -1,0 +1,11 @@
+{
+	"status": "Ödeme durumu:",
+	"entered_hash": "Girilen karma:",
+	"edit_hash": "Karmayı düzenle",
+	"transaction_statuses": {
+		"success_1": "başarı",
+		"success_2": "Başarılı bir şekilde doldurun",
+		"processing_1": "işleme...",
+		"processing_2": "Blockchain üzerinden uçar"
+	}
+}

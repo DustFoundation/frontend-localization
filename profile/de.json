@@ -93,8 +93,9 @@
 		"uk": "Українська",
 		"lv": "Latviešu",
 		"de": "Deutsch",
-		"saved": "gespeichert",
-		"it": "Italienisch"
+		"it": "Italienisch",
+		"tr": "Türkçe",
+		"saved": "gespeichert"
 	},
 	"profile-transactions": {
 		"transaction": "Transaktion",

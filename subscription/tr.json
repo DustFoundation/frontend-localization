@@ -1,0 +1,84 @@
+{
+	"components": {
+		"dialog-subscription-status": {
+			"term": "{{day}} {day, plural, =1 {gün} =2 {gün} =3 {gün} =4 {gün} other {gün}} için abonelik etkinleştirildi!",
+			"title": "Kripto topluluğuna hoş geldiniz!",
+			"subtitle": "Tüm platform işlevlerini ve avantajlarını hemen kullanmaya başlayın!",
+			"to_main": "Ev"
+		},
+		"subscription-integrations": {
+			"title": "Discord ve Telegram entegrasyonları",
+			"rule_1": "Özel Discord sunucusuna ve Telegram kanalına tam erişim elde etmek için entegrasyonlarını bağlamanız gerekir.",
+			"rule_2": "Erişim yalnızca sağlanan hesaplara verilecektir! Erişimin başka bir hesaba aktarılması yalnızca abonelik yenileme ile mümkün olacaktır.",
+			"back": "Geri",
+			"onward": "Sonraki",
+			"skip": "Atlamak",
+			"attention": "Dikkat!"
+		},
+		"subscription-term": {
+			"top_up_on": "Tamamlamak",
+			"select_subscription": "Abonelik seçin",
+			"go": "Gitmek",
+			"transaction_in_progress": "İşlem devam ediyor",
+			"on_your_balance": "senin dengende",
+			"selected_subscription": "Seçilen abonelik:",
+			"test_period": "(deneme süresi)",
+			"on_day": "{{day}} {day, plural, =1 {gün} =2 {gün} =3 {gün} =4 {gün} other {gün}} için",
+			"bonus": "{{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} aboneliği ile, [bonuoterm, {bonuoterm,} elde edersiniz } =2 {gün} =3 {gün} =4 {gün} other {gün}} ücretsiz!",
+			"rule_1": "Devam etmeden önce lütfen aboneliğinizi etkinleştirmek için bakiyenizde yeterli USDT olduğundan emin olun!",
+			"rule_2": {
+				"first_part": "{{subscriptionTerm}} için \"{{subscriptionName}}\" aboneliğini etkinleştirmek için",
+				"second_part": "{subscriptionTerm, plural, =1 {gün} =2 {gün} =3 {gün} =4 {gün} other {days}} en az bakiyeniz olmalı!"
+			},
+			"usdt": "USDT",
+			"activate": "etkinleştir",
+			"back": "Geri",
+			"attention": "Dikkat!"
+		}
+	},
+	"subscription-main": {
+		"title": "Toz aboneliği",
+		"active": "Aktif",
+		"inactive": "etkin değil",
+		"to_end_subscription": "\"{{name}}\" aboneliği şu süre içinde sona erecek:",
+		"continue_subscription": "Aboneliği uzat",
+		"activate_subscription": "Aboneliği etkinleştir",
+		"all_transaction": "Tüm İşlemler",
+		"detail": "Abonelik ayrıntıları",
+		"cryptocommunity": {
+			"0": {
+				"title": "Kripto topluluğuna erişim",
+				"description": "Kripto meraklıları ile özel Discord sunucusu"
+			},
+			"title": "Cryptocommunity aboneliğine neler dahildir?"
+		},
+		"platform": {
+			"0": {
+				"title": "Portföyde 20 portföy",
+				"description": "Kayıt tutma ve varlıkları izleme"
+			},
+			"1": {
+				"title": "Akademiye Erişim",
+				"description": "Kripto para birimleri hakkında eğitim kaynakları"
+			},
+			"2": {
+				"title": "Crypto-forum'a erişim",
+				"description": "Yayınlar oluşturun ve bunlara yorum yapın"
+			},
+			"3": {
+				"title": "kripto-kahraman",
+				"description": "1 / 5 seviyelendirilebilir karakter"
+			},
+			"4": {
+				"title": "Etkinlik ödülleri",
+				"description": "Ödüller ve başarılar sistemi"
+			},
+			"5": {
+				"title": "Kripto Takvimi",
+				"description": "Kripto olaylarının takibi"
+			},
+			"title": "Platform aboneliğine neler dahildir?",
+			"soon": "Yakında..."
+		}
+	}
+}

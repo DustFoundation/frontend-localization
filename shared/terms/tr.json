@@ -1,0 +1,15 @@
+{
+	"include": "Neler dahil",
+	"trial": "Ücretsiz deneme {{days}} {days, plural, =1 {gün} =2 {gün} =3 {gün} =4 {gün} other {gün}}",
+	"chose_period": "Seçilen gün sayısı",
+	"all_from": "Herşeyden",
+	"economy": "Kazanıyorsun",
+	"includes": {
+		"portfolio": "Tüm portföy türleri (3'ü 1 arada)",
+		"academy": "Eğitim Kursları",
+		"forum": "Forum",
+		"discord": "Özel Anlaşmazlık",
+		"telegram": "Özel Telgraf"
+	},
+	"usdt": "USDT"
+}

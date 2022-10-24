@@ -1,0 +1,12 @@
+{
+	"title": "İşlem karmasını veya numarasını girin",
+	"recommendation": {
+		"1": "İşlem numarasını aramak için şu bağlantıyı izleyin:",
+		"2": "Başka bir borsadan USDT gönderdiyseniz, bu alanda şunu belirtin: İşlem karması (TRC20 örneği): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+		"3": "Bir işlem numarası belirtin (Dahili transfer - 43047269665, cüzdanınız değil - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+		"title": "Öneriler"
+	},
+	"hash_or_number": "İşlem karması / numarası",
+	"payed": "ben ödedim",
+	"back": "Geri"
+}

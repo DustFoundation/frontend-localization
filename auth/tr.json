@@ -1,0 +1,119 @@
+{
+	"confirm-email": {
+		"title": "E-posta Onayı",
+		"subtitle": "Size bir onay kodu içeren bir e-posta gönderdik. Lütfen bu kodu aşağıya girin",
+		"code": "kod",
+		"send_new_code": "Yeniden gönderme kodu",
+		"get_new_code_after": {
+			"code": "yeni bir kod al",
+			"after": "{{timer}} saniye içinde"
+		},
+		"done": "Tamamlandı",
+		"back": "Geri"
+	},
+	"confirm-mfa": {
+		"title": "Hesabınızı doğrulayın",
+		"subtitle": "Google Authenticator uygulamanızda listelenen kodu aşağıya girin",
+		"code": "kod",
+		"back": "Geri",
+		"sign_in": "Kayıt olmak"
+	},
+	"forgot-password": {
+		"title_1": "Eski ihtişamı geri yükleyin",
+		"subtitle_1": "Parolanızı geri yüklemek için size gizli kodlu bir kuzgun göndereceğiz",
+		"get_code": "bir kuzgun gönder",
+		"title_2": "kuzgun geldi",
+		"subtitle_2": "Bir kuzgunun e-postanıza gönderdiği parşömeni açın ve aşağıya gizli bir kod girin.",
+		"code": "kod",
+		"send_new_code": "Yeniden gönderme kodu",
+		"get_new_code_after": {
+			"code": "yeni bir kod al",
+			"after": "{{timer}} saniye içinde"
+		},
+		"title_3": "deneme bitti",
+		"subtitle_3": "Eski ihtişamı geri kazanma hakkını kanıtladın. Şimdi sadece yeni bir şifre girin.",
+		"restore_password": "Şifreyi yenile",
+		"form": {
+			"mail": "E-posta",
+			"mail_input_placeholder": "mail@mail.com",
+			"new_password": "Yeni Şifre",
+			"repeat_password": "şifreyi tekrarla",
+			"password_input_placeholder": "********************"
+		},
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"invalid_email": "Geçersiz e-posta formatı",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "Parolalar uyuşmuyor",
+			"password_rules": "Şifre en az 1 büyük harf ve 1 rakam içermelidir"
+		}
+	},
+	"new-password": {
+		"title": "deneme bitti",
+		"subtitle": "Eski ihtişamı geri kazanma hakkını kanıtladın. Şimdi sadece yeni bir şifre girin.",
+		"restore_password": "şifreyi sıfırla",
+		"form": {
+			"new_password": "Yeni Şifre",
+			"repeat_password": "şifreyi tekrarla",
+			"password_input_placeholder": "********************"
+		},
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"invalid_email": "Geçersiz e-posta",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "Parolalar uyuşmuyor",
+			"password_rules": "Şifre en az 1 büyük harf ve 1 rakam içermelidir"
+		}
+	},
+	"sign-in": {
+		"no_account": "Hesabınız yok mu?",
+		"sign_up": "Üye olmak",
+		"title": "Kayıt olmak",
+		"forgot_password": "Parolanızı mı unuttunuz?",
+		"ban_reason": "Yasaklama nedeni:",
+		"banned_until": "Şu tarihe kadar yasaklandı:",
+		"sign_in": "Kayıt olmak",
+		"form": {
+			"mail": "E-posta",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Şifre",
+			"password_input_placeholder": "********************"
+		},
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"invalid_email": "Geçersiz e-posta",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}"
+		}
+	},
+	"sign-up": {
+		"have_account": "Hesabın var mı?",
+		"sign_in": "Kayıt olmak",
+		"title": "Kayıt",
+		"forgot_password": "Parolanızı mı unuttunuz?",
+		"ban_reason": "Yasaklama nedeni:",
+		"banned_until": "Şu tarihe kadar yasaklandı:",
+		"sign_up": "Üye olmak",
+		"policy": {
+			"agree": "katılıyorum",
+			"with": "bir gizlilik politikası"
+		},
+		"form": {
+			"mail": "E-posta",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Şifre",
+			"password_input_placeholder": "********************",
+			"repeat_password": "Şifreyi tekrar girin"
+		},
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"invalid_email": "Geçersiz e-posta formatı",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "Parolalar uyuşmuyor",
+			"password_rules": "Şifre en az 1 büyük harf ve 1 rakam içermelidir"
+		}
+	}
+}

@@ -1,0 +1,152 @@
+{
+	"header": {
+		"subscription_activate": "Aboneliği etkinleştir",
+		"subscription_activated": {
+			"text": "abonelik",
+			"status": "Aktif"
+		},
+		"portfolio": "portföy",
+		"portfolio_dropdown": {
+			"all_portfolios": "Tüm portföyler",
+			"risk_calculator": "Risk Hesaplayıcı"
+		},
+		"academy": "Akademi",
+		"forum": "Forum",
+		"main": "Ev",
+		"conferences": "Konferanslar",
+		"menu": {
+			"profile": "Profil",
+			"balance": "Bakiyeyi tamamla",
+			"subscription": "abonelik",
+			"transactions": "İşlem geçmişi",
+			"settings": "Ayarlar",
+			"promocode": "Promosyon kodu",
+			"bug_report": "Hata raporu",
+			"support": "Destek sohbeti",
+			"conferences": "Konferanslar"
+		},
+		"sign_up": "Üye olmak",
+		"sign_in": "Kayıt olmak",
+		"logout": "Çıkış Yap",
+		"in_development": "Geliştirilmekte",
+		"beta": "BETA",
+		"dust": "TOZ",
+		"usdt": "USDT",
+		"micron": "MİKRON"
+	},
+	"notes_dropdown": {
+		"notes": "Tüm notlar",
+		"add_note": "Not oluştur"
+	},
+	"notifications": {
+		"count_of_notification": "Yeni bildirimler",
+		"clear": "Tüm bildirimleri temizle",
+		"types": {
+			"SUBSCRIPTION_ADDED": {
+				"title": "Abonelik satın alma başarılı",
+				"description": "{{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} için başarıyla bir abonelik satın aldınız"
+			},
+			"SUBSCRIPTION_UPDATED": {
+				"title": "Abonelik yenileme başarılı",
+				"description": "{{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} için bir aboneliği başarıyla yenilediniz"
+			},
+			"SUBSCRIPTION_ENDING_SOON": {
+				"title": "Aboneliğiniz yakında sona eriyor",
+				"description": "Üzgünüz, ancak aboneliğiniz yalnızca {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =3 {days}e} sonra sona erecek seni özleyeceğim!"
+			},
+			"BALANCE_ADDED": {
+				"title": "Bakiyeyi yenile",
+				"description": "Hesabınız {{amount}} USDT için yenilendi"
+			},
+			"TELEGRAM_INVITED": {
+				"title": "Davet etmek",
+				"description": "Telegram'a davetiniz. O cehennemde iyi şanslar!"
+			},
+			"TELEGRAM_INVITED_1": {
+				"title": "Telegram sohbetine davet edin",
+				"description": "Telegram sohbetine davetiniz. O cehennemde iyi şanslar!"
+			},
+			"TELEGRAM_INVITED_2": {
+				"title": "Telegram kanalına davet edin",
+				"description": "Telegram kanalı LUCK'a davetiniz. İyi şanlar!"
+			},
+			"PAYMENT_ORDER_SUCCESS": {
+				"title": "Bakiye yenileme",
+				"description": "Bakiyenizi yenileme emri yerine getirildi."
+			},
+			"PAYMENT_ORDER_FAILED": {
+				"title": "Bakiye yenileme",
+				"description": "Bakiyenizi yenileme talimatı başarısız oldu!"
+			},
+			"PAYMENT_TXID_EXIST": {
+				"title": "Bakiye yenileme",
+				"description": "İşlem numaranız zaten başka bir kullanıcı tarafından kullanılıyor!"
+			},
+			"PAYMENT_FAILED": {
+				"title": "Bakiye yenileme",
+				"description": "Bakiyenizi yenilemek için sipariş oluşturulamadı, lütfen Yönetim ile iletişime geçin!"
+			},
+			"SUBSCRIPTION_SUCCESS": {
+				"title": "abonelik",
+				"description": "Abonelik başarılı"
+			}
+		}
+	},
+	"promocode-dialog": {
+		"title": "Promosyon kodu aktivasyonu",
+		"enter_promocode": "Promosyon kodunu girin",
+		"activate": "Promosyon kodunu etkinleştir",
+		"example": "Örnek: X2dDjsa29GKO",
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}"
+		}
+	},
+	"report-dialog": {
+		"name": "Başlık",
+		"bag_report": "Hata raporu",
+		"loaded_file": "Dosya yüklendi:",
+		"short_description": "Kısa Açıklama",
+		"detail_description_problem": "Detaylı Açıklama",
+		"description_of_problem": "Sorun Açıklaması",
+		"validation_messages": {
+			"required": "Alan gereklidir",
+			"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"img": "JPG veya PNG, en fazla 3MB",
+			"discord_or_email": "E-posta veya Discord takma adı girin"
+		},
+		"download": "İndirmek",
+		"send": "Göndermek",
+		"cancel": "İptal",
+		"contact_with_me": "Benimle irtibata geçin",
+		"enter_email_or_discord": "E-posta veya Discord takma adı girin",
+		"contact": "İletişim"
+	},
+	"system-notification-dialog": {
+		"update": "Güncelleme mevcut",
+		"failed": "Hata",
+		"offline": "Çevrimdışı",
+		"update_detected": "Uygulama güncellemesi algılandı: {{version}}",
+		"update_ready": "Güncelleme hazır {{version}}. Güncellemek ister misiniz?",
+		"update_failed": "{{version}} güncellemesinin yüklenmesi sırasında bir hata oluştu",
+		"network_offline": "Bağlantı kesildi, sayfanın yeniden yüklenmesi gerekiyor",
+		"yes": "Evet, güncelle",
+		"no": "Numara"
+	},
+	"cookies": {
+		"cookies_settings": "Çerezleri Yönet",
+		"intro": "Kullanıcı deneyiminizi, uygulama kullanım analizlerinizi geliştirmek ve sohbet desteğini etkinleştirmek için çerezleri kullanıyoruz.\n",
+		"get_know_with_start": "ile tanışın",
+		"cookies_policy": "Çerez politikası",
+		"get_known_with_end": "daha fazla",
+		"accept": "Kabul",
+		"settings": "Ayarlar",
+		"analytic_cookies": "Analitik çerezler",
+		"analytic_cookies_description": "Bu çerezleri etkinleştirmek, sitemizle etkileşiminizi izlememize ve iyileştirmeler yapmamıza olanak tanır.",
+		"support_chat": "Destek sohbeti",
+		"support_chat_description": "Destek sohbetine erişmek istiyorsanız, bu çerezler gereklidir.",
+		"save": "Kaydetmek",
+		"back": "Geri"
+	}
+}

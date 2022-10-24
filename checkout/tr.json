@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "Doldurma miktarını girin",
+			"get_qr": "Ödeme için QR kodunu alın",
+			"min_sum": "Minimum yükleme miktarı {{num}}$",
+			"scan_qr": "Ödeme yapmak için Binance mobil uygulamanızla QR kodunu tarayın",
+			"i_paid": "ben ödedim",
+			"validation_messages": {
+				"required": "Alan gereklidir"
+			}
+		},
+		"change-password-dialog": {
+			"title": "Şifreyi ayarla",
+			"new_password": "Yeni Şifre",
+			"repeat_password": "şifreyi tekrarla",
+			"change_password": "Şifreyi değiştir",
+			"password_input_placeholder": "********************",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "Şifre en az 1 büyük harf ve 1 rakam içermelidir",
+				"passwords_not_match": "Parolalar uyuşmuyor"
+			}
+		},
+		"checkout-email": {
+			"title_1": "E-posta adresinizi girin",
+			"subtitle_1": "E-posta adresinizi onaylamak için size kod içeren bir mesaj göndereceğiz",
+			"title_2": "E-posta Onayı",
+			"subtitle_2": "Email adresinize gönderdiğimiz kodu giriniz",
+			"selected_subscription": "Seçilen abonelik <span>{{name}}</span>",
+			"change_subscription": "Aboneliği değiştir",
+			"send_code": "kodu gönder",
+			"send_code_after": "Bir kodu <span>{{time}} {time, plural, =1 {saniye} =2 {saniye} =3 {saniye} =4 {saniye} other {saniye}} içinde yeniden gönderin</span>",
+			"send_code_once_more": "Bir kodu yeniden gönder",
+			"email_input_placeholder": "mail@mail.com",
+			"back": "Geri",
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"invalid_email": "Geçersiz e-posta formatı"
+			},
+			"policy": {
+				"agree": "katılıyorum",
+				"with": "bir gizlilik politikası"
+			}
+		},
+		"checkout-header": {
+			"explore": "Keşfetmek",
+			"products": "Ürün:% s",
+			"roadmap": "Yol Haritası",
+			"about_us": {
+				"title": "Hakkımızda",
+				"subtitle": "Bizim takım"
+			},
+			"our_brand": {
+				"title": "Bizim markamız",
+				"subtitle": "Logo kullanımı"
+			},
+			"career": {
+				"title": "kariyer",
+				"subtitle": "Açık pozisyonlar"
+			},
+			"dust_bro": {
+				"title": "toz kardeşim ve melekler",
+				"subtitle": "Ortaklıklar"
+			},
+			"blog": {
+				"title": "Blog",
+				"subtitle": "En son haberleri takip edin"
+			},
+			"registration": "Kayıt",
+			"entry": "Giriş yapmak"
+		},
+		"checkout-payment": {
+			"title": "Abonelik uzunluğu seçimi",
+			"video_tutorial": "Video eğitimi - nasıl abonelik satın alınır",
+			"terms_to_use": "Kullanım Şartları",
+			"privacy_policy": "Gizlilik Politikası",
+			"warning": "Risk uyarıları",
+			"back": "Geri",
+			"activate": "etkinleştir",
+			"onward": "Sonraki",
+			"choose_network": "USDT transferi için bir ağ seçin",
+			"erc20": "ERC20 Adresi:",
+			"trc20": "TRC20 Adresi:",
+			"bep20": "BEP20 Adresi:",
+			"bep2": "BEP2 Adresi:",
+			"memo": "NOT Adresi:",
+			"click_to_copy": "Kopyalamak için tıklayın",
+			"copied": "kopyalandı",
+			"payed": "ben ödedim",
+			"hash_or_number": "İşlem Karması / numarası",
+			"specify_hash_or_number": "Hash veya işlem sayısını belirtin",
+			"confirm": "Onaylamak",
+			"faq": "SSS",
+			"transaction": {
+				"title": "Hash veya işlem sayısını belirtin",
+				"recommendation": {
+					"1": "Binance'de işlem numarasını aramak için şu bağlantıyı izleyin:",
+					"2": "Başka bir borsadan USDT gönderdiyseniz, bu alanda şunu belirtin: İşlem karması (TRC20 örneği): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "Ayrıca bir işlem numarası da belirtebilirsiniz (Dahili transfer) - 43047269665, ancak cüzdanınızla karıştırmayın - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "Öneriler"
+				}
+			},
+			"important": {
+				"1": "Ödemeleri yalnızca Tether (USDT) ile kabul ediyoruz.",
+				"2": "Aboneliğinizi etkinleştirmek için bakiyenizi doldurun.",
+				"3": "«TRC20» ağını kullanmanızı öneririz (ücret ~1$)",
+				"4": "USDT dışında bu adrese başka bir madeni para veya jeton göndermek, paranızın kaybolmasına neden olabilir.",
+				"5": {
+					"first_part": "{{subscriptionTerm}} için \"{{subscriptionName}}\" aboneliğini etkinleştirmek için",
+					"second_part": "{subscriptionTerm, plural, =1 {gün} =2 {gün} =3 {gün} =4 {gün} other {gün}} i Pip USD {{s1 USD}} için ödeme yapmanız gerekiyor ağ ücreti."
+				},
+				"title": "Önemli"
+			},
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "Blockchain üzerinden uçar",
+			"success": "Ödeme başarılı",
+			"status": "Ödeme durumu:"
+		}
+	}
+}

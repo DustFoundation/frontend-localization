@@ -1,0 +1,127 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Başarım açıldı",
+			"close": "Kapat"
+		},
+		"activate-mfa-dialog": {
+			"title": "2FA'yı etkinleştir",
+			"subtitle": "QR kodunu tarayın ve kimlik doğrulamasını onaylamak için kodu girin",
+			"code": "kod",
+			"activate": "Olanak vermek"
+		},
+		"change-avatar-dialog": {
+			"title": "Avatarı değiştir",
+			"accepted_format": "Kabul edilebilir biçimler: JPG, PNG 3MB'den büyük değil",
+			"load_photo": "Fotoğraf yükle",
+			"choose_avatar": "Avatar seç"
+		},
+		"change-password-dialog": {
+			"title": "Şifre değiştir",
+			"subtitle": "Şifrenizi değiştirmek için size kod içeren bir e-posta gönderdik",
+			"enter_code": "Kodu girin",
+			"enter_data": "Yeni bir şifre oluşturmak için verileri girin",
+			"save_password": "Şifreyi kaydet",
+			"onward": "Sonraki",
+			"form": {
+				"new_password": "Yeni Şifre",
+				"repeat_new_password": "Yeni şifreyi tekrar girin",
+				"password_input_placeholder": "********************"
+			},
+			"validation_messages": {
+				"required": "Alan gereklidir",
+				"min_length": "Minimum uzunluk: {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimum uzunluk: {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "Şifre en az 1 büyük harf ve 1 rakam içermelidir",
+				"passwords_not_match": "Parolalar uyuşmuyor"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Mevcut avatarlar",
+			"save": "Kaydetmek"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "2FA'yı devre dışı bırak",
+			"subtitle": "2FA'yı devre dışı bırakmak istediğinizden emin misiniz?",
+			"disconnect": "Engelli"
+		}
+	},
+	"profile-main": {
+		"my_character": "Benim karakterim",
+		"level": "seviye",
+		"experience": "Deneyim",
+		"internal_currency": "İç para birimi",
+		"daily_rewards": "Günlük ödüller",
+		"day": "Gün gün]",
+		"get_daily_reward": "Günlük ödül al",
+		"to_next_reward": "Bir sonraki ödüle kadar",
+		"got_reward": "Alınan ödüller",
+		"in_development": "Geliştirilmekte",
+		"of": "{{num1}} / {{num2}}",
+		"usdt": "USDT",
+		"dust": "TOZ TOKEN",
+		"micron": "MİKRON",
+		"crypto-bum": "kripto-hobo",
+		"beta": "BETA"
+	},
+	"profile-settings": {
+		"title": "Kişisel bilgi",
+		"change_avatar": "Avatarı değiştir",
+		"delete_avatar": "Avatarı sil",
+		"security": "Güvenlik",
+		"change_password": "Şifreleri değiştir",
+		"mfa": "İki faktörlü kimlik doğrulama",
+		"disconnect_mfa": "2FA'yı devre dışı bırak",
+		"integrations": "Entegrasyonlar",
+		"security_title": "Güvenlik",
+		"integrations_title": "Entegrasyonlar",
+		"language_title": "Dil ayarları",
+		"help_title": "Yardım",
+		"main_language": "Birincil dil",
+		"main_language_description": "Ana içerik görüntüleme dilini seçin",
+		"additional_language": "ikincil dil",
+		"additional_language_description": "Ana dile çeviri olmaması durumunda içeriği görüntülemek için kullanılacak bir dil seçin",
+		"information_about_platform": "Platform hakkında bilgiler",
+		"open": "Açık",
+		"help": "Yardım",
+		"connect": "Bağlamak",
+		"password": "Şifre",
+		"mail": "E-posta",
+		"nickname": "Takma ad",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"it": "Italiano",
+		"de": "Deutsch",
+		"tr": "Türkçe",
+		"saved": "kaydedildi"
+	},
+	"profile-transactions": {
+		"transaction": "İşlem",
+		"date": "Tarih",
+		"sum": "Tutar",
+		"status": "Durum",
+		"sum_status": "Tutar/Durum",
+		"information": "Bilgi",
+		"no_transaction": "İşlem yok.",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "Bakiyeyi tamamla",
+			"subscription": "Abonelik satın alma",
+			"FORUM_ACCESS": "Foruma erişim",
+			"FORUM_POSTS_10": "10 forum gönderisi satın aldı"
+		},
+		"transaction_statuses": {
+			"created": "Askıda olması",
+			"pending": "İşleme",
+			"pre-approve": "onay bekliyor",
+			"approve": "Onaylanmış",
+			"done": "Tamamlandı",
+			"failed": "Hata meydana geldi",
+			"canceled": "İptal edildi",
+			"expired": "Süresi doldu",
+			"other": "Bilinmeyen"
+		}
+	}
+}

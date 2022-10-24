@@ -3,7 +3,7 @@
 	"recommendation": {
 		"1": "Um die Transaktionsnummer anzuzeigen, folgen Sie dem Link:",
 		"2": "Wenn Sie USDT von einer anderen Börse gesendet haben, geben Sie in das Transaktions-Hash-Feld ein (Beispiel TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
-		"3": "Geben Sie die Transaktionsnummer an (interne Überweisung) - 43047269665, nicht die Brieftasche - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+		"3": "Geben Sie die Transaktionsnummer an (interne Überweisung) - 43047269665, nicht die Geldbörse - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
 		"title": "Empfehlungen"
 	},
 	"hash_or_number": "Hash-/Transaktionsnummer",

@@ -1,6 +1,6 @@
 {
 	"registration": {
-		"name": "\"Homyachels\"",
+		"name": "\"Der Hamster\"",
 		"description": "Erfolgreich auf der Plattform registriert"
 	},
 	"onboarding": {
@@ -8,7 +8,7 @@
 		"description": "Einarbeitung in die Plattform bestanden"
 	},
 	"portfolioalltypes": {
-		"name": "Kitiara",
+		"name": "Keith",
 		"description": "Erstellt alle drei Arten von Portfolios"
 	},
 	"academycoursegold": {
@@ -21,18 +21,18 @@
 	},
 	"connections": {
 		"name": "\"Verbindungen geknüpft\"",
-		"description": "Unsere sozialen Netzwerke abonniert"
+		"description": "Unsere sozialen Netzwerke gefolgt"
 	},
 	"subscription": {
 		"name": "\"Wichtige Person\"",
 		"description": "Ein Abonnement für die DUST-Plattform gekauft"
 	},
 	"forumfirstpost": {
-		"name": "\"Jetzt sage ich es dir\"",
-		"description": "Habe meinen ersten Forumsbeitrag erstellt"
+		"name": "\"Jetzt sage ich es euch\"",
+		"description": "Hat ersten Forumsbeitrag erstellt"
 	},
 	"amateur": {
-		"name": "„Krypto-Amateur“",
+		"name": "„Krypto-dilettante“",
 		"description": "10 Likes für einen Beitrag im Forum gesammelt"
 	},
 	"portfolio10coins": {
@@ -40,11 +40,11 @@
 		"description": "10 Münzen zum virtuellen Portfolio hinzugefügt"
 	},
 	"dailyreward28": {
-		"name": "„Wahrer Halter“",
+		"name": "„True HODLer“",
 		"description": "28 tägliche Auszeichnungen in Folge erhalten"
 	},
 	"omnipotence": {
-		"name": "\"Handschuh der Allmacht\"",
-		"description": "Upvoted Forge-Updates"
+		"name": "\"The Glove of Omnipotence\"",
+		"description": "hat für Forge Aktualisierung gestimmt"
 	}
 }

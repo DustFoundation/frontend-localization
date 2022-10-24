@@ -2,13 +2,13 @@
 	"include": "Was ist enthalten",
 	"trial": "Kostenlos testen {{days}} {days, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}}",
 	"chose_period": "Ausgewählte Anzahl von Tagen",
-	"all_from": "Alle",
-	"economy": "Speichern",
+	"all_from": "Alle von",
+	"economy": "Einsparung",
 	"includes": {
 		"portfolio": "Alle Arten von Portfolios (3 in 1)",
 		"academy": "Trainingskurse",
 		"forum": "Forum",
-		"discord": "Private Zwietracht",
+		"discord": "Privater Discord",
 		"telegram": "Privates Telegramm"
 	},
 	"usdt": "USDT"

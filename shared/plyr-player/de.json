@@ -1,4 +1,5 @@
 {
+	"title": "Einrichtung des Videoplayers",
 	"auto": "Auto",
 	"normal": "Normal",
 	"speed": "{type, plural, =1 {Wiedergabegeschwindigkeit} other {Wiedergabegeschwindigkeit}}",

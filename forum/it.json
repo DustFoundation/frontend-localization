@@ -1,0 +1,153 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "Sblocca forum per",
+			"subtitle": "Raccogli i premi giornalieri e accedi alla sezione “Forum”",
+			"on_balance": "Sul tuo saldo",
+			"dust": "DUST",
+			"unlock": "Sbloccare"
+		},
+		"dialog-delete-ticket": {
+			"title": "Elimina messaggio",
+			"subtitle": "Sei sicuro di voler eliminare il tuo post?",
+			"delete": "Elimina",
+			"cancel": "Annulla"
+		},
+		"dialog-reject-reason": {
+			"title": "Motivo del rifiuto del biglietto"
+		},
+		"ticket-comments": {
+			"forbidden": "È vietato lasciare commenti sui post rifiutati o non pubblicati"
+		},
+		"ticket-comments-item": {
+			"leave_comment": "Lascia un commento",
+			"show_more": "Mostra di più...",
+			"hide": "Nascondere",
+			"cancel": "Annulla",
+			"change": "Modificare",
+			"reply": "Rispondere",
+			"show": "Mostrare",
+			"show_answer": "Mostra {{value}} {value, plural, =1 {risposta} other {risposte}}",
+			"edit": "Modificare",
+			"delete": "Elimina"
+		},
+		"ticket-item": {
+			"moderate": "In corso di revisione"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "Lascia un commento",
+			"reply": "Rispondere",
+			"cancel": "Annulla"
+		}
+	},
+	"buy-access": {
+		"all": "Tutti i post",
+		"my-tickets": "I miei post",
+		"create_post": "Crea post",
+		"all_posts": "Tutti i post",
+		"rating": "Valutazione",
+		"name": "Titolo del post",
+		"author": "Autore",
+		"date": "Data di pubblicazione",
+		"topic": "Argomento",
+		"views": "Visualizzazioni",
+		"comments": "Commenti",
+		"no_posts": "Il forum è vuoto :(",
+		"create_firs_post": "Crea il tuo primo post"
+	},
+	"create-ticket": {
+		"status": "Stato:",
+		"sent": "Inviato:",
+		"edit_mode": "Modifica di un post",
+		"view_mode": "Visualizzazione di un post",
+		"create_post": "Creazione di un post",
+		"title_post": "Titolo del post",
+		"title": "Titolo",
+		"post_topic": "Pubblica argomento",
+		"description": "Post testo/contenuto/descrizione",
+		"resend": "Rinviare",
+		"times_left": "(sinistra {{num}})",
+		"buy_opportunities": "Acquista 10 opportunità per creare un post (10 DUST)",
+		"moderate": "In revisione",
+		"rejected": "Respinto",
+		"no_reason": "Il motivo non è specificato",
+		"delete_post": "Elimina messaggio",
+		"default_user_nickname": "Anonimo",
+		"loaded_photo": "Foto caricata:",
+		"load_image": "Scegli un file o trascinalo qui (JPG o PNG inferiore a 3 MB)",
+		"add_image": "Aggiungi immagine",
+		"close": "Chiudere",
+		"create": "Creare",
+		"validation_messages": {
+			"required": "Il campo è obbligatiorio",
+			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
+			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
+			"invalid_format_img": "Formato immagine non valido",
+			"file_size_exceeded": "Dimensioni del file superate"
+		}
+	},
+	"my-tickets": {
+		"popular": "Popolare",
+		"news": "Nuovo",
+		"all": "Tutti i post",
+		"my-tickets": "I miei post",
+		"create_post": "Crea post",
+		"delete_post": "Elimina messaggio",
+		"no_posts": "Il forum è vuoto :(",
+		"create_firs_post": "Crea il tuo primo post",
+		"name": "Titolo del post",
+		"date": "Data di pubblicazione",
+		"status": "Stato di moderazione",
+		"comment": "Commento",
+		"no_reason": "Il motivo non è specificato",
+		"view_post": "Visualizza post",
+		"published": "Pubblicato:",
+		"sent": "Inviato:",
+		"edit": "Modificare",
+		"accepted": "Accettato",
+		"moderate": "In revisione",
+		"rejected": "Respinto"
+	},
+	"ticket": {
+		"default_user_nickname": "Anonimo",
+		"up_rating": "Aumenta la valutazione",
+		"remove_voice": "Rimuovi voto",
+		"rating": "Valutazione",
+		"name": "Titolo del post",
+		"author": "Autore",
+		"date": "Data di pubblicazione",
+		"topic": "Argomento",
+		"views": "Visualizzazioni",
+		"comments": "Commenti",
+		"moderator": "Moderatore",
+		"edit": "Modificare",
+		"delete_post": "Elimina messaggio",
+		"delete": "Elimina"
+	},
+	"tickets": {
+		"popular": "Popolare",
+		"news": "Nuovo",
+		"all": "Tutti i post",
+		"my-tickets": "I miei post",
+		"create_post": "Crea post",
+		"all_posts": "Tutti i post",
+		"rating": "Valutazione",
+		"name": "Titolo del post",
+		"author": "Autore",
+		"date": "Data di pubblicazione",
+		"topic": "Argomento",
+		"views": "Visualizzazioni",
+		"comments": "Commenti",
+		"moderator": "Moderatore",
+		"no_posts": "Il forum è vuoto :(",
+		"create_firs_post": "Crea il tuo primo post"
+	},
+	"tags": {
+		"Идея": "Idea",
+		"Жалоба": "Reclamo",
+		"Партнерство": "Collaborazione",
+		"Предложение": "Offerta",
+		"Обсуждение": "Discussione",
+		"Другое": "Altro"
+	}
+}

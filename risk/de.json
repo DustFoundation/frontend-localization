@@ -45,7 +45,8 @@
 			"leverage_tooltip": "Hebelkraft ermöglicht es Ihnen, geliehene Mittel zu verwenden, um mit Kryptowährungen oder anderen finanziellen Vermögenswerten zu handeln. Denken Sie immer daran, dass die Verwendung eines höheren Hebelkraft die Wahrscheinlichkeit erhöht, dass Ihre Position liquidiert wird. Entfernung von Hebelkraft in % - x100 (1%)",
 			"risk_tooltip": "Möglicher Verlust in % Ihrer Position im Falle eines negativen Ergebnisses",
 			"profit_tooltip": "Möglicher Gewinn in % Ihrer Position im Falle eines positiven Ergebnisses"
-		}
+		},
+		"stop_loss_alert": "Aufmerksamkeit! Ihre Liquidation liegt über Ihrem Stop-Loss. Mit diesem Verhältnis erhalten Sie eine Liquidation, bevor Ihr Stopp erreicht wird"
 	},
 	"list": {
 		"empty": "Keine gespeicherten Berechnungen",

@@ -64,5 +64,6 @@
 	"note_saved": "Hinweis gespeichert",
 	"notes_limit": "Notenlimit erreicht",
 	"notes_lost_connection": "Notizen werden nach der erneuten Verbindung synchronisiert",
-	"notes_access": "Verfügbar für Benutzer, die „Platform“ abonniert haben"
+	"notes_access": "Verfügbar für Benutzer, die „Platform“ abonniert haben",
+	"last_sent": "Brief an Ihre Post gesendet"
 }

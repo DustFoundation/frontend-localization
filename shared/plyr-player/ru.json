@@ -1,5 +1,5 @@
 {
-  "title": "Настройка видеоплеера",
+  "title": "Einrichtung des Videoplayers",
   "auto": "Авто",
   "normal": "Обычная",
   "speed": "{type, plural, =1 {Скорость воспр.} other {Скорость воспроизведения}}",

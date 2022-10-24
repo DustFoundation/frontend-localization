@@ -65,6 +65,7 @@
 		"title": "der Titel",
 		"post_topic": "Thematik des Beitrags",
 		"description": "Text / Inhalt / Beschreibung des Beitrags",
+		"description_placeholder": "Beschreibung",
 		"resend": "nochmal senden",
 		"times_left": "(verbleibende {{num}})",
 		"buy_opportunities": "Kaufen Sie 10 Gelegenheiten, einen Beitrag zu erstellen (10 DUST)",

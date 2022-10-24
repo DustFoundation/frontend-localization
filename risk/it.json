@@ -45,7 +45,8 @@
 			"leverage_tooltip": "La leva ti consente di utilizzare i fondi presi in prestito per scambiare criptovalute o altre attività finanziarie. Tieni sempre presente che l'utilizzo di una leva più alta aumenta la probabilità che la tua posizione venga liquidata. Liquidazione delle spalle in % - x100 (1%)",
 			"risk_tooltip": "Potenziale perdita in % della tua posizione in caso di scenario negativo",
 			"profit_tooltip": "Potenziale profitto in % della tua posizione in caso di scenario positivo"
-		}
+		},
+		"stop_loss_alert": "Attenzione! La tua liquidazione è al di sopra del tuo stop loss. Con questo rapporto, otterrai la liquidazione prima del raggiungimento dello stop"
 	},
 	"list": {
 		"empty": "Nessun calcolo salvato",

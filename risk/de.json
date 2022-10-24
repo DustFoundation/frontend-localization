@@ -18,57 +18,57 @@
 	"calculator": {
 		"title_placeholder": "Geben Sie den Vorlagennamen ein",
 		"status_saved": "Titel geändert",
-		"saved": "Gerettet",
+		"saved": "gespeichert",
 		"button_save": "Speichern",
 		"type_long": "Lang",
 		"type_short": "Kurz",
 		"search_placeholder": "Suche",
 		"result_link": "Wie es funktioniert?",
 		"result_title": "Ergebnis",
-		"result_item_volume": "Handelsvolumen mit Hebelwirkung",
-		"result_item_profit": "Gewinn mitnehmen",
-		"result_item_proportion": "Risiko-Rendite-Verhältnis",
-		"result_item_loss": "Stoppen Sie den Verlust",
+		"result_item_volume": "Gehebeltes Handelsvolumen",
+		"result_item_profit": "Take Profit",
+		"result_item_proportion": "Risiko-Gewinn-Verhältnis",
+		"result_item_loss": "Stop-Loss",
 		"result_item_liquidation": "Liquidation",
 		"coin_label": "Aktiv",
 		"volume_label": "Dealvolumen",
 		"price_label": "Eintrittspreis",
-		"leverage_label": "Schulter",
+		"leverage_label": "Hebelkraft",
 		"risk_label": "Risiko",
-		"profit_label": "Profitieren",
-		"alert": "Aufmerksamkeit! Liquidation zu nahe am Stop-Loss!",
+		"profit_label": "Profit",
+		"alert": "Achtung! Liquidation zu nahe am Stop-Loss!",
 		"calculate": "Berechnung",
 		"tooltips": {
 			"coin_tooltip": "Zur Eröffnung einer Position ausgewählter Vermögenswert",
-			"volume_tooltip": "Der Betrag, für den eine Position eröffnet wird, ohne Hebelwirkung",
+			"volume_tooltip": "Der Betrag, für den eine Position eröffnet wird, ohne Hebelkraft",
 			"price_tooltip": "Kurs auf dem Chart, relativ zu dem die Position eröffnet wird",
-			"leverage_tooltip": "Leverage ermöglicht es Ihnen, geliehene Mittel zu verwenden, um mit Kryptowährungen oder anderen finanziellen Vermögenswerten zu handeln. Denken Sie immer daran, dass die Verwendung einer höheren Hebelwirkung die Wahrscheinlichkeit erhöht, dass Ihre Position liquidiert wird. Entfernung von Schultern in % - x100 (1%)",
+			"leverage_tooltip": "Hebelkraft ermöglicht es Ihnen, geliehene Mittel zu verwenden, um mit Kryptowährungen oder anderen finanziellen Vermögenswerten zu handeln. Denken Sie immer daran, dass die Verwendung eines höheren Hebelkraft die Wahrscheinlichkeit erhöht, dass Ihre Position liquidiert wird. Entfernung von Hebelkraft in % - x100 (1%)",
 			"risk_tooltip": "Möglicher Verlust in % Ihrer Position im Falle eines negativen Ergebnisses",
 			"profit_tooltip": "Möglicher Gewinn in % Ihrer Position im Falle eines positiven Ergebnisses"
 		}
 	},
 	"list": {
 		"empty": "Keine gespeicherten Berechnungen",
-		"saved": "Gerettet",
+		"saved": "gespeichert",
 		"title_placeholder": "Geben Sie den Titel ein"
 	},
 	"dialog_close_template": {
-		"title": "Sind Sie sicher, dass Sie ein neues Konto eröffnen möchten?",
+		"title": "Sind Sie sicher, dass Sie neue Berechnung eröffnen möchten?",
 		"text": "Das Öffnen einer neuen Berechnung löscht alle eingegebenen Daten und die Ergebnisse",
-		"button_apply": "Klar",
-		"button_cancel": "Absagen"
+		"button_apply": "Löschen",
+		"button_cancel": "Abbrechnen"
 	},
 	"dialog_delete_template": {
 		"title": "Löschen einer Berechnung",
 		"text": "Möchten Sie die Berechnung wirklich löschen?",
 		"button_apply": "Löschen",
-		"button_cancel": "Absagen"
+		"button_cancel": "Abbrechnen"
 	},
 	"dialog_save_template": {
 		"title": "Berechnung speichern",
 		"text": "Möchten Sie eine offene Berechnung aktualisieren oder die Berechnung als neue speichern?",
 		"button_apply": "Aktualisierung",
-		"button_cancel": "neu speichern"
+		"button_cancel": "Neues speichern"
 	},
 	"dialog_tooltip_template": {
 		"title": "Hinweis",

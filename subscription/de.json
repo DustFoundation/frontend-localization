@@ -4,50 +4,50 @@
 			"term": "Abonnement für {{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} aktiviert!",
 			"title": "Willkommen in der Community der Krypto-Enthusiasten!",
 			"subtitle": "Fangen Sie jetzt an, alle Vorteile und Funktionen der Plattform zu genießen!",
-			"to_main": "Zur Hauptsache"
+			"to_main": "Zur Startseite"
 		},
 		"subscription-integrations": {
-			"title": "Integration von Discord- und Telegram-Konten",
+			"title": "Integration von Discord und Telegram Accounts",
 			"rule_1": "Um vollen Zugriff auf den privaten Discord-Server und den Telegrammkanal zu erhalten, müssen Sie Integrationen mit ihnen verbinden.",
-			"rule_2": "Nur auf diese Accounts wird Zugriff gewährt! Sie können den Zugriff auf ein anderes Konto ändern, wenn Sie Ihr Abonnement verlängern.",
+			"rule_2": "Nur auf diesen Accounts wird Zugriff gewährt! Sie können den Zugriff auf einen anderes Account ändern, wenn Sie Ihr Abonnement verlängern.",
 			"back": "zurück",
-			"onward": "Des Weiteren",
+			"onward": "weitere",
 			"skip": "Überspringen",
-			"attention": "Aufmerksamkeit!"
+			"attention": "Achtung!"
 		},
 		"subscription-term": {
-			"top_up_on": "Auffüllen",
+			"top_up_on": "Auffüllen auf",
 			"select_subscription": "Wählen Sie ein Abonnement",
 			"go": "Gehe zu",
-			"transaction_in_progress": "Transaktion läuft",
+			"transaction_in_progress": "Transaktion in Bearbeitung",
 			"on_your_balance": "Auf Ihrem Guthaben",
 			"selected_subscription": "Ausgewähltes Abonnement:",
 			"test_period": "(Testzeitraum)",
 			"on_day": "am {{day}} {day, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}}",
 			"bonus": "Mit einem Abonnement für {{term}} {term, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} erhalten Sie {{bonusterm}} {bonusterm, plurm, plurm, =1 ra =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} kostenlos!",
-			"rule_1": "Bevor Sie fortfahren, vergewissern Sie sich, dass Sie genügend USDT auf Ihrem Guthaben haben, um Ihr Abonnement für den Zeitraum Ihrer Wahl zu aktivieren!",
+			"rule_1": "Bevor Sie weitermachen, vergewissern Sie sich, dass Sie genügend USDT auf Ihrem Guthaben haben, um Ihr Abonnement für den Zeitraum Ihrer Wahl zu aktivieren!",
 			"rule_2": {
-				"first_part": "So aktivieren Sie das Abonnement „{{subscriptionName}}“ für {{subscriptionTerm}}",
+				"first_part": "Für Aktivierung des Abonnement „{{subscriptionName}}“ für {{subscriptionTerm}}",
 				"second_part": "{subscriptionTerm, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} Sie müssen mindestens {{subscriptionPrice}} auf Ihrem Konto haben!]"
 			},
 			"usdt": "USDT",
-			"activate": "aktivieren Sie",
+			"activate": "Aktivieren",
 			"back": "zurück",
-			"attention": "Aufmerksamkeit!"
+			"attention": "Achtung!"
 		}
 	},
 	"subscription-main": {
-		"title": "Staub-Abonnement",
+		"title": "DUST-Abonnement",
 		"active": "Aktiv",
 		"inactive": "Inaktiv",
 		"to_end_subscription": "Bis zum Ende des Abonnements „{{name}}“:",
-		"continue_subscription": "Erneuern Sie Ihr Abonnement",
+		"continue_subscription": "Abonnement erneuern ",
 		"activate_subscription": "Abonnement aktivieren",
 		"all_transaction": "Alle Transaktionen",
 		"detail": "Mehr zum Abonnement",
 		"cryptocommunity": {
 			"0": {
-				"title": "Zugang zur Krypto-Community",
+				"title": "Zugang zur Crypto-Community",
 				"description": "Privater Discord-Server mit Krypto-Enthusiasten"
 			},
 			"title": "Was ist im Cryptocommunity-Abonnement enthalten?"
@@ -66,12 +66,12 @@
 				"description": "Beiträge erstellen und kommentieren"
 			},
 			"3": {
-				"title": "Ein Krypto-Zeichen",
+				"title": "Ein Krypto-Charakter",
 				"description": "1 von 5 aktualisierbaren Charakteren"
 			},
 			"4": {
 				"title": "Aktivitätsbelohnungen",
-				"description": "System der Auszeichnungen und Leistungen"
+				"description": "System der Belohnungen und Errungenschaften"
 			},
 			"5": {
 				"title": "Krypto-Kalender",

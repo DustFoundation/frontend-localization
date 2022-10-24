@@ -3,56 +3,56 @@
 		"dialog-buy-access": {
 			"title": "Forum entsperren für",
 			"subtitle": "Sammeln Sie tägliche Belohnungen und erhalten Sie Zugang zum Abschnitt \"Forum\".",
-			"on_balance": "Auf Ihrem Guthaben",
-			"dust": "STAUB",
-			"unlock": "Freischalten"
+			"on_balance": "Auf Ihrem Konto",
+			"dust": "DUST",
+			"unlock": "entsperren"
 		},
 		"dialog-delete-ticket": {
-			"title": "Löschen eines Beitrags",
-			"subtitle": "Möchten Sie den von Ihnen erstellten Beitrag wirklich löschen?",
-			"delete": "Löschen",
-			"cancel": "Absagen"
+			"title": "Beitrag entfernen",
+			"subtitle": "Möchten Sie den von Ihnen erstellten Beitrag wirklich entfernen?",
+			"delete": "Entfernen",
+			"cancel": "Abbrechen"
 		},
 		"dialog-reject-reason": {
 			"title": "Grund für die Ablehnung des Tickets"
 		},
 		"ticket-comments": {
-			"forbidden": "Es ist verboten, Kommentare zu einem abgelehnten oder unveröffentlichten Beitrag zu posten"
+			"forbidden": "Es ist verboten, Kommentar zu einem abgelehnten oder unveröffentlichten Beitrag abzugeben"
 		},
 		"ticket-comments-item": {
-			"leave_comment": "Hinterlasse einen Kommentar",
-			"show_more": "Zeig mehr...",
+			"leave_comment": "Kommentar hinterlassen",
+			"show_more": "Mehr zeigen...",
 			"hide": "Ausblenden",
-			"cancel": "Absagen",
-			"change": "Veränderung",
-			"reply": "Antwort",
+			"cancel": "Abbrechnen",
+			"change": "Verändern",
+			"reply": "Antworten",
 			"show": "Zeigen",
-			"show_answer": "Zeige {{value}} {value, plural, =1 {Antwort} =2 {Antworten} =3 {Antworten} =4 {Antworten} other {Antworten}}",
+			"show_answer": "Zeigen {{value}} {value, plural, =1 {Antwort} =2 {Antworten} =3 {Antworten} =4 {Antworten} other {Antworten}}",
 			"edit": "Bearbeiten",
-			"delete": "Löschen"
+			"delete": "Entfernen"
 		},
 		"ticket-item": {
-			"moderate": "Unter Berücksichtigung"
+			"moderate": "Zur Prüfung"
 		},
 		"ticket-leave-comment": {
-			"leave_comment": "Hinterlasse einen Kommentar",
-			"reply": "Antwort",
-			"cancel": "Absagen"
+			"leave_comment": "Kommentar hinterlassen",
+			"reply": "Antworten",
+			"cancel": "Abbrechnen"
 		}
 	},
 	"buy-access": {
-		"all": "Alle Artikel",
-		"my-tickets": "Beiträge erstellt",
+		"all": "Alle Beiträge",
+		"my-tickets": "erstellte Beiträge",
 		"create_post": "Beitrag erstellen",
-		"all_posts": "Alle Artikel",
+		"all_posts": "Alle Beiträge",
 		"rating": "Bewertung",
-		"name": "Titel des Beitrags",
+		"name": "Beitragstitel",
 		"author": "Autor",
 		"date": "Veröffentlichungsdatum",
 		"topic": "Thema",
 		"views": "Ansichten",
 		"comments": "Kommentare",
-		"no_posts": "Forum leer :(",
+		"no_posts": "Forum ist leer :(",
 		"create_firs_post": "Erstellen Sie Ihren ersten Beitrag"
 	},
 	"create-ticket": {
@@ -61,25 +61,25 @@
 		"edit_mode": "Nachbearbeitung",
 		"view_mode": "Beitragsansicht",
 		"create_post": "Erstellen Sie einen Beitrag",
-		"title_post": "Titel des Beitrags",
-		"title": "Header",
-		"post_topic": "Betreff posten",
+		"title_post": "Beitragstitel",
+		"title": "der Titel",
+		"post_topic": "Thematik des Beitrags",
 		"description": "Text / Inhalt / Beschreibung des Beitrags",
-		"resend": "erneut senden",
+		"resend": "nochmal senden",
 		"times_left": "(verbleibende {{num}})",
 		"buy_opportunities": "Kaufen Sie 10 Gelegenheiten, einen Beitrag zu erstellen (10 DUST)",
-		"moderate": "Unter Berücksichtigung",
-		"rejected": "Abgewichen",
+		"moderate": "zur Prüfung",
+		"rejected": "abgelehnt",
 		"no_reason": "Grund nicht angegeben",
 		"delete_post": "Beitrag entfernen",
 		"default_user_nickname": "Anonym",
 		"loaded_photo": "Foto hochgeladen:",
 		"load_image": "Datei hochladen oder ziehen (JPG oder PNG kleiner als 3 MB)",
 		"add_image": "Bild hinzufügen",
-		"close": "nah dran",
+		"close": "schließen",
 		"create": "Schaffen",
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"invalid_format_img": "Ungültiges Bildformat",
@@ -87,15 +87,15 @@
 		}
 	},
 	"my-tickets": {
-		"popular": "Am besten",
+		"popular": "Bessere",
 		"news": "Neu",
-		"all": "Alle Artikel",
-		"my-tickets": "Beiträge erstellt",
+		"all": "Alle Beiträge",
+		"my-tickets": "erstellte Beiträge",
 		"create_post": "Beitrag erstellen",
 		"delete_post": "Beitrag entfernen",
-		"no_posts": "Forum leer :(",
+		"no_posts": "Forum ist leer :(",
 		"create_firs_post": "Erstellen Sie Ihren ersten Beitrag",
-		"name": "Titel des Beitrags",
+		"name": "Beitragstitel",
 		"date": "Veröffentlichungsdatum",
 		"status": "Moderationsstatus",
 		"comment": "Kommentar",
@@ -105,41 +105,41 @@
 		"sent": "Gesendet:",
 		"edit": "Bearbeiten",
 		"accepted": "Veröffentlicht",
-		"moderate": "Unter Berücksichtigung",
-		"rejected": "Abgewichen"
+		"moderate": "zur Prüfung",
+		"rejected": "abgelehnt"
 	},
 	"ticket": {
 		"default_user_nickname": "Anonym",
 		"up_rating": "Bewertung erhöhen",
 		"remove_voice": "Stimme entfernen",
 		"rating": "Bewertung",
-		"name": "Titel des Beitrags",
+		"name": "Beitragstitel",
 		"author": "Autor",
 		"date": "Veröffentlichungsdatum",
 		"topic": "Thema",
 		"views": "Ansichten",
 		"comments": "Kommentare",
-		"moderator": "Moderation",
+		"moderator": "Moderator",
 		"edit": "Bearbeiten",
 		"delete_post": "Beitrag entfernen",
-		"delete": "Löschen"
+		"delete": "Entfernen"
 	},
 	"tickets": {
-		"popular": "Am besten",
+		"popular": "Bessere",
 		"news": "Neu",
-		"all": "Alle Artikel",
-		"my-tickets": "Beiträge erstellt",
+		"all": "Alle Beiträge",
+		"my-tickets": "erstellte Beiträge",
 		"create_post": "Beitrag erstellen",
-		"all_posts": "Alle Artikel",
+		"all_posts": "Alle Beiträge",
 		"rating": "Bewertung",
-		"name": "Titel des Beitrags",
+		"name": "Beitragstitel",
 		"author": "Autor",
 		"date": "Veröffentlichungsdatum",
 		"topic": "Thema",
 		"views": "Ansichten",
 		"comments": "Kommentare",
-		"moderator": "Moderation",
-		"no_posts": "Forum leer :(",
+		"moderator": "Moderator",
+		"no_posts": "Forum ist leer :(",
 		"create_firs_post": "Erstellen Sie Ihren ersten Beitrag"
 	},
 	"tags": {

@@ -1,6 +1,6 @@
 {
 	"authorization": {
-		"title": "Genehmigung"
+		"title": "Autorisierung"
 	},
 	"profile": {
 		"title": "Profil",
@@ -8,13 +8,13 @@
 		"transactions": "Transaktionen"
 	},
 	"topup_balance": {
-		"title": "Guthabenauffüllung"
+		"title": "Auffüllung des Guthabens"
 	},
 	"subscription": {
-		"title": "Unterschrift"
+		"title": "Abonnement"
 	},
 	"join": {
-		"title": "Verbinden"
+		"title": "Beitreten"
 	},
 	"academy": {
 		"title": "Akademie"
@@ -23,7 +23,7 @@
 		"title": "Portfolio",
 		"portfolio_list": "Liste der Portfolios",
 		"ventures": "Venture-Portfolio",
-		"portfolio": "Aktentasche",
+		"portfolio": "Portfolio",
 		"portfolio_transactions": "Portfolio | Transaktionen"
 	},
 	"forum": {
@@ -36,6 +36,6 @@
 		"title": "Risikorechner"
 	},
 	"notes": {
-		"title": "Anmerkungen"
+		"title": "Notizen"
 	}
 }

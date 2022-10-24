@@ -1,13 +1,13 @@
 {
 	"components": {
 		"binance-pay-dialog": {
-			"enter_sum": "Geben Sie die Auffüllmenge an",
+			"enter_sum": "Geben Sie den Aufladebetrag an",
 			"get_qr": "Holen Sie sich einen QR-Code für die Zahlung",
 			"min_sum": "Mindesteinzahlungsbetrag {{num}}$",
-			"scan_qr": "Scannen Sie den QR-Code auf Ihrer mobilen Binance-App, um zu bezahlen",
+			"scan_qr": "Scannen Sie den QR-Code auf Ihrer Binance-App, um zu bezahlen",
 			"i_paid": "Ich habe bezahlt",
 			"validation_messages": {
-				"required": "Dieses Feld ist erforderlich"
+				"required": "ein Pflichtfeld"
 			}
 		},
 		"change-password-dialog": {
@@ -17,7 +17,7 @@
 			"change_password": "Passwort ändern",
 			"password_input_placeholder": "*****************",
 			"validation_messages": {
-				"required": "Dieses Feld ist erforderlich",
+				"required": "ein Pflichtfeld",
 				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 				"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 				"password_rules": "Das Passwort muss mindestens enthalten: 1 lateinischer Kleinbuchstabe, 1 Zahl",
@@ -32,12 +32,12 @@
 			"selected_subscription": "Abonnement ausgewählt <span>{{name}}</span>",
 			"change_subscription": "Abonnement ändern",
 			"send_code": "Code senden",
-			"send_code_after": "Code erneut senden nach <span>{{time}} {time, plural, =1 {Sekunden} =2 {Sekunden} =3 {Sekunden} =4 {Sekunden} other {Sekunden}}</span>",
+			"send_code_after": "Nochnal senden Code nach <span>{{time}} {time, plural, =1 {Sekunden} =2 {Sekunden} =3 {Sekunden} =4 {Sekunden} other {Sekunden}}</span>",
 			"send_code_once_more": "Code nochmal senden",
 			"email_input_placeholder": "mail@mail.com",
 			"back": "zurück",
 			"validation_messages": {
-				"required": "Dieses Feld ist erforderlich",
+				"required": "ein Pflichtfeld",
 				"invalid_email": "ungültiges Email-Format"
 			},
 			"policy": {
@@ -51,7 +51,7 @@
 			"roadmap": "Fahrplan",
 			"about_us": {
 				"title": "Über uns",
-				"subtitle": "Unser Befehl"
+				"subtitle": "Unser Team"
 			},
 			"our_brand": {
 				"title": "Unsere Marke",
@@ -66,11 +66,11 @@
 				"subtitle": "Partnerschaften"
 			},
 			"blog": {
-				"title": "Bloggen",
+				"title": "Blog",
 				"subtitle": "Bleiben Sie auf dem Laufenden mit den neuesten Nachrichten"
 			},
 			"registration": "Anmeldung",
-			"entry": "Anmeldung"
+			"entry": "anmelden"
 		},
 		"checkout-payment": {
 			"title": "Auswahl des Abonnementzeitraums",
@@ -115,12 +115,12 @@
 				"title": "Wichtig"
 			},
 			"validation_messages": {
-				"required": "Dieses Feld ist erforderlich",
+				"required": "ein Pflichtfeld",
 				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
 			}
 		},
 		"checkout-status": {
-			"processing": "Fliegen auf der Blockchain",
+			"processing": "Blockchain-Flüge",
 			"success": "Erfolgreicher Nachschub",
 			"status": "Zahlungsstatus:"
 		}

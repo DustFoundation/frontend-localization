@@ -1,9 +1,9 @@
 {
 	"confirm-email": {
-		"title": "Email Bestätigung",
+		"title": "Bestätigen Sie E-Mail",
 		"subtitle": "Geben Sie den unten stehenden Code ein, der an Ihre E-Mail gesendet wurde",
 		"code": "Der Code",
-		"send_new_code": "Neuen Code einreichen",
+		"send_new_code": "Neuen Code senden",
 		"get_new_code_after": {
 			"code": "einen neuen Code bekommen",
 			"after": "in {{timer}} Sekunden"
@@ -12,36 +12,36 @@
 		"back": "zurück"
 	},
 	"confirm-mfa": {
-		"title": "Verifizieren Sie Ihr Konto",
+		"title": "Verifizieren Sie Ihren Account",
 		"subtitle": "Geben Sie den Bestätigungscode von Ihrem Google Authenticator unten ein",
 		"code": "Der Code",
 		"back": "zurück",
-		"sign_in": "Betreten"
+		"sign_in": "einloggen"
 	},
 	"forgot-password": {
 		"title_1": "Stellen Sie früheren Glanz wieder her",
-		"subtitle_1": "Wir werden eine Krähe mit einem Geheimcode in Ihr Land schicken, um Ihr Passwort zurückzusetzen.",
-		"get_code": "einen Raben schicken",
+		"subtitle_1": "Wir senden Ihnen eine Krähe mit einem Geheimcode an Ihre E-Mail-Adresse, um Ihr Passwort zurückzusetzen.",
+		"get_code": "eine Krähe schicken",
 		"title_2": "Rabe ist angekommen",
-		"subtitle_2": "Öffne die Schriftrolle, die der Rabe deiner Post zugestellt hat, und gib den Geheimcode unten ein.",
+		"subtitle_2": "Öffnen Sie die Schriftrolle, die der Rabe Ihnen per E-Mail geschickt hat, und geben Sie den Geheimcode unten ein.",
 		"code": "Der Code",
-		"send_new_code": "Neuen Code einreichen",
+		"send_new_code": "Neuen Code senden",
 		"get_new_code_after": {
 			"code": "einen neuen Code bekommen",
 			"after": "in {{timer}} Sekunden"
 		},
 		"title_3": "Test bestanden",
-		"subtitle_3": "Sie haben das Recht bewiesen, den früheren Glanz wiederherzustellen. Es bleibt nur noch ein neues Passwort einzugeben.",
+		"subtitle_3": "Sie haben bewiesen,dass Sie das Recht haben, den früheren Glanz wiederherzustellen. Es bleibt nur noch ein neues Passwort einzugeben.",
 		"restore_password": "Passwort wiederherstellen",
 		"form": {
-			"mail": "Ein Postbüro",
+			"mail": "E-mail",
 			"mail_input_placeholder": "mail@mail.com",
 			"new_password": "Neues Passwort",
 			"repeat_password": "Wiederholen Sie das Passwort",
 			"password_input_placeholder": "*****************"
 		},
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"invalid_email": "ungültiges Email-Format",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
@@ -51,7 +51,7 @@
 	},
 	"new-password": {
 		"title": "Test bestanden",
-		"subtitle": "Sie haben das Recht bewiesen, den früheren Glanz wiederherzustellen. Es bleibt nur noch ein neues Passwort einzugeben.",
+		"subtitle": "Sie haben bewiesen,dass Sie das Recht haben, den früheren Glanz wiederherzustellen. Es bleibt nur noch ein neues Passwort einzugeben.",
 		"restore_password": "Passwort wiederherstellen",
 		"form": {
 			"new_password": "Neues Passwort",
@@ -59,7 +59,7 @@
 			"password_input_placeholder": "*****************"
 		},
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"invalid_email": "ungültiges Email-Format",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
@@ -68,47 +68,47 @@
 		}
 	},
 	"sign-in": {
-		"no_account": "Sie haben kein Konto?",
-		"sign_up": "Registrieren",
+		"no_account": "Haben Sie keinen Account?",
+		"sign_up": "Anmelden",
 		"title": "Anmeldung",
 		"forgot_password": "Passwort vergessen?",
-		"ban_reason": "Grund des Ausschlusses:",
+		"ban_reason": "Grund des Verbotes:",
 		"banned_until": "Verboten bis:",
-		"sign_in": "Betreten",
+		"sign_in": "einloggen",
 		"form": {
-			"mail": "Ein Postbüro",
+			"mail": "E-Mail",
 			"mail_input_placeholder": "mail@mail.com",
 			"password": "Passwort",
 			"password_input_placeholder": "*****************"
 		},
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"invalid_email": "ungültiges Email-Format",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
 		}
 	},
 	"sign-up": {
-		"have_account": "Ein Konto haben?",
-		"sign_in": "Betreten",
-		"title": "Anmeldung",
+		"have_account": "Haben Sie einen Account?",
+		"sign_in": "einloggen",
+		"title": "einloggen",
 		"forgot_password": "Passwort vergessen?",
-		"ban_reason": "Grund des Ausschlusses:",
+		"ban_reason": "Grund des Verbotes:",
 		"banned_until": "Verboten bis:",
-		"sign_up": "Registrieren",
+		"sign_up": "Anmelden",
 		"policy": {
 			"agree": "Ich bin einverstanden mit",
 			"with": "Datenschutz-Bestimmungen"
 		},
 		"form": {
-			"mail": "Ein Postbüro",
+			"mail": "E-mail",
 			"mail_input_placeholder": "mail@mail.com",
 			"password": "Passwort",
 			"password_input_placeholder": "*****************",
 			"repeat_password": "Wiederholen Sie das Passwort"
 		},
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"invalid_email": "ungültiges Email-Format",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",

@@ -2,7 +2,7 @@
 	"header": {
 		"subscription_activate": "Abonnement aktivieren",
 		"subscription_activated": {
-			"text": "Unterschrift",
+			"text": "Abonnement",
 			"status": "Aktiv"
 		},
 		"portfolio": "Portfolio",
@@ -12,35 +12,35 @@
 		},
 		"academy": "Akademie",
 		"forum": "Forum",
-		"main": "Heimat",
+		"main": "Startseite",
 		"conferences": "Konferenzen",
 		"menu": {
-			"profile": "Persönliches Profil",
-			"balance": "Guthabenauffüllung",
-			"subscription": "Unterschrift",
+			"profile": "Profil",
+			"balance": "das Guthaben auffüllen",
+			"subscription": "Abonnement",
 			"transactions": "Verlauf der Transaktionen",
-			"settings": "Einstellungen",
+			"settings": "Optionen",
 			"promocode": "Werbe-Code",
-			"bug_report": "Teambericht",
+			"bug_report": "Fehlerbericht",
 			"support": "Support-Chat",
 			"conferences": "Konferenzen"
 		},
 		"sign_up": "Anmeldung",
-		"sign_in": "Betreten",
+		"sign_in": "Einloggen",
 		"logout": "Ausloggen",
 		"in_development": "In Entwicklung",
 		"beta": "BETA",
-		"dust": "STAUB",
+		"dust": "DUST",
 		"usdt": "USDT",
-		"micron": "MIKRON"
+		"micron": "MICRON"
 	},
 	"notes_dropdown": {
 		"notes": "Alle Notizen",
 		"add_note": "Notiz erstellen"
 	},
 	"notifications": {
-		"count_of_notification": "Neue Benachrichtigungen",
-		"clear": "Alle Benachrichtigungen löschen",
+		"count_of_notification": "Neue Nachrichtigungen",
+		"clear": "Alle Nachrichtigungen entfernen",
 		"types": {
 			"SUBSCRIPTION_ADDED": {
 				"title": "Erfolgreicher Abonnementkauf",
@@ -48,15 +48,15 @@
 			},
 			"SUBSCRIPTION_UPDATED": {
 				"title": "Erfolgreiche Verlängerung des Abonnements",
-				"description": "Sie haben Ihr Abonnement für {{term}} {term, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} erfolgreich verlängert."
+				"description": "Sie haben Abonnement für {{term}} {term, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} erfolgreich verlängert."
 			},
 			"SUBSCRIPTION_ENDING_SOON": {
-				"title": "Das Abonnement steht kurz vor dem Zusammenbruch",
+				"title": "Das Abonnement endet bald",
 				"description": "Es tut uns leid, aber Ihr Abonnement hat nur {{daysToExpire}} {daysToExpire, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} ... Wir werden Sie vermissen !"
 			},
 			"BALANCE_ADDED": {
-				"title": "Guthabenauffüllung",
-				"description": "Ihr Konto wurde mit {{amount}} USDT finanziert"
+				"title": "das Guthaben auffüllen",
+				"description": "Ihr Guthaben wurde mit {{amount}} USDT aufgefüllt"
 			},
 			"TELEGRAM_INVITED": {
 				"title": "Einladung per Telegramm",
@@ -72,11 +72,11 @@
 			},
 			"PAYMENT_ORDER_SUCCESS": {
 				"title": "Guthabenauffüllung",
-				"description": "Der Antrag auf Aufstockung des Guthabens ist abgeschlossen."
+				"description": "Der Antrag auf Auffüllung des Guthabens ist abgeschlossen."
 			},
 			"PAYMENT_ORDER_FAILED": {
 				"title": "Guthabenauffüllung",
-				"description": "Fehler beim Ausführen einer Anforderung zum Auffüllen des Guthabens!"
+				"description": "Fehler beim Ausführen eines Antrags zum Auffüllen des Guthabens!"
 			},
 			"PAYMENT_TXID_EXIST": {
 				"title": "Guthabenauffüllung",
@@ -88,64 +88,64 @@
 			},
 			"SUBSCRIPTION_SUCCESS": {
 				"title": "Abonnieren",
-				"description": "Gezeichnet"
+				"description": "Abonniert"
 			}
 		}
 	},
 	"promocode-dialog": {
-		"title": "Aktivierung des Aktionscodes",
+		"title": "Aktivierung des Werbe-Codes",
 		"enter_promocode": "Aktionscode eingeben",
-		"activate": "Aktionscode aktivieren",
+		"activate": "Werbe-Code aktivieren",
 		"example": "Beispiel: X2dDjsa29GKO",
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
 		}
 	},
 	"report-dialog": {
 		"name": "Name",
-		"bag_report": "Teambericht",
-		"loaded_file": "Datei hochgeladen:",
+		"bag_report": "Fehlerbericht",
+		"loaded_file": "hochgeladene Datei:",
 		"short_description": "Kurzbeschreibung",
 		"detail_description_problem": "Detaillierte Beschreibung des Problems",
 		"description_of_problem": "Beschreibung des Problems",
 		"validation_messages": {
-			"required": "Dieses Feld ist erforderlich",
+			"required": "ein Pflichtfeld",
 			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 			"img": "JPG oder PNG, nicht mehr als 3 MB",
-			"discord_or_email": "Geben Sie die E-Mail-Adresse oder den Spitznamen Discord ein"
+			"discord_or_email": "Geben Sie die E-Mail-Adresse oder Discord-Nickname ein"
 		},
-		"download": "Download",
+		"download": "hochladen",
 		"send": "Senden",
-		"cancel": "Absagen",
+		"cancel": "Abbrechnen",
 		"contact_with_me": "Kontaktieren Sie mich für Feedback",
-		"enter_email_or_discord": "Geben Sie die E-Mail-Adresse oder den Spitznamen Discord ein",
+		"enter_email_or_discord": "Geben Sie die E-Mail-Adresse oder Discord-Nickname ein",
 		"contact": "Kontakt"
 	},
 	"system-notification-dialog": {
 		"update": "Update verfügbar",
-		"failed": "Hoppla",
+		"failed": "Oops",
 		"offline": "Keine Verbindung",
-		"update_detected": "Neue Anwendungsversion erkannt: {{version}}",
+		"update_detected": "Es wurde eine neue App-Version gefunden: {{version}}",
 		"update_ready": "Eine neue Version ist verfügbar {{version}}. Möchten sie updaten?",
 		"update_failed": "Beim Installieren des Updates {{version}} ist ein Fehler aufgetreten",
-		"network_offline": "Das Internet ist ausgefallen, Sie müssen die Seite neu laden",
+		"network_offline": "Das Internet ist ausgefallen, Sie müssen die Seite neu starten",
 		"yes": "Ja, aktualisieren",
 		"no": "Nein"
 	},
 	"cookies": {
 		"cookies_settings": "Cookies verwalten",
 		"intro": "Wir verwenden Cookies, um Ihre Benutzererfahrung zu verbessern, Analysen zur App-Nutzung durchzuführen und den Chat-Support zu aktivieren.",
-		"get_know_with_start": "Kasse",
+		"get_know_with_start": "Vertrauten Sie sich mit",
 		"cookies_policy": "Cookie-Richtlinie",
 		"get_known_with_end": "mehr",
 		"accept": "Akzeptieren",
-		"settings": "Management",
+		"settings": "Verwaltung",
 		"analytic_cookies": "Analyse-Cookies",
-		"analytic_cookies_description": "Durch die Aktivierung dieser Cookies können wir Ihre Interaktion mit unserer Website verfolgen und Verbesserungen vornehmen.",
+		"analytic_cookies_description": "Durch die Aktivierung dieser Cookies können wir Ihre Interaktion mit unserer Website verfolgen und Verbesserungen machen.",
 		"support_chat": "Support-Chat",
-		"support_chat_description": "Wenn Sie Zugriff auf den Support-Chat haben möchten, sind diese Cookies erforderlich.",
+		"support_chat_description": "Wenn Sie Zugriff auf den Support-Chat haben möchten, sind diese Cookies benötigt.",
 		"save": "Speichern",
 		"back": "zurück"
 	}

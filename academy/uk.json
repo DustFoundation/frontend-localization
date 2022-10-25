@@ -35,6 +35,7 @@
     }
   },
   "course-details": {
+    "need_subscription": "Потрібно оформити підписку",
     "level": "Рівень:",
     "count_of_modules": "Модулів:",
     "count_of_lessons": "Уроків:",

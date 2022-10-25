@@ -1,0 +1,22 @@
+{
+	"main": "Homepage",
+	"settings": "Impostazioni",
+	"profile": "Profilo",
+	"forum": "Forum",
+	"academy": "Accademia",
+	"portfolio": "Portafoglio",
+	"balance": "Ricarica",
+	"subscription": "Sottoscrizione",
+	"transaction": "Cronologia delle transazioni",
+	"risk": "Calcolatore del rischio",
+	"activation_subscription": "Attiva abbonamento",
+	"post_view": "Visualizza post",
+	"created_posts": "I miei post",
+	"popular": "Popolare",
+	"news": "Nuovo",
+	"my-tickets": "I miei post",
+	"create_ticket": "Crea post",
+	"conferences": "Conferenze",
+	"notes": "Appunti",
+	"back": "Indietro"
+}

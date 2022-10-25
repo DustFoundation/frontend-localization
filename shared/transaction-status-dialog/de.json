@@ -1,0 +1,11 @@
+{
+	"status": "Zahlungsstatus:",
+	"entered_hash": "Eingegebener Hash:",
+	"edit_hash": "Hash bearbeiten",
+	"transaction_statuses": {
+		"success_1": "Erfolg",
+		"success_2": "Erfolgreiche Auffüllung",
+		"processing_1": "in Bearbeitung...",
+		"processing_2": "Fliegen auf der Blockchain"
+	}
+}

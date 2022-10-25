@@ -84,7 +84,8 @@
 			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
 			"invalid_format_img": "Nieprawidłowy format obrazu",
 			"file_size_exceeded": "Przekroczono rozmiar pliku"
-		}
+		},
+		"description_placeholder": "Opis"
 	},
 	"my-tickets": {
 		"popular": "To, co najlepsze",

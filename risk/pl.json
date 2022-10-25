@@ -45,7 +45,8 @@
 			"leverage_tooltip": "Dźwignia umożliwia wykorzystanie pożyczonych środków do handlu kryptowalutami lub innymi aktywami finansowymi. Zawsze pamiętaj, że używanie wyższej dźwigni zwiększa prawdopodobieństwo likwidacji Twojej pozycji. Eliminacja ramion w % - x100 (1%)",
 			"risk_tooltip": "Potencjalna strata w % Twojej pozycji w przypadku negatywnego wyniku",
 			"profit_tooltip": "Potencjalny zysk w % Twojej pozycji w przypadku pozytywnego wyniku"
-		}
+		},
+		"stop_loss_alert": "Uwaga! Twoja likwidacja jest wyższa niż stop loss. Przy takim stosunku dostaniesz likwidację przed trafieniem twojego stopu."
 	},
 	"list": {
 		"empty": "Brak zapisanych obliczeń",

@@ -64,5 +64,6 @@
 	"note_saved": "Notatka zapisana",
 	"notes_limit": "Osiągnięto limit notatek",
 	"notes_lost_connection": "Notatki zostaną zsynchronizowane po ponownym połączeniu",
-	"notes_access": "Dostępne dla użytkowników, którzy zasubskrybowali „Platformę”"
+	"notes_access": "Dostępne dla użytkowników, którzy zasubskrybowali „Platformę”",
+	"last_sent": "List wysłany na twoją pocztę"
 }

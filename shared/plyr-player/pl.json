@@ -2,5 +2,6 @@
 	"auto": "Automatyczny",
 	"normal": "Zwykły",
 	"speed": "{type, plural, =1 {Prędkość odtwarzania} other {Prędkość odtwarzania}}",
-	"quality": "Jakość"
+	"quality": "Jakość",
+	"title": "Konfiguracja odtwarzacza wideo"
 }

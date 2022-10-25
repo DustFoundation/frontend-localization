@@ -75,6 +75,7 @@
     "ban_reason": "Причина бана:",
     "banned_until": "Забанен до:",
     "sign_in": "Войти",
+    "sign_in_with_google": "Войти через Google+",
     "form": {
       "mail": "Почта",
       "mail_input_placeholder": "mail@mail.com",

@@ -75,7 +75,8 @@
 		"ban_reason": "Motivo del divieto:",
 		"banned_until": "Bannato fino a:",
 		"sign_in": "Registrazione",
-		"form": {
+    "sign_in_with_google": "Accedi con Google+",
+    "form": {
 			"mail": "E-mail",
 			"mail_input_placeholder": "mail@mail.com",
 			"password": "Parola d'ordine",

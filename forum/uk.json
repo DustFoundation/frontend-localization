@@ -65,6 +65,7 @@
     "title": "Заголовок",
     "post_topic": "Тематика посту",
     "description": "Текст / зміст / опис посту",
+    "description_placeholder": "Опис",
     "resend": "Надіслати повторно",
     "times_left": "(залишилось {{num}})",
     "buy_opportunities": "Купити 10 можливостей створити пост (10 DUST)",

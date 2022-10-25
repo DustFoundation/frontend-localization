@@ -1,0 +1,41 @@
+{
+	"authorization": {
+		"title": "Autorizzazione"
+	},
+	"profile": {
+		"title": "Profilo",
+		"settings": "Impostazioni",
+		"transactions": "Transazioni"
+	},
+	"topup_balance": {
+		"title": "Ricarica"
+	},
+	"subscription": {
+		"title": "Sottoscrizione"
+	},
+	"join": {
+		"title": "Unirsi"
+	},
+	"academy": {
+		"title": "Accademia"
+	},
+	"portfolio": {
+		"title": "Portafoglio",
+		"portfolio_list": "Elenco dei portafogli",
+		"ventures": "Portafoglio di venture",
+		"portfolio": "Portafoglio",
+		"portfolio_transactions": "Portafoglio | Transazioni"
+	},
+	"forum": {
+		"title": "Forum"
+	},
+	"conferences": {
+		"title": "Conferenze"
+	},
+	"risk": {
+		"title": "Calcolatore del rischio"
+	},
+	"notes": {
+		"title": "Appunti"
+	}
+}

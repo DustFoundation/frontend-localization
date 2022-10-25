@@ -1,0 +1,11 @@
+{
+	"status": "Stato del pagamento:",
+	"entered_hash": "Hash inserito:",
+	"edit_hash": "Modifica hash",
+	"transaction_statuses": {
+		"success_1": "successo",
+		"success_2": "Ricarica riuscita",
+		"processing_1": "in lavorazione...",
+		"processing_2": "Vola attraverso blockchain"
+	}
+}

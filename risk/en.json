@@ -36,6 +36,7 @@
     "leverage_label": "Leverage",
     "risk_label": "Risk",
     "profit_label": "Profit",
+    "stop_loss_alert": "Attention! Your liquidation is above your stop loss. With this ratio, you will get liquidation before your stop is reached",
     "alert": "Warning! Liquidation is too close to the stop loss!",
     "calculate": "Calculate",
     "tooltips": {

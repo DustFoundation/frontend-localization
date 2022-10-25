@@ -35,6 +35,7 @@
     }
   },
   "course-details": {
+    "need_subscription": "Nepieciešans aktīvs abonements",
     "level": "Līmenis:",
     "count_of_modules": "Moduļi:",
     "count_of_lessons": "Nodarbības:",

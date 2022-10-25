@@ -45,7 +45,8 @@
 			"leverage_tooltip": "Vipuvaikutuksen avulla voit käyttää lainattuja varoja kryptovaluuttojen tai muiden rahoitusvarojen kauppaan. Muista aina, että suuremman vipuvaikutuksen käyttäminen lisää todennäköisyyttä, että asemasi realisoidaan. Hartioiden likvidaatio % - x100 (1 %)",
 			"risk_tooltip": "Mahdollinen menetys prosentteina asemastasi negatiivisen skenaarion tapauksessa",
 			"profit_tooltip": "Mahdollinen voitto prosentteina positiostasi positiivisen skenaarion tapauksessa"
-		}
+		},
+		"stop_loss_alert": "Huomio! Selvitystilanne on yli stop loss. Tällä suhteella saat selvitystilaan ennen kuin pysähdyssi saavutetaan"
 	},
 	"list": {
 		"empty": "Ei tallennettuja laskelmia",

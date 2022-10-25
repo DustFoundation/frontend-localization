@@ -92,7 +92,9 @@
 		"en": "Englanti",
 		"uk": "ukrainalainen",
 		"lv": "Latvialainen",
-		"saved": "Tallennettu"
+		"saved": "Tallennettu",
+		"it": "italialainen",
+		"de": "Saksan kieli"
 	},
 	"profile-transactions": {
 		"transaction": "Tapahtuma",

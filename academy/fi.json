@@ -44,7 +44,8 @@
 		"continue_learning": "Jatka oppimista",
 		"start_learning": "Aloita oppiminen",
 		"training_program": "Oppimisohjelma",
-		"module": "Moduuli"
+		"module": "Moduuli",
+		"need_subscription": "Aktiivinen tilaus vaaditaan"
 	},
 	"course-lesson": {
 		"pass_test": "Läpäise testi",

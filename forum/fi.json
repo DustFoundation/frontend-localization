@@ -84,7 +84,8 @@
 			"max_length": "Suurin pituus on {{max}} {max, plural, =1 {symbol} other {symbols}}",
 			"invalid_format_img": "Virheellinen kuvamuoto",
 			"file_size_exceeded": "Tiedoston koko ylitetty"
-		}
+		},
+		"description_placeholder": "Kuvaus"
 	},
 	"my-tickets": {
 		"popular": "Suosittu",

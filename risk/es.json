@@ -45,7 +45,8 @@
 			"leverage_tooltip": "El apalancamiento le permite utilizar fondos prestados para operar con criptomonedas u otros activos financieros. Siempre tenga en cuenta que el uso de un mayor apalancamiento aumenta la probabilidad de que su posición sea liquidada. Liquidación de hombros en % - x100 (1%)",
 			"risk_tooltip": "Pérdida potencial en % de su posición en caso de un escenario negativo",
 			"profit_tooltip": "Beneficio potencial en % de su posición en caso de un escenario positivo"
-		}
+		},
+		"stop_loss_alert": "¡Atención! Su liquidación está por encima de su límite de pérdidas. Con esta relación, obtendrá la liquidación antes de que se alcance su parada."
 	},
 	"list": {
 		"empty": "No hay cálculos guardados",

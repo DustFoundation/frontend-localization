@@ -2,5 +2,6 @@
 	"auto": "Auto",
 	"normal": "Normal",
 	"speed": "{type, plural, =1 {Velocidad de reproducción} other {Velocidad de reproducción}}",
-	"quality": "Calidad"
+	"quality": "Calidad",
+	"title": "Configuración del reproductor de vídeo"
 }

@@ -44,7 +44,8 @@
 		"continue_learning": "Continuar aprendiendo",
 		"start_learning": "Comienza a aprender",
 		"training_program": "el programa de aprendizaje",
-		"module": "Módulo"
+		"module": "Módulo",
+		"need_subscription": "Se requiere suscripción activa"
 	},
 	"course-lesson": {
 		"pass_test": "Aprobar el examen",

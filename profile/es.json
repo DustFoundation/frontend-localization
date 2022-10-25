@@ -92,7 +92,9 @@
 		"en": "inglés",
 		"uk": "ucranio",
 		"lv": "letón",
-		"saved": "Salvado"
+		"saved": "Salvado",
+		"it": "italiano",
+		"de": "Alemán"
 	},
 	"profile-transactions": {
 		"transaction": "Transacción",

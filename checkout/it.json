@@ -21,7 +21,7 @@
 				"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 				"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
 				"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra",
-				"passwords_not_match": "le passwords non corrispondono"
+				"passwords_not_match": "Le password non corrispondono"
 			}
 		},
 		"checkout-email": {
@@ -32,17 +32,17 @@
 			"selected_subscription": "Abbonamento selezionato <span>{{name}}</span>",
 			"change_subscription": "Cambia abbonamento",
 			"send_code": "Invia il codice",
-			"send_code_after": "Invia nuovamente un codice in <span>{{time}} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}}</span>",
+			"send_code_after": "Invia nuovamente il codice in <span>{{time}} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}}</span>",
 			"send_code_once_more": "Invia nuovamente un codice",
 			"email_input_placeholder": "mail@mail.com",
-			"back": "Di ritorno",
+			"back": "Indietro",
 			"validation_messages": {
 				"required": "Il campo è obbligatiorio",
-				"invalid_email": "formato email non valido"
+				"invalid_email": "Formato email non valido"
 			},
 			"policy": {
 				"agree": "Sono d'accordo con",
-				"with": "politica sulla privacy"
+				"with": "Politica sulla privacy"
 			}
 		},
 		"checkout-header": {

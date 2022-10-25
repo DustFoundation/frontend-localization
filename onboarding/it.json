@@ -2,7 +2,7 @@
 	"onboarding-call-dialog": {
 		"title": "Vuoi leggere una guida passo per passo a DUST PLATFORM?",
 		"skip": "Saltare",
-		"yes": "sì"
+		"yes": "Sì"
 	},
 	"onboarding-dialog": {
 		"back": "Indietro",
@@ -15,12 +15,12 @@
 				"1": "Saldo totale stimato di portafogli e PNL",
 				"2": "Simulazione di strategie di investimento",
 				"3": "Integrazione di portafogli di scambio in un unico luogo",
-				"4": "Stime e tracciabilità degli investimenti di capitale venture"
+				"4": "Calcolo e monitoraggio degli investimenti di capitale venture"
 			}
 		},
 		"virtual_portfolio": {
 			"title": "Portafoglio virtuale",
-			"description": "Con questo portafoglio, puoi aggiungere risorse manualmente e simulare diversi tipi di strategie di investimento.",
+			"description": "Con questo portafoglio, puoi aggiungere asset manualmente e simulare diversi tipi di strategie di investimento.",
 			"list": {
 				"1": "Aggiunta manuale delle transazioni",
 				"2": "Oltre 1000 criptovalute da tracciare",
@@ -63,8 +63,8 @@
 			"description": "In questa sezione puoi scegliere il corso che ti interessa e acquisire nuove conoscenze.",
 			"list": {
 				"1": "Ogni corso è creato dal team DUST.FOUNDATION",
-				"2": "Rappresentazione visiva di argomenti complessi nei video",
-				"3": "Superamento delle prove in ogni modulo",
+				"2": "Visualizzazione di argomenti complessi in video",
+				"3": "Passaggio delle prove in ogni modulo.",
 				"4": "Valutazione di moduli e corsi"
 			}
 		},
@@ -74,7 +74,7 @@
 			"list": {
 				"1": "Facile processo di pagamento in 2 passaggi",
 				"2": "Supporto di diverse reti e Binance Pay",
-				"3": "Tutorial video dettagliato su come effettuare pagamenti per i nuovi arrivati",
+				"3": "Video Tutorial dettagliato su come effettuare pagamenti per i nuovi arrivati",
 				"4": "Accredito rapido dei fondi sulla piattaforma"
 			}
 		},

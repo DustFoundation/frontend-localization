@@ -16,7 +16,7 @@
 		"conferences": "Conferenze",
 		"menu": {
 			"profile": "Profilo",
-			"balance": "Ricarica il saldo",
+			"balance": "Ricarica",
 			"subscription": "Sottoscrizione",
 			"transactions": "Cronologia delle transazioni",
 			"settings": "Impostazioni",
@@ -55,8 +55,8 @@
 				"description": "Siamo spiacenti, ma il tuo abbonamento scadrà tra soli {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}... Noi' mi mancherai!"
 			},
 			"BALANCE_ADDED": {
-				"title": "Ristabilire l'equilibrio",
-				"description": "Il tuo account è stato rifornito per {{amount}} USDT"
+				"title": "Ricarica",
+				"description": "Il tuo account è stato ricaricato per {{amount}} USDT"
 			},
 			"TELEGRAM_INVITED": {
 				"title": "Invitare a",
@@ -71,20 +71,20 @@
 				"description": "Il tuo invito al canale Telegram FORTUNA. Buona fortuna!"
 			},
 			"PAYMENT_ORDER_SUCCESS": {
-				"title": "Rifornimento dell'equilibrio",
-				"description": "L'ordine di ricostituire il saldo è stato eseguito."
+				"title": "Ricarica",
+				"description": "Richiesta di ricarica è stata eseguita."
 			},
 			"PAYMENT_ORDER_FAILED": {
-				"title": "Rifornimento dell'equilibrio",
-				"description": "L'ordine di ricostituire il saldo è fallito!"
+				"title": "Ricarica",
+				"description": "Richiesta di ricarica è fallita!"
 			},
 			"PAYMENT_TXID_EXIST": {
-				"title": "Rifornimento dell'equilibrio",
+				"title": "Ricarica",
 				"description": "Il tuo numero di transazione è già utilizzato da un altro utente!"
 			},
 			"PAYMENT_FAILED": {
-				"title": "Rifornimento dell'equilibrio",
-				"description": "Impossibile creare l'ordine per ricostituire il saldo, contatta l'amministrazione!"
+				"title": "Ricarica",
+				"description": "Impossibile creare richiesta di ricarica, contatta l'amministrazione!"
 			},
 			"SUBSCRIPTION_SUCCESS": {
 				"title": "Sottoscrizione",
@@ -130,7 +130,7 @@
 		"update_detected": "È stato rilevato l'aggiornamento dell'app: {{version}}",
 		"update_ready": "L'aggiornamento è pronto {{version}}. Vuoi aggiornare?",
 		"update_failed": "Durante l'installazione dell'aggiornamento {{version}} si è verificato un errore",
-		"network_offline": "La connessione è stata persa, è necessario ricaricare la pagina",
+		"network_offline": "La connessione è persa, è necessario riavviare la pagina",
 		"yes": "Sì, aggiorna",
 		"no": "No"
 	},
@@ -145,7 +145,7 @@
 		"analytic_cookies": "Cookie analitici",
 		"analytic_cookies_description": "L'abilitazione di questi cookie ci consentirà di tracciare la tua interazione con il nostro sito e apportare miglioramenti.",
 		"support_chat": "Chat di supporto",
-		"support_chat_description": "Se desideri accedere alla chat di supporto, questi cookie sono obbligatori.",
+		"support_chat_description": "Per accedere alla chat di supporto, questi cookie sono obbligatori.",
 		"save": "Salva",
 		"back": "Indietro"
 	}

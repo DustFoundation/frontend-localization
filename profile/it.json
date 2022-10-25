@@ -5,10 +5,10 @@
 			"close": "Chiudere"
 		},
 		"activate-mfa-dialog": {
-			"title": "Abilita 2FA",
+			"title": "Attivazione 2FA",
 			"subtitle": "Scansiona il codice QR e inserisci il codice per confermare l'autenticazione",
 			"code": "Codice",
-			"activate": "Abilitare"
+			"activate": "Attivare"
 		},
 		"change-avatar-dialog": {
 			"title": "Cambia avatar",
@@ -25,7 +25,7 @@
 			"onward": "Prossimo",
 			"form": {
 				"new_password": "Nuova password",
-				"repeat_new_password": "ripetere la nuova password",
+				"repeat_new_password": "Ripetere la nuova password",
 				"password_input_placeholder": "*****************"
 			},
 			"validation_messages": {
@@ -33,7 +33,7 @@
 				"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 				"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
 				"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra",
-				"passwords_not_match": "le passwords non corrispondono"
+				"passwords_not_match": "Le password inserite non corrispondono"
 			}
 		},
 		"choose-avatar-dialog": {
@@ -41,7 +41,7 @@
 			"save": "Salva"
 		},
 		"deactivate-mfa-dialog": {
-			"title": "Disabilita 2FA",
+			"title": "Disabilitazione di 2FA",
 			"subtitle": "Sei sicuro di voler disabilitare 2FA?",
 			"disconnect": "Disabilitato"
 		}
@@ -59,7 +59,7 @@
 		"in_development": "In via di sviluppo",
 		"of": "{{num1}} di {{num2}}",
 		"usdt": "USDT",
-		"dust": "GETTONE DI POLVERE",
+		"dust": "DUST token",
 		"micron": "MICRON",
 		"crypto-bum": "Cripto-hobo",
 		"beta": "BETA"
@@ -70,8 +70,8 @@
 		"delete_avatar": "Elimina avatar",
 		"security": "Sicurezza",
 		"change_password": "Cambia password",
-		"mfa": "Autenticazione a due fattori",
-		"disconnect_mfa": "Disabilita 2FA",
+		"mfa": "Autenticazione 2FA",
+		"disconnect_mfa": "Disabilitazione di 2FA",
 		"integrations": "Integrazioni",
 		"security_title": "Sicurezza",
 		"integrations_title": "Integrazioni",
@@ -106,7 +106,7 @@
 		"no_transaction": "Non ci sono transazioni.",
 		"usdt": "USDT",
 		"transaction_types": {
-			"deposit": "Ricarica il saldo",
+			"deposit": "Ricarica",
 			"subscription": "Acquisto in abbonamento",
 			"FORUM_ACCESS": "Accesso al forum",
 			"FORUM_POSTS_10": "Acquistato 10 post del forum"
@@ -119,7 +119,7 @@
 			"done": "Fatto",
 			"failed": "Si è verificato un errore",
 			"canceled": "Annullato",
-			"expired": "È scaduto",
+			"expired": "Scaduto",
 			"other": "Sconosciuto"
 		}
 	}

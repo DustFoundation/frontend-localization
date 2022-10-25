@@ -64,5 +64,6 @@
 	"note_saved": "Nota salva",
 	"notes_limit": "Limite de notas atingido",
 	"notes_lost_connection": "As notas serão sincronizadas após a reconexão",
-	"notes_access": "Disponível para usuários que se inscreveram na \"Plataforma\""
+	"notes_access": "Disponível para usuários que se inscreveram na \"Plataforma\"",
+	"last_sent": "Carta enviada para o seu e-mail"
 }

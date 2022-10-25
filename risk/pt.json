@@ -45,7 +45,8 @@
 			"leverage_tooltip": "A alavancagem permite que você use fundos emprestados para negociar criptomoedas ou outros ativos financeiros. Tenha sempre em mente que usar uma alavancagem mais alta aumenta a probabilidade de sua posição ser liquidada. Eliminação de ombros em % - x100 (1%)",
 			"risk_tooltip": "Perda potencial em % da sua posição em caso de resultado negativo",
 			"profit_tooltip": "Lucro potencial em % da sua posição em caso de resultado positivo"
-		}
+		},
+		"stop_loss_alert": "Atenção! Sua liquidação está acima do seu stop loss. Com esta relação, você será liquidado antes que seu stop seja alcançado"
 	},
 	"list": {
 		"empty": "Nenhum cálculo salvo",

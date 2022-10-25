@@ -2,5 +2,6 @@
 	"auto": "Auto",
 	"normal": "Avião",
 	"speed": "{type, plural, =1 {Velocidade de reprodução} other {Velocidade de reprodução}}",
-	"quality": "Qualidade"
+	"quality": "Qualidade",
+	"title": "Configuração do player de vídeo"
 }

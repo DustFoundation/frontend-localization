@@ -84,7 +84,8 @@
 			"max_length": "Comprimento máximo {{max}} {max, plural, =1 {personagem} =2 {personagens} =3 {personagens} =4 {personagens} other {personagens}}",
 			"invalid_format_img": "Formato de imagem inválido",
 			"file_size_exceeded": "Tamanho do arquivo excedido"
-		}
+		},
+		"description_placeholder": "Descrição"
 	},
 	"my-tickets": {
 		"popular": "Melhor",

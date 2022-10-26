@@ -1,0 +1,22 @@
+{
+  "main": "Sākums",
+  "settings": "Iestatījumi",
+  "profile": "Profils",
+  "forum": "Forums",
+  "academy": "Akadēmija",
+  "portfolio": "Portfelis",
+  "balance": "Papildināt bilanci",
+  "subscription": "Abonements",
+  "transaction": "Darījumu vēsture",
+  "risk": "Riska Kalkulators",
+  "activation_subscription": "Aktivizēt abonementu",
+  "post_view": "Skatīt ziņu",
+  "created_posts": "Manas ziņas",
+  "popular": "Populārs",
+  "news": "Jaunums",
+  "my-tickets": "Manas ziņas",
+  "create_ticket": "Izveidot ziņu",
+  "conferences": "Konferences",
+  "notes": "Piezīmes",
+  "back": "Atpakaļ"
+}

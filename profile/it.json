@@ -1,0 +1,126 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Obiettivo sbloccato",
+			"close": "Chiudere"
+		},
+		"activate-mfa-dialog": {
+			"title": "Attivazione 2FA",
+			"subtitle": "Scansiona il codice QR e inserisci il codice per confermare l'autenticazione",
+			"code": "Codice",
+			"activate": "Attivare"
+		},
+		"change-avatar-dialog": {
+			"title": "Cambia avatar",
+			"accepted_format": "Formati accettati: JPG, PNG non più grandi di 3 MB",
+			"load_photo": "Carica una foto",
+			"choose_avatar": "Scegli avatar"
+		},
+		"change-password-dialog": {
+			"title": "Cambia la password",
+			"subtitle": "Ti abbiamo inviato una mail con il codice per cambiare la tua password",
+			"enter_code": "Inserisci il codice",
+			"enter_data": "Inserisci i dati per creare una nuova password",
+			"save_password": "Salva la password",
+			"onward": "Prossimo",
+			"form": {
+				"new_password": "Nuova password",
+				"repeat_new_password": "Ripetere la nuova password",
+				"password_input_placeholder": "*****************"
+			},
+			"validation_messages": {
+				"required": "Il campo è obbligatiorio",
+				"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
+				"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
+				"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra",
+				"passwords_not_match": "Le password inserite non corrispondono"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Avatar disponibili",
+			"save": "Salva"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "Disabilitazione di 2FA",
+			"subtitle": "Sei sicuro di voler disabilitare 2FA?",
+			"disconnect": "Disabilitato"
+		}
+	},
+	"profile-main": {
+		"my_character": "Il mio carattere",
+		"level": "livello",
+		"experience": "Esperienza",
+		"internal_currency": "Valuta interna",
+		"daily_rewards": "Ricompense giornaliere",
+		"day": "Giorno {{day}}",
+		"get_daily_reward": "Ottieni una ricompensa giornaliera",
+		"to_next_reward": "Alla prossima ricompensa",
+		"got_reward": "Ricompense ricevute",
+		"in_development": "In via di sviluppo",
+		"of": "{{num1}} di {{num2}}",
+		"usdt": "USDT",
+		"dust": "DUST token",
+		"micron": "MICRON",
+		"crypto-bum": "Cripto-hobo",
+		"beta": "BETA"
+	},
+	"profile-settings": {
+		"title": "Informazione personale",
+		"change_avatar": "Cambia avatar",
+		"delete_avatar": "Elimina avatar",
+		"security": "Sicurezza",
+		"change_password": "Cambia password",
+		"mfa": "Autenticazione 2FA",
+		"disconnect_mfa": "Disabilitazione di 2FA",
+		"integrations": "Integrazioni",
+		"security_title": "Sicurezza",
+		"integrations_title": "Integrazioni",
+		"language_title": "Impostazioni della lingua",
+		"help_title": "Aiuto",
+		"main_language": "Lingua",
+		"main_language_description": "Scegli la lingua di visualizzazione del contenuto principale",
+		"additional_language": "Lingua secondaria",
+		"additional_language_description": "Scegli una lingua che verrà utilizzata per visualizzare i contenuti nel caso in cui la traduzione nella lingua principale non sia disponibile",
+		"information_about_platform": "Informazioni sulla piattaforma",
+		"open": "Aprire",
+		"help": "Aiuto",
+		"connect": "Collegare",
+		"password": "Parola d'ordine",
+		"mail": "E-mail",
+		"nickname": "Soprannome",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"it": "Italiano",
+		"de": "Deutsch",
+		"saved": "Salvato"
+	},
+	"profile-transactions": {
+		"transaction": "Transazione",
+		"date": "Data",
+		"sum": "Quantità",
+		"status": "Stato",
+		"sum_status": "Importo/Stato",
+		"information": "Informazione",
+		"no_transaction": "Non ci sono transazioni.",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "Ricarica",
+			"subscription": "Acquisto in abbonamento",
+			"FORUM_ACCESS": "Accesso al forum",
+			"FORUM_POSTS_10": "Acquistato 10 post del forum"
+		},
+		"transaction_statuses": {
+			"created": "In attesa di",
+			"pending": "in lavorazione",
+			"pre-approve": "In attesa di conferma",
+			"approve": "Confermato",
+			"done": "Fatto",
+			"failed": "Si è verificato un errore",
+			"canceled": "Annullato",
+			"expired": "Scaduto",
+			"other": "Sconosciuto"
+		}
+	}
+}

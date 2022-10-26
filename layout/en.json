@@ -23,9 +23,8 @@
       "promocode": "Promocode",
       "bug_report": "Bug report",
       "support": "Support chat",
-      "conferences": "Conferences",
-      "notes": "All notes",
-      "add_note": "Create a note"
+      "conferences": "Conferences"
+
     },
     "sign_up": "Sign Up",
     "sign_in": "Sign In",
@@ -35,6 +34,10 @@
     "dust": "DUST",
     "usdt": "USDT",
     "micron": "MICRON"
+  },
+  "notes_dropdown": {
+    "notes": "All notes",
+    "add_note": "Create a note"
   },
   "notifications": {
     "count_of_notification": "New notifications",

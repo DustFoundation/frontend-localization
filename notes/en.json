@@ -3,10 +3,11 @@
   "create_btn": "Create a note",
   "empty_note": "Empty note",
   "sort": {
-    "date_desc": "Newer first",
-    "date_asc": "Older first",
-    "alphabet_desc": "Alphabetically A-Z",
-    "alphabet_asc": "Alphabetical Z-A"
+    "custom": "In custom order",
+    "date_desc": "Date: first new",
+    "date_asc": "Date: old first",
+    "alphabet_desc": "Alphabetically A to Z",
+    "alphabet_asc": "Alphabetically Z to A"
   },
   "create_note_dialog": {
     "remove_button": "Delete note",

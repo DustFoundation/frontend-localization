@@ -1,0 +1,57 @@
+{
+  "balance-main": {
+    "title": "Atlasiet tīklu USDT pārsūtīšanai",
+    "top_up_amount": "Papildināšanas summa",
+    "enter_top_up_amount": "Ievadiet papildinšānas summu",
+    "pay": "Maksāt",
+    "click_to_copy": "Noklikšķiniet, lai kopētu",
+    "copied": "Kopēts",
+    "erc20": "ERC20 Adrese:",
+    "trc20": "TRC20 Adrese:",
+    "bep20": "BEP20 Adrese:",
+    "bep2": "BEP2 Adrese:",
+    "memo": "MEMO Adrese:",
+    "important": {
+      "title": "Svarīgi",
+      "1": "Mēs pieņemam maksājums tikai Tether (USDT).",
+      "2": "Papildiniet savu balanci, lai aktivizētu abonamentu.",
+      "3": "Iesakām izmantot «TRC20» tīklu (tīkla maksa ~1$)",
+      "4": "Nosūtot uz šo adresi jebkuru citu monētu vai tokenu, izņemot USDT, var tikt zaudēti līdzekļi.",
+      "5": {
+        "first_part": "Lai aktivizētu abonamentu “{{ subscriptionName }}“ priekš {{ subscriptionTerm }}",
+        "second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}, jums ir jāpapildina atlikums par {{ subscriptionPrice }} USDT + pievienojiet ~1 USDT, lai segtu tīkla maksu."
+      }
+    },
+    "video_tutorial": "Video apmācība - kā iegādāties abonementu",
+    "warning": "Brīdinājumi par risku",
+    "specify_hash_or_number": "Norādiet hash vai darījuma numuru",
+    "recommendation": {
+      "title": "Ieteikumi",
+      "1": "Lai meklētu darījuma numuru pakalpojumā Binance, izmantojiet šo saiti (autorizēts):",
+      "2": "Ja esat nosūtījis USDT no citas biržas, norādiet šaja laukā Darījuma hash (TRC20 piemērs): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+      "3": "Varat norādīt arī darījuma numuru (Iekšējais pārskaitījums)- 43047269665, taču nejauciet ar savu maku - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
+    },
+    "to_pay": "Maksājuma summa: {{ amount }} USDT",
+    "steps": {
+      "1": {
+        "title": "1. darbība",
+        "description": "Atveriet tālrunī lietotni Binance un skenējiet QR kodu, noklikšķinot uz ikonas lietojumprogrammas sākumlapas augšējā labajā sturī."
+      },
+      "2": {
+        "title": "2. darbība",
+        "description": "Tagad redzēsiet darījuma apstiprinājuma logu. Pārbaudiet maksājuma summu un apstipriniet darījumu. Pēc tam noklikšķiniet uz «Esmu samaksājis»."
+      }
+    },
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}"
+    },
+    "hash_or_number": "Darījuma hash / numurs",
+    "faq": "FAQ",
+    "payed": "Esmu samaksājis",
+    "terms_to_use": "Lietošanas noteikumi",
+    "privacy_policy": "Privātuma politika",
+    "back": "Atpakaļ",
+    "confirm": "Apstiprināt"
+  }
+}

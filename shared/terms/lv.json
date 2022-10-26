@@ -1,0 +1,15 @@
+{
+  "include": "Kas ir iekļauts",
+  "trial": "Bezmaksas izmēģinājums {{days}} {days, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
+  "chose_period": "Atlasītais dienu skaits",
+  "all_from": "Viss no",
+  "economy": "Jūs ietaupāt",
+  "includes": {
+    "portfolio": "Visi portfeļa veidi (trīs vienā)",
+    "academy": "Apmācības kursi",
+    "forum": "Forums",
+    "discord": "Privātā Discord grupa",
+    "telegram": "Privātā Telegram grupa"
+  },
+  "usdt": "USDT"
+}

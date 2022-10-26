@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "“Il criceto”",
+		"description": "Ha superato con successo una registrazione sulla piattaforma"
+	},
+	"onboarding": {
+		"name": "\"Pioniere\"",
+		"description": "Superata la familiarizzazione con la piattaforma"
+	},
+	"portfolioalltypes": {
+		"name": "\"Keith\"",
+		"description": "Creato tutti e tre i tipi di portafogli"
+	},
+	"academycoursegold": {
+		"name": "\"Eccellente\"",
+		"description": "Superato il corso all'Accademia con il massimo dei voti"
+	},
+	"discordtelegram": {
+		"name": "“Integratore”",
+		"description": "Integrazioni connesse con Discord e Telegram"
+	},
+	"connections": {
+		"name": "\"Fatto i collegamenti\"",
+		"description": "Registrato ai nostri social network"
+	},
+	"subscription": {
+		"name": "\"Persona importante\"",
+		"description": "Ho acquistato un abbonamento alla piattaforma DUST"
+	},
+	"forumfirstpost": {
+		"name": "\"Te lo dico tra un attimo\"",
+		"description": "Ho creato il mio primo post nel forum"
+	},
+	"amateur": {
+		"name": "\"Cripto-entusiasta\"",
+		"description": "Hai raccolto 10 Mi piace su un post del Forum"
+	},
+	"portfolio10coins": {
+		"name": "\"Criptomonetizzatore\"",
+		"description": "Aggiunte 10 monete al portafoglio virtuale"
+	},
+	"dailyreward28": {
+		"name": "\"Vero HODLer\"",
+		"description": "Ha ricevuto 28 premi giornalieri di fila"
+	},
+	"omnipotence": {
+		"name": "\"Il guanto dell'onnipotenza\"",
+		"description": "Votato per gli aggiornamenti di Forge"
+	}
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Piezīmes",
+  "create_btn": "Izveidot piezīmi",
+  "empty_note": "Tukša piezīme",
+  "sort": {
+    "custom": "Pielāgotā secībā",
+    "date_desc": "Datums: vispirms jaunais",
+    "date_asc": "Datums: vispirms vecais",
+    "alphabet_desc": "Alfabētiskā secībā no A līdz Z",
+    "alphabet_asc": "Alfabētiskā secībā no Z līdz A"
+  },
+  "create_note_dialog": {
+    "remove_button": "Dzēst piezīmi",
+    "save": "Saglabāt",
+    "title": "Izveidot piezīmi",
+    "edit_title": "Rediģēt piezīmi",
+    "title_label": "Header",
+    "title_placeholder": "Mana piezīme",
+    "content_placeholder": "Ievadiet piezīmes tekstu",
+    "changed": "Mainīts",
+    "validation_messages": {
+      "required": "Šis lauks ir jāaizpilda obligāti",
+      "min_length": "Minimālais garums {{ min }} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums {{ max }} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+      "not_only_spaces": "Nosaukumā nedrīkst būt tikai atstarpes"
+    }
+  },
+  "delete_note_dialog": {
+    "title": "Piezīmes dzēšana",
+    "description": "Vai tiešām vēlaties dzēst piezīmi",
+    "delete": "Dzēst",
+    "cancel": "Atcelt",
+    "deleted_successfully": "Piezīme veiksmīgi izdzēsta"
+  },
+  "attention_note_dialog": {
+    "title": "Uzmanību",
+    "description": "Vai tiešām vēlaties aizvērt šo piezīmi, nesaglabājot?",
+    "dont_save": "Nesaglabāt",
+    "cancel": "Atcelt"
+  }
+}

@@ -1,12 +1,12 @@
 {
 	"components": {
 		"course-finished-dialog": {
-			"title": "Revisión final de nuestro curso",
-			"module": "Módulo",
+			"title": "El final revisión del nuestro curso",
+			"module": "El módulo",
 			"leave_review": "Deja tus comentarios sobre el curso"
 		},
 		"menu": {
-			"test": "Prueba",
+			"test": "La prueba",
 			"testing": "Evaluación"
 		},
 		"module-finished-dialog": {

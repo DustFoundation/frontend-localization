@@ -36,6 +36,7 @@
     "leverage_label": "Leverage",
     "risk_label": "Risk",
     "profit_label": "Profit",
+    "stop_loss_alert": "Attention! Your liquidation is above your stop loss. With this ratio, you will get liquidation before your stop is reached",
     "alert": "Warning! Liquidation is too close to the stop loss!",
     "calculate": "Calculate",
     "tooltips": {
@@ -49,7 +50,8 @@
   },
   "list": {
     "empty": "No saved calculations",
-    "saved": "Saved"
+    "saved": "Saved",
+    "title_placeholder": "Enter the title"
   },
   "dialog_close_template": {
     "title": "Are you sure you want to open a new account?",

@@ -1,0 +1,12 @@
+{
+  "title": "Ievadiet darījuma hash vai numuru",
+  "recommendation": {
+    "title": "Ieteikumi",
+    "1": "Lai meklētu darījuma numuru, izmantojiet šo saiti:",
+    "2": "Ja esat nosūtījis USDT no citas biržas, norādiet šajā laukā Darījuma hash (TRC20 piemērs): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+    "3": "Norādiet darījuma numuru (Iekšējais pārskaitījums - 43047269665, nevis jūsu maks - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3"
+  },
+  "hash_or_number": "Darījuma hash/ numurs",
+  "payed": "Esmu samaksājis",
+  "back": "Atpakaļ"
+}

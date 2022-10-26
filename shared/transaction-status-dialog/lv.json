@@ -1,0 +1,11 @@
+{
+  "status": "Maksājuma statuss:",
+  "entered_hash": "Ievadītais hash:",
+  "edit_hash": "Rediģēt hash",
+  "transaction_statuses": {
+    "success_1": "Veiksmīgi",
+    "success_2": "Papildināšana veiksmīgi",
+    "processing_1": "apstrāde...",
+    "processing_2": "Lido caur blokķēdi"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "header": {
+    "subscription_activate": "Aktivizēt abonementu",
+    "subscription_activated": {
+      "text": "Abonēšana",
+      "status": "Aktīvs"
+    },
+    "portfolio": "Portfelis",
+    "portfolio_dropdown": {
+      "all_portfolios": "Visi portfeļi",
+      "risk_calculator": "Riska kalkulators"
+    },
+    "academy": "Akadēmija",
+    "forum": "Forums",
+    "main": "Sākums",
+    "conferences": "Konferences",
+    "menu": {
+      "profile": "Profils",
+      "balance": "Papildināt balanci",
+      "subscription": "Abonēšana",
+      "transactions": "Darījumu vēsture",
+      "settings": "Iestatījumi",
+      "promocode": "Reklāmas kods",
+      "bug_report": "Kļūdas ziņojums",
+      "support": "Atbalsta čats",
+      "conferences": "Konferences"
+
+    },
+    "sign_up": "Reģistrēties",
+    "sign_in": "Pieslēgties",
+    "logout": "Iziet",
+    "in_development": "Izstrādē",
+    "beta": "BETA",
+    "dust": "DUST",
+    "usdt": "USDT",
+    "micron": "MICRON"
+  },
+  "notes_dropdown": {
+    "notes": "Visas piezīmes",
+    "add_note": "Izveidot piezīmi"
+  },
+  "notifications": {
+    "count_of_notification": "Jauni paziņojumi",
+    "clear": "Notīrīt visus paziņojumus",
+    "types": {
+      "SUBSCRIPTION_ADDED": {
+        "title": "Abonementa iegāde ir veiksmīga",
+        "description": "Jūs esat veiksmīgi iegādājies abonementu uz {{ term }} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+      },
+      "SUBSCRIPTION_UPDATED": {
+        "title": "Abonementa atjaunošana veiksmīga",
+        "description": "Jūs esat veiksmīgi atjaunojis abonementu uz {{ term }} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+      },
+      "SUBSCRIPTION_ENDING_SOON": {
+        "title": "Jūsu abonements drīz beigsies",
+        "description": "Atvainojiet, bet jūsu abonementa derīguma termiņš beigsies tikai pēc {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}... We'll miss you!"
+      },
+      "BALANCE_ADDED": {
+        "title": "Papildināt balanci",
+        "description": "Jūsu konts tika papildināts par {{ amount }} USDT"
+      },
+      "TELEGRAM_INVITED": {
+        "title": "Uzaicinājums uz",
+        "description": "Jūsu uzaicinājums uz Telegram. Lai veicas tajā ellē!"
+      },
+      "TELEGRAM_INVITED_1": {
+        "title": "Uzaicinājums uz Telegram čatu",
+        "description": "Jūsu uzaicinājums uz Telegram čatu. Lai veicas tajā ellē!"
+      },
+      "TELEGRAM_INVITED_2": {
+        "title": "Uzaicinājums uz Telegram kanālu",
+        "description": "Jūsu uzaicinājums uz Telegram kanālu LUCK. Lai veicas!"
+      },
+      "PAYMENT_ORDER_SUCCESS": {
+        "title": "Bilances papildināšana",
+        "description": "Rīkojums par jūsu bilances papildināšu tika izpildīts."
+      },
+      "PAYMENT_ORDER_FAILED": {
+        "title": "Bilances papildināšana",
+        "description": "Bilances papildināšanas pasūtījums neizdevās!"
+      },
+      "PAYMENT_TXID_EXIST": {
+        "title": "Bilances papildināšana",
+        "description": "Jūsu darījuma numuru jau izmanto cits lietotājs!"
+      },
+      "PAYMENT_FAILED": {
+        "title": "Bilances papildināšana",
+        "description": "Neizdevās izveidot pasūtījumu bilances papildināšanai, lūdzu, sazinieties ar administrāciju!"
+      },
+      "SUBSCRIPTION_SUCCESS": {
+        "title": "Abonements",
+        "description": "Abonēšana veiksmīga"
+      }
+    }
+  },
+  "promocode-dialog": {
+    "title": "Reklāmas koda aktivizēšana",
+    "enter_promocode": "Ievadiet reklāmas kodu",
+    "activate": "Aktivizēt reklāmas kodu",
+    "example": "Piemērs: X2dDjsa29GKO",
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}"
+    }
+  },
+  "report-dialog": {
+    "name": "Virsraksts",
+    "bag_report": "Kļūdu ziņojums",
+    "loaded_file": "Fails augšupielādēts:",
+    "short_description": "Īss kļūdas ziņojuma virsraksts",
+    "detail_description_problem": "Detalizēts apraksts",
+    "description_of_problem": "Problēmas apraksts",
+    "validation_messages": {
+      "required": "Lauks ir jāaizpilda obligāti",
+      "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+      "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+      "img": "JPG vai PNG, ne vairāk kā 3MB",
+      "discord_or_email": "Ievadiet e-pastu vai discord segvārdu"
+    },
+    "download": "Augšupielādēt",
+    "send": "Sūtīt",
+    "cancel": "Atcelt",
+    "contact_with_me": "Sazinieties ar mani!",
+    "enter_email_or_discord": "Ievadiet savu e-pastu vai Discord segvārdu",
+    "contact": "Sazināties"
+  },
+  "system-notification-dialog": {
+    "update": "Atjauninājums ir pieejams",
+    "failed": "Hmm",
+    "offline": "Bezsaitē",
+    "update_detected": "Tika konstatēts lietotnes atjauninājums: {{ version }}",
+    "update_ready": "Atjauinājums ir gatavs {{ version }}. Vai vēlaties to atjaunināt?",
+    "update_failed": "Atjauninājuma {{ version }} instalēšanas laikā radās kļūda",
+    "network_offline": "Savienojums ir zudis, nepieciešama lapas atkārtota ielāde",
+    "yes": "Jā, atjaunināt",
+    "no": "Nē"
+  },
+  "cookies": {
+    "cookies_settings": "Pārvaldīt sīkfailus",
+    "intro": "Mēs izmantojam sīkfailus, lai uzlabotu jūsu lietotāja pieredzi, lietotņu lietošanas analīzi un iespējotu tērzēšanas atbalstu.\n",
+    "get_know_with_start": "Iepazīstieties ar",
+    "cookies_policy": "Sīkfailu politika",
+    "get_known_with_end": "vairāk",
+    "accept": "Pieņemt",
+    "settings": "Iestatījumi",
+    "analytic_cookies": "Analītikas sīkfaili",
+    "analytic_cookies_description": "Šo sīkfailu iespējošana ļaus mums izsekot jūsu mijiedarbībai ar mūsu vietni un veikt uzlabojumus",
+    "support_chat": "Atbalsta čats",
+    "support_chat_description": "Ja vēlaties piekļūt atbalsta tērzēšanai, šie sīkfaili ir nepieciešami.",
+    "save": "Saglabāt",
+    "back": "Atpakaļ"
+  }
+}

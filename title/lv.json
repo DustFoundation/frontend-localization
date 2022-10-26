@@ -1,0 +1,41 @@
+{
+  "authorization": {
+    "title": "Autorizācija"
+  },
+  "profile": {
+    "title": "Profils",
+    "settings": "Iestatījumi",
+    "transactions": "Darījumi"
+  },
+  "topup_balance": {
+    "title": "Papildināt bilanci"
+  },
+  "subscription": {
+    "title": "Abonements"
+  },
+  "join": {
+    "title": "Pievienoties"
+  },
+  "academy": {
+    "title": "Akadēmija"
+  },
+  "portfolio": {
+    "title": "Portfelis",
+    "portfolio_list": "Portfeļu saraksts",
+    "ventures": "Uzņēmuma portfelis",
+    "portfolio": "Portfelis",
+    "portfolio_transactions": "Portfelis | Darījumi"
+  },
+  "forum": {
+    "title": "Forums"
+  },
+  "conferences": {
+    "title": "Konferences"
+  },
+  "risk": {
+    "title": "Riska kalkulators"
+  },
+  "notes": {
+    "title": "Piezīmes"
+  }
+}

@@ -23,9 +23,7 @@
       "promocode": "Промокод",
       "bug_report": "Баг репорт",
       "support": "Чат поддержки",
-      "conferences": "Конференции",
-      "notes": "Все заметки",
-      "add_note": "Создать заметку"
+      "conferences": "Конференции"
     },
     "sign_up": "Регистрация",
     "sign_in": "Войти",
@@ -35,6 +33,10 @@
     "dust": "DUST",
     "usdt": "USDT",
     "micron": "MICRON"
+  },
+  "notes_dropdown": {
+    "notes": "Все заметки",
+    "add_note": "Создать заметку"
   },
   "notifications": {
     "count_of_notification": "Новых уведомлений",

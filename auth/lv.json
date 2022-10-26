@@ -76,6 +76,7 @@
     "banned_until": "Aizliegts līdz:",
     "sign_in": "Pierakstīties",
     "sign_in_with_google": "Piesakieties pakalpojumā Google+",
+    "or": "vai",
     "form": {
       "mail": "E-pasts",
       "mail_input_placeholder": "epasts@epasts.lv",

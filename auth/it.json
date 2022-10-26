@@ -76,6 +76,7 @@
 		"banned_until": "Bannato fino a:",
 		"sign_in": "Registrazione",
     "sign_in_with_google": "Accedi con Google+",
+    "or": "o",
     "form": {
 			"mail": "E-mail",
 			"mail_input_placeholder": "mail@mail.com",

@@ -1,40 +1,40 @@
 {
 	"confirm-email": {
-		"title": "Confirmación de correo electrónico",
-		"subtitle": "Le hemos enviado un correo electrónico con un código de confirmación. Por favor, introduzca este código a continuación",
-		"code": "Código",
-		"send_new_code": "Reenviar codigo",
+		"title": "La confirmación del correo electrónico",
+		"subtitle": "Le hemos enviado un correo electrónico con un código de la confirmación. Por favor, introduzca este código a continuar",
+		"code": "El código",
+		"send_new_code": "Reenviar el codigo",
 		"get_new_code_after": {
-			"code": "obtener un nuevo código",
+			"code": "Obtener un nuevo código",
 			"after": "en {{timer}} segundos"
 		},
 		"done": "Hecho",
-		"back": "atrás"
+		"back": "Volver"
 	},
 	"confirm-mfa": {
 		"title": "Verifica tu cuenta",
-		"subtitle": "Ingrese el código que aparece en su aplicación Google Authenticator a continuación",
-		"code": "Código",
-		"back": "atrás",
-		"sign_in": "Registrarse"
+		"subtitle": "Ingrese el código que aparece en su aplicación Google Authenticator a continuar",
+		"code": "El código",
+		"back": "Volver",
+		"sign_in": "Registrarme"
 	},
 	"forgot-password": {
 		"title_1": "Restaurar la antigua gloria",
 		"subtitle_1": "Te enviaremos un cuervo con un código secreto para restaurar tu contraseña",
 		"get_code": "enviar un cuervo",
 		"title_2": "el cuervo ha llegado",
-		"subtitle_2": "Desenvuelva el pergamino que un cuervo le ha enviado a su correo electrónico e ingrese un código secreto a continuación.",
-		"code": "Código",
-		"send_new_code": "Reenviar codigo",
+		"subtitle_2": "Desenvuelva el pergamino que un cuervo le ha enviado a su correo electrónico y ingrese un código secreto a continuación.",
+		"code": "El código",
+		"send_new_code": "Reenviar el codigo",
 		"get_new_code_after": {
-			"code": "obtener un nuevo código",
+			"code": "Obtener un nuevo código",
 			"after": "en {{timer}} segundos"
 		},
 		"title_3": "el juicio ha terminado",
 		"subtitle_3": "Has probado tu derecho a restaurar la antigua gloria. Ahora solo ingrese una nueva contraseña.",
 		"restore_password": "Restablecer la contraseña",
 		"form": {
-			"mail": "Correo electrónico",
+			"mail": "El correo electrónico",
 			"mail_input_placeholder": "correo@correo.com",
 			"new_password": "Nueva contraseña",
 			"repeat_password": "repite la contraseña",
@@ -42,7 +42,7 @@
 		},
 		"validation_messages": {
 			"required": "Se requiere campo",
-			"invalid_email": "Formato de correo inválido",
+			"invalid_email": "El formato del correo es inválido",
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 			"passwords_not_match": "Las contraseñas no coinciden",
@@ -52,15 +52,15 @@
 	"new-password": {
 		"title": "el juicio ha terminado",
 		"subtitle": "Has probado tu derecho a restaurar la antigua gloria. Ahora solo ingrese una nueva contraseña.",
-		"restore_password": "restablecer la contraseña",
+		"restore_password": "Restablecer la contraseña",
 		"form": {
 			"new_password": "Nueva contraseña",
-			"repeat_password": "repite la contraseña",
+			"repeat_password": "Repite la contraseña",
 			"password_input_placeholder": "****************"
 		},
 		"validation_messages": {
 			"required": "Se requiere campo",
-			"invalid_email": "Email inválido",
+			"invalid_email": "El correo es inválido",
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 			"passwords_not_match": "Las contraseñas no coinciden",
@@ -69,21 +69,21 @@
 	},
 	"sign-in": {
 		"no_account": "¿No tienes una cuenta?",
-		"sign_up": "Inscribirse",
-		"title": "Registrarse",
+		"sign_up": "Inscribirme",
+		"title": "Registrarme",
 		"forgot_password": "¿Olvidaste tu contraseña?",
-		"ban_reason": "Motivo de expulsión:",
+		"ban_reason": "El motivo de la expulsión:",
 		"banned_until": "Prohibido hasta:",
-		"sign_in": "Registrarse",
+		"sign_in": "Registrarme",
 		"form": {
-			"mail": "Correo electrónico",
+			"mail": "El correo electrónico",
 			"mail_input_placeholder": "correo@correo.com",
-			"password": "Clave",
+			"password": "La contraseña",
 			"password_input_placeholder": "****************"
 		},
 		"validation_messages": {
 			"required": "Se requiere campo",
-			"invalid_email": "Email inválido",
+			"invalid_email": "El correo es inválido",
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}"
 		}
@@ -91,25 +91,25 @@
 	"sign-up": {
 		"have_account": "¿Tiene usted una cuenta?",
 		"sign_in": "Registrarse",
-		"title": "Registro",
+		"title": "El registro",
 		"forgot_password": "¿Olvidaste tu contraseña?",
-		"ban_reason": "Motivo de expulsión:",
+		"ban_reason": "El motivo de expulsión:",
 		"banned_until": "Prohibido hasta:",
-		"sign_up": "Inscribirse",
+		"sign_up": "Inscribirme",
 		"policy": {
-			"agree": "estoy de acuerdo con",
-			"with": "una política de privacidad"
+			"agree": "Estoy de acuerdo con",
+			"with": "una política de la privacidad"
 		},
 		"form": {
-			"mail": "Correo electrónico",
+			"mail": "El correo electrónico",
 			"mail_input_placeholder": "correo@correo.com",
-			"password": "Clave",
+			"password": "La contraseña",
 			"password_input_placeholder": "****************",
-			"repeat_password": "Repita la contraseña"
+			"repeat_password": "Repita tu contraseña"
 		},
 		"validation_messages": {
 			"required": "Se requiere campo",
-			"invalid_email": "Formato de correo inválido",
+			"invalid_email": "El formato del correo es inválido",
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 			"passwords_not_match": "Las contraseñas no coinciden",

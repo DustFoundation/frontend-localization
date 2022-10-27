@@ -41,7 +41,8 @@
 	"notifications": {
 		"count_of_notification": "Nuove notifiche",
 		"clear": "Cancella tutte le notifiche",
-		"types": {
+    "join": "Giuntura",
+    "types": {
 			"SUBSCRIPTION_ADDED": {
 				"title": "Acquisto dell'abbonamento riuscito",
 				"description": "Hai acquistato con successo un abbonamento per {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"

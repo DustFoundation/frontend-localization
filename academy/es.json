@@ -7,11 +7,11 @@
 		},
 		"menu": {
 			"test": "La prueba",
-			"testing": "Evaluación"
+			"testing": "La evaluación"
 		},
 		"module-finished-dialog": {
-			"module": "Módulo",
-			"open_access": "Acceso al módulo concedido",
+			"module": "El módulo",
+			"open_access": "El acceso al módulo concedido",
 			"thanks_for_review": "Gracias, tu comentario es tomado en cuenta",
 			"awful": "Horrible",
 			"bad": "Malo",
@@ -20,32 +20,32 @@
 			"excellent": "Excelente",
 			"rate_module": "Califica este módulo",
 			"leave_review?": "¿Le gustaría dejar sus comentarios?",
-			"next_lesson": "Siguiente lección",
+			"next_lesson": "La siguiente lección",
 			"yes": "Sí",
 			"no": "No"
 		},
 		"module-review-dialog": {
 			"help_us": "Ayúdanos a mejorar este curso",
-			"please_leave_comment_about": "Por favor, ¿podría dejar una reseña sobre el",
+			"please_leave_comment_about": "Por favor, ¿podría dejar una reseña sobre lo",
 			"leave_review": "Deja los comentarios",
 			"my_review": "Mi retroalimentación",
-			"module": "Módulo",
-			"course": "Curso",
-			"back": "atrás"
+			"module": "El módulo",
+			"course": "El curso",
+			"back": "volver"
 		}
 	},
 	"course-details": {
-		"level": "Nivel:",
-		"count_of_modules": "Módulos:",
-		"count_of_lessons": "Lecciones:",
+		"level": "El nivel:",
+		"count_of_modules": "Los módulos:",
+		"count_of_lessons": "Las lecciones:",
 		"got_badges": "insignias recibidas",
-		"course_progress": "Progreso del curso",
+		"course_progress": "El progreso del curso",
 		"pass_again": "Pasa otra vez",
 		"continue_learning": "Continuar aprendiendo",
 		"start_learning": "Comienza a aprender",
-		"training_program": "el programa de aprendizaje",
-		"module": "Módulo",
-		"need_subscription": "Se requiere suscripción activa"
+		"training_program": "el programa del aprendizaje",
+		"module": "El módulo",
+		"need_subscription": "Se requiere la suscripción activa"
 	},
 	"course-lesson": {
 		"pass_test": "Aprobar el examen",
@@ -61,13 +61,13 @@
 		"onward": "próximo"
 	},
 	"courses": {
-		"need_subscription": "Se requiere suscripción activa",
-		"new_course_in_development": "¡Ya hay nuevos cursos en desarrollo!",
-		"level": "Nivel:",
-		"count_of_modules": "Módulos:",
-		"count_of_lessons": "Lecciones:",
+		"need_subscription": "Se requiere una suscripción activa",
+		"new_course_in_development": "¡Ya hay nuevos cursos en el desarrollo!",
+		"level": "El nivel:",
+		"count_of_modules": "Los módulos:",
+		"count_of_lessons": "Las lecciones:",
 		"got_badges": "insignias recibidas",
-		"course_progress": "Progreso del curso",
+		"course_progress": "El progreso del curso",
 		"pass_again": "Pasa otra vez",
 		"continue_learning": "Continuar aprendiendo",
 		"start_learning": "Comienza a aprender",

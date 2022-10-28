@@ -1,7 +1,7 @@
 {
 	"balance-main": {
 		"title": "Seleccione una red para la transferencia de USDT",
-		"top_up_amount": "Cantidad de recarga",
+		"top_up_amount": "Cantidad de la recarga",
 		"enter_top_up_amount": "Introduce el importe de la recarga",
 		"pay": "Pagar",
 		"click_to_copy": "Haga clic para copiar",
@@ -23,11 +23,11 @@
 			"title": "Importante"
 		},
 		"video_tutorial": "Video tutorial - cómo comprar una suscripción",
-		"warning": "Advertencias de riesgo",
-		"specify_hash_or_number": "Especificar hash o número de transacción",
+		"warning": "Advertencias del riesgo",
+		"specify_hash_or_number": "Especificar hash o número de la transacción",
 		"recommendation": {
-			"1": "Para buscar el número de transacción en Binance, siga este enlace (autorizado):",
-			"2": "Si ha enviado USDT desde otro intercambio, especifique en este campo Hash de transacción (ejemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"1": "Para buscar el número de la transacción en Binance, siga este enlace (autorizado):",
+			"2": "Si has enviado USDT desde otro intercambio, especifique en este campo Hash de transacción (ejemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
 			"3": "También puede especificar un número de transacción (Transferencia interna) - 43047269665, pero no lo confunda con su billetera - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
 			"title": "Recomendaciones"
 		},
@@ -35,7 +35,7 @@
 		"steps": {
 			"1": {
 				"title": "Paso 1",
-				"description": "Abra una aplicación de Binance en su teléfono y escanee el código QR haciendo clic en un icono en la esquina superior derecha de la página de inicio de la aplicación."
+				"description": "Abra una aplicación de Binance en su teléfono y escanee el código QR, haciendo un clic en un icono en la esquina superior derecha de la página de inicio de la aplicación."
 			},
 			"2": {
 				"title": "Paso 2",
@@ -46,12 +46,12 @@
 			"required": "Se requiere campo",
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}"
 		},
-		"hash_or_number": "Hash de transacción / número",
+		"hash_or_number": "Hash de la transacción / el número",
 		"faq": "Preguntas más frecuentes",
 		"payed": "He pagado",
-		"terms_to_use": "Términos de Uso",
-		"privacy_policy": "Política de privacidad",
-		"back": "atrás",
+		"terms_to_use": "Términos del Uso",
+		"privacy_policy": "Política de la privacidad",
+		"back": "Volver",
 		"confirm": "Confirmar"
 	}
 }

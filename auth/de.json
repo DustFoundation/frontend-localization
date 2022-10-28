@@ -75,6 +75,8 @@
 		"ban_reason": "Grund des Verbotes:",
 		"banned_until": "Verboten bis:",
 		"sign_in": "einloggen",
+    "sign_in_with_google": "Anmeldung mit Google+",
+    "or": "oder",
 		"form": {
 			"mail": "E-Mail",
 			"mail_input_placeholder": "mail@mail.com",

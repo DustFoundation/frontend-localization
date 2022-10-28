@@ -1,6 +1,7 @@
 {
-	"auto": "Auto",
-	"normal": "Normale",
-	"speed": "{type, plural, =1 {Velocità di riproduzione} other {Velocità di riproduzione}}",
-	"quality": "Qualità"
+  "title": "Configurazione del lettore video",
+  "auto": "Auto",
+  "normal": "Normale",
+  "speed": "{type, plural, =1 {Velocità di riproduzione} other {Velocità di riproduzione}}",
+  "quality": "Qualità"
 }

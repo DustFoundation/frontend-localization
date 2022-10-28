@@ -65,6 +65,7 @@
     "title": "Title",
     "post_topic": "Post topic",
     "description": "Post text / content / description",
+    "description_placeholder": "Description",
     "resend": "Resend",
     "times_left": "(Left {{num}})",
     "buy_opportunities": "Buy 10 opportunities to create a post (10 DUST)",

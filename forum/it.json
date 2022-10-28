@@ -65,6 +65,7 @@
 		"title": "Titolo",
 		"post_topic": "Pubblica argomento",
 		"description": "Post testo/contenuto/descrizione",
+		"description_placeholder": "Descrizione",
 		"resend": "Rinviare",
 		"times_left": "(sinistra {{num}})",
 		"buy_opportunities": "Acquista 10 opportunità per creare un post (10 DUST)",

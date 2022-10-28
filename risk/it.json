@@ -10,13 +10,13 @@
 	},
 	"sort": {
 		"title": "Ordinamento",
-		"date_desc": "Data: primo nuovo",
-		"date_asc": "Data: prima il vecchio",
+		"date_desc": "Data:nuovo primo",
+		"date_asc": "Data:vecchio primo",
 		"alphabet_desc": "In ordine alfabetico dalla A alla Z",
 		"alphabet_asc": "In ordine alfabetico dalla Z alla A"
 	},
 	"calculator": {
-		"title_placeholder": "Immettere il nome del modello",
+		"title_placeholder": "Inserisci il nome del modello",
 		"status_saved": "Nome cambiato",
 		"saved": "Salvato",
 		"button_save": "Salva",
@@ -26,26 +26,27 @@
 		"result_link": "Come funziona?",
 		"result_title": "Risultato",
 		"result_item_volume": "Volume degli scambi con leva",
-		"result_item_profit": "Avere un profitto",
+		"result_item_profit": "Take-profit",
 		"result_item_proportion": "Rapporto rischio/profitto",
-		"result_item_loss": "Ferma la perdita",
+		"result_item_loss": "Stop-loss",
 		"result_item_liquidation": "Liquidazione",
 		"coin_label": "Attivo",
 		"volume_label": "Volume delle transazioni",
-		"price_label": "Prezzo di entrata",
+		"price_label": "Prezzo d'entrata",
 		"leverage_label": "Leva",
 		"risk_label": "Rischio",
 		"profit_label": "Profitto",
 		"alert": "Avvertimento! La liquidazione è troppo vicina allo stop loss!",
 		"calculate": "Calcolare",
 		"tooltips": {
-			"coin_tooltip": "Valuta per l'apertura di una posizione",
-			"volume_tooltip": "Importo per il quale viene aperta una posizione, leva esclusa",
+			"coin_tooltip": "Valuta selezionata per aprire una posizione",
+			"volume_tooltip": "Importo per il quale è aperta una posizione, leva esclusa",
 			"price_tooltip": "La quotazione sul grafico in cui verrà aperta la posizione",
 			"leverage_tooltip": "La leva ti consente di utilizzare i fondi presi in prestito per scambiare criptovalute o altre attività finanziarie. Tieni sempre presente che l'utilizzo di una leva più alta aumenta la probabilità che la tua posizione venga liquidata. Liquidazione delle spalle in % - x100 (1%)",
 			"risk_tooltip": "Potenziale perdita in % della tua posizione in caso di scenario negativo",
 			"profit_tooltip": "Potenziale profitto in % della tua posizione in caso di scenario positivo"
-		}
+		},
+		"stop_loss_alert": "Attenzione! La tua liquidazione è al di sopra del tuo stop loss. Con questo rapporto, otterrai la liquidazione prima del raggiungimento dello stop"
 	},
 	"list": {
 		"empty": "Nessun calcolo salvato",

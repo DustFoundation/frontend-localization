@@ -65,5 +65,8 @@
 	"notes_limit": "Достигнут лимит заметок",
 	"notes_lost_connection": "Заметки будут синхронизированы после восстановления соединения",
 	"notes_access": "Доступно для пользователей оформивших подписку “Platform“",
-	"last_sent": "Письмо отправлено на вашу почту"
+	"last_sent": "Письмо отправлено на вашу почту",
+	"success_disconnect": "{name, plural, =google {Google} =telegram {Telegram} =discord {Discord}} отключен",
+	"alredy_connected": "{name, plural, =google {Google} =telegram {Telegram} =discord {Discord}} уже подключен",
+	"success_connected": "{name, plural, =google {Google} =telegram {Telegram} =discord {Discord}} подключен"
 }

@@ -74,5 +74,7 @@
 	"dialog_tooltip_template": {
 		"title": "Padoms",
 		"button_close": "Sapratu!"
-	}
+	},
+	"pro_version": "PRO versija",
+	"my_calculations": "Mani aprēķini"
 }

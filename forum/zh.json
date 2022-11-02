@@ -84,7 +84,8 @@
 			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
 			"invalid_format_img": "图片格式无效",
 			"file_size_exceeded": "超出文件大小"
-		}
+		},
+		"description_placeholder": "描述"
 	},
 	"my-tickets": {
 		"popular": "受欢迎的",

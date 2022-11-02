@@ -90,7 +90,8 @@
 				"title": "订阅",
 				"description": "订阅成功"
 			}
-		}
+		},
+		"join": "加入"
 	},
 	"promocode-dialog": {
 		"title": "促销代码激活",

@@ -86,7 +86,9 @@
 			"invalid_email": "不合规电邮",
 			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
 			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}"
-		}
+		},
+		"sign_in_with_google": "使用 Google+ 登录",
+		"or": "或者"
 	},
 	"sign-up": {
 		"have_account": "你有没有账号？",

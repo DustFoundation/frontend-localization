@@ -45,7 +45,8 @@
 			"leverage_tooltip": "杠杆允许您使用借入的资金来交易加密货币或其他金融资产。永远记住，使用更高的杠杆会增加你的头寸被清算的可能性。平仓以 % - x100 (1%) 为单位",
 			"risk_tooltip": "如果出现负面情况，您头寸的潜在损失百分比",
 			"profit_tooltip": "在积极的情况下，您头寸的潜在利润百分比"
-		}
+		},
+		"stop_loss_alert": "注意力！您的清算高于您的止损。使用此比率，您将在达到止损之前获得清算"
 	},
 	"list": {
 		"empty": "没有保存的计算",
@@ -73,5 +74,7 @@
 	"dialog_tooltip_template": {
 		"title": "暗示",
 		"button_close": "知道了！"
-	}
+	},
+	"pro_version": "专业版",
+	"my_calculations": "我的计算"
 }

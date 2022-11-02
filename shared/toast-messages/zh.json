@@ -65,5 +65,8 @@
 	"notes_limit": "已达到备注上限",
 	"notes_lost_connection": "恢复连接后，便笺将同步。",
 	"notes_access": "已订阅“平台”的用户可用",
-	"latter_sent": "发送到您邮箱的信件"
+	"latter_sent": "发送到您邮箱的信件",
+	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已断开连接",
+	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接"
 }

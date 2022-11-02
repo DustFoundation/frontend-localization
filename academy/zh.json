@@ -44,7 +44,8 @@
 		"continue_learning": "继续学习",
 		"start_learning": "开始学习",
 		"training_program": "学习计划",
-		"module": "模块"
+		"module": "模块",
+		"need_subscription": "需要有效订阅"
 	},
 	"course-lesson": {
 		"pass_test": "通过考试",

@@ -1,0 +1,41 @@
+{
+	"title": "Appunti",
+	"create_btn": "Crea una nota",
+	"empty_note": "Nota vuota",
+	"sort": {
+		"custom": "In ordine personalizzato",
+		"date_desc": "Data: prima nuovo",
+		"date_asc": "Data: prima vecchio",
+		"alphabet_desc": "In ordine alfabetico dalla A alla Z",
+		"alphabet_asc": "In ordine alfabetico dalla Z alla A"
+	},
+	"create_note_dialog": {
+		"remove_button": "Elimina nota",
+		"save": "Salva",
+		"title": "Crea una nota",
+		"edit_title": "Modifica nota",
+		"title_label": "Titolo",
+		"title_placeholder": "Mia nota",
+		"content_placeholder": "Inserisci il testo della nota",
+		"changed": "Cambiato",
+		"validation_messages": {
+			"required": "Questo campo è obbligatorio",
+			"min_length": "Lunghezza minima {{min}} {min, plural, =1 {simbolo} =2 {simbolo} =3 {simbolo} =4 {simbolo} other {simboli}}",
+			"max_length": "Lunghezza massima {{max}} {max, plural, =1 {simbolo} =2 {simbolo} =3 {simbolo} =4 {simbolo} other {simboli}}",
+			"not_only_spaces": "Il titolo non può contenere solo spazi"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Eliminazione di una nota",
+		"description": "Sei sicuro di voler eliminare la nota?",
+		"delete": "Elimina",
+		"cancel": "Annulla",
+		"deleted_successfully": "Nota eliminata con successo"
+	},
+	"attention_note_dialog": {
+		"title": "Attenzione",
+		"description": "Sei sicuro di voler chiudere questa nota senza salvare?",
+		"dont_save": "Non salvare",
+		"cancel": "Annulla"
+	}
+}

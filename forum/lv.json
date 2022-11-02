@@ -65,6 +65,7 @@
     "title": "Virsraksts",
     "post_topic": "Ziņas birka",
     "description": "Ziņas teksts / saturs / apraksts",
+    "description_placeholder": "Aprašymas",
     "resend": "Sūtīt atkārtoti",
     "times_left": "(Pa kreisi {{num}})",
     "buy_opportunities": "Iegādājieties 10 iespējas, lai izveidotu ziņu (10 DUST)",

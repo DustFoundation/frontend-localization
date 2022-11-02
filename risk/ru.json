@@ -3,6 +3,8 @@
   "add_template": "Новый расчет",
   "without_title": "Без названия",
   "my_template": "Мой шаблон",
+  "pro_version": "PRO версия",
+  "my_calculations": "Мои расчеты",
   "navigation": {
     "all_portfolios": "Все портфели",
     "calculator": "Калькулятор риска",
@@ -36,6 +38,7 @@
     "leverage_label": "Плечо",
     "risk_label": "Риск",
     "profit_label": "Прибыль",
+    "stop_loss_alert": "Внимание! Ваша ликвидация выше стоп-лосса. При таком соотношении вы получите ликвидацию раньше, чем у вас сработает стоп",
     "alert": "Внимание! Ликвидация слишком близко к cтоп-лосс!",
     "calculate": "Рассчитать",
     "tooltips": {

@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "Seleziona una rete per il trasferimento USDT",
+		"top_up_amount": "L'importo di ricarica",
+		"enter_top_up_amount": "Inserisci l'importo della ricarica",
+		"pay": "Paga",
+		"click_to_copy": "Fare clic per copiare",
+		"copied": "copiato",
+		"erc20": "Indirizzo ERC20:",
+		"trc20": "Indirizzo TRC20:",
+		"bep20": "BEP20 Indirizzo:",
+		"bep2": "Indirizzo BEP2:",
+		"memo": "Indirizzo PROMEMORIA:",
+		"important": {
+			"1": "Accettiamo pagamenti solo in Tether (USDT).",
+			"2": "Ricarica il saldo per attivare l'abbonamento.",
+			"3": "Si consiglia di utilizzare la rete «TRC20» (a pagamento ~1$)",
+			"4": "L'invio di qualsiasi altra moneta o token a questo indirizzo eccetto USDT può comportare la perdita dei tuoi fondi.",
+			"5": {
+				"first_part": "Per attivare un abbonamento “{{subscriptionName}}“ per {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {giorno} =2 {giorni} =3 {giorni} =4 {giorni} other {giorni}} devi ricaricare il saldo per {{subscripttionPric}} USDT per aggiungere ~1 USDT canone di rete."
+			},
+			"title": "Importante"
+		},
+		"video_tutorial": "Video tutorial - come acquistare un abbonamento",
+		"warning": "Avvertenze sui rischi",
+		"specify_hash_or_number": "Specifica l'hash o il numero di transazione",
+		"recommendation": {
+			"1": "Per cercare il numero di transazione su Binance, segui questo link (autorizzato):",
+			"2": "Se hai inviato USDT da un altro exchange, specifica in questo campo Transaction hash (esempio TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "Puoi anche specificare un numero di transazione (trasferimento interno) - 43047269665, ma non confondere con il tuo portafoglio - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Raccomandazioni"
+		},
+		"to_pay": "Importo da pagare: {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Passo 1",
+				"description": "Apri un'app Binance sul tuo telefono ed esegui la scansione del codice QR, facendo clic su un'icona nell'angolo in alto a destra della home page dell'applicazione."
+			},
+			"2": {
+				"title": "Passo 2",
+				"description": "Ora vedrai una finestra di conferma della transazione. Verifica l'importo del pagamento e conferma la transazione. Dopodiché, fai clic su \"Ho pagato\"."
+			}
+		},
+		"validation_messages": {
+			"required": "Il campo è obbligatiorio",
+			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}"
+		},
+		"hash_or_number": "Hash / numero della transazione",
+		"faq": "FAQ",
+		"payed": "Ho pagato",
+		"terms_to_use": "Termini di utilizzo",
+		"privacy_policy": "Politica sulla riservatezza",
+		"back": "Indietro",
+		"confirm": "Confermare"
+	}
+}

@@ -1,0 +1,42 @@
+{
+  "dust": "Dust Foundation",
+  "authorization": {
+		"title": "Autorisierung"
+	},
+	"profile": {
+		"title": "Profil",
+		"settings": "Einstellungen",
+		"transactions": "Transaktionen"
+	},
+	"topup_balance": {
+		"title": "Auffüllung des Guthabens"
+	},
+	"subscription": {
+		"title": "Abonnement"
+	},
+	"join": {
+		"title": "Beitreten"
+	},
+	"academy": {
+		"title": "Akademie"
+	},
+	"portfolio": {
+		"title": "Portfolio",
+		"portfolio_list": "Liste der Portfolios",
+		"ventures": "Venture-Portfolio",
+		"portfolio": "Portfolio",
+		"portfolio_transactions": "Portfolio | Transaktionen"
+	},
+	"forum": {
+		"title": "Forum"
+	},
+	"conferences": {
+		"title": "Konferenzen"
+	},
+	"risk": {
+		"title": "Risikorechner"
+	},
+	"notes": {
+		"title": "Notizen"
+	}
+}

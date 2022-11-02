@@ -65,8 +65,5 @@
 	"notes_limit": "Il limite di note è stato raggiunto",
 	"notes_lost_connection": "Le note verranno sincronizzate dopo il ripristino della connessione.",
 	"notes_access": "Disponibile per gli utenti abbonati di “Piattaforma”",
-	"latter_sent": "Email inviata alla tua posta",
-	"success_disconnect": "{name, plural, =google {Google} =telegram {Telegram} =discord {Discord}} è disconnesso",
-	"alredy_connected": "{name, plural, =google {Google} =telegram {Telegram} =discord {Discord}} è già connesso",
-	"success_connected": "{name, plural, =google {Google} =telegram {Telegram} =discord {Discord}} è connesso"
+	"latter_sent": "Email inviata alla tua posta"
 }

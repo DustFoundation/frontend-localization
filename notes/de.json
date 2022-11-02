@@ -1,0 +1,41 @@
+{
+	"title": "Notizen",
+	"create_btn": "Notiz erstellen",
+	"empty_note": "leere Notiz",
+	"sort": {
+		"custom": " in benutzerdefinierter Reihenfolge",
+		"date_desc": "Datum: neueste zuerst",
+		"date_asc": "Datum: alt zuerst",
+		"alphabet_desc": "Alphabetisch A-Z",
+		"alphabet_asc": "Alphabetisch Z-A"
+	},
+	"create_note_dialog": {
+		"remove_button": "Notiz löschen",
+		"save": "Speichern",
+		"title": "Erstellen einer Notiz",
+		"edit_title": "Bearbeiten einer Notiz",
+		"title_label": "Titel",
+		"title_placeholder": "Meine Notiz",
+		"content_placeholder": "Notiztext eingeben",
+		"changed": "Geändert",
+		"validation_messages": {
+			"required": "Das Feld muss ausgefüllt werden",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"not_only_spaces": "Titel darf keine Lücken enthalten"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Löschen einer Notiz",
+		"description": "Möchten Sie die Notiz wirklich löschen?",
+		"delete": "Löschen",
+		"cancel": "Abbrechnen",
+		"deleted_successfully": "Notiz erfolgreich gelöscht"
+	},
+	"attention_note_dialog": {
+		"title": "Achtung",
+		"description": "Sind Sie sicher, dass Sie die Notiz ohne Speichern schließen möchten?",
+		"dont_save": "nicht speichern",
+		"cancel": "Abbrechnen"
+	}
+}

@@ -1,0 +1,121 @@
+{
+	"confirm-email": {
+		"title": "Bestätigen Sie E-Mail",
+		"subtitle": "Geben Sie den unten stehenden Code ein, der an Ihre E-Mail gesendet wurde",
+		"code": "Der Code",
+		"send_new_code": "Neuen Code senden",
+		"get_new_code_after": {
+			"code": "einen neuen Code bekommen",
+			"after": "in {{timer}} Sekunden"
+		},
+		"done": "erledigt",
+		"back": "zurück"
+	},
+	"confirm-mfa": {
+		"title": "Verifizieren Sie Ihren Account",
+		"subtitle": "Geben Sie den Bestätigungscode von Ihrem Google Authenticator unten ein",
+		"code": "Der Code",
+		"back": "zurück",
+		"sign_in": "einloggen"
+	},
+	"forgot-password": {
+		"title_1": "Stellen Sie früheren Glanz wieder her",
+		"subtitle_1": "Wir senden Ihnen eine Krähe mit einem Geheimcode an Ihre E-Mail-Adresse, um Ihr Passwort zurückzusetzen.",
+		"get_code": "eine Krähe schicken",
+		"title_2": "Rabe ist angekommen",
+		"subtitle_2": "Öffnen Sie die Schriftrolle, die der Rabe Ihnen per E-Mail geschickt hat, und geben Sie den Geheimcode unten ein.",
+		"code": "Der Code",
+		"send_new_code": "Neuen Code senden",
+		"get_new_code_after": {
+			"code": "einen neuen Code bekommen",
+			"after": "in {{timer}} Sekunden"
+		},
+		"title_3": "Test bestanden",
+		"subtitle_3": "Sie haben bewiesen,dass Sie das Recht haben, den früheren Glanz wiederherzustellen. Es bleibt nur noch ein neues Passwort einzugeben.",
+		"restore_password": "Passwort wiederherstellen",
+		"form": {
+			"mail": "E-mail",
+			"mail_input_placeholder": "mail@mail.com",
+			"new_password": "Neues Passwort",
+			"repeat_password": "Wiederholen Sie das Passwort",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "ein Pflichtfeld",
+			"invalid_email": "ungültiges Email-Format",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"passwords_not_match": "Passwörter stimmen nicht überein",
+			"password_rules": "Das Passwort muss mindestens enthalten: 1 lateinischer Kleinbuchstabe, 1 Zahl"
+		}
+	},
+	"new-password": {
+		"title": "Test bestanden",
+		"subtitle": "Sie haben bewiesen,dass Sie das Recht haben, den früheren Glanz wiederherzustellen. Es bleibt nur noch ein neues Passwort einzugeben.",
+		"restore_password": "Passwort wiederherstellen",
+		"form": {
+			"new_password": "Neues Passwort",
+			"repeat_password": "Wiederholen Sie das Passwort",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "ein Pflichtfeld",
+			"invalid_email": "ungültiges Email-Format",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"passwords_not_match": "Passwörter stimmen nicht überein",
+			"password_rules": "Das Passwort muss mindestens enthalten: 1 lateinischer Kleinbuchstabe, 1 Zahl"
+		}
+	},
+	"sign-in": {
+		"no_account": "Haben Sie keinen Account?",
+		"sign_up": "Anmelden",
+		"title": "Anmeldung",
+		"forgot_password": "Passwort vergessen?",
+		"ban_reason": "Grund des Verbotes:",
+		"banned_until": "Verboten bis:",
+		"sign_in": "einloggen",
+    "sign_in_with_google": "Anmeldung mit Google+",
+    "or": "oder",
+		"form": {
+			"mail": "E-Mail",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Passwort",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "ein Pflichtfeld",
+			"invalid_email": "ungültiges Email-Format",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
+		}
+	},
+	"sign-up": {
+		"have_account": "Haben Sie einen Account?",
+		"sign_in": "einloggen",
+		"title": "einloggen",
+		"forgot_password": "Passwort vergessen?",
+		"ban_reason": "Grund des Verbotes:",
+		"banned_until": "Verboten bis:",
+		"sign_up": "Anmelden",
+		"policy": {
+			"agree": "Ich bin einverstanden mit",
+			"with": "Datenschutz-Bestimmungen"
+		},
+		"form": {
+			"mail": "E-mail",
+			"mail_input_placeholder": "mail@mail.com",
+			"password": "Passwort",
+			"password_input_placeholder": "*****************",
+			"repeat_password": "Wiederholen Sie das Passwort"
+		},
+		"validation_messages": {
+			"required": "ein Pflichtfeld",
+			"invalid_email": "ungültiges Email-Format",
+			"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+			"passwords_not_match": "Passwörter stimmen nicht überein",
+			"password_rules": "Das Passwort muss mindestens enthalten: 1 lateinischer Kleinbuchstabe, 1 Zahl"
+		}
+	}
+}

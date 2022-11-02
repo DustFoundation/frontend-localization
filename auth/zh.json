@@ -16,14 +16,14 @@
 		"subtitle": "在下方输入您的 Google 身份验证器应用中列出的代码",
 		"code": "代码",
 		"back": "后退",
-		"sign_in": "签到"
+		"sign_in": "登入"
 	},
 	"forgot-password": {
 		"title_1": "恢复往日的辉煌",
-		"subtitle_1": "我们将向您发送带有密码的验证码以恢复您的密码",
-		"get_code": "送一只验证码",
-		"title_2": "验证码来了",
-		"subtitle_2": "打开验证码发送到您电子邮件的卷轴并在下面输入密码。",
+		"subtitle_1": "我们将向您发送带有密码的乌鸦以恢复您的密码",
+		"get_code": "送一只乌鸦",
+		"title_2": "乌鸦来了",
+		"subtitle_2": "打开乌鸦发送到您电子邮件的卷轴并在下面输入密码。",
 		"code": "代码",
 		"send_new_code": "重新发送验证码",
 		"get_new_code_after": {

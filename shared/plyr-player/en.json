@@ -1,4 +1,5 @@
 {
+  "title": "Video player setup",
   "auto": "Auto",
   "normal": "Normal",
   "speed": "{type, plural, =1 {Playback speed} other {Playback speed}}",

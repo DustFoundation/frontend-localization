@@ -1,0 +1,83 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Recensione finale del nostro corso",
+			"module": "Modulo",
+			"leave_review": "Lascia il tuo feedback sul corso"
+		},
+		"menu": {
+			"test": "Test",
+			"testing": "Valutazione"
+		},
+		"module-finished-dialog": {
+			"module": "Modulo",
+			"open_access": "Accesso al modulo concesso",
+			"thanks_for_review": "Grazie, il tuo feedback viene preso in considerazione",
+			"awful": "Terribile",
+			"bad": "Male",
+			"ok": "Media",
+			"good": "Bene",
+			"excellent": "Eccellente",
+			"rate_module": "Valuta questo modulo",
+			"leave_review?": "Vuoi lasciare il tuo feedback?",
+			"next_lesson": "Prossima lezione",
+			"yes": "sì",
+			"no": "No"
+		},
+		"module-review-dialog": {
+			"help_us": "Aiutaci a migliorare questo corso",
+			"please_leave_comment_about": "Si prega di lasciare una recensione",
+			"leave_review": "Lascia il feedback",
+			"my_review": "Il mio feedback",
+			"module": "Modulo",
+			"course": "Corso",
+			"back": "Indietro"
+		}
+	},
+	"course-details": {
+		"need_subscription": "Abbonamento attivo richiesto",
+		"level": "Livello:",
+		"count_of_modules": "Moduli:",
+		"count_of_lessons": "Lezioni:",
+		"got_badges": "Distintivi ricevuti",
+		"course_progress": "Avanzamento del corso",
+		"pass_again": "Rifare",
+		"continue_learning": "Continua ad imparare",
+		"start_learning": "Inizia ad imparare",
+		"training_program": "programma d'insegnamento",
+		"module": "Modulo"
+	},
+	"course-lesson": {
+		"pass_test": "Passare il test",
+		"next_lesson": "prossima lezione",
+		"previous_lesson": "lezione precedente"
+	},
+	"course-test": {
+		"description": " Dopo aver superato il test, riceverai un badge speciale che che apre l'accesso al modulo successivo",
+		"ps": "PS Supera il test senza errori per ottenere un badge d'oro!",
+		"check_test": "Controlla il test",
+		"try_once_more": "Riprova",
+		"previous_lesson": "Lezione precedente",
+		"onward": "Prossimo"
+	},
+	"courses": {
+		"need_subscription": "Abbonamento attivo richiesto",
+		"new_course_in_development": "Nuovi corsi sono già in fase di sviluppo!",
+		"level": "Livello:",
+		"count_of_modules": "Moduli:",
+		"count_of_lessons": "Lezioni:",
+		"got_badges": "Distintivi ricevuti",
+		"course_progress": "Avanzamento del corso",
+		"pass_again": "Rifare",
+		"continue_learning": "Continua ad imparare",
+		"start_learning": "Inizia ad imparare",
+		"about": "Di",
+		"difficulty": {
+			"0": "Di base",
+			"1": "Elementare",
+			"2": "Medio",
+			"3": "Avanzato",
+			"-1": "Sconosciuto"
+		}
+	}
+}

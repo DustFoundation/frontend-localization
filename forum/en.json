@@ -1,14 +1,14 @@
 {
   "components": {
     "dialog-buy-access": {
-      "title": "Unlock forum for",
-      "subtitle": "Gather daily rewards and get access to Forum",
+      "title": "Unlock the forum for",
+      "subtitle": "Gather daily rewards and get access to the Forum",
       "on_balance": "On your balance",
       "dust": "DUST",
       "unlock": "Unlock"
     },
     "dialog-delete-ticket": {
-      "title": "Delete post",
+      "title": "Delete a post",
       "subtitle": "Are you sure you want to delete your post?",
       "delete": "Delete",
       "cancel": "Cancel"
@@ -43,7 +43,7 @@
   "buy-access": {
     "all": "All posts",
     "my-tickets": "My posts",
-    "create_post": "Create post",
+    "create_post": "Create a post",
     "all_posts": "All posts",
     "rating": "Rating",
     "name": "Post title",
@@ -76,7 +76,7 @@
     "default_user_nickname": "Anonymous",
     "loaded_photo": "Photo uploaded:",
     "load_image": "Choose a file or drag it here (JPG or PNG less than 3MB)",
-    "add_image": "Add image",
+    "add_image": "Add an image",
     "close": "Close",
     "create": "Create",
     "validation_messages": {
@@ -92,8 +92,8 @@
     "news": "New",
     "all": "All posts",
     "my-tickets": "My posts",
-    "create_post": "Create post",
-    "delete_post": "Delete post",
+    "create_post": "Create a post",
+    "delete_post": "Delete a post",
     "no_posts": "Forum is empty :(",
     "create_firs_post": "Create your first post",
     "name": "Post title",
@@ -101,7 +101,7 @@
     "status": "Moderation status",
     "comment": "Comment",
     "no_reason": "The reason is not specified",
-    "view_post": "View post",
+    "view_post": "View a post",
     "published": "Published:",
     "sent": "Sent:",
     "edit": "Edit",
@@ -122,7 +122,7 @@
     "comments": "Comments",
     "moderator": "Moderator",
     "edit": "Edit",
-    "delete_post": "Delete post",
+    "delete_post": "Delete a post",
     "delete": "Delete"
   },
   "tickets": {
@@ -130,7 +130,7 @@
     "news": "New",
     "all": "All posts",
     "my-tickets": "My posts",
-    "create_post": "Create post",
+    "create_post": "Create a post",
     "all_posts": "All posts",
     "rating": "Rating",
     "name": "Post title",

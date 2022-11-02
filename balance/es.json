@@ -15,7 +15,7 @@
 			"1": "Aceptamos pagos solo en Tether (USDT).",
 			"2": "Recarga tu saldo para activar tu suscripción.",
 			"3": "Recomendamos usar la red «TRC20» (tarifa ~1$)",
-			"4": "Enviar cualquier otra moneda o token a esta dirección, excepto USDT, puede resultar en la pérdida de sus fondos.",
+			"4": "Enviar cualquiera otra moneda o token a esta dirección, excepto USDT, puede resultar en la pérdida de sus fondos.",
 			"5": {
 				"first_part": "Para activar una suscripción “{{subscriptionName}}“ para {{subscriptionTerm}}",
 				"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} necesita recargar su saldo para {{subscriptionP e1}} USDT +c agregar tarifa de red."
@@ -47,10 +47,10 @@
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}"
 		},
 		"hash_or_number": "Hash de la transacción / el número",
-		"faq": "Preguntas más frecuentes",
+		"faq": "Las preguntas más frecuentes",
 		"payed": "He pagado",
-		"terms_to_use": "Términos del Uso",
-		"privacy_policy": "Política de la privacidad",
+		"terms_to_use": "Los términos del Uso",
+		"privacy_policy": "La política de la privacidad",
 		"back": "Volver",
 		"confirm": "Confirmar"
 	}

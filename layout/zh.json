@@ -1,0 +1,152 @@
+{
+	"header": {
+		"subscription_activate": "激活订阅",
+		"subscription_activated": {
+			"text": "订阅",
+			"status": "积极的"
+		},
+		"portfolio": "文件夹",
+		"portfolio_dropdown": {
+			"all_portfolios": "所有投资组合",
+			"risk_calculator": "风险计算器"
+		},
+		"academy": "学院",
+		"forum": "论坛",
+		"main": "家",
+		"conferences": "会议",
+		"menu": {
+			"profile": "轮廓",
+			"balance": "充值余额",
+			"subscription": "订阅",
+			"transactions": "交易记录",
+			"settings": "设置",
+			"promocode": "促销代码",
+			"bug_report": "错误报告",
+			"support": "支持聊天",
+			"conferences": "会议"
+		},
+		"sign_up": "报名",
+		"sign_in": "登入",
+		"logout": "登出",
+		"in_development": "开发中",
+		"beta": "测试版",
+		"dust": "灰尘",
+		"usdt": "USDT",
+		"micron": "美光"
+	},
+	"notes_dropdown": {
+		"notes": "所有笔记",
+		"add_note": "创建笔记"
+	},
+	"notifications": {
+		"count_of_notification": "新通知",
+		"clear": "清除所有通知",
+		"types": {
+			"SUBSCRIPTION_ADDED": {
+				"title": "订阅购买成功",
+				"description": "您已成功购买 {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} 的订阅"
+			},
+			"SUBSCRIPTION_UPDATED": {
+				"title": "续订成功",
+				"description": "您已成功续订 {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_ENDING_SOON": {
+				"title": "您的订阅即将结束",
+				"description": "很抱歉，您的订阅将在 {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}...我们'会想你的！"
+			},
+			"BALANCE_ADDED": {
+				"title": "补充余额",
+				"description": "您的帐户已充值 {{amount}} USDT"
+			},
+			"TELEGRAM_INVITED": {
+				"title": "邀请至",
+				"description": "您对 Telegram 的邀请。祝你在那个地狱里好运！"
+			},
+			"TELEGRAM_INVITED_1": {
+				"title": "邀请电报聊天",
+				"description": "您的 Telegram 聊天邀请。祝你在那个地狱里好运！"
+			},
+			"TELEGRAM_INVITED_2": {
+				"title": "邀请电报频道",
+				"description": "您对 Telegram 频道 LUCK 的邀请。祝你好运！"
+			},
+			"PAYMENT_ORDER_SUCCESS": {
+				"title": "余额补充",
+				"description": "执行了补充余额的命令。"
+			},
+			"PAYMENT_ORDER_FAILED": {
+				"title": "余额补充",
+				"description": "补货订单失败！"
+			},
+			"PAYMENT_TXID_EXIST": {
+				"title": "余额补充",
+				"description": "您的交易号已被其他用户使用！"
+			},
+			"PAYMENT_FAILED": {
+				"title": "余额补充",
+				"description": "未能创建订单以补充您的余额，请联系管理！"
+			},
+			"SUBSCRIPTION_SUCCESS": {
+				"title": "订阅",
+				"description": "订阅成功"
+			}
+		}
+	},
+	"promocode-dialog": {
+		"title": "促销代码激活",
+		"enter_promocode": "输入优惠码",
+		"activate": "激活促销代码",
+		"example": "示例：X2dDjsa29GKO",
+		"validation_messages": {
+			"required": "必填字段",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}"
+		}
+	},
+	"report-dialog": {
+		"name": "标题",
+		"bag_report": "错误报告",
+		"loaded_file": "上传的文件：",
+		"short_description": "简短的介绍",
+		"detail_description_problem": "详细说明",
+		"description_of_problem": "问题描述",
+		"validation_messages": {
+			"required": "必填字段",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"img": "JPG 或 PNG，不超过 3MB",
+			"discord_or_email": "输入电子邮件或 Discord 昵称"
+		},
+		"download": "下载",
+		"send": "发送",
+		"cancel": "取消",
+		"contact_with_me": "联系我",
+		"enter_email_or_discord": "输入电子邮件或 Discord 昵称",
+		"contact": "接触"
+	},
+	"system-notification-dialog": {
+		"update": "更新可用",
+		"failed": "哎呀",
+		"offline": "离线",
+		"update_detected": "检测到应用更新：{{version}}",
+		"update_ready": "更新已准备就绪 {{version}}。想要更新？",
+		"update_failed": "在安装更新 {{version}} 期间发生错误",
+		"network_offline": "连接已丢失，需要重新加载页面",
+		"yes": "是的，更新",
+		"no": "不"
+	},
+	"cookies": {
+		"cookies_settings": "管理 Cookie",
+		"intro": "我们使用 cookie 来改善您的用户体验、应用程序使用分析并启用聊天支持。\n",
+		"get_know_with_start": "了解与",
+		"cookies_policy": "Cookie 政策",
+		"get_known_with_end": "更多的",
+		"accept": "接受",
+		"settings": "设置",
+		"analytic_cookies": "分析 cookie",
+		"analytic_cookies_description": "启用这些 cookie 将使我们能够跟踪您与我们网站的互动并进行改进。",
+		"support_chat": "支持聊天",
+		"support_chat_description": "如果您想访问支持聊天，则需要这些 cookie。",
+		"save": "节省",
+		"back": "后退"
+	}
+}

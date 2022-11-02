@@ -1,0 +1,15 @@
+{
+	"include": "包括什么",
+	"trial": "免费试用 {{days}} {days, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}",
+	"chose_period": "选择的天数",
+	"all_from": "一切从",
+	"economy": "您保存",
+	"includes": {
+		"portfolio": "所有投资组合类型（三合一）",
+		"academy": "训练课程",
+		"forum": "论坛",
+		"discord": "私人不和谐",
+		"telegram": "私人电报"
+	},
+	"usdt": "USDT"
+}

@@ -1,0 +1,153 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "解锁论坛",
+			"subtitle": "收集每日奖励并访问论坛",
+			"on_balance": "在你的天平上",
+			"dust": "灰尘",
+			"unlock": "开锁"
+		},
+		"dialog-delete-ticket": {
+			"title": "删除帖子",
+			"subtitle": "您确定要删除您的帖子吗？",
+			"delete": "删除",
+			"cancel": "取消"
+		},
+		"dialog-reject-reason": {
+			"title": "拒票原因"
+		},
+		"ticket-comments": {
+			"forbidden": "禁止对被拒绝或未发表的帖子发表评论"
+		},
+		"ticket-comments-item": {
+			"leave_comment": "发表评论",
+			"show_more": "显示更多...",
+			"hide": "隐藏",
+			"cancel": "取消",
+			"change": "改变",
+			"reply": "回复",
+			"show": "节目",
+			"show_answer": "显示 {{value}} {value, plural, =1 {reply} other {replies}}",
+			"edit": "编辑",
+			"delete": "删除"
+		},
+		"ticket-item": {
+			"moderate": "审查中"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "发表评论",
+			"reply": "回复",
+			"cancel": "取消"
+		}
+	},
+	"buy-access": {
+		"all": "所有帖子",
+		"my-tickets": "我的帖子",
+		"create_post": "创建帖子",
+		"all_posts": "所有帖子",
+		"rating": "评分",
+		"name": "帖子标题",
+		"author": "作者",
+		"date": "发布日期",
+		"topic": "话题",
+		"views": "意见",
+		"comments": "注释",
+		"no_posts": "论坛是空的:(",
+		"create_firs_post": "创建您的第一个帖子"
+	},
+	"create-ticket": {
+		"status": "地位：",
+		"sent": "发送：",
+		"edit_mode": "编辑帖子",
+		"view_mode": "查看帖子",
+		"create_post": "创建帖子",
+		"title_post": "帖子标题",
+		"title": "标题",
+		"post_topic": "发表主题",
+		"description": "发表文字/内容/描述",
+		"resend": "重发",
+		"times_left": "（左 {{num}}）",
+		"buy_opportunities": "购买 10 个创建帖子的机会 (10 DUST)",
+		"moderate": "审查中",
+		"rejected": "被拒绝",
+		"no_reason": "未说明原因",
+		"delete_post": "删除帖子",
+		"default_user_nickname": "匿名的",
+		"loaded_photo": "照片上传：",
+		"load_image": "选择一个文件或将其拖到此处（JPG 或 PNG 小于 3MB）",
+		"add_image": "添加图片",
+		"close": "关",
+		"create": "创造",
+		"validation_messages": {
+			"required": "必填字段",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"invalid_format_img": "图片格式无效",
+			"file_size_exceeded": "超出文件大小"
+		}
+	},
+	"my-tickets": {
+		"popular": "受欢迎的",
+		"news": "新的",
+		"all": "所有帖子",
+		"my-tickets": "我的帖子",
+		"create_post": "创建帖子",
+		"delete_post": "删除帖子",
+		"no_posts": "论坛是空的:(",
+		"create_firs_post": "创建您的第一个帖子",
+		"name": "帖子标题",
+		"date": "发布日期",
+		"status": "审核状态",
+		"comment": "评论",
+		"no_reason": "未说明原因",
+		"view_post": "查看帖子",
+		"published": "发表：",
+		"sent": "发送：",
+		"edit": "编辑",
+		"accepted": "公认",
+		"moderate": "审查中",
+		"rejected": "被拒绝"
+	},
+	"ticket": {
+		"default_user_nickname": "匿名的",
+		"up_rating": "提高评级",
+		"remove_voice": "删除投票",
+		"rating": "评分",
+		"name": "帖子标题",
+		"author": "作者",
+		"date": "发布日期",
+		"topic": "话题",
+		"views": "意见",
+		"comments": "注释",
+		"moderator": "版主",
+		"edit": "编辑",
+		"delete_post": "删除帖子",
+		"delete": "删除"
+	},
+	"tickets": {
+		"popular": "受欢迎的",
+		"news": "新的",
+		"all": "所有帖子",
+		"my-tickets": "我的帖子",
+		"create_post": "创建帖子",
+		"all_posts": "所有帖子",
+		"rating": "评分",
+		"name": "帖子标题",
+		"author": "作者",
+		"date": "发布日期",
+		"topic": "话题",
+		"views": "意见",
+		"comments": "注释",
+		"moderator": "版主",
+		"no_posts": "论坛是空的:(",
+		"create_firs_post": "创建您的第一个帖子"
+	},
+	"tags": {
+		"Идея": "主意",
+		"Жалоба": "抱怨",
+		"Партнерство": "合伙",
+		"Предложение": "提供",
+		"Обсуждение": "讨论",
+		"Другое": "其他"
+	}
+}

@@ -8,8 +8,8 @@
     },
     "subscription-integrations": {
       "title": "Discord and Telegram integrations",
-      "rule_1": "To get full access to the private Discord server and Telegram channel, you need to connect their integrations",
-      "rule_2": "Access will be granted only to provided accounts! Transfer of access to another account will be possible only on subscription renewal.",
+      "rule_1": "To get the full access to the private Discord server and Telegram channel you need to connect their integrations",
+      "rule_2": "Access will be granted only for provided accounts! Transfer of access to another account will be possible only on subscription renewal.",
       "back": "Back",
       "onward": "Next",
       "skip": "Skip",
@@ -48,27 +48,27 @@
     "cryptocommunity": {
       "title": "What's included in Cryptocommunity subscription?",
       "0": {
-        "title": "Access to crypto-community",
+        "title": "Access to the crypto-community",
         "description": "Private Discord-server with crypto-enthusiasts"
       }
     },
     "platform": {
-      "title": "What's included in Platform subscription?",
+      "title": "What's included in a Platform subscription?",
       "soon": "Soon...",
       "0": {
         "title": "20 portfolios in Portfolio",
         "description": "Record-keeping and tracking assets"
       },
       "1": {
-        "title": "Access to Academy",
+        "title": "Access to the Academy",
         "description": "Educational resources about cryptocurrencies"
       },
       "2": {
-        "title": "Access to Crypto-forum",
+        "title": "Access to the Crypto-forum",
         "description": "Create and comment on posts"
       },
       "3": {
-        "title": "Crypto-hero",
+        "title": "The Crypto-hero",
         "description": "1 of 5 levelable characters"
       },
       "4": {
@@ -76,7 +76,7 @@
         "description": "Rewards and achievements system"
       },
       "5": {
-        "title": "Crypto Calendar",
+        "title": "The Crypto Calendar",
         "description": "Tracking of crypto-events"
       }
     }

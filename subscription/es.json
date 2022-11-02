@@ -1,16 +1,16 @@
 {
 	"components": {
 		"dialog-subscription-status": {
-			"term": "¡Suscripción para {{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} activada!",
+			"term": "¡La suscripción para {{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} activada!",
 			"title": "¡Bienvenido a la comunidad criptográfica!",
-			"subtitle": "¡Empieza a utilizar todas las funcionalidades y ventajas de la plataforma ahora mismo!",
-			"to_main": "Hogar"
+			"subtitle": "¡Empieza a utilizar todas las funcionalidades y las ventajas de la plataforma ahora mismo!",
+			"to_main": "Volver"
 		},
 		"subscription-integrations": {
 			"title": "Integraciones de Discord y Telegram",
-			"rule_1": "Para obtener acceso completo al servidor privado de Discord y al canal de Telegram, debe conectar sus integraciones",
-			"rule_2": "¡El acceso se otorgará solo a las cuentas proporcionadas! La transferencia de acceso a otra cuenta solo será posible al renovar la suscripción.",
-			"back": "atrás",
+			"rule_1": "Para obtener el acceso completo al servidor privado de Discord y al canal de Telegram, debe conectar sus integraciones",
+			"rule_2": "¡El acceso se otorgará solo a las cuentas proporcionadas! La transferencia del acceso a otra cuenta solo será posible al renovar la suscripción.",
+			"back": "Volver",
 			"onward": "próximo",
 			"skip": "Saltar",
 			"attention": "¡Atención!"
@@ -32,7 +32,7 @@
 			},
 			"usdt": "USDT",
 			"activate": "Activar",
-			"back": "atrás",
+			"back": "Volver",
 			"attention": "¡Atención!"
 		}
 	},
@@ -44,7 +44,7 @@
 		"continue_subscription": "Ampliar suscripción",
 		"activate_subscription": "Activar suscripción",
 		"all_transaction": "Todas las transacciones",
-		"detail": "Detalles de suscripción",
+		"detail": "Detalles de la suscripción",
 		"cryptocommunity": {
 			"0": {
 				"title": "Acceso a la cripto-comunidad",
@@ -55,27 +55,27 @@
 		"platform": {
 			"0": {
 				"title": "20 carteras en cartera",
-				"description": "Mantenimiento de registros y seguimiento de activos"
+				"description": "El mantenimiento de registros y seguimiento de activos"
 			},
 			"1": {
-				"title": "Acceso a la Academia",
-				"description": "Recursos educativos sobre criptomonedas"
+				"title": "El acceso a la Academia",
+				"description": "Los recursos educativos sobre criptomonedas"
 			},
 			"2": {
-				"title": "Acceso al criptoforo",
+				"title": "El acceso al criptoforo",
 				"description": "Crear y comentar publicaciones."
 			},
 			"3": {
-				"title": "cripto-héroe",
+				"title": "El cripto-héroe",
 				"description": "1 de 5 personajes nivelables"
 			},
 			"4": {
 				"title": "Recompensas de actividad",
-				"description": "Sistema de recompensas y logros."
+				"description": "La sistema de recompensas y logros."
 			},
 			"5": {
-				"title": "Calendario criptográfico",
-				"description": "Seguimiento de eventos criptográficos"
+				"title": "El calendario criptográfico",
+				"description": "El seguimiento de eventos criptográficos"
 			},
 			"title": "¿Qué incluye la suscripción a la plataforma?",
 			"soon": "Pronto..."

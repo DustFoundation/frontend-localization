@@ -13,11 +13,11 @@
 		"change-password-dialog": {
 			"title": "Establecer la contraseña",
 			"new_password": "Nueva contraseña",
-			"repeat_password": "repite la contraseña",
-			"change_password": "cambiar la contraseña",
+			"repeat_password": "Repite la contraseña",
+			"change_password": "Cambiar la contraseña",
 			"password_input_placeholder": "****************",
 			"validation_messages": {
-				"required": "Se requiere campo",
+				"required": "Se requiere el campo",
 				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 				"password_rules": "La contraseña debe contener al menos 1 letra mayúscula y 1 dígito",
@@ -27,18 +27,18 @@
 		"checkout-email": {
 			"title_1": "Ingrese su correo electrónico",
 			"subtitle_1": "Te enviaremos un mensaje con un código para confirmar tu dirección de correo electrónico",
-			"title_2": "Confirmación de correo electrónico",
+			"title_2": "La confirmación del correo electrónico",
 			"subtitle_2": "Introduce el código que te hemos enviado a tu dirección de correo electrónico",
-			"selected_subscription": "Suscripción seleccionada <span>{{name}}</span>",
-			"change_subscription": "Cambiar suscripción",
+			"selected_subscription": "La suscripción seleccionada <span>{{name}}</span>",
+			"change_subscription": "Cambiar mi suscripción",
 			"send_code": "Envía el código",
 			"send_code_after": "Reenviar un código en <span>{{time}} {time, plural, =1 {segundo} =2 {segundos} =3 {segundos} =4 {segundos} other {segundos}}</span>",
 			"send_code_once_more": "Reenviar un código",
 			"email_input_placeholder": "correo@correo.com",
 			"back": "atrás",
 			"validation_messages": {
-				"required": "Se requiere campo",
-				"invalid_email": "Formato de correo inválido"
+				"required": "Se requiere el campo",
+				"invalid_email": "El formato de correo es inválido"
 			},
 			"policy": {
 				"agree": "estoy de acuerdo con",
@@ -59,26 +59,26 @@
 			},
 			"career": {
 				"title": "Carreras",
-				"subtitle": "posiciones abiertas"
+				"subtitle": "Las posiciones abiertas"
 			},
 			"dust_bro": {
-				"title": "Polvo hermano y ángeles",
+				"title": "Hermanos de DUST & Ángeles",
 				"subtitle": "Asociaciones"
 			},
 			"blog": {
 				"title": "Blog",
 				"subtitle": "Manténgase al día con las últimas noticias"
 			},
-			"registration": "Registro",
-			"entry": "Iniciar sesión"
+			"registration": "El registro",
+			"entry": "Iniciar la sesión"
 		},
 		"checkout-payment": {
-			"title": "Selección de la duración de la suscripción",
-			"video_tutorial": "Video tutorial - cómo comprar una suscripción",
-			"terms_to_use": "Términos de Uso",
-			"privacy_policy": "Política de privacidad",
-			"warning": "Advertencias de riesgo",
-			"back": "atrás",
+			"title": "La selección de la duración de la suscripción",
+			"video_tutorial": "El video tutorial - cómo comprar una suscripción",
+			"terms_to_use": "Términos del Uso",
+			"privacy_policy": "La política de la privacidad",
+			"warning": "Las advertencias del riesgo",
+			"back": "Volver",
 			"activate": "Activar",
 			"onward": "próximo",
 			"choose_network": "Seleccione una red para la transferencia de USDT",
@@ -87,19 +87,19 @@
 			"bep20": "BEP20 Dirección:",
 			"bep2": "Dirección BEP2:",
 			"memo": "MEMO Dirección:",
-			"click_to_copy": "Haga clic para copiar",
+			"click_to_copy": "Haz clic para copiar",
 			"copied": "copiado",
 			"payed": "He pagado",
 			"hash_or_number": "Hash de transacción / número",
 			"specify_hash_or_number": "Especificar hash o número de transacción",
 			"confirm": "Confirmar",
-			"faq": "Preguntas más frecuentes",
+			"faq": "Las preguntas más frecuentes",
 			"transaction": {
-				"title": "Especificar hash o número de transacción",
+				"title": "Especificar un hash o número de la transacción",
 				"recommendation": {
-					"1": "Para buscar el número de transacción en Binance, siga este enlace:",
+					"1": "Para buscar el número de la transacción en Binance, siga este enlace:",
 					"2": "Si ha enviado USDT desde otro intercambio, especifique en este campo Hash de transacción (ejemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
-					"3": "También puede especificar un número de transacción (Transferencia interna) - 43047269665, pero no lo confunda con su billetera - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"3": "También puede especificar un número de la transacción (Transferencia interna) - 43047269665, pero no lo confunda con su billetera - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
 					"title": "Recomendaciones"
 				}
 			},
@@ -115,7 +115,7 @@
 				"title": "Importante"
 			},
 			"validation_messages": {
-				"required": "Se requiere campo",
+				"required": "Se requiere un campo",
 				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}"
 			}
 		},

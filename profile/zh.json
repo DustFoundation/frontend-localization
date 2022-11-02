@@ -110,7 +110,7 @@
 			"FORUM_POSTS_10": "购买了 10 个论坛帖子"
 		},
 		"transaction_statuses": {
-			"created": "待办的",
+			"created": "创作好的",
 			"pending": "加工",
 			"pre-approve": "等待确认中",
 			"approve": "确认的",

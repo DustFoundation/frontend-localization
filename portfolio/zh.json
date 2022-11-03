@@ -111,7 +111,7 @@
 				"other": "其他"
 			},
 			"periods": {
-				"every-day": "日常的",
+				"every-day": "每天",
 				"every-week": "每周",
 				"every-month": "月刊",
 				"every-quarter": "季刊",
@@ -301,8 +301,8 @@
 			"date": "日期",
 			"value": "价值（美元）",
 			"close": "关",
-			"buy": "购买",
-			"sell": "销售"
+			"buy": "买入",
+			"sell": "卖出"
 		},
 		"dialog-venture-coin-info": {
 			"title": "风险资产详情",
@@ -379,9 +379,9 @@
 			"1_day": "1天",
 			"7_days": "7天",
 			"1_month": "1个月",
-			"3_months": "3 我的",
+			"3_months": "3个月",
 			"1_year": "1年",
-			"all_time": "整天"
+			"all_time": "每时每刻"
 		}
 	},
 	"portfolio": {

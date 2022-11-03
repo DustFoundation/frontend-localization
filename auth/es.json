@@ -5,7 +5,7 @@
 		"code": "El código",
 		"send_new_code": "Reenviar el codigo",
 		"get_new_code_after": {
-			"code": "Obtener un nuevo código",
+			"code": "Obtener un código nuevo",
 			"after": "en {{timer}} segundos"
 		},
 		"done": "Hecho",

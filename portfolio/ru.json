@@ -188,17 +188,36 @@
         "period": "Период распределение",
         "end_date": "End date",
         "start_date": "Start date",
-        "frequency": "Периодичность",
-        "frequency_count" : "Кол-во периодов",
+        "frequency": "Периодичность*",
+        "frequency_count": "Кол-во периодов*",
         "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ end }}",
-        "select_period": "Выберите период",
         "unlock_impossible": "Разлок по данному периоду невозможен",
+        "not_exactly": "Разлоки деляться не ровно",
         "elem_unlock_date": "Дата {{ num }} разлока",
         "invalid_sequence": "Не может быть раньше даты покупки или даты разлока",
         "value_in_period": "Объем разлока в этот период",
         "left_to_distribute": "Осталось распределить:",
         "volume_distributed": "Весь объём распределен",
-        "invalid_unlock": " *Некорректные разлоки"
+        "invalid_unlock": " *Некорректные разлоки",
+        "frequency_type": {
+          "DAY": "дней",
+          "WEEK": "нед.",
+          "MONTH": "мес.",
+          "YEAR": "год"
+        }
+      },
+      "sixth_step": {
+        "price": "Цена покупки",
+        "investment_volume": "Объем инвестиций",
+        "amount_coin": "Кол-во монет",
+        "buy_date": "Дата покупки",
+        "round": "Раунд",
+        "type": "Тип",
+        "sait": "Сайт",
+        "network": "Cеть",
+        "unlock_type": "Тип разлока",
+        "unlock_date": "Дата разлока",
+        "period_unlock": "Период разлока"
       },
       "validation_messages": {
         "required": "Поле обязательно к заполнению",

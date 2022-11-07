@@ -65,5 +65,8 @@
 	"notes_limit": "Piezīmju ierobežojums ir sasniegts",
 	"notes_lost_connection": "Piezīmes tiks sinhronizētas pēc savienojuma atjaunošanas.",
 	"notes_access": "Pieejams lietotājiem, kuri ir abonējuši “Platformu“",
-	"latter_sent": "Vēstule nosūtīta uz jūsu pastu"
+	"latter_sent": "Vēstule nosūtīta uz jūsu pastu",
+	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ir atvienots",
+	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} jau ir savienots",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ir savienots"
 }

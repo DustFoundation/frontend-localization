@@ -1,0 +1,128 @@
+{
+	"components": {
+		"binance-pay-dialog": {
+			"enter_sum": "输入充值金额",
+			"get_qr": "获取支付二维码",
+			"min_sum": "最低充值金额为 {{num}}$",
+			"scan_qr": "使用您的 Binance 移动应用程序扫描二维码进行付款",
+			"i_paid": "我付了",
+			"validation_messages": {
+				"required": "必填字段"
+			}
+		},
+		"change-password-dialog": {
+			"title": "设置密码",
+			"new_password": "新密码",
+			"repeat_password": "重复密码",
+			"change_password": "更改密码",
+			"password_input_placeholder": "*****************",
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "密码必须至少包含 1 个大写字母和 1 个数字",
+				"passwords_not_match": "密码不匹配"
+			}
+		},
+		"checkout-email": {
+			"title_1": "输入您的电子邮件",
+			"subtitle_1": "我们将向您发送一条带有代码的消息，以确认您的电子邮件地址",
+			"title_2": "邮件确认",
+			"subtitle_2": "输入我们发送到您的电子邮件地址的代码",
+			"selected_subscription": "所选订阅<span>{{name}}</span>",
+			"change_subscription": "更改订阅",
+			"send_code": "发送代码",
+			"send_code_after": "在<span>{{time}} {time, plural, =1 {second} =2 {seconds} =3 {seconds} =4 {seconds} other {seconds}}</span>重新发送代码",
+			"send_code_once_more": "重新发送代码",
+			"email_input_placeholder": "邮件@mail.com",
+			"back": "后退",
+			"validation_messages": {
+				"required": "必填字段",
+				"invalid_email": "电子邮件格式无效"
+			},
+			"policy": {
+				"agree": "我同意",
+				"with": "隐私政策"
+			}
+		},
+		"checkout-header": {
+			"explore": "探索",
+			"products": "产品",
+			"roadmap": "路线图",
+			"about_us": {
+				"title": "关于我们",
+				"subtitle": "我们的队伍"
+			},
+			"our_brand": {
+				"title": "我们的品牌",
+				"subtitle": "标志使用"
+			},
+			"career": {
+				"title": "工作人员",
+				"subtitle": "空缺职位"
+			},
+			"dust_bro": {
+				"title": "尘埃兄弟与天使",
+				"subtitle": "伙伴关系"
+			},
+			"blog": {
+				"title": "博客",
+				"subtitle": "随时了解最新消息"
+			},
+			"registration": "登记",
+			"entry": "登录"
+		},
+		"checkout-payment": {
+			"title": "订阅长度选择",
+			"video_tutorial": "视频教程 - 如何购买订阅",
+			"terms_to_use": "使用条款",
+			"privacy_policy": "隐私政策",
+			"warning": "风险提示",
+			"back": "后退",
+			"activate": "启用",
+			"onward": "下一个",
+			"choose_network": "选择USDT转账网络",
+			"erc20": "ERC20 地址：",
+			"trc20": "TRC20 地址：",
+			"bep20": "BEP20 地址：",
+			"bep2": "BEP2 地址：",
+			"memo": "备忘录地址：",
+			"click_to_copy": "点击复制",
+			"copied": "已复制",
+			"payed": "我付了",
+			"hash_or_number": "交易哈希/数字",
+			"specify_hash_or_number": "指定哈希或交易数量",
+			"confirm": "确认",
+			"faq": "常问问题",
+			"transaction": {
+				"title": "指定哈希或交易数量",
+				"recommendation": {
+					"1": "要在 Binance 上查找交易编号，请点击以下链接：",
+					"2": "如果您从另一个交易所发送了 USDT，请在此字段中指定交易哈希（TRC20 示例）：fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+					"3": "您还可以指定交易号（内部转账） - 43047269665，但不要与您的钱包混淆 - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+					"title": "建议"
+				}
+			},
+			"important": {
+				"1": "我们仅接受 Tether (USDT) 付款。",
+				"2": "充值您的余额以激活您的订阅。",
+				"3": "我们推荐使用«TRC20»网络（费用~1$）",
+				"4": "向该地址发送除 USDT 以外的任何其他硬币或代币可能会导致您的资金损失。",
+				"5": {
+					"first_part": "为 {{subscriptionTerm}} 激活订阅“{{subscriptionName}}”",
+					"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} 您需要充值 [subscriptionPri 到 ct 到 ct 的余额网络费。"
+				},
+				"title": "重要的"
+			},
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"checkout-status": {
+			"processing": "穿越区块链",
+			"success": "支付成功",
+			"status": "支付状态："
+		}
+	}
+}

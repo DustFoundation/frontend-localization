@@ -1,0 +1,22 @@
+{
+	"main": "家",
+	"settings": "设置",
+	"profile": "轮廓",
+	"forum": "论坛",
+	"academy": "学院",
+	"portfolio": "文件夹",
+	"balance": "充值余额",
+	"subscription": "订阅",
+	"transaction": "交易记录",
+	"risk": "风险计算器",
+	"activation_subscription": "激活订阅",
+	"post_view": "查看帖子",
+	"created_posts": "我的帖子",
+	"popular": "受欢迎的",
+	"news": "新的",
+	"my-tickets": "我的帖子",
+	"create_ticket": "创建帖子",
+	"conferences": "会议",
+	"notes": "笔记",
+	"back": "后退"
+}

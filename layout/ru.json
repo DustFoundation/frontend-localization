@@ -41,6 +41,7 @@
   "notifications": {
     "count_of_notification": "Новых уведомлений",
     "clear": "Очистить все уведомления",
+    "join": "Присоединиться",
     "types": {
       "SUBSCRIPTION_ADDED": {
         "title": "Успешная покупка подписки",

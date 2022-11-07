@@ -1,0 +1,127 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Errungenschaft bekommen",
+			"close": "schließen"
+		},
+		"activate-mfa-dialog": {
+			"title": "2FA-Aktivierung",
+			"subtitle": "Scannen Sie den QR-Code und geben Sie den Code ein, um die Authentifizierung zu bestätigen",
+			"code": "Der Code",
+			"activate": "aktivieren"
+		},
+		"change-avatar-dialog": {
+			"title": "Avatar ändern",
+			"accepted_format": "Zulässige Formate: JPG, PNG nicht mehr als 3 MB",
+			"load_photo": "Lade ein Foto hoch",
+			"choose_avatar": "Wählen Sie einen Avatar"
+		},
+		"change-password-dialog": {
+			"title": "Passwort ändern",
+			"subtitle": "Wir haben einen Code zum Zurücksetzen des Passworts an Ihre E-Mail-Adresse gesendet.",
+			"enter_code": "Code eingeben",
+			"enter_data": "Geben Sie Details ein, um ein neues Passwort zu erstellen",
+			"save_password": "Passwort speichern",
+			"onward": "weiter",
+			"form": {
+				"new_password": "Neues Passwort",
+				"repeat_new_password": "Wiederhole das neue Passwort",
+				"password_input_placeholder": "*****************"
+			},
+			"validation_messages": {
+				"required": "ein Pflichtfeld",
+				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+				"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
+				"password_rules": "Das Passwort muss mindestens enthalten: 1 lateinischer Kleinbuchstabe, 1 Zahl",
+				"passwords_not_match": "Passwörter stimmen nicht überein"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Verfügbare Avatare",
+			"save": "Speichern"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "2FA deaktivieren",
+			"subtitle": "Möchten Sie 2FA wirklich deaktivieren?",
+			"disconnect": "Deaktivieren"
+		}
+	},
+	"profile-main": {
+		"my_character": "Mein Charakter",
+		"level": "Ebene",
+		"experience": "Ein Erlebnis",
+		"internal_currency": "Interne Währung",
+		"daily_rewards": "Tägliche Belohnungen",
+		"day": "Tag Tag]",
+		"get_daily_reward": "eine tägliche Belohnung erhalten",
+		"to_next_reward": "Bis zur nächsten Belohnung",
+		"got_reward": "verdiente Errungenschaften",
+		"in_development": "In Entwicklung",
+		"of": "{{num1}} von {{num2}}",
+		"usdt": "USDT",
+		"dust": "DUST TOKEN",
+		"micron": "MICRON",
+		"crypto-bum": "Krypto-Penner",
+		"beta": "BETA"
+	},
+	"profile-settings": {
+		"title": "Persönliche Informationen",
+		"change_avatar": "Avatar ändern",
+		"delete_avatar": "Avatar entfernen",
+		"security": "Sicherheit",
+		"change_password": "Passwort ändern",
+		"mfa": "Zwei-Faktor-Authentifizierung",
+		"disconnect_mfa": "2FA deaktivieren",
+		"integrations": "Integrationen",
+		"security_title": "Sicherheit",
+		"integrations_title": "Integrationen",
+		"language_title": "Spracheinstellungen",
+		"help_title": "Hilfe",
+		"main_language": "Hauptsprache",
+		"main_language_description": "Wählen Sie die Sprache aus, die im Interface angezeigt wird",
+		"additional_language": "weitere Sprache",
+		"additional_language_description": "Wählen Sie die Sprache aus, in der Inhalte angezeigt werden, falls es keine Hauptsprache gibt",
+		"information_about_platform": "Plattforminformationen",
+		"open": "Offen",
+		"help": "Hilfe",
+		"connect": "Einstecken",
+		"password": "Passwort",
+		"mail": "Email",
+		"nickname": "Nickname",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+    "zh": "中文",
+		"it": "Italienisch",
+    "saved": "gespeichert"
+	},
+	"profile-transactions": {
+		"transaction": "Transaktion",
+		"date": "Datum",
+		"sum": "Betrag",
+		"status": "Status",
+		"sum_status": "Betrag/Status",
+		"information": "Information",
+		"no_transaction": "keine Transaktionen",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "Auffüllung des Guthabens",
+			"subscription": "Abonnieren",
+			"FORUM_ACCESS": "Zugang zum Forum",
+			"FORUM_POSTS_10": "Kauf von 10 Forenbeiträgen"
+		},
+		"transaction_statuses": {
+			"created": "Warten auf Bearbeitung",
+			"pending": "In Arbeit",
+			"pre-approve": "Wir warten auf die Bestätigung",
+			"approve": "Bestätigt",
+			"done": "Erfüllt",
+			"failed": "Ein Fehler ist aufgetreten",
+			"canceled": "abgebrochen",
+			"expired": "abgelaufen",
+			"other": "Unbekannt"
+		}
+	}
+}

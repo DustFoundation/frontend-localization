@@ -1,0 +1,42 @@
+{
+	"authorization": {
+		"title": "授权"
+	},
+	"profile": {
+		"title": "轮廓",
+		"settings": "设置",
+		"transactions": "交易"
+	},
+	"topup_balance": {
+		"title": "充值余额"
+	},
+	"subscription": {
+		"title": "订阅"
+	},
+	"join": {
+		"title": "加入"
+	},
+	"academy": {
+		"title": "学院"
+	},
+	"portfolio": {
+		"title": "文件夹",
+		"portfolio_list": "投资组合清单",
+		"ventures": "风险投资组合",
+		"portfolio": "文件夹",
+		"portfolio_transactions": "投资组合 |交易"
+	},
+	"forum": {
+		"title": "论坛"
+	},
+	"conferences": {
+		"title": "会议"
+	},
+	"risk": {
+		"title": "风险计算器"
+	},
+	"notes": {
+		"title": "笔记"
+	},
+	"dust": "粉尘基础"
+}

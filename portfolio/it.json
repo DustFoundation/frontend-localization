@@ -19,7 +19,7 @@
 				"date": "Data (GG.MM.AAAA)",
 				"date_placeholder": "GG.MM.AAAA",
 				"total_attachment": "Investimento totale",
-				"total_profit": "Profito totale",
+				"total_profit": "Profitto totale",
 				"buy": "Acquistare",
 				"sell": "Vendere",
 				"edit_transaction": "Modifica transazione",
@@ -40,7 +40,7 @@
 			"title": "Creazione del portafoglio di scambio",
 			"selected_exchange": "Cambio selezionato*",
 			"portfolio_name": "Titolo portafoglio*",
-			"name_placeholder": "Giga Ciad",
+			"name_placeholder": "Daredevil",
 			"portfolio_description": "Descrizione del portafoglio",
 			"description_placeholder": "Portafoglio composto dagli asset più rischiosi e più promettenti del mercato. Preparati a dire addio al sonno e ai soldi.",
 			"api_key_rule": "Chiediamo solo i <strong>permessi di lettura</strong> . Non ci fornisce l&#39;accesso alle tue chiavi personali o la possibilità di trasferire i tuoi fondi. Ne abbiamo bisogno solo per mostrarti l&#39;efficacia del tuo portafoglio e delle tue analisi.",
@@ -84,16 +84,16 @@
 			"unlock_types": {
 				"linear": "Lineare",
 				"full": "Completo",
-				"custom": "Costume"
+				"custom": "Custom"
 			},
 			"asset_type": {
 				"blockchain": "Blockchain",
 				"defi": "DeFi",
 				"gamefi": "GameFi",
 				"metaverse": "Metaverso",
-				"launchpad": "Trampolino di lancio",
+				"launchpad": "Launchpad",
 				"payments": "Pagamenti",
-				"fun_token": "Gettone divertente",
+				"fun_token": "Fun Token",
 				"nft": "NFT",
 				"other": "Altro"
 			},
@@ -102,12 +102,12 @@
 				"private": "Privato",
 				"strategic": "Strategico",
 				"presale": "Pre-sale",
-				"preseed": "Pre-seme",
+				"preseed": "Pre-seed",
 				"seed": "Seme",
-				"round_a": "Giro A",
-				"round_b": "Giro B",
-				"round_c": "Giro C",
-				"round_d": "Giro D",
+				"round_a": "Round A",
+				"round_b": "Round B",
+				"round_c": "Round C",
+				"round_d": "Round D",
 				"other": "Altro"
 			},
 			"periods": {
@@ -129,12 +129,11 @@
 			"main": {
 				"add": "Aggiunta di asset di rischio",
 				"edit": "Modifica di asset di rischio",
-				"title_1": "introduzione",
+				"title_1": "Introduzione",
 				"title_2": "Informazioni finanziarie",
 				"title_3": "Informazioni tecniche",
 				"title_4": "Seleziona la data e (o) la % di sblocco su TGE",
 				"title_5": "Durata della distribuzione del patrimonio",
-				"title_6": "Informazioni di riepilogo:",
 				"tge": "TGE — (Token Generation Event), sinonimo \"ICO\", che significa \"offerta iniziale di monete\".",
 				"total": "Totale",
 				"onward": "Prossimo",
@@ -150,7 +149,7 @@
 				"ticker_placeholder": "Ticker",
 				"sait": "Sito web",
 				"description": "Descrizione",
-				"logo": "Logo",
+				"logo": "Logo della risorsa",
 				"format_img": "JPG o PNG, 1:1 (quadrato),<br /> non più di 3 MB",
 				"loaded_photo": "Foto caricata:",
 				"download": "Scarica"
@@ -160,7 +159,7 @@
 				"price_placeholder": "Prezzo",
 				"amount": "Quantità di monete / gettoni acquistati*",
 				"amount_placeholder": "Quantità",
-				"round": "Girare",
+				"round": "Giro",
 				"total_attachment": "Investimento totale:"
 			},
 			"third_step": {
@@ -170,26 +169,23 @@
 				"date": "Data di acquisto (GG.MM.AAAA)*"
 			},
 			"fourth_step": {
-				"unlock": "Percentuale di sblocco TGE",
+				"unlock": "% sbloccato",
 				"unlock_placeholder": "0-100%",
-				"date": "Data di sblocco TGE",
+				"date": "Data",
 				"tba": "TBA — (da annunciare)",
 				"cliff": "Cliff — periodo di tempo che deve trascorrere prima che inizi il rilascio dei token",
-				"period_cliff": "Periodo di scogliera (blocco)",
-				"lockup": "Scogliera (blocco)",
+				"period_cliff": "Periodo di blocco",
+				"lockup": "Cliff (blocco)",
 				"no": "No"
 			},
 			"fifth_step": {
-				"vesting": "Vestire",
-				"vesting_description": "Vesting: processo mediante il quale le risorse vengono bloccate e distribuite in un determinato periodo di tempo",
+				"vesting": "Vesting",
+				"vesting_description": "Vesting: processo mediante il quale i beni vengono bloccate e distribuite in un determinato periodo di tempo",
 				"unlock_date": "Data di sblocco",
-				"unlock_period": "Periodo di sblocco",
-				"last_unlock_date": "Ultima data di uscita",
 				"period": "Periodo di distribuzione",
 				"end_date": "Data di fine",
 				"start_date": "Data d'inizio",
 				"frequency": "Frequenza",
-				"frequency_count" : "Numero di periodi",
 				"info": "{{amount}} monete/token {{period}} da {{start}} fino a {{emd}}",
 				"select_period": "Seleziona periodo",
 				"unlock_impossible": "Lo sblocco per il periodo selezionato è impossibile",
@@ -215,9 +211,9 @@
 		},
 		"dialog-add-venture-portfolio": {
 			"create_portfolio": "Crea portafoglio",
-			"title": "Creazione di un portafoglio di imprese",
+			"title": "Creazione di un portafoglio di rischio",
 			"name_placeholder": "Investitore di criptovalute principiante",
-			"description_placeholder": "Oltre a risorse affidabili e comprovate, questo portafoglio include anche alcuni dei progetti più promettenti e sviluppati attivamente.",
+			"description_placeholder": "Oltre a risorse affidabili e comprovate, questo portafoglio include anche alcuni dei progetti più promettenti e in crescita.",
 			"name": "Titolo",
 			"description_not_necessarily": "Descrizione (non necessaria)",
 			"validation_messages": {
@@ -238,7 +234,7 @@
 				"subtitle": "Integrazioni con scambi e tracciabilità di asset reali"
 			},
 			"venture": {
-				"title": "Portafoglio di avventura",
+				"title": "Portafoglio di venture",
 				"subtitle": "Aggiunta di nuovi progetti acquistati nelle prime fasi"
 			},
 			"need_subscription": "Abbonamento attivo richiesto",
@@ -316,7 +312,7 @@
 				"investment_volume": "Volume degli investimenti",
 				"type_of_project": "Tipo di progetto",
 				"type": "Tipo",
-				"round": "Girare",
+				"round": "Round",
 				"description": "Descrizione",
 				"sait": "Sito web",
 				"network": "Rete",
@@ -361,7 +357,7 @@
 			"buy": "Acquistare",
 			"sell": "Vendere",
 			"deposit": "Depositare",
-			"withdraw": "Ritirare",
+			"withdraw": "Prelievo",
 			"transfer": "Trasferimento",
 			"need_subscription": "Abbonamento attivo richiesto",
 			"edit_transaction": "Modifica transazione",
@@ -397,17 +393,17 @@
 		"portfolio_capitalization": "Capitalizzazione del portafoglio",
 		"portfolio_profitability": "Redditività del portafoglio",
 		"portfolio_description": "Descrizione del portafoglio",
-		"my_assets": "I miei beni",
+		"my_assets": "I miei asset",
 		"finance": "Finanze",
 		"price": "Prezzo",
 		"average_price": "media prezzo di acquisto",
-		"amount_coin": "Quantità di monete",
+		"amount_coin": "Quantità delle monete",
 		"profit_loss": "Profitto/perdita",
 		"description": "Descrizione del portafoglio",
 		"portfolio_empty": "Il portafoglio è vuoto...",
 		"your_portfolio_empty": "Il tuo portfolio è vuoto :(",
-		"add_asset": "Aggiungi risorsa",
-		"add_first_asset": "Aggiungi la prima risorsa",
+		"add_asset": "Aggiungi asset",
+		"add_first_asset": "Aggiungi la prima asset",
 		"need_subscription": "Abbonamento attivo richiesto"
 	},
 	"portfolio-list": {
@@ -420,9 +416,9 @@
 		}
 	},
 	"portfolio-transactions": {
-		"back": "Di ritorno",
+		"back": "Indietro",
 		"price": "Prezzo",
-		"average_price": "media prezzo di acquisto",
+		"average_price": "Media prezzo di acquisto",
 		"amount_coin": "Quantità di monete",
 		"profit_loss": "Profitto/perdita",
 		"date": "Data",
@@ -436,12 +432,12 @@
 	"portfolio-venture": {
 		"add_asset": "Aggiungi risorsa",
 		"description": "Descrizione del portafoglio",
-		"delete_asset": "Elimina risorsa",
+		"delete_asset": "Elimina asset",
 		"edit": "Modificare",
 		"your_portfolio_empty": "Il tuo portfolio è vuoto :(",
-		"add_first_asset": "Aggiungi la prima risorsa",
-		"unlock_chart": "Sblocca il grafico delle risorse di rischio",
-		"impossible_to_build": "Impossibile creare un grafico per questa risorsa",
+		"add_first_asset": "Aggiungi la prima asset",
+		"unlock_chart": "Grafico di sblocca  degli asset di rischio",
+		"impossible_to_build": "Impossibile creare un grafico per questo asset",
 		"my_assets": "{isMobile, plural, =1 {My asset} other {My venture asset}}",
 		"portfolio_empty": "Il portafoglio è vuoto...",
 		"characteristics": {
@@ -450,7 +446,7 @@
 			"investment_volume": "Volume degli investimenti",
 			"type_of_project": "Tipo di progetto",
 			"type": "Tipo",
-			"round": "Girare",
+			"round": "Round",
 			"description": "Descrizione",
 			"sait": "Sito web",
 			"network": "Rete",
@@ -458,7 +454,7 @@
 			"lock_period": "Periodo di blocco"
 		},
 		"unlock_info": {
-			"tge_today": "TGE di oggi.",
+			"tge_today": "Oggi TGE.",
 			"to_start_tge": "Prima del TGE <span class='period'>{{diff}}</span>",
 			"cliff_today": "Oggi è l'inizio di Cliff",
 			"to_start_cliff": "Prima della scogliera <span class='period'>{{diff}}</span>",

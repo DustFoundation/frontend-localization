@@ -42,10 +42,10 @@
 		},
 		"validation_messages": {
 			"required": "Il campo è obbligatiorio",
-			"invalid_email": "formato email non valido",
+			"invalid_email": "Formato email non valido",
 			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
-			"passwords_not_match": "le password non corrispondono",
+			"passwords_not_match": "Le password non corrispondono",
 			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
 		}
 	},
@@ -73,9 +73,11 @@
 		"title": "Registrazione",
 		"forgot_password": "Hai dimenticato la password?",
 		"ban_reason": "Motivo del divieto:",
-		"banned_until": "Bannato fino a:",
+		"banned_until": "Bandito fino a:",
 		"sign_in": "Registrazione",
-		"form": {
+    "sign_in_with_google": "Accedi con Google+",
+    "or": "o",
+    "form": {
 			"mail": "E-mail",
 			"mail_input_placeholder": "mail@mail.com",
 			"password": "Parola d'ordine",
@@ -112,7 +114,7 @@
 			"invalid_email": "formato email non valido",
 			"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 			"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
-			"passwords_not_match": "le password non corrispondono",
+			"passwords_not_match": "Le password non corrispondono",
 			"password_rules": "La password deve contenere almeno 1 lettera maiuscola e 1 cifra"
 		}
 	}

@@ -1,0 +1,41 @@
+{
+	"title": "笔记",
+	"create_btn": "创建笔记",
+	"empty_note": "空笔记",
+	"sort": {
+		"custom": "按自定义顺序",
+		"date_desc": "日期：第一个新",
+		"date_asc": "日期：老一号",
+		"alphabet_desc": "按字母顺序 A 到 Z",
+		"alphabet_asc": "按字母顺序从 Z 到 A"
+	},
+	"create_note_dialog": {
+		"remove_button": "删除笔记",
+		"save": "节省",
+		"title": "创建笔记",
+		"edit_title": "编辑笔记",
+		"title_label": "标题",
+		"title_placeholder": "我的笔记",
+		"content_placeholder": "输入注释文本",
+		"changed": "改变了",
+		"validation_messages": {
+			"required": "这是必填栏",
+			"min_length": "最小长度 {{min}} {min, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+			"max_length": "最大长度 {{max}} {max, plural, =1 {symbol} =2 {symbol} =3 {symbol} =4 {symbol} other {symbols}}",
+			"not_only_spaces": "标题不能只包含空格"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "删除笔记",
+		"description": "确定要删除笔记吗？",
+		"delete": "删除",
+		"cancel": "取消",
+		"deleted_successfully": "笔记已成功删除"
+	},
+	"attention_note_dialog": {
+		"title": "注意力",
+		"description": "您确定要关闭此笔记而不保存吗？",
+		"dont_save": "不要保存",
+		"cancel": "取消"
+	}
+}

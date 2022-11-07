@@ -1,0 +1,121 @@
+{
+	"confirm-email": {
+		"title": "邮件确认",
+		"subtitle": "我们已向您发送一封包含确认码的电子邮件。请在下面输入此代码",
+		"code": "代码",
+		"send_new_code": "重新发送验证码",
+		"get_new_code_after": {
+			"code": "获取新代码",
+			"after": "在 {{timer}} 秒内"
+		},
+		"done": "完毕",
+		"back": "后退"
+	},
+	"confirm-mfa": {
+		"title": "验证您的帐户",
+		"subtitle": "在下方输入您的 Google 身份验证器应用中列出的代码",
+		"code": "代码",
+		"back": "后退",
+		"sign_in": "登入"
+	},
+	"forgot-password": {
+		"title_1": "恢复往日的辉煌",
+		"subtitle_1": "我们将向您发送带有密码的乌鸦以恢复您的密码",
+		"get_code": "送一只乌鸦",
+		"title_2": "乌鸦来了",
+		"subtitle_2": "打开乌鸦发送到您电子邮件的卷轴并在下面输入密码。",
+		"code": "代码",
+		"send_new_code": "重新发送验证码",
+		"get_new_code_after": {
+			"code": "获取新代码",
+			"after": "在 {{timer}} 秒内"
+		},
+		"title_3": "试用结束",
+		"subtitle_3": "你已经证明了你恢复昔日辉煌的权利。现在只需输入一个新密码。",
+		"restore_password": "重设密码",
+		"form": {
+			"mail": "电子邮件",
+			"mail_input_placeholder": "邮件@mail.com",
+			"new_password": "新密码",
+			"repeat_password": "重复密码",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "必填字段",
+			"invalid_email": "电子邮件格式无效",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "密码不匹配",
+			"password_rules": "密码必须至少包含 1 个大写字母和 1 个数字"
+		}
+	},
+	"new-password": {
+		"title": "试用结束",
+		"subtitle": "你已经证明了你恢复昔日辉煌的权利。现在只需输入一个新密码。",
+		"restore_password": "重置密码",
+		"form": {
+			"new_password": "新密码",
+			"repeat_password": "重复密码",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "必填字段",
+			"invalid_email": "不合规电邮",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "密码不匹配",
+			"password_rules": "密码必须至少包含 1 个大写字母和 1 个数字"
+		}
+	},
+	"sign-in": {
+		"no_account": "没有帐户？",
+		"sign_up": "报名",
+		"title": "登入",
+		"forgot_password": "忘记密码了吗？",
+		"ban_reason": "禁止原因：",
+		"banned_until": "禁止到：",
+		"sign_in": "登入",
+		"form": {
+			"mail": "电子邮件",
+			"mail_input_placeholder": "邮件@mail.com",
+			"password": "密码",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "必填字段",
+			"invalid_email": "不合规电邮",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}"
+		},
+		"sign_in_with_google": "使用 Google+ 登录",
+		"or": "或者"
+	},
+	"sign-up": {
+		"have_account": "你有没有账号？",
+		"sign_in": "登入",
+		"title": "登记",
+		"forgot_password": "忘记密码了吗？",
+		"ban_reason": "禁止原因：",
+		"banned_until": "禁止到：",
+		"sign_up": "注册",
+		"policy": {
+			"agree": "我同意",
+			"with": "隐私政策"
+		},
+		"form": {
+			"mail": "电子邮件",
+			"mail_input_placeholder": "邮件@mail.com",
+			"password": "密码",
+			"password_input_placeholder": "*****************",
+			"repeat_password": "重复输入密码"
+		},
+		"validation_messages": {
+			"required": "必填字段",
+			"invalid_email": "电子邮件格式无效",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+			"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+			"passwords_not_match": "密码不匹配",
+			"password_rules": "密码必须至少包含 1 个大写字母和 1 个数字"
+		}
+	}
+}

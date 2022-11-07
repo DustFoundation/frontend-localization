@@ -42,6 +42,7 @@
   "notifications": {
     "count_of_notification": "Jauni paziņojumi",
     "clear": "Notīrīt visus paziņojumus",
+    "join": "Pievienojieties",
     "types": {
       "SUBSCRIPTION_ADDED": {
         "title": "Abonementa iegāde ir veiksmīga",

@@ -1,0 +1,12 @@
+{
+	"title": "输入交易哈希或数字",
+	"recommendation": {
+		"1": "要查找交易编号，请点击此链接：",
+		"2": "如果您从另一个交易所发送了 USDT，请在此字段中指定交易哈希（TRC20 示例）：fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+		"3": "指定交易号（内部转账 - 43047269665，而不是您的钱包 - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+		"title": "建议"
+	},
+	"hash_or_number": "交易哈希/数字",
+	"payed": "我付了",
+	"back": "后退"
+}

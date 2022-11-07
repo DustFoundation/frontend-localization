@@ -4,7 +4,7 @@
 	"empty_note": "Nota vuota",
 	"sort": {
 		"custom": "In ordine personalizzato",
-		"date_desc": "Data: primo nuovo",
+		"date_desc": "Data: prima nuovo",
 		"date_asc": "Data: prima vecchio",
 		"alphabet_desc": "In ordine alfabetico dalla A alla Z",
 		"alphabet_asc": "In ordine alfabetico dalla Z alla A"

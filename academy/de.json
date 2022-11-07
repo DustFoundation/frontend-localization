@@ -1,0 +1,83 @@
+{
+	"components": {
+		"course-finished-dialog": {
+			"title": "Abschließende Kursüberprüfung",
+			"module": "Modul",
+			"leave_review": "Hinterlassen Sie einen Kommentar zum Kurs"
+		},
+		"menu": {
+			"test": "Prüfung",
+			"testing": "prüfen"
+		},
+		"module-finished-dialog": {
+			"module": "Modul",
+			"open_access": "offener Zugang",
+			"thanks_for_review": "Vielen Dank, Ihr Kommentar wurde berücksichtigt.",
+			"awful": "abscheulich",
+			"bad": "schlecht",
+			"ok": "befriedigend",
+			"good": "gut",
+			"excellent": "ausgezeichnet",
+			"rate_module": "Bewerten Sie das Modul",
+			"leave_review?": "Möchten Sie einen Kommentar hinterlassen?",
+			"next_lesson": "Nächste Lektion",
+			"yes": "Ja",
+			"no": "Nein"
+		},
+		"module-review-dialog": {
+			"help_us": "Helfen Sie uns, den Kurs zu verbessern",
+			"please_leave_comment_about": "Bitte hinterlassen Sie einen Kommentar zu",
+			"leave_review": "Hinterlasse Kommentar",
+			"my_review": "Mein Kommentar",
+			"module": "Modul",
+			"course": "Kurs",
+			"back": "zurück"
+		}
+	},
+	"course-details": {
+		"need_subscription": "Muss abonniert werden",
+		"level": "Niveau:",
+		"count_of_modules": "Module:",
+		"count_of_lessons": "Lektionen:",
+		"got_badges": "Verdiente Abzeichen",
+		"course_progress": "Kursverlauf",
+		"pass_again": "nochmal durchlaufen",
+		"continue_learning": "weiter lernen",
+		"start_learning": "anfangen zu lernen",
+		"training_program": "Trainingsprogramm",
+		"module": "Modul"
+	},
+	"course-lesson": {
+		"pass_test": "Den Test machen",
+		"next_lesson": "Nächste Lektion",
+		"previous_lesson": "Vorherige Lektion"
+	},
+	"course-test": {
+		"description": " Nach bestandener Prüfung erhalten Sie ein spezielles Abzeichen, das Ihnen den Zugang zum nächsten Modul ermöglicht.",
+		"ps": "P.S. Bestehen Sie den Test ohne Fehler und erhalten Sie ein goldenes Abzeichen!",
+		"check_test": "Test prüfen",
+		"try_once_more": "Versuchen Sie nochmal",
+		"previous_lesson": "Vorherige Lektion",
+		"onward": "weiter"
+	},
+	"courses": {
+		"need_subscription": "Muss abonniert werden",
+		"new_course_in_development": "Neue Kurse sind bereits in Entwicklung!",
+		"level": "Niveau:",
+		"count_of_modules": "Module:",
+		"count_of_lessons": "Lektionen:",
+		"got_badges": "Verdiente Abzeichen",
+		"course_progress": "Kursverlauf",
+		"pass_again": "nochmal durchlaufen",
+		"continue_learning": "weiter lernen",
+		"start_learning": "anfangen zu lernen",
+		"about": "Über den Kurs",
+		"difficulty": {
+			"0": "Anfänglich",
+			"1": "Elementar",
+			"2": "Mittel",
+			"3": "Schwierig",
+			"-1": "Unbekannt"
+		}
+	}
+}

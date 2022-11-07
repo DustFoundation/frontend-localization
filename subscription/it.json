@@ -10,7 +10,7 @@
 			"title": "Integrazioni Discord e Telegram",
 			"rule_1": "Per ottenere l'accesso completo al server Discord privato e al canale Telegram, devi connettere le loro integrazioni",
 			"rule_2": "L'accesso sarà concesso solo agli account forniti! Il trasferimento dell'accesso ad un altro account sarà possibile solo al rinnovo dell'abbonamento.",
-			"back": "Di ritorno",
+			"back": "Indietro",
 			"onward": "Prossimo",
 			"skip": "Saltare",
 			"attention": "Attenzione!"
@@ -18,9 +18,9 @@
 		"subscription-term": {
 			"top_up_on": "Ricaricare",
 			"select_subscription": "Seleziona abbonamento",
-			"go": "andare",
+			"go": "Vai",
 			"transaction_in_progress": "Transazione in corso",
-			"on_your_balance": "Sul tuo saldo",
+			"on_your_balance": "Saldo",
 			"selected_subscription": "Abbonamento selezionato:",
 			"test_period": "(periodo di prova)",
 			"on_day": "for {{gay}} {gay, plural, =1 {giorno} =2 {giorni} =3 {giorni} =4 {giorni} other {giorni}}",
@@ -32,12 +32,12 @@
 			},
 			"usdt": "USDT",
 			"activate": "Attivare",
-			"back": "Di ritorno",
+			"back": "Indietro",
 			"attention": "Attenzione!"
 		}
 	},
 	"subscription-main": {
-		"title": "Abbonamento polvere",
+		"title": "Abbonamento DUST",
 		"active": "Attivo",
 		"inactive": "Non attivo",
 		"to_end_subscription": "L'abbonamento “{{name}}” scadrà tra:",

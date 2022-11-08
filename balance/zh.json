@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "选择USDT转账网络",
+		"top_up_amount": "充值金额",
+		"enter_top_up_amount": "输入充值金额",
+		"pay": "支付",
+		"click_to_copy": "点击复制",
+		"copied": "已复制",
+		"erc20": "ERC20 地址：",
+		"trc20": "TRC20 地址：",
+		"bep20": "BEP20 地址：",
+		"bep2": "BEP2 地址：",
+		"memo": "备忘录地址：",
+		"important": {
+			"1": "我们仅接受 Tether (USDT) 付款。",
+			"2": "充值您的余额以激活您的订阅。",
+			"3": "我们推荐使用«TRC20»网络（费用~1$）",
+			"4": "向该地址发送除 USDT 外的任何其他硬币或代币可能会导致您的资金损失。",
+			"5": {
+				"first_part": "为 {{subscriptionTerm}} 激活订阅“{{subscriptionName}}”",
+				"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} 您需要充值 [subscriptionPri 到 ct 到 ct 的余额网络费。"
+			},
+			"title": "重要的"
+		},
+		"video_tutorial": "视频教程 - 如何购买订阅",
+		"warning": "风险提示",
+		"specify_hash_or_number": "指定哈希或交易数量",
+		"recommendation": {
+			"1": "要在 Binance 上查找交易编号，请点击此链接（已授权）：",
+			"2": "如果您从另一个交易所发送了 USDT，请在此字段中指定交易哈希（TRC20 示例）：fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "您还可以指定交易号（内部转账） - 43047269665，但不要与您的钱包混淆 - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "建议"
+		},
+		"to_pay": "支付金额：{{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "步骤1",
+				"description": "在您的手机上打开 Binance 应用程序并扫描二维码，方法是单击应用程序主页右上角的图标。"
+			},
+			"2": {
+				"title": "第2步",
+				"description": "现在您将看到一个交易确认窗口。验证付款金额并确认交易。之后点击“我已付款”。"
+			}
+		},
+		"validation_messages": {
+			"required": "必填字段",
+			"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}"
+		},
+		"hash_or_number": "交易哈希/数字",
+		"faq": "常问问题",
+		"payed": "我付了",
+		"terms_to_use": "使用条款",
+		"privacy_policy": "隐私政策",
+		"back": "后退",
+		"confirm": "确认"
+	}
+}

@@ -75,6 +75,8 @@
     "ban_reason": "Ban reason:",
     "banned_until": "Banned until:",
     "sign_in": "Sign In",
+    "sign_in_with_google": "Sign in with Google+",
+    "or": "or",
     "form": {
       "mail": "Email",
       "mail_input_placeholder": "mail@mail.com",

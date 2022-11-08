@@ -1,5 +1,6 @@
 {
-	"authorization": {
+  "dust": "Dust Foundation",
+  "authorization": {
 		"title": "Autorisierung"
 	},
 	"profile": {

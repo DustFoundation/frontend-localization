@@ -206,7 +206,8 @@
 				"file_size": "Größe übersteigt {{size}}mb",
 				"max_value": "Maximalwert {{max}}",
 				"min_value": " Der Wert muss größer als {{min}} sein",
-				"invalid_period": "Darf nicht vor dem Kauf- oder Entsperrdatum liegen"
+				"invalid_period": "Darf nicht vor dem Kauf- oder Entsperrdatum liegen",
+				"min_amount": "Menge darf nicht kleiner als 0 sein {{coin}}"
 			}
 		},
 		"dialog-add-venture-portfolio": {

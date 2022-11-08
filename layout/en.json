@@ -42,6 +42,7 @@
   "notifications": {
     "count_of_notification": "New notifications",
     "clear": "Clear all notifications",
+    "join": "Join",
     "types": {
       "SUBSCRIPTION_ADDED": {
         "title": "Subscription purchase successful",

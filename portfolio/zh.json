@@ -1,0 +1,469 @@
+{
+	"components": {
+		"breadcrumbs": {
+			"portfolio": "文件夹",
+			"main": "家",
+			"transactions": "交易"
+		},
+		"dialog-add-coin": {
+			"first_step": {
+				"title": "步骤1",
+				"choose_asset": "选择资产",
+				"search": "搜索"
+			},
+			"second_step": {
+				"title": "第2步",
+				"amount": "数量",
+				"max": "最大限度",
+				"price": "每枚硬币的价格",
+				"date": "日期 (DD.MM.YYYY)",
+				"date_placeholder": "DD.MM.YYYY",
+				"total_attachment": "总投资额",
+				"total_profit": "总利润",
+				"buy": "买",
+				"sell": "卖",
+				"edit_transaction": "编辑交易",
+				"delete_transaction": "删除交易",
+				"add_transaction": "添加交易"
+			},
+			"change": "改变",
+			"add": "添加",
+			"validation_messages": {
+				"required": "必填字段",
+				"invalid_date": "失效日期",
+				"min_price": "价格不能低于 0$",
+				"max_amount": "金额不能超过 {{max}} {{coin}}",
+				"min_amount": "金额不能小于 0 {{coin}}"
+			}
+		},
+		"dialog-add-exchange-portfolio": {
+			"title": "创建交易所投资组合",
+			"selected_exchange": "选定的交易所*",
+			"portfolio_name": "作品集标题*",
+			"name_placeholder": "千兆乍得",
+			"portfolio_description": "投资组合描述",
+			"description_placeholder": "由市场上风险最高和最有前途的资产组成的投资组合。准备好告别你的睡眠和金钱。",
+			"api_key_rule": "我们只要求<strong>读取权限</strong>。它不会让我们访问您的个人密钥或转移您的资金。我们只需要它来向您展示您的投资组合和分析的有效性。",
+			"enter_api_key": "输入 API 密钥",
+			"api_key": "API 密钥",
+			"enter_secret_key": "输入密钥",
+			"secret_key": "密钥",
+			"help": {
+				"1": "在 Binance 交易所网站上打开<a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">API 管理</a>部分",
+				"2": "<strong>创建新的 API 密钥</strong>，为其命名，例如<strong>“DUST Portfolio”</strong> ，然后按<strong>“下一步”</strong>",
+				"3": "（如果一切正常），<strong>输入 2FA 码</strong>",
+				"4": "复制<strong>API 密钥</strong>和<strong>密钥</strong>",
+				"5": "<span>最好禁用此 API 密钥的交易访问权限，以执行以下操作：</span><ol><li>点击<strong>“编辑限制”</strong></li><li>禁用<strong>“启用现货和保证金交易”</strong></li><li>点击<strong>“保存”</strong></li><li>输入<strong>两因素验证</strong>码</li></ol>"
+			},
+			"create": "创造",
+			"back": "后退",
+			"onward": "下一个",
+			"important": "重要的",
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "不应该重复"
+			}
+		},
+		"dialog-add-regular-portfolio": {
+			"create_portfolio": "创建投资组合",
+			"title": "创建虚拟投资组合",
+			"name_placeholder": "真正的HODLer",
+			"description_placeholder": "该投资组合包括整个加密市场的基本资产。你可以安然入睡。",
+			"description_not_necessarily": "说明（非必要）",
+			"name": "标题",
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "不应该重复"
+			}
+		},
+		"dialog-add-venture-asset": {
+			"unlock_types": {
+				"linear": "线性",
+				"full": "满的",
+				"custom": "风俗"
+			},
+			"asset_type": {
+				"blockchain": "区块链",
+				"defi": "去中心化金融",
+				"gamefi": "GameFi",
+				"metaverse": "元界",
+				"launchpad": "发射台",
+				"payments": "付款",
+				"fun_token": "有趣的令牌",
+				"nft": "NFT",
+				"other": "其他"
+			},
+			"rounds": {
+				"public": "上市",
+				"private": "私人的",
+				"strategic": "战略",
+				"presale": "预盐",
+				"preseed": "预种子",
+				"seed": "种子",
+				"round_a": "A轮",
+				"round_b": "B轮",
+				"round_c": "C轮",
+				"round_d": "D轮",
+				"other": "其他"
+			},
+			"periods": {
+				"every-day": "每天",
+				"every-week": "每周",
+				"every-month": "月刊",
+				"every-quarter": "季刊",
+				"every-half-year": "每 6 个月",
+				"every-year": "每年"
+			},
+			"unlock_period_types": {
+				"amount": "数量。",
+				"percent": "%"
+			},
+			"cliff": {
+				"MONTH": "月。",
+				"YEAR": "年"
+			},
+			"main": {
+				"add": "增加风险资产",
+				"edit": "风险资产编辑",
+				"title_1": "介绍",
+				"title_2": "财务信息",
+				"title_3": "技术信息",
+				"title_4": "在 TGE 上选择日期和（或）解锁百分比",
+				"title_5": "资产分配期限",
+				"tge": "TGE——（代币生成事件），同义词“ICO”，意为“首次代币发行”。",
+				"total": "全部的",
+				"onward": "下一个",
+				"back": "后退",
+				"done": "完毕",
+				"date_placeholder": "DD.MM.YYYY",
+				"period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
+			},
+			"first_step": {
+				"name": "标题*",
+				"name_placeholder": "资产名称",
+				"ticker": "代码*",
+				"ticker_placeholder": "股票代码",
+				"sait": "网站",
+				"description": "描述",
+				"logo": "资产标志",
+				"format_img": "JPG 或 PNG，1:1（正方形），<br />不超过 3MB",
+				"loaded_photo": "照片上传：",
+				"download": "下载"
+			},
+			"second_step": {
+				"price": "购买价格*",
+				"price_placeholder": "价格",
+				"amount": "购买的硬币/代币数量*",
+				"amount_placeholder": "数量",
+				"round": "圆形的",
+				"total_attachment": "总投资额："
+			},
+			"third_step": {
+				"network": "网络",
+				"address": "智能合约地址",
+				"type": "项目类型",
+				"date": "购买日期 (DD.MM.YYYY)*"
+			},
+			"fourth_step": {
+				"unlock": "% 解锁",
+				"unlock_placeholder": "0-100%",
+				"date": "日期",
+				"tba": "待定——（待公布）",
+				"cliff": "Cliff — 开始发行代币之前必须经过的时间段",
+				"period_cliff": "悬崖时期",
+				"lockup": "悬崖（锁定）",
+				"no": "不"
+			},
+			"fifth_step": {
+				"vesting": "归属",
+				"vesting_description": "归属——资产在一定时期内被锁定和分配的过程",
+				"unlock_date": "解锁日期",
+				"period": "分发期",
+				"end_date": "结束日期",
+				"start_date": "开始日期",
+				"frequency": "频率",
+				"info": "{{amount}} 硬币/代币 {{period}} 从 {{start}} 到 {{emd}}",
+				"select_period": "选择时期",
+				"unlock_impossible": "无法解锁选定时间段",
+				"elem_unlock_date": "解锁日期 {{num}}",
+				"invalid_sequence": "不能早于购买日期或解锁日期",
+				"value_in_period": "在此期间解锁音量",
+				"left_to_distribute": "留给分发：",
+				"volume_distributed": "整个卷分布",
+				"invalid_unlock": " *无效解锁"
+			},
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"min_price": "价格不能低于 0$",
+				"invalid_date": "失效日期",
+				"file_type": "无效的文件类型",
+				"file_size": "文件大小超过 {{size}}MB",
+				"max_value": "最大值为 {{max}}",
+				"min_value": " 值应小于 {{min}}",
+				"invalid_period": "不能早于购买日期或解锁日期",
+				"min_amount": "数量不能小于 0 {{coin}}"
+			}
+		},
+		"dialog-add-venture-portfolio": {
+			"create_portfolio": "创建投资组合",
+			"title": "创建风险投资组合",
+			"name_placeholder": "新手加密投资者",
+			"description_placeholder": "除了可靠且经过验证的资产外，该投资组合还包括一些最有前途和积极开发的项目。",
+			"name": "标题",
+			"description_not_necessarily": "说明（非必要）",
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "不应该重复",
+				"file_size": "大小超过 {{size}}MB"
+			}
+		},
+		"dialog-create-portfolio": {
+			"virtual": {
+				"title": "虚拟投资组合",
+				"subtitle": "创建加密资产的虚拟投资组合"
+			},
+			"exchange": {
+				"title": "交易所投资组合",
+				"subtitle": "与交易所集成并跟踪真实资产"
+			},
+			"venture": {
+				"title": "风险投资组合",
+				"subtitle": "添加在早期阶段购买的新项目"
+			},
+			"need_subscription": "需要有效订阅",
+			"create_portfolio": "创建投资组合"
+		},
+		"dialog-delete-coin": {
+			"title": "删除资产",
+			"subtitle": "您确定要从您的投资组合中删除<span>{{name}}</span>吗？",
+			"delete": "删除",
+			"cancel": "取消"
+		},
+		"dialog-delete-portfolio": {
+			"title": "删除投资组合",
+			"subtitle": "您确定要删除您的投资组合<span>{{name}}</span>吗？",
+			"delete": "删除",
+			"cancel": "取消"
+		},
+		"dialog-delete-transaction": {
+			"title": "删除交易",
+			"subtitle": "您确定要从您的投资组合中删除此交易吗？",
+			"delete": "删除",
+			"cancel": "取消"
+		},
+		"dialog-delete-venture-asset": {
+			"title": "删除资产",
+			"subtitle": "您确定要从您的投资组合中删除<span>{{name}}</span>吗？",
+			"delete": "删除",
+			"cancel": "取消"
+		},
+		"dialog-edit-exchange-portfolio": {
+			"title": "编辑键",
+			"enter_api_key": "API 密钥",
+			"enter_secret_key": "密钥",
+			"cancel": "取消",
+			"save": "节省",
+			"attention": "注意力！",
+			"notice": "当前的投资组合将被删除，而将加载新的投资组合",
+			"replace": "代替",
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"dialog-edit-portfolio": {
+			"title": "编辑投资组合",
+			"name_placeholder": "真正的HODLer",
+			"description_placeholder": "该投资组合包括整个加密市场的基本资产。你可以安然入睡。",
+			"name": "标题",
+			"description_not_necessarily": "说明（非必要）",
+			"save": "节省",
+			"validation_messages": {
+				"required": "必填字段",
+				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "不应该重复"
+			}
+		},
+		"dialog-transaction-info": {
+			"title": "交易明细",
+			"type": "类型",
+			"price": "价格",
+			"amount_coin": "硬币数量",
+			"date": "日期",
+			"value": "价值（美元）",
+			"close": "关",
+			"buy": "买入",
+			"sell": "卖出"
+		},
+		"dialog-venture-coin-info": {
+			"title": "风险资产详情",
+			"characteristics": {
+				"price": "{isMobile, plural, =1 {价格} other {购买价格}}",
+				"amount": "{isMobile, plural, =1 {数量} other {硬币数量}}",
+				"investment_volume": "投资额",
+				"type_of_project": "项目类型",
+				"type": "类型",
+				"round": "圆形的",
+				"description": "描述",
+				"sait": "网站",
+				"network": "网络",
+				"date": "购买日期",
+				"lock_period": "锁定期"
+			},
+			"close": "关"
+		},
+		"invalid-api-key-dialog": {
+			"title": "API 密钥无效",
+			"subtitle": "您需要更改 API 密钥，以便我们更新您的投资组合。"
+		},
+		"portfolio-coin": {
+			"all_transaction": "所有交易",
+			"need_subscription": "需要有效订阅",
+			"add_transaction": "添加交易",
+			"delete_asset": "删除硬币",
+			"delete": "删除"
+		},
+		"portfolio-list-item": {
+			"update_data": "更新数据",
+			"need_subscription": "需要有效订阅",
+			"edit": "编辑",
+			"delete": "删除",
+			"open": "打开",
+			"virtual": "虚拟投资组合",
+			"exchange": "交易所投资组合",
+			"venture": "风险投资组合",
+			"investment_value": "投资金额",
+			"portfolio_valuation": "投资组合评估"
+		},
+		"portfolio-pnl": {
+			"total_attachments": "投资总额",
+			"total_investment": "投资总额",
+			"invested_to_portfolio": "投资于投资组合",
+			"portfolio_evaluation": "投资组合评估",
+			"all_times_pnl": "所有时间盈亏",
+			"portfolio_pnl": "盈亏投资组合",
+			"total_portfolio_evaluation": "总投资组合评估"
+		},
+		"portfolio-transaction": {
+			"buy": "买",
+			"sell": "卖",
+			"deposit": "订金",
+			"withdraw": "提取",
+			"transfer": "转移",
+			"need_subscription": "需要有效订阅",
+			"edit_transaction": "编辑交易",
+			"delete_transaction": "删除交易"
+		},
+		"series-finance": {
+			"title": "财务明细",
+			"total": "全部的",
+			"others": "其他"
+		},
+		"transactions-limit-dialog": {
+			"title": "您已超出交易限额",
+			"subtitle": "激活订阅以获得无限的投资组合交易",
+			"used_transactions": "使用的交易：",
+			"of": "{{num1}} 来自 {{num2}}",
+			"activate_subscription": "激活订阅"
+		},
+		"interval": {
+			"1_day": "1天",
+			"7_days": "7天",
+			"1_month": "1个月",
+			"3_months": "3个月",
+			"1_year": "1年",
+			"all_time": "每时每刻"
+		}
+	},
+	"portfolio": {
+		"last_time_update": "最近更新时间：",
+		"update_started": "更新开始：",
+		"not_updated": "未更新",
+		"to_update": "直到更新",
+		"update": "更新",
+		"portfolio_capitalization": "投资组合资本化",
+		"portfolio_profitability": "投资组合盈利能力",
+		"portfolio_description": "投资组合描述",
+		"my_assets": "我的资产",
+		"finance": "财政",
+		"price": "价格",
+		"average_price": "平均买入价",
+		"amount_coin": "硬币数量",
+		"profit_loss": "利润损失",
+		"description": "投资组合描述",
+		"portfolio_empty": "投资组合是空的...",
+		"your_portfolio_empty": "你的投资组合是空的:(",
+		"add_asset": "添加资产",
+		"add_first_asset": "添加第一个资产",
+		"need_subscription": "需要有效订阅"
+	},
+	"portfolio-list": {
+		"create_portfolio": "创建投资组合",
+		"need_subscription": "需要有效订阅",
+		"navigation": {
+			"all_portfolios": "所有投资组合",
+			"calculator": "风险计算器",
+			"indexes": "指数"
+		}
+	},
+	"portfolio-transactions": {
+		"back": "后退",
+		"price": "价格",
+		"average_price": "平均买入价",
+		"amount_coin": "硬币数量",
+		"profit_loss": "利润损失",
+		"date": "日期",
+		"value": "价值（美元）",
+		"commission": "费用",
+		"add": "添加",
+		"transactions": "交易",
+		"add_transaction": "添加交易",
+		"need_subscription": "需要有效订阅"
+	},
+	"portfolio-venture": {
+		"add_asset": "添加资产",
+		"description": "投资组合描述",
+		"delete_asset": "删除资产",
+		"edit": "编辑",
+		"your_portfolio_empty": "你的投资组合是空的:(",
+		"add_first_asset": "添加第一个资产",
+		"unlock_chart": "风险资产解锁图",
+		"impossible_to_build": "无法为此资产构建图表",
+		"my_assets": "{isMobile, plural, =1 {我的资产} other {我的风险资产}}",
+		"portfolio_empty": "投资组合是空的...",
+		"characteristics": {
+			"price": "{isMobile, plural, =1 {价格} other {购买价格}}",
+			"amount": "{isMobile, plural, =1 {数量} other {硬币数量}}",
+			"investment_volume": "投资额",
+			"type_of_project": "项目类型",
+			"type": "类型",
+			"round": "圆形的",
+			"description": "描述",
+			"sait": "网站",
+			"network": "网络",
+			"date": "购买日期",
+			"lock_period": "锁定期"
+		},
+		"unlock_info": {
+			"tge_today": "今天的 TGE。",
+			"to_start_tge": "在 TGE <span class='period'>{{diff}}</span>之前",
+			"cliff_today": "今天是悬崖的开始",
+			"to_start_cliff": "悬崖前<span class='period'>{{diff}}</span>",
+			"cliff_end": "Cliff今天完工",
+			"to_end_cliff": "在悬崖完成之前<span class='period'>{{diff}}</span>",
+			"today_unlock": "今天 {{num}} 是一个细分",
+			"to_unlock": "{{num}} 解锁之前 <span class='period'>{{diff}}</span>"
+		},
+		"need_subscription": "需要有效订阅"
+	}
+}

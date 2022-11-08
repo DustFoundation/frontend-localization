@@ -74,5 +74,7 @@
 	"dialog_tooltip_template": {
 		"title": "Suggerimento",
 		"button_close": "Fatto!"
-	}
+	},
+	"pro_version": "Versione PRO",
+	"my_calculations": "I miei calcoli"
 }

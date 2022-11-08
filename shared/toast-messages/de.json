@@ -64,5 +64,9 @@
 	"note_saved": "Notiz gespeichert",
 	"notes_limit": "Notizenlimit erreicht",
 	"notes_lost_connection": "Notizen werden nach der erneuten Verbindung synchronisiert",
-	"notes_access": "Verfügbar für Benutzer, die „Platform“ abonniert haben"
+	"notes_access": "Verfügbar für Benutzer, die „Platform“ abonniert haben",
+	"last_sent": "Brief an Ihre Post gesendet",
+	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist getrennt",
+	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist bereits verbunden",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist verbunden"
 }

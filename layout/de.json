@@ -41,7 +41,8 @@
 	"notifications": {
 		"count_of_notification": "Neue Nachrichtigungen",
 		"clear": "Alle Nachrichtigungen entfernen",
-		"types": {
+    "join": "Verbinden",
+    "types": {
 			"SUBSCRIPTION_ADDED": {
 				"title": "Erfolgreicher Abonnementkauf",
 				"description": "Sie haben erfolgreich ein Abonnement für {{term}} {term, plural, =1 {Tag} =2 {Tage} =3 {Tage} =4 {Tage} other {Tage}} erworben"

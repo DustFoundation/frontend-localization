@@ -1,0 +1,50 @@
+{
+	"registration": {
+		"name": "\"El hamster\"",
+		"description": "Pasó un registro exitoso en la plataforma"
+	},
+	"onboarding": {
+		"name": "\"Pionero\"",
+		"description": "Pasó la familiarización de la plataforma."
+	},
+	"portfolioalltypes": {
+		"name": "\"Keith\"",
+		"description": "Creó los tres tipos de carteras."
+	},
+	"academycoursegold": {
+		"name": "\"Excelente\"",
+		"description": "Aprobó el curso en la Academia con honores."
+	},
+	"discordtelegram": {
+		"name": "\"Integrador\"",
+		"description": "Integraciones conectadas con Discord y Telegram"
+	},
+	"connections": {
+		"name": "\"Hizo las conexiones\"",
+		"description": "Registrado en nuestras redes sociales"
+	},
+	"subscription": {
+		"name": "\"Persona importante\"",
+		"description": "Compró una suscripción a la plataforma DUST"
+	},
+	"forumfirstpost": {
+		"name": "\"Te lo diré en un momento\"",
+		"description": "Creé mi primera publicación en el foro."
+	},
+	"amateur": {
+		"name": "\"Cripto-entusiasta\"",
+		"description": "Recolectó 10 Me gusta en una publicación del foro"
+	},
+	"portfolio10coins": {
+		"name": "\"Cripto-monetizador\"",
+		"description": "Se agregaron 10 monedas a la cartera virtual."
+	},
+	"dailyreward28": {
+		"name": "\"Verdadero HODLer\"",
+		"description": "Recibió 28 premios diarios seguidos"
+	},
+	"omnipotence": {
+		"name": "\"El Guante de la Omnipotencia\"",
+		"description": "Votó por las actualizaciones de Forge"
+	}
+}

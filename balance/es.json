@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "Seleccione una red para la transferencia de USDT",
+		"top_up_amount": "Cantidad de la recarga",
+		"enter_top_up_amount": "Introduce el importe de la recarga",
+		"pay": "Pagar",
+		"click_to_copy": "Haga clic para copiar",
+		"copied": "copiado",
+		"erc20": "ERC20 Dirección:",
+		"trc20": "Dirección TRC20:",
+		"bep20": "BEP20 Dirección:",
+		"bep2": "Dirección BEP2:",
+		"memo": "MEMO Dirección:",
+		"important": {
+			"1": "Aceptamos pagos solo en Tether (USDT).",
+			"2": "Recarga tu saldo para activar tu suscripción.",
+			"3": "Recomendamos usar la red «TRC20» (tarifa ~1$)",
+			"4": "Enviar cualquiera otra moneda o token a esta dirección, excepto USDT, puede resultar en la pérdida de sus fondos.",
+			"5": {
+				"first_part": "Para activar una suscripción “{{subscriptionName}}“ para {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} necesita recargar su saldo para {{subscriptionP e1}} USDT +c agregar tarifa de red."
+			},
+			"title": "Importante"
+		},
+		"video_tutorial": "Video tutorial - cómo comprar una suscripción",
+		"warning": "Advertencias del riesgo",
+		"specify_hash_or_number": "Especificar hash o número de la transacción",
+		"recommendation": {
+			"1": "Para buscar el número de la transacción en Binance, siga este enlace (autorizado):",
+			"2": "Si has enviado USDT desde otro intercambio, especifique en este campo Hash de transacción (ejemplo TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "También puede especificar un número de transacción (Transferencia interna) - 43047269665, pero no lo confunda con su billetera - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Recomendaciones"
+		},
+		"to_pay": "Monto a pagar: {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Paso 1",
+				"description": "Abra una aplicación de Binance en su teléfono y escanee el código QR, haciendo un clic en un icono en la esquina superior derecha de la página de inicio de la aplicación."
+			},
+			"2": {
+				"title": "Paso 2",
+				"description": "Ahora verá una ventana de confirmación de la transacción. Verifique el monto del pago y confirme la transacción. Después de eso, haga clic en \"He pagado\"."
+			}
+		},
+		"validation_messages": {
+			"required": "Se requiere campo",
+			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}"
+		},
+		"hash_or_number": "Hash de la transacción / el número",
+		"faq": "Las preguntas más frecuentes",
+		"payed": "He pagado",
+		"terms_to_use": "Los términos del Uso",
+		"privacy_policy": "La política de la privacidad",
+		"back": "Volver",
+		"confirm": "Confirmar"
+	}
+}

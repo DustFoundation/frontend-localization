@@ -74,11 +74,11 @@
       },
       "PAYMENT_ORDER_SUCCESS": {
         "title": "Balance replenishment",
-        "description": "Order to replenish your balance was executed."
+        "description": "The order to replenish your balance was executed."
       },
       "PAYMENT_ORDER_FAILED": {
         "title": "Balance replenishment",
-        "description": "Order to replenish your balance has failed!"
+        "description": "The order to replenish your balance has failed!"
       },
       "PAYMENT_TXID_EXIST": {
         "title": "Balance replenishment",
@@ -86,7 +86,7 @@
       },
       "PAYMENT_FAILED": {
         "title": "Balance replenishment",
-        "description": "Failed to create order to replenish your balance, please contact Administration!"
+        "description": "Failed to create an order to replenish your balance, please contact the Administration!"
       },
       "SUBSCRIPTION_SUCCESS": {
         "title": "Subscription",
@@ -96,8 +96,8 @@
   },
   "promocode-dialog": {
     "title": "Promocode activation",
-    "enter_promocode": "Enter promocode",
-    "activate": "Activate promocode",
+    "enter_promocode": "Enter the promocode",
+    "activate": "Activate the promocode",
     "example": "Example: X2dDjsa29GKO",
     "validation_messages": {
       "required": "Field is required",
@@ -107,7 +107,7 @@
   "report-dialog": {
     "name": "Title",
     "bag_report": "Bug report",
-    "loaded_file": "File uploaded:",
+    "loaded_file": "File is uploaded:",
     "short_description": "Short description",
     "detail_description_problem": "Detailed description",
     "description_of_problem": "Problem description",
@@ -116,13 +116,13 @@
       "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
       "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
       "img": "JPG or PNG, not more than 3MB",
-      "discord_or_email": "Enter E-mail or Discord nickname"
+      "discord_or_email": "Enter your E-mail or Discord nickname"
     },
     "download": "Download",
     "send": "Send",
     "cancel": "Cancel",
     "contact_with_me": "Get in touch with me",
-    "enter_email_or_discord": "Enter E-mail or Discord nickname",
+    "enter_email_or_discord": "Enter your E-mail or Discord nickname",
     "contact": "Contact"
   },
   "system-notification-dialog": {
@@ -131,8 +131,8 @@
     "offline": "Offline",
     "update_detected": "App update is detected: {{ version }}",
     "update_ready": "Update is ready {{ version }}. Want to update?",
-    "update_failed": "During installation of update {{ version }} an error has occurred",
-    "network_offline": "Connection has been lost, page reload required",
+    "update_failed": "During the installation of update {{ version }} an error has occurred",
+    "network_offline": "Connection has been lost, page reloading is required",
     "yes": "Yes, update",
     "no": "No"
   },
@@ -145,9 +145,9 @@
     "accept": "Accept",
     "settings": "Settings",
     "analytic_cookies": "Analytics cookies",
-    "analytic_cookies_description": "Enabling these cookies will allow us to track your interaction with our site and make improvements.",
+    "analytic_cookies_description": "Enabling these cookies will allow us to track your interaction with our site and make some improvements.",
     "support_chat": "Support chat",
-    "support_chat_description": "If you would like to have access to the support chat, these cookies are required.",
+    "support_chat_description": "If you would like to have an access to the support chat, these cookies are required.",
     "save": "Save",
     "back": "Back"
   }

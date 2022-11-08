@@ -206,7 +206,8 @@
 				"file_size": "文件大小超过 {{size}}MB",
 				"max_value": "最大值为 {{max}}",
 				"min_value": " 值应小于 {{min}}",
-				"invalid_period": "不能早于购买日期或解锁日期"
+				"invalid_period": "不能早于购买日期或解锁日期",
+				"min_amount": "数量不能小于 0 {{coin}}"
 			}
 		},
 		"dialog-add-venture-portfolio": {

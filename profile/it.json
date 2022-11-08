@@ -94,8 +94,14 @@
 		"lv": "Latviešu",
 		"it": "Italiano",
 		"de": "Deutsch",
-    "zh": "中文",
-		"saved": "Salvato"
+		"zh": "中文",
+		"saved": "Salvato",
+		"main": {
+			"validation_messages": {
+				"required": "campo obbligatorio",
+				"min_length": "Lunghezza minima del campo {{length}} caratteri"
+			}
+		}
 	},
 	"profile-transactions": {
 		"transaction": "Transazione",

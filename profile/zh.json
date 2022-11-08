@@ -88,14 +88,20 @@
 		"password": "密码",
 		"mail": "电子邮件",
 		"nickname": "昵称",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "it": "Italiano",
-    "de": "Deutsch",
-    "zh": "中文",
-		"saved": "已保存"
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"it": "Italiano",
+		"de": "Deutsch",
+		"zh": "中文",
+		"saved": "已保存",
+		"main": {
+			"validation_messages": {
+				"required": "必填项目",
+				"min_length": "最小字段长度 {{length}} 个字符"
+			}
+		}
 	},
 	"profile-transactions": {
 		"transaction": "交易",

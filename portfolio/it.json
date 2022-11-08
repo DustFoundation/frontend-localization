@@ -206,7 +206,8 @@
 				"file_size": "La dimensione del file supera {{size}} MB",
 				"max_value": "Il valore massimo è {{max}}",
 				"min_value": " Il valore deve essere inferiore a {{min}}",
-				"invalid_period": "Non può essere precedente alla data di acquisto o alla data di sblocco"
+				"invalid_period": "Non può essere precedente alla data di acquisto o alla data di sblocco",
+				"min_amount": "La quantità non può essere inferiore a 0 {{coin}}"
 			}
 		},
 		"dialog-add-venture-portfolio": {

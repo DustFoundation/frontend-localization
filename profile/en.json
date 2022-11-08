@@ -1,127 +1,133 @@
 {
-  "components": {
-    "achievement-dialog": {
-      "got_achievement": "Achievement unlocked",
-      "close": "Close"
-    },
-    "activate-mfa-dialog": {
-      "title": "Enable 2FA",
-      "subtitle": "Scan QR-code and enter code to confirm authentication",
-      "code": "Code",
-      "activate": "Enable"
-    },
-    "change-avatar-dialog": {
-      "title": "Change avatar",
-      "accepted_format": "Acceptable formats: JPG, PNG no bigger than 3MB",
-      "load_photo": "Upload photo",
-      "choose_avatar": "Choose avatar"
-    },
-    "change-password-dialog": {
-      "title": "Change password",
-      "subtitle": "We sent you an email with code to change your password",
-      "enter_code": "Enter code",
-      "enter_data": "Enter data to create a new password",
-      "save_password": "Save password",
-      "onward": "Next",
-      "form": {
-        "new_password": "New password",
-        "repeat_new_password": "Repeat new password",
-        "password_input_placeholder": "*****************"
-      },
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "password_rules": "The password must contain at least 1 capital letter and 1 digit",
-        "passwords_not_match": "Passwords do not match"
-      }
-    },
-    "choose-avatar-dialog": {
-      "title": "Available avatars",
-      "save": "Save"
-    },
-    "deactivate-mfa-dialog": {
-      "title": "Disable 2FA",
-      "subtitle": "Are you sure you want to disable 2FA?",
-      "disconnect": "Disabled"
-    }
-  },
-  "profile-main": {
-    "my_character": "My character",
-    "level": "level",
-    "experience": "Experience",
-    "internal_currency": "Internal currency",
-    "daily_rewards": "Daily rewards",
-    "day": "Day {{ day }}",
-    "get_daily_reward": "Get daily reward",
-    "to_next_reward": "Until next reward",
-    "got_reward": "Received rewards",
-    "in_development": "In development",
-    "of": "{{ num1 }} of {{num2}}",
-    "usdt": "USDT",
-    "dust": "DUST TOKEN",
-    "micron": "MICRON",
-    "crypto-bum": "Crypto-hobo",
-    "beta": "BETA"
-  },
-  "profile-settings": {
-    "title": "Personal information",
-    "change_avatar": "Change avatar",
-    "delete_avatar": "Delete avatar",
-    "security": "Security",
-    "change_password": "Change passwords",
-    "mfa": "Two-factor authentication",
-    "disconnect_mfa": "Disable 2FA",
-    "integrations": "Integrations",
-    "security_title": "Security",
-    "integrations_title": "Integrations",
-    "language_title": "Language settings",
-    "help_title": "Help",
-    "main_language": "Primary language",
-    "main_language_description": "Choose main content display language",
-    "additional_language": "Secondary language",
-    "additional_language_description": "Choose a language that will be used to display content in case of translation to the main language is not available",
-    "information_about_platform": "Information about platform",
-    "open": "Open",
-    "help": "Help",
-    "connect": "Connect",
-    "password": "Password",
-    "mail": "Email",
-    "nickname": "Nickname",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "it": "Italiano",
-    "de": "Deutsch",
-    "zh": "中文",
-    "saved": "Saved"
-  },
-  "profile-transactions": {
-    "transaction": "Transaction",
-    "date": "Date",
-    "sum": "Amount",
-    "status": "Status",
-    "sum_status": "Amount/Status",
-    "information": "Information",
-    "no_transaction": "There are no transactions.",
-    "usdt": "USDT",
-    "transaction_types": {
-      "deposit": "Top up balance",
-      "subscription": "Subscription purchase",
-      "FORUM_ACCESS": "Access to forum",
-      "FORUM_POSTS_10": "Purchased 10 forum posts"
-    },
-    "transaction_statuses": {
-      "created": "Pending",
-      "pending": "Processing",
-      "pre-approve": "Waiting for confirmation",
-      "approve": "Confirmed",
-      "done": "Done",
-      "failed": "Error has occurred",
-      "canceled": "Canceled",
-      "expired": "Expired",
-      "other": "Unknown"
-    }
-  }
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Achievement unlocked",
+			"close": "Close"
+		},
+		"activate-mfa-dialog": {
+			"title": "Enable 2FA",
+			"subtitle": "Scan QR-code and enter code to confirm authentication",
+			"code": "Code",
+			"activate": "Enable"
+		},
+		"change-avatar-dialog": {
+			"title": "Change avatar",
+			"accepted_format": "Acceptable formats: JPG, PNG no bigger than 3MB",
+			"load_photo": "Upload photo",
+			"choose_avatar": "Choose avatar"
+		},
+		"change-password-dialog": {
+			"title": "Change password",
+			"subtitle": "We sent you an email with code to change your password",
+			"enter_code": "Enter code",
+			"enter_data": "Enter data to create a new password",
+			"save_password": "Save password",
+			"onward": "Next",
+			"form": {
+				"new_password": "New password",
+				"repeat_new_password": "Repeat new password",
+				"password_input_placeholder": "*****************"
+			},
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"password_rules": "The password must contain at least 1 capital letter and 1 digit",
+				"passwords_not_match": "Passwords do not match"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Available avatars",
+			"save": "Save"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "Disable 2FA",
+			"subtitle": "Are you sure you want to disable 2FA?",
+			"disconnect": "Disabled"
+		}
+	},
+	"profile-main": {
+		"my_character": "My character",
+		"level": "level",
+		"experience": "Experience",
+		"internal_currency": "Internal currency",
+		"daily_rewards": "Daily rewards",
+		"day": "Day {{ day }}",
+		"get_daily_reward": "Get daily reward",
+		"to_next_reward": "Until next reward",
+		"got_reward": "Received rewards",
+		"in_development": "In development",
+		"of": "{{ num1 }} of {{num2}}",
+		"usdt": "USDT",
+		"dust": "DUST TOKEN",
+		"micron": "MICRON",
+		"crypto-bum": "Crypto-hobo",
+		"beta": "BETA"
+	},
+	"profile-settings": {
+		"title": "Personal information",
+		"change_avatar": "Change avatar",
+		"delete_avatar": "Delete avatar",
+		"security": "Security",
+		"change_password": "Change passwords",
+		"mfa": "Two-factor authentication",
+		"disconnect_mfa": "Disable 2FA",
+		"integrations": "Integrations",
+		"security_title": "Security",
+		"integrations_title": "Integrations",
+		"language_title": "Language settings",
+		"help_title": "Help",
+		"main_language": "Primary language",
+		"main_language_description": "Choose main content display language",
+		"additional_language": "Secondary language",
+		"additional_language_description": "Choose a language that will be used to display content in case of translation to the main language is not available",
+		"information_about_platform": "Information about platform",
+		"open": "Open",
+		"help": "Help",
+		"connect": "Connect",
+		"password": "Password",
+		"mail": "Email",
+		"nickname": "Nickname",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"it": "Italiano",
+		"de": "Deutsch",
+		"zh": "中文",
+		"saved": "Saved",
+		"main": {
+			"validation_messages": {
+				"required": "Required field",
+				"min_length": "Minimum field length {{length}} characters"
+			}
+		}
+	},
+	"profile-transactions": {
+		"transaction": "Transaction",
+		"date": "Date",
+		"sum": "Amount",
+		"status": "Status",
+		"sum_status": "Amount/Status",
+		"information": "Information",
+		"no_transaction": "There are no transactions.",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "Top up balance",
+			"subscription": "Subscription purchase",
+			"FORUM_ACCESS": "Access to forum",
+			"FORUM_POSTS_10": "Purchased 10 forum posts"
+		},
+		"transaction_statuses": {
+			"created": "Pending",
+			"pending": "Processing",
+			"pre-approve": "Waiting for confirmation",
+			"approve": "Confirmed",
+			"done": "Done",
+			"failed": "Error has occurred",
+			"canceled": "Canceled",
+			"expired": "Expired",
+			"other": "Unknown"
+		}
+	}
 }

@@ -1,71 +1,71 @@
 {
 	"onboarding-call-dialog": {
-		"title": "¿Quiere leer una guía paso a paso de la PLATAFORMA PARA POLVO?",
+		"title": "¿Quiere leer una guía paso a paso de la PLATAFORMA DUST?",
 		"skip": "Saltar",
 		"yes": "Sí"
 	},
 	"onboarding-dialog": {
-		"back": "atrás",
-		"onward": "siguiente",
+		"back": "Volver",
+		"onward": "Siguiente",
 		"done": "Hecho",
 		"portfolio": {
 			"title": "Sección “Portafolio”",
-			"description": "En esta sección, puede crear sus carteras, realizar un seguimiento de sus activos e inversiones.",
+			"description": "En esta sección puede crear sus carteras, realizar un seguimiento de sus activos e inversiones.",
 			"list": {
-				"1": "Saldo total estimado de carteras y PNL",
-				"2": "Simulación de estrategias de inversión",
-				"3": "Integración de carteras de cambio en un solo lugar",
-				"4": "Estimaciones y seguimiento de inversiones de riesgo"
+				"1": "El saldo total estimado de carteras y PNL",
+				"2": "La simulación de las estrategias del inversión",
+				"3": "La integración de las carteras del cambio en un solo lugar",
+				"4": "Los estimaciones y seguimiento de los inversiones del riesgo"
 			}
 		},
 		"virtual_portfolio": {
-			"title": "Portafolio virtual",
-			"description": "Con esta cartera, puede agregar activos manualmente y simular diferentes tipos de estrategias de inversión.",
+			"title": "El portafolio virtual",
+			"description": "Con esta cartera puede agregar activos manualmente y simular diferentes tipos de las estrategias del inversión.",
 			"list": {
-				"1": "Adición manual de transacciones",
+				"1": "La adición manual de transacciones",
 				"2": "Más de 1000 criptoactivos para rastrear",
-				"3": "Gráfico de visualización de ganancias/pérdidas",
+				"3": "El gráfico de visualización de ganancias/pérdidas",
 				"4": "Pie Сhart visualización de la distribución de las finanzas"
 			}
 		},
 		"exchange_portfolio": {
-			"title": "cartera de cambio",
-			"description": "Con esta cartera, puede realizar un seguimiento de sus carteras de intercambio mediante integraciones de API.",
+			"title": "La cartera del cambio",
+			"description": "Con esta cartera puede realizar un seguimiento de sus carteras del intercambio mediante integraciones de API.",
 			"list": {
-				"1": "Integración simple y clara usando API",
-				"2": "Actualización automática de transacciones y precios.",
-				"3": "Gráfico de visualización de ganancias/pérdidas",
+				"1": "La integración simple y clara con el uso de API",
+				"2": "La actualización automática de transacciones y precios.",
+				"3": "El gráfico de visualización de ganancias/pérdidas",
 				"4": "Pie Сhart visualización de la distribución de las finanzas"
 			}
 		},
 		"venture_portfolio": {
-			"title": "cartera de empresas",
-			"description": "Con esta cartera, puede realizar un seguimiento de todas las inversiones de riesgo con configuraciones y visualizaciones flexibles.",
+			"title": "La cartera de empresas",
+			"description": "Con esta cartera puede realizar un seguimiento de todas las inversiones del riesgo con configuraciones y visualizaciones flexibles.",
 			"list": {
-				"1": "Seguimiento flexible de inversiones de riesgo",
-				"2": "Gráfico de TGE y desbloqueos",
-				"3": "Información detallada sobre un activo de riesgo",
-				"4": "Cálculos automáticos en lugar de tablas de Excel"
+				"1": "El seguimiento flexible de los inversiones del riesgo",
+				"2": "El gráfico de TGE y desbloqueos",
+				"3": "La información detallada sobre un activo de riesgo",
+				"4": "Los cálculos automáticos en un lugar a cambio de las tablas en Excel"
 			}
 		},
 		"forum": {
-			"title": "Sección “Foro”",
-			"description": "En esta sección, puede crear publicaciones y compartir sus pensamientos con una comunidad de personas de ideas afines.",
+			"title": "La sección “Foro”",
+			"description": "En esta sección puede crear los publicaciones y compartir sus pensamientos con una comunidad de personas de ideas afines.",
 			"list": {
 				"1": "Ver publicaciones en orden de calificación",
-				"2": "Posibilidad de comentar en publicaciones creadas por otras personas.",
+				"2": "La posibilidad de comentar en publicaciones creadas por otras personas.",
 				"3": "Gana DUST Token por las mejores publicaciones",
 				"4": "Manténgase actualizado sobre los últimos eventos"
 			}
 		},
 		"academy": {
-			"title": "Sección “Academia”",
+			"title": "La sección “Academia”",
 			"description": "En esta sección, puede elegir el curso que le interesa y obtener nuevos conocimientos.",
 			"list": {
-				"1": "Cada curso es creado por el equipo de DUST.FOUNDATION",
-				"2": "Representación visual de temas complejos en videos",
-				"3": "Superación de pruebas en cada módulo.",
-				"4": "Evaluación de módulos y cursos"
+				"1": "Cada curso es creado por el equipo de DUST FOUNDATION",
+				"2": "Los videos con una representación visual de temas complejos",
+				"3": "La superación de pruebas en cada módulo.",
+				"4": "La evaluación de módulos y cursos"
 			}
 		},
 		"balance": {

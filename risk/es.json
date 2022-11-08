@@ -74,5 +74,7 @@
 	"dialog_tooltip_template": {
 		"title": "Insinuación",
 		"button_close": "¡Entiendo!"
-	}
+	},
+	"pro_version": "Versión Pro",
+	"my_calculations": "mis calculos"
 }

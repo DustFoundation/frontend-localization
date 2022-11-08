@@ -90,7 +90,8 @@
 				"title": "La suscripción",
 				"description": "La suscripción exitosa"
 			}
-		}
+		},
+		"join": "Unirse"
 	},
 	"promocode-dialog": {
 		"title": "La activación del código promocional",

@@ -94,7 +94,14 @@
 		"lv": "letón",
 		"saved": "Salvado",
 		"it": "italiano",
-		"de": "Alemán"
+		"de": "Alemán",
+		"zh": "Chino",
+		"main": {
+			"validation_messages": {
+				"required": "Campo requerido",
+				"min_length": "Longitud mínima del campo {{length}} caracteres"
+			}
+		}
 	},
 	"profile-transactions": {
 		"transaction": "Transacción",

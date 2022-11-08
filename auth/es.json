@@ -86,7 +86,9 @@
 			"invalid_email": "El correo es inválido",
 			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}"
-		}
+		},
+		"sign_in_with_google": "Iniciar sesión con Google+",
+		"or": "o"
 	},
 	"sign-up": {
 		"have_account": "¿Tiene usted una cuenta?",

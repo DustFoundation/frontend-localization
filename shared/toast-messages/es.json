@@ -65,5 +65,8 @@
 	"notes_limit": "Se ha alcanzado el límite de billetes.",
 	"notes_lost_connection": "Las notas se sincronizarán después de que se restablezca la conexión.",
 	"notes_access": "Disponible para usuarios que se hayan suscrito a la “Plataforma“",
-	"latter_sent": "Carta enviada a su correo"
+	"latter_sent": "Carta enviada a su correo",
+	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} está desconectado",
+	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ya está conectado",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} está conectado"
 }

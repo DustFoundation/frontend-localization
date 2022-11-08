@@ -461,7 +461,7 @@
 			"cliff_end": "Cliff今天完工",
 			"to_end_cliff": "在悬崖完成之前<span class='period'>{{diff}}</span>",
 			"today_unlock": "今天 {{num}} 是一个细分",
-			"to_unlock": "{{num}} 解锁之前 {{<span class='period'>diff}}</span>"
+			"to_unlock": "{{num}} 解锁之前 <span class='period'>{{diff}}</span>"
 		},
 		"need_subscription": "需要有效订阅"
 	}

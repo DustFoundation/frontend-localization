@@ -92,9 +92,10 @@
     "en": "English",
     "uk": "Українська",
     "lv": "Latviešu",
-    "it": "Italiano",
     "de": "Deutsch",
     "zh": "中文",
+    "it": "Italienisch",
+    "es": "Español",
     "saved": "Сохранено",
     "main": {
       "validation_messages": {

@@ -8,7 +8,7 @@
     "dialog-add-coin": {
       "first_step": {
         "title": "Step 1",
-        "choose_asset": "Choose asset",
+        "choose_asset": "Choose the asset",
         "search": "Search" },
       "second_step": {
         "title": "Step 2",
@@ -21,9 +21,9 @@
         "total_profit": "Total profit",
         "buy": "Buy",
         "sell": "Sell",
-        "edit_transaction": "Edit transaction",
-        "delete_transaction": "Delete transaction",
-        "add_transaction": "Add transaction"
+        "edit_transaction": "Edit the transaction",
+        "delete_transaction": "Delete the transaction",
+        "add_transaction": "Add a transaction"
       },
       "change": "Change",
       "add": "Add",
@@ -36,23 +36,23 @@
       }
     },
     "dialog-add-exchange-portfolio": {
-      "title": "Creation of exchange portfolio",
+      "title": "The creation of an exchange portfolio",
       "selected_exchange": "Selected exchange*",
       "portfolio_name": "Portfolio title*",
       "name_placeholder": "Giga Chad",
       "portfolio_description": "Portfolio description",
-      "description_placeholder": "Portfolio consisting of the riskiest and the most promising assets across the market. Be prepared to say goodbye to your sleep and money.",
-      "api_key_rule": "We ask only for <strong>read permissions</strong>. It doesn't provide us access to your personal keys or ability to transfer your funds. We need it only to show you effectiveness of your portfolio and analytics.",
-      "enter_api_key": "Enter API-key",
+      "description_placeholder": "The portfolio consisting of the riskiest and the most promising assets across the market. Be ready to say goodbye to your sleep and money.",
+      "api_key_rule": "We ask only for <strong>read permissions</strong>. It doesn't provide us an access to your personal keys or an ability to transfer your funds. We need it only to show you the effectiveness of your portfolio and analytics.",
+      "enter_api_key": "Enter the API-key",
       "api_key": "API-key",
-      "enter_secret_key": "Enter secret key",
+      "enter_secret_key": "Enter the secret key",
       "secret_key": "Secret key",
       "help": {
         "1": "On a Binance exchange website open <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API Management</a> section",
         "2": "<strong> Create new API key </strong>, name it, for example <strong>\"DUST Portfolio\"</strong>, and press <strong>\"Next\"</strong>",
         "3": "(If everything is all right), <strong>enter 2FA codes</strong>",
         "4": "Copy <strong>API key</strong> and <strong>secret key</strong>",
-        "5": "<span> IT IS DESIRABLE to disable access to trading for this API key, to do this:</span><ol><li>Click <strong>\"Edit restrictions\"</strong></li><li>Disable <strong>\"Enable Spot & Margin Trading\"</strong></li><li>Clcik <strong>\"Save\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
+        "5": "<span> IT IS DESIRABLE to disable access to trading for this API key, to do this:</span><ol><li>Click <strong>\"Edit restrictions\"</strong></li><li>Disable <strong>\"Enable Spot & Margin Trading\"</strong></li><li>Clcik <strong>\"Save\"</strong></li><li>enter the key of <strong> two-step authentication</strong></li></ol>"
       },
       "create": "Create",
       "back": "Back",
@@ -131,8 +131,8 @@
         "title_1": "Introduction",
         "title_2": "Financial information",
         "title_3": "Technical information",
-        "title_4": "Select date and (or) % of unlock on TGE",
-        "title_5": "Duration of asset distribution",
+        "title_4": "Select the date and (or) % of unlocking on TGE",
+        "title_5": "Duration of the asset distribution",
         "tge": "TGE — (Token Generation Event), synonym \"ICO\", meaning \"initial coin offering\".",
         "total": "Total",
         "onward": "Next",
@@ -143,12 +143,12 @@
       },
       "first_step": {
         "name": "Title*",
-        "name_placeholder": "Asset name",
+        "name_placeholder": "Asset a name",
         "ticker": "Ticker*",
         "ticker_placeholder": "Ticker",
         "sait": "Website",
         "description": "Description",
-        "logo": "Asset logo",
+        "logo": "Asset a logo",
         "format_img": "JPG or PNG, 1:1 (square),<br />not more than 3MB",
         "loaded_photo": "Photo uploaded:",
         "download": "Download"
@@ -204,7 +204,7 @@
         "file_type": "Invalid file type",
         "file_size": "File size exceeds {{ size }}MB",
         "max_value": "Maximum value is {{ max }}",
-        "min_value": " Value should be less than {{ min }}",
+        "min_value": " Value should be more than {{ min }}",
         "invalid_period": "Cannot be earlier than purchase date or unlock date"
       }
     },
@@ -237,7 +237,7 @@
         "subtitle": "Adding of new projects purchased during early stages"
       },
       "need_subscription": "Active subscription required",
-      "create_portfolio": "Create portfolio"
+      "create_portfolio": "Create a portfolio"
     },
     "dialog-delete-coin": {
       "title": "Delete asset",
@@ -402,7 +402,7 @@
     "portfolio_empty": "Portfolio is empty...",
     "your_portfolio_empty": "Your portfolio is empty :(",
     "add_asset": "Add asset",
-    "add_first_asset": "Add first asset",
+    "add_first_asset": "Add the first asset",
     "need_subscription": "Active subscription required"
   },
   "portfolio-list": {
@@ -435,8 +435,8 @@
     "edit": "Edit",
     "your_portfolio_empty": "Your portfolio is empty :(",
     "add_first_asset": "Add first asset",
-    "unlock_chart": "Unlock chart of venture assets",
-    "impossible_to_build": "Impossible to build chart for this asset",
+    "unlock_chart": "Unlock a chart of venture assets",
+    "impossible_to_build": "Impossible to build a chart for this asset",
     "my_assets": "{isMobile, plural, =1 {My assets} other {My venture assets}}",
     "portfolio_empty": "Portfolio is empty...",
     "characteristics": {

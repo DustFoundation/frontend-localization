@@ -70,32 +70,32 @@
 		},
 		"balance": {
 			"title": "Apartado “Recargar saldo”",
-			"description": "En esta sección, puede comprar/ampliar suscripciones para la plataforma y la criptocomunidad.",
+			"description": "En esta sección puede comprar/ampliar las suscripciones para la plataforma y la criptocomunidad.",
 			"list": {
-				"1": "Fácil proceso de pago de 2 pasos",
-				"2": "Soporte de diferentes redes y Binance Pay",
-				"3": "Video tutorial detallado sobre cómo realizar pagos para recién llegados",
-				"4": "Acreditación rápida de fondos a la plataforma"
+				"1": "El proceso fácil del pago de 2 pasos",
+				"2": "El soporte de diferentes redes y Binance Pay",
+				"3": "El video tutorial detallado sobre cómo realizar pagos para recién llegados",
+				"4": "La acreditación rápida de los fondos a la plataforma"
 			}
 		},
 		"subscription": {
 			"title": "Sección “Suscripción”",
-			"description": "En esta sección, puede elegir y activar diferentes tipos de suscripciones.",
+			"description": "En esta sección puede elegir y activar diferentes tipos de suscripciones.",
 			"list": {
 				"1": "7 días de prueba gratis (Plataforma DUST)",
 				"2": "3 tipos de suscripción con diferentes duraciones",
-				"3": "Integraciones con Telegram y Discord",
-				"4": "Sistema de descuento y obtención de DUST Token"
+				"3": "Las integraciones con Telegram y Discord",
+				"4": "La sistema de descuento y obtención de DUST Token"
 			}
 		},
 		"profile": {
 			"title": "Sección “Perfil”",
-			"description": "En esta sección, puede obtener recompensas diarias, logros y realizar un seguimiento de su calificación.",
+			"description": "En esta sección puede obtener recompensas diarias, logros y realizar un seguimiento de su calificación.",
 			"list": {
 				"1": "Elige tu cripto-avatar",
-				"2": "Recompensas diarias por visitar una plataforma",
-				"3": "Lista de logros recibidos",
-				"4": "Opiniones de los usuarios"
+				"2": "Recompensas diarias por visitas de una plataforma",
+				"3": "Lista de los logros recibidos",
+				"4": "Las opiniones de los usuarios"
 			}
 		}
 	}

@@ -90,8 +90,8 @@
 				"blockchain": "cadena de bloques",
 				"defi": "DeFi",
 				"gamefi": "GameFi",
-				"metaverse": "metaverso",
-				"launchpad": "Plataforma de lanzamiento",
+				"metaverse": "El metaverso",
+				"launchpad": "La plataforma de lanzamiento",
 				"payments": "Pagos",
 				"fun_token": "ficha divertida",
 				"nft": "NFT",
@@ -127,8 +127,8 @@
 				"YEAR": "año"
 			},
 			"main": {
-				"add": "Adición de activos de riesgo",
-				"edit": "Edición de activos de riesgo",
+				"add": "La adición de los activos del riesgo",
+				"edit": "La edición de los activos del riesgo",
 				"title_1": "Introducción",
 				"title_2": "Información financiera",
 				"title_3": "Información técnica",
@@ -137,7 +137,7 @@
 				"tge": "TGE — (Evento de generación de tokens), sinónimo de \"ICO\", que significa \"oferta inicial de monedas\".",
 				"total": "Total",
 				"onward": "próximo",
-				"back": "atrás",
+				"back": "Volver",
 				"done": "Hecho",
 				"date_placeholder": "DD.MM.AAAA",
 				"period_date_placeholder": "DD.MM.AAAA - DD.MM.AAAA"
@@ -149,13 +149,13 @@
 				"ticker_placeholder": "Corazón",
 				"sait": "Sitio web",
 				"description": "Descripción",
-				"logo": "logotipo de activo",
+				"logo": "El logotipo de activo",
 				"format_img": "JPG o PNG, 1:1 (cuadrado),<br /> no más de 3 MB",
 				"loaded_photo": "Foto subida:",
 				"download": "Descargar"
 			},
 			"second_step": {
-				"price": "Precio de compra*",
+				"price": "El precio de compra*",
 				"price_placeholder": "Precio",
 				"amount": "Cantidad de monedas/fichas compradas*",
 				"amount_placeholder": "Monto",
@@ -180,16 +180,16 @@
 			},
 			"fifth_step": {
 				"vesting": "Adquisición",
-				"vesting_description": "Adquisición: proceso mediante el cual los activos se bloquean y distribuyen durante un cierto período de tiempo",
-				"unlock_date": "fecha de desbloqueo",
-				"period": "Período de distribución",
-				"end_date": "Fecha final",
-				"start_date": "Fecha de inicio",
+				"vesting_description": "Adquisición: el proceso mediante el cual los activos se bloquean y distribuyen durante un cierto período de tiempo",
+				"unlock_date": "La fecha del desbloqueo",
+				"period": "El período de distribución",
+				"end_date": "La fecha final",
+				"start_date": "La fecha del inicio",
 				"frequency": "Frecuencia",
 				"info": "{{amount}} monedas/fichas {{period}} desde {{start}} hasta {{emd}}",
-				"select_period": "Seleccionar periodo",
+				"select_period": "Seleccionar el periodo",
 				"unlock_impossible": "El desbloqueo para el período seleccionado es imposible",
-				"elem_unlock_date": "Fecha de desbloqueo {{num}}",
+				"elem_unlock_date": "La fecha de desbloqueo {{num}}",
 				"invalid_sequence": "No puede ser anterior a la fecha de compra o la fecha de desbloqueo",
 				"value_in_period": "Desbloquear volumen para este período",
 				"left_to_distribute": "Izquierda para distribuir:",
@@ -202,7 +202,7 @@
 				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 				"min_price": "El precio no puede ser inferior a 0$",
 				"invalid_date": "Fecha invalida",
-				"file_type": "tipo de archivo invalido",
+				"file_type": "El tipo de archivo invalido",
 				"file_size": "El tamaño del archivo supera los {{size}}MB",
 				"max_value": "El valor máximo es {{max}}",
 				"min_value": " El valor debe ser inferior a {{min}}",
@@ -210,7 +210,7 @@
 			}
 		},
 		"dialog-add-venture-portfolio": {
-			"create_portfolio": "Crear cartera",
+			"create_portfolio": "Crear una cartera",
 			"title": "Creación de cartera de empresas",
 			"name_placeholder": "Inversor criptográfico novato",
 			"description_placeholder": "Además de activos confiables y probados, esta cartera también incluye algunos de los proyectos más prometedores y desarrollados activamente.",
@@ -226,28 +226,28 @@
 		},
 		"dialog-create-portfolio": {
 			"virtual": {
-				"title": "Portafolio virtual",
-				"subtitle": "Creación de una cartera virtual de criptoactivos"
+				"title": "Portfolio virtual",
+				"subtitle": "La creación de una cartera virtual de criptoactivos"
 			},
 			"exchange": {
-				"title": "cartera de cambio",
+				"title": "La cartera del cambio",
 				"subtitle": "Integraciones con bolsas y seguimiento de activos reales"
 			},
 			"venture": {
-				"title": "cartera de empresas",
+				"title": "La cartera de empresas",
 				"subtitle": "Adición de nuevos proyectos comprados en etapas tempranas"
 			},
-			"need_subscription": "Se requiere suscripción activa",
-			"create_portfolio": "Crear cartera"
+			"need_subscription": "Se requiere una suscripción activa",
+			"create_portfolio": "Crear una cartera"
 		},
 		"dialog-delete-coin": {
-			"title": "Eliminar activo",
+			"title": "Eliminar un activo",
 			"subtitle": "¿Está seguro de que desea eliminar <span>{{name}}</span> de su cartera?",
 			"delete": "Borrar",
 			"cancel": "Cancelar"
 		},
 		"dialog-delete-portfolio": {
-			"title": "Eliminar cartera",
+			"title": "Eliminar una cartera",
 			"subtitle": "¿Está seguro de que desea eliminar su cartera <span>{{name}}</span> ?",
 			"delete": "Borrar",
 			"cancel": "Cancelar"
@@ -259,13 +259,13 @@
 			"cancel": "Cancelar"
 		},
 		"dialog-delete-venture-asset": {
-			"title": "Eliminar activo",
+			"title": "Eliminar un activo",
 			"subtitle": "¿Está seguro de que desea eliminar <span>{{name}}</span> de su cartera?",
 			"delete": "Borrar",
 			"cancel": "Cancelar"
 		},
 		"dialog-edit-exchange-portfolio": {
-			"title": "Editar teclas",
+			"title": "Editar las teclas",
 			"enter_api_key": "Clave API",
 			"enter_secret_key": "Llave secreta",
 			"cancel": "Cancelar",
@@ -280,7 +280,7 @@
 			}
 		},
 		"dialog-edit-portfolio": {
-			"title": "Editar cartera",
+			"title": "Editar la cartera",
 			"name_placeholder": "Verdadero HODLer",
 			"description_placeholder": "Esta cartera incluye activos fundamentales en todo el criptomercado. Puedes dormir tranquilo.",
 			"name": "Título",
@@ -297,7 +297,7 @@
 			"title": "Detalles de la transacción",
 			"type": "Escribe",
 			"price": "Precio",
-			"amount_coin": "cantidad de monedas",
+			"amount_coin": "La cantidad de monedas",
 			"date": "Fecha",
 			"value": "Valor en $",
 			"close": "Cerca",
@@ -307,8 +307,8 @@
 		"dialog-venture-coin-info": {
 			"title": "Detalles de activos de riesgo",
 			"characteristics": {
-				"price": "{isMobile, plural, =1 {Precio} other {Precio de compra}}",
-				"amount": "{isMobile, plural, =1 {Cantidad} other {Cantidad de monedas}}",
+				"price": "{isMobile, plural, =1 {Precio} otro {Precio de compra}}",
+				"amount": "{isMobile, plural, =1 {Cantidad} otro {Cantidad de monedas}}",
 				"investment_volume": "Volumen de inversiones",
 				"type_of_project": "tipo de proyecto",
 				"type": "Escribe",
@@ -338,7 +338,7 @@
 			"edit": "Editar",
 			"delete": "Borrar",
 			"open": "Abierto",
-			"virtual": "Portafolio virtual",
+			"virtual": "Portfolio virtual",
 			"exchange": "cartera de cambio",
 			"venture": "cartera de empresas",
 			"investment_value": "Cantidad de inversiones",
@@ -373,7 +373,7 @@
 			"subtitle": "Active una suscripción para obtener transacciones de cartera ilimitadas",
 			"used_transactions": "Transacciones utilizadas:",
 			"of": "{{num1}} de {{num2}}",
-			"activate_subscription": "Activar suscripción"
+			"activate_subscription": "Activar mi suscripción"
 		},
 		"interval": {
 			"1_day": "1 día",
@@ -381,7 +381,7 @@
 			"1_month": "1 mes",
 			"3_months": "3 mi",
 			"1_year": "1 año",
-			"all_time": "Todo el tiempo"
+			"all_time": "Infinito"
 		}
 	},
 	"portfolio": {
@@ -416,7 +416,7 @@
 		}
 	},
 	"portfolio-transactions": {
-		"back": "atrás",
+		"back": "Volver",
 		"price": "Precio",
 		"average_price": "Promedio precio de compra",
 		"amount_coin": "cantidad de monedas",
@@ -425,7 +425,7 @@
 		"value": "Valor en $",
 		"commission": "Tarifa",
 		"add": "Agregar",
-		"transactions": "Actas",
+		"transactions": "Las transacciónes",
 		"add_transaction": "Agregar transacción",
 		"need_subscription": "Se requiere suscripción activa"
 	},
@@ -438,11 +438,11 @@
 		"add_first_asset": "Añadir primer activo",
 		"unlock_chart": "Desbloquear gráfico de activos de riesgo",
 		"impossible_to_build": "Imposible crear un gráfico para este activo",
-		"my_assets": "{isMobile, plural, =1 {Mis activos} other {Mis activos de riesgo}}",
+		"my_assets": "{isMobile, plural, =1 {Mis activos} otro {Mis activos de riesgo}}",
 		"portfolio_empty": "El portafolio está vacío...",
 		"characteristics": {
-			"price": "{isMobile, plural, =1 {Precio} other {Precio de compra}}",
-			"amount": "{isMobile, plural, =1 {Cantidad} other {Cantidad de monedas}}",
+			"price": "{isMobile, plural, =1 {Precio} otro {Precio de compra}}",
+			"amount": "{isMobile, plural, =1 {Cantidad} otro {Cantidad de monedas}}",
 			"investment_volume": "Volumen de inversiones",
 			"type_of_project": "Tipo de proyecto",
 			"type": "Escribe",

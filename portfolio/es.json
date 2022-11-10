@@ -1,14 +1,14 @@
 {
 	"components": {
 		"breadcrumbs": {
-			"portfolio": "portafolio",
+			"portfolio": "El portfolio",
 			"main": "Hogar",
-			"transactions": "Actas"
+			"transactions": "Las transacciónes"
 		},
 		"dialog-add-coin": {
 			"first_step": {
 				"title": "Paso 1",
-				"choose_asset": "Elija activo",
+				"choose_asset": "Elija un activo",
 				"search": "Búsqueda"
 			},
 			"second_step": {
@@ -18,18 +18,18 @@
 				"price": "Precio por moneda",
 				"date": "Fecha (DD.MM.AAAA)",
 				"date_placeholder": "DD.MM.AAAA",
-				"total_attachment": "Inversión total",
-				"total_profit": "Beneficio total",
+				"total_attachment": "La inversión total",
+				"total_profit": "El beneficio total",
 				"buy": "Comprar",
 				"sell": "Vender",
-				"edit_transaction": "Editar transacción",
-				"delete_transaction": "Eliminar transacción",
-				"add_transaction": "Agregar transacción"
+				"edit_transaction": "Editar mi transacción",
+				"delete_transaction": "Eliminar una transacción",
+				"add_transaction": "Agregar una transacción"
 			},
-			"change": "Cambio",
-			"add": "Agregar",
+			"change": "El cambio",
+			"add": "Añadir",
 			"validation_messages": {
-				"required": "Se requiere campo",
+				"required": "Se requiere el campo",
 				"invalid_date": "Fecha invalida",
 				"min_price": "El precio no puede ser inferior a 0$",
 				"max_amount": "La cantidad no puede exceder {{max}} {{coin}}",
@@ -37,30 +37,30 @@
 			}
 		},
 		"dialog-add-exchange-portfolio": {
-			"title": "Creación de cartera de cambio",
+			"title": "La creación de una cartera del cambio",
 			"selected_exchange": "Intercambio seleccionado*",
 			"portfolio_name": "Título de la cartera*",
 			"name_placeholder": "giga chad",
 			"portfolio_description": "Descripción de la cartera",
-			"description_placeholder": "Cartera compuesta por los activos más riesgosos y prometedores del mercado. Prepárate para decir adiós a tu sueño y dinero.",
-			"api_key_rule": "Sólo pedimos <strong>permisos de lectura</strong> . No nos proporciona acceso a sus claves personales ni la posibilidad de transferir sus fondos. Solo lo necesitamos para mostrarle la efectividad de su cartera y análisis.",
+			"description_placeholder": "La cartera compuesta por los activos más riesgosos y prometedores del mercado. Prepárate para una despedida con tu sueño y dinero.",
+			"api_key_rule": "Sólo pedimos <strong>permisos de lectura</strong> . No nos proporciona el acceso a sus claves personales ni la posibilidad de transferir sus fondos. Solo lo necesitamos para mostrarle la efectividad de su cartera y análisis.",
 			"enter_api_key": "Ingrese la clave API",
 			"api_key": "Clave API",
 			"enter_secret_key": "Introduce la clave secreta",
 			"secret_key": "Llave secreta",
 			"help": {
 				"1": "En un sitio web de intercambio de Binance, abra la sección <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">Administración de API</a>",
-				"2": "<strong>Cree una nueva clave API</strong> , asígnele un nombre, por ejemplo, <strong>&quot;Portafolio DUST&quot;</strong> , y presione <strong>&quot;Siguiente&quot;</strong>",
+				"2": "<strong>Cree una nueva clave API</strong> , asígnele un nombre, por ejemplo, <strong>&quot;Portafolio DUST&quot;</strong> , y pulsa <strong>&quot;Siguiente&quot;</strong>",
 				"3": "(Si todo está bien), <strong>ingrese los códigos 2FA</strong>",
 				"4": "Copie <strong>la clave API</strong> y <strong>la clave secreta</strong>",
 				"5": "<span>ES DESEABLE deshabilitar el acceso al comercio para esta clave API, para ello:</span><ol><li> Haga clic <strong>en &quot;Editar restricciones&quot;</strong></li><li> Deshabilitar <strong>&quot;Habilitar comercio al contado y margen&quot;</strong></li><li> Haga clic <strong>en &quot;Guardar&quot;</strong></li><li> Ingrese el código <strong>de autenticación de dos factores</strong></li></ol>"
 			},
 			"create": "Crear",
-			"back": "atrás",
+			"back": "Volver",
 			"onward": "próximo",
 			"important": "Importante",
 			"validation_messages": {
-				"required": "Se requiere campo",
+				"required": "Se requiere el campo",
 				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 				"repeat": "no debería repetir"

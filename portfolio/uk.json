@@ -29,7 +29,7 @@
       "change": "Змінити",
       "add": "Додати",
       "validation_messages": {
-        "required": "Поле обов'язково до заповнення",
+        "required": "Поле обов'язкове до заповнення",
         "invalid_date": "Невалідна дата",
         "min_price": "Ціна не може бути меншою ніж 0$",
         "max_amount": "Кількість не може бути більшою за {{ max }} {{ coin }}",
@@ -38,7 +38,7 @@
     },
     "dialog-add-exchange-portfolio": {
       "title": "Створення біржового портфеля",
-      "selected_exchange": "Вибрана біржа*",
+      "selected_exchange": "Обрана біржа*",
       "portfolio_name": "Назва портфеля*",
       "name_placeholder": "Шибайголова",
       "portfolio_description": "Опис портфеля",
@@ -51,7 +51,7 @@
       "help": {
         "1": "На сайті біржі Binance відкрийте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">розділ API</a>",
         "2": "<strong> Створіть новий API ключ </strong> назвавши його, наприклад, <strong>\"DUST Portfolio\"</strong>, і натисніть <strong>\"створити новий ключ\"</strong>",
-        "3": "(Якщо все вийшло), <strong>введіть код двофакторної автентифікації</strong>",
+        "3": "(Якщо все вийшло), <strong>введіть код двофакторної аутентифікації</strong>",
         "4": "Скопіюйте <strong>ключ API</strong> і <strong>секретний ключ</strong>",
         "5": "<span> БАЖАНО вимкнути доступ до торгівлі для цього API ключа, для цього:</span><ol><li>Натисніть <strong>\"Налаштування\"</strong></li><li>Забороніть <strong>\"Доступ до торгівлі\"</strong></li><li>Натисніть <strong>\"Зберегти\"</strong></li><li>Введіть код <strong>Двофакторної аутентифікації</strong></li></ol>"
       },
@@ -60,7 +60,7 @@
       "onward": "Далі",
       "important": "Важливо",
       "validation_messages": {
-        "required": "Поле обов'язково до заповнення",
+        "required": "Поле обов'язкове до заповнення",
         "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
         "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
         "repeat": "Не повинно повторюватися"
@@ -74,7 +74,7 @@
       "description_not_necessarily": "Опис (не обов'язково)",
       "name": "Назва",
       "validation_messages": {
-        "required": "Поле обов'язково до заповнення",
+        "required": "Поле обов'язкове до заповнення",
         "min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
         "max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
         "repeat": "Не повинно повторюватися"
@@ -87,27 +87,27 @@
         "custom": "Кастомний"
       },
       "asset_type": {
-        "blockchain": "Blockchain",
+        "blockchain": "Блокчейн",
         "defi": "DeFi",
         "gamefi": "GameFi",
-        "metaverse": "Metaverse",
-        "launchpad": "Launchpad",
-        "payments": "Payments",
-        "fun_token": "Fun Token",
+        "metaverse": "Метавсесвіт",
+        "launchpad": "Панель запуску",
+        "payments": "Платіж",
+        "fun_token": "Кумедний токен",
         "nft": "NFT",
         "other": "Інше"
       },
       "rounds": {
-        "public": "Public",
-        "private": "Private",
-        "strategic": "Strategic",
-        "presale": "Pre-sale",
-        "preseed": "Pre-seed",
-        "seed": "Seed",
-        "round_a": "Round A",
-        "round_b": "Round B",
-        "round_c": "Round C",
-        "round_d": "Round D",
+        "public": "Громадський",
+        "private": "Приватний",
+        "strategic": "Стратегічний",
+        "presale": "Попередній продаж",
+        "preseed": "Початкове залучення інвестицій",
+        "seed": "ранні інвестиції",
+        "round_a": "Тур A",
+        "round_b": "Тур B",
+        "round_c": "Тур C",
+        "round_d": "Тур D",
         "other": "Інше"
       },
       "periods": {
@@ -119,11 +119,11 @@
         "every-year": "Раз на рік"
       },
       "unlock_period_types": {
-        "amount": "кіл.",
+        "amount": "кількість",
         "percent": "%"
       },
       "cliff": {
-        "MONTH": "міс.",
+        "MONTH": "місяць",
         "YEAR": "рік"
       },
       "main": {

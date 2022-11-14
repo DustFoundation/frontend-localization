@@ -134,6 +134,7 @@
 				"title_3": "Tehniskā informācija",
 				"title_4": "Atlasīt datumu un (vai) atbloķēšanas % TGE",
 				"title_5": "Assetu izplatīšanas ilgums",
+				"title_6": "Kopsavilkuma informācija:",
 				"tge": "TGE — (tokenu ģenerēšanas notikums), sinonīms \"ICO\", kas nozīmē \"sākotnējais monētu piedāvājums\".",
 				"total": "Kopā",
 				"onward": "Nākamais",
@@ -149,7 +150,7 @@
 				"ticker_placeholder": "Ticker",
 				"sait": "Mājaslapa",
 				"description": "Apraksts",
-				"logo": "Asset logo",
+				"logo": "Logo",
 				"format_img": "JPG vai PNG, 1:1 (kvadrāts),<br />ne vairāk kā 3 MB",
 				"loaded_photo": "Fotoattēls ir augšupielādēts:",
 				"download": "Augšupielādēt"
@@ -169,12 +170,12 @@
 				"date": "Pirkšanas datums (DD.MM.YYYY)*"
 			},
 			"fourth_step": {
-				"unlock": "% atbloķēts",
+				"unlock": "TGE atbloķēšanas procents",
 				"unlock_placeholder": "0-100%",
-				"date": "Datums",
+				"date": "TGE atbloķēšanas datums",
 				"tba": "TBA — (tiks paziņots)",
 				"cliff": "Cliff — laika posms, kuram jāpaiet, pirms sākas tokenu izlaišana",
-				"period_cliff": "Cliff periods",
+				"period_cliff": "Cliff periods (Lockup)",
 				"lockup": "Cliff (Lockup)",
 				"no": "Nē"
 			},
@@ -182,10 +183,13 @@
 				"vesting": "Vestings",
 				"vesting_description": "Vesting — process, kurā aktīvi tiek bloķēti un sadalīti noteiktā laika periodā",
 				"unlock_date": "Atbloķēšanas datums",
+				"unlock_period": "Atbloķēšanas periods",
+				"last_unlock_date": "Pēdējais izlaišanas datums",
 				"period": "Izplatīšanas periods",
 				"end_date": "Beigu datums",
 				"start_date": "Sākuma datums",
 				"frequency": "Biežums",
+				"frequency_count": "Periodu skaits",
 				"info": "{{ amount }} monētas/ tokeni - {{ period }}, no {{ start }} līdz {{ end }}.",
 				"select_period": "Atlasīt periodu",
 				"unlock_impossible": "Atbloķēšana atlasītajam periodam nav iespējams",
@@ -194,7 +198,14 @@
 				"value_in_period": "Atbloķēšanas daudzumu šim periodam",
 				"left_to_distribute": "Atlicis, lai izplatītu:",
 				"volume_distributed": "Viss apjoms ir izpaltīts",
-				"invalid_unlock": " *Nederīga atbloķēšana"
+				"invalid_unlock": " *Nederīga atbloķēšana",
+				"not_exactly": "Nodaļas nav vienmērīgi sadalītas",
+				"frequency_type": {
+					"DAY": "dienas",
+					"WEEK": "nedēļas",
+					"MONTH": "mēnešus",
+					"YEAR": "gadā"
+				}
 			},
 			"validation_messages": {
 				"required": "Lauks ir jāaizpilda obligāti",
@@ -208,6 +219,19 @@
 				"min_value": "Vērtībai ir jābūt mazākai par {{ min }}",
 				"invalid_period": "Nevar būt agrāks par iegādes datumu vai atbloķēšanas datumu",
 				"min_amount": "Daudzums nedrīkst būt mazāks par 0 {{coin}}"
+			},
+			"sixth_step": {
+				"price": "Iepirkuma cena",
+				"investment_volume": "Investīciju apjoms",
+				"amount_coin": "Monētu skaits",
+				"buy_date": "Pirkuma datums",
+				"round": "Raunds",
+				"type": "Tips",
+				"sait": "Vietne",
+				"network": "Tīkls",
+				"unlock_type": "Atbloķēšanas veids",
+				"unlock_date": "Datuma sadalīšana",
+				"period_unlock": "Atbloķēšanas periods"
 			}
 		},
 		"dialog-add-venture-portfolio": {

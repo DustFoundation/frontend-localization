@@ -140,7 +140,8 @@
 				"back": "atrás",
 				"done": "Hecho",
 				"date_placeholder": "DD.MM.AAAA",
-				"period_date_placeholder": "DD.MM.AAAA - DD.MM.AAAA"
+				"period_date_placeholder": "DD.MM.AAAA - DD.MM.AAAA",
+				"title_6": "Informacion de sumario:"
 			},
 			"first_step": {
 				"name": "Título*",
@@ -194,7 +195,17 @@
 				"value_in_period": "Desbloquear volumen para este período",
 				"left_to_distribute": "Izquierda para distribuir:",
 				"volume_distributed": "Todo el volumen se distribuye",
-				"invalid_unlock": " * Desbloqueos no válidos"
+				"invalid_unlock": " * Desbloqueos no válidos",
+				"unlock_period": "Período de desbloqueo",
+				"last_unlock_date": "última fecha de lanzamiento",
+				"frequency_count": "Cantidad en este período*",
+				"not_exactly": "Las divisiones no están divididas uniformemente.",
+				"frequency_type": {
+					"DAY": "días",
+					"WEEK": "semanas",
+					"MONTH": "meses",
+					"YEAR": "año"
+				}
 			},
 			"validation_messages": {
 				"required": "Se requiere campo",
@@ -208,6 +219,19 @@
 				"min_value": " El valor debe ser inferior a {{min}}",
 				"invalid_period": "No puede ser anterior a la fecha de compra o la fecha de desbloqueo",
 				"min_amount": "La cantidad no puede ser inferior a 0 {{coin}}"
+			},
+			"sixth_step": {
+				"price": "Precio de compra",
+				"investment_volume": "Tamaño de la inversión",
+				"amount_coin": "Número de monedas",
+				"buy_date": "Fecha de compra",
+				"round": "Redondo",
+				"type": "Escribe",
+				"sait": "Sitio",
+				"network": "La red",
+				"unlock_type": "tipo de desbloqueo",
+				"unlock_date": "División de fecha",
+				"period_unlock": "Período de desbloqueo"
 			}
 		},
 		"dialog-add-venture-portfolio": {

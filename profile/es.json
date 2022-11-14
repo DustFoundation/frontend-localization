@@ -88,20 +88,21 @@
 		"password": "Clave",
 		"mail": "Correo electrónico",
 		"nickname": "Apodo",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "de": "Deutsch",
-    "zh": "中文",
-    "it": "Italienisch",
-    "es": "Español",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+		"zh": "中文",
+		"it": "Italienisch",
+		"es": "Español",
 		"main": {
 			"validation_messages": {
 				"required": "Campo requerido",
 				"min_length": "Longitud mínima del campo {{length}} caracteres"
 			}
-		}
+		},
+		"saved": "Salvado"
 	},
 	"profile-transactions": {
 		"transaction": "Transacción",

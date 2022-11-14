@@ -134,6 +134,7 @@
         "title_3": "Техническая информация",
         "title_4": "Укажите дату и (или) % разлока на TGE",
         "title_5": "Период распределения актива",
+        "title_6": "Итоговая информация:",
         "tge": "TGE — (Token Generation Event), синоним \"ICO\", означающий \"первичное размещение монет\".",
         "total": "Итого",
         "onward": "Далее",
@@ -149,7 +150,7 @@
         "ticker_placeholder": "Тикер",
         "sait": "Сайт",
         "description": "Описание",
-        "logo": "Логотип актива",
+        "logo": "Логотип",
         "format_img": "JPG или PNG, 1:1 (квадрат),<br />не более 3MB",
         "loaded_photo": "Загружено фото:",
         "download": "Загрузить"
@@ -169,12 +170,12 @@
         "date": "Дата покупки (ДД.ММ.ГГГГ)*"
       },
       "fourth_step": {
-        "unlock": "% разлока",
+        "unlock": "Процент разлока TGE",
         "unlock_placeholder": "0-100%",
-        "date": "Дата",
+        "date": "Дата разлока TGE",
         "tba": "TBA — (To Be Announced), \"будет объявлено позднее\" или \"будет сообщено\".",
         "cliff": "Cliff — период блокировки токенов",
-        "period_cliff": "Период cliff",
+        "period_cliff": "Период Cliff (Lockup)",
         "lockup": "Cliff (Lockup)",
         "no": "нет"
       },
@@ -182,19 +183,41 @@
         "vesting": "Vesting",
         "vesting_description": "Vesting — процесс распределения приобретенных монет в установленные сроки",
         "unlock_date": "Дата разлока",
+        "unlock_period": "Период разлока",
+        "last_unlock_date": "Дата последнего разлока",
         "period": "Период распределение",
         "end_date": "End date",
         "start_date": "Start date",
-        "frequency": "Периодичность",
+        "frequency": "Периодичность*",
+        "frequency_count": "Кол-во периодов*",
         "info": "По {{ amount }} монет/токенов {{ period }} с {{ start }} по {{ end }}",
-        "select_period": "Выберите период",
         "unlock_impossible": "Разлок по данному периоду невозможен",
+        "not_exactly": "Разлоки деляться не ровно",
         "elem_unlock_date": "Дата {{ num }} разлока",
         "invalid_sequence": "Не может быть раньше даты покупки или даты разлока",
         "value_in_period": "Объем разлока в этот период",
         "left_to_distribute": "Осталось распределить:",
         "volume_distributed": "Весь объём распределен",
-        "invalid_unlock": " *Некорректные разлоки"
+        "invalid_unlock": " *Некорректные разлоки",
+        "frequency_type": {
+          "DAY": "дней",
+          "WEEK": "нед.",
+          "MONTH": "мес.",
+          "YEAR": "год"
+        }
+      },
+      "sixth_step": {
+        "price": "Цена покупки",
+        "investment_volume": "Объем инвестиций",
+        "amount_coin": "Кол-во монет",
+        "buy_date": "Дата покупки",
+        "round": "Раунд",
+        "type": "Тип",
+        "sait": "Сайт",
+        "network": "Cеть",
+        "unlock_type": "Тип разлока",
+        "unlock_date": "Дата разлока",
+        "period_unlock": "Период разлока"
       },
       "validation_messages": {
         "required": "Поле обязательно к заполнению",

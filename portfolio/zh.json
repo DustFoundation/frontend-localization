@@ -140,7 +140,8 @@
 				"back": "后退",
 				"done": "完毕",
 				"date_placeholder": "DD.MM.YYYY",
-				"period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
+				"period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY",
+				"title_6": "概要信息："
 			},
 			"first_step": {
 				"name": "标题*",
@@ -194,7 +195,17 @@
 				"value_in_period": "在此期间解锁音量",
 				"left_to_distribute": "留给分发：",
 				"volume_distributed": "整个卷分布",
-				"invalid_unlock": " *无效解锁"
+				"invalid_unlock": " *无效解锁",
+				"unlock_period": "解锁期",
+				"last_unlock_date": "最后发布日期",
+				"frequency_count": "本期数量*",
+				"not_exactly": "师资不均",
+				"frequency_type": {
+					"DAY": "天",
+					"WEEK": "周",
+					"MONTH": "几个月",
+					"YEAR": "年"
+				}
 			},
 			"validation_messages": {
 				"required": "必填字段",
@@ -208,6 +219,19 @@
 				"min_value": " 值应小于 {{min}}",
 				"invalid_period": "不能早于购买日期或解锁日期",
 				"min_amount": "数量不能小于 0 {{coin}}"
+			},
+			"sixth_step": {
+				"price": "购买价格",
+				"investment_volume": "投资规模",
+				"amount_coin": "硬币数量",
+				"buy_date": "购买日期",
+				"round": "圆形的",
+				"type": "类型",
+				"sait": "地点",
+				"network": "网络",
+				"unlock_type": "解锁类型",
+				"unlock_date": "日期拆分",
+				"period_unlock": "解锁期"
 			}
 		},
 		"dialog-add-venture-portfolio": {

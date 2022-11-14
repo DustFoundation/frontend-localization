@@ -134,6 +134,7 @@
 				"title_3": "Технічна інформація",
 				"title_4": "Вкажіть дату та (або) % розлоку на TGE",
 				"title_5": "Період розподілу активу",
+				"title_6": "Підсумкова інформація:",
 				"tge": "TGE — (Token Generation Event), синонім \"ICO\", що означає \"первинне розміщення монет\".",
 				"total": "Разом",
 				"onward": "Далі",
@@ -149,7 +150,7 @@
 				"ticker_placeholder": "Тікер",
 				"sait": "Сайт",
 				"description": "Опис",
-				"logo": "Логотип активу",
+				"logo": "Логотип",
 				"format_img": "JPG або PNG, 1:1 (квадрат),<br />не більше 3MB",
 				"loaded_photo": "Завантажено фото:",
 				"download": "Завантажити"
@@ -169,12 +170,12 @@
 				"date": "Дата покупки (ДД.ММ.РРРР)*"
 			},
 			"fourth_step": {
-				"unlock": "% розлоку",
+				"unlock": "Відсоток розлоку TGE",
 				"unlock_placeholder": "0-100%",
-				"date": "Дата",
+				"date": "Дата розлоку TGE",
 				"tba": "TBA — (To Be Announced), \"буде оголошено пізніше\" або \"буде повідомлено\".",
 				"cliff": "Cliff — період блокування токенів",
-				"period_cliff": "Період cliff",
+				"period_cliff": "Період Cliff (Lockup)",
 				"lockup": "Cliff (Lockup)",
 				"no": "ні"
 			},
@@ -182,10 +183,13 @@
 				"vesting": "Vesting",
 				"vesting_description": "Vesting — процес розподілу придбаних монет у встановлені терміни",
 				"unlock_date": "Дата розлоку",
+				"unlock_period": "Період розлоку",
+				"last_unlock_date": "Дата останнього розлоку",
 				"period": "Період розподілу",
 				"end_date": "Кінцева дата",
 				"start_date": "Дата початку",
 				"frequency": "Періодичність",
+				"frequency_count": "Кількість періодів",
 				"info": "По {{ amount }} монет/токенів {{ period }} з {{ start }} по {{ end }}",
 				"select_period": "Виберіть період",
 				"unlock_impossible": "Розлок по даному періоду неможливе",
@@ -194,7 +198,14 @@
 				"value_in_period": "Об'єм розлоку в цей період",
 				"left_to_distribute": "Залишилося розподілити:",
 				"volume_distributed": "Весь об'є'м розподілений",
-				"invalid_unlock": " *Некоректні розлоки"
+				"invalid_unlock": " *Некоректні розлоки",
+				"not_exactly": "Розлоки ділитися не рівно",
+				"frequency_type": {
+					"DAY": "днів",
+					"WEEK": "тиж.",
+					"MONTH": "міс.",
+					"YEAR": "рік"
+				}
 			},
 			"validation_messages": {
 				"required": "Поле обов'язково до заповнення",
@@ -208,6 +219,19 @@
 				"min_value": "Значення має бути більше {{ min }}",
 				"invalid_period": "Не може бути раніше дати покупки або дати розлоку",
 				"min_amount": "Кількість не може бути меншою, ніж 0 {{coin}}"
+			},
+			"sixth_step": {
+				"price": "Ціна покупки",
+				"investment_volume": "Об'єм інвестицій",
+				"amount_coin": "Кількість монет",
+				"buy_date": "дата купівлі",
+				"round": "Раунд",
+				"type": "Тип",
+				"sait": "Сайт",
+				"network": "Мережа",
+				"unlock_type": "Тип розлоку",
+				"unlock_date": "Поділ дати",
+				"period_unlock": "Період розлоку"
 			}
 		},
 		"dialog-add-venture-portfolio": {

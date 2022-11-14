@@ -1,471 +1,493 @@
 {
-  "components": {
-    "breadcrumbs": {
-      "portfolio": "Portfolio",
-      "main": "Home",
-      "transactions":  "Transactions"
-    },
-    "dialog-add-coin": {
-      "first_step": {
-        "title": "Step 1",
-        "choose_asset": "Choose asset",
-        "search": "Search" },
-      "second_step": {
-        "title": "Step 2",
-        "amount": "Amount",
-        "max": "MAX",
-        "price": "Price per coin",
-        "date": "Date (DD.MM.YYYY)",
-        "date_placeholder": "DD.MM.YYYY",
-        "total_attachment": "Total investment",
-        "total_profit": "Total profit",
-        "buy": "Buy",
-        "sell": "Sell",
-        "edit_transaction": "Edit transaction",
-        "delete_transaction": "Delete transaction",
-        "add_transaction": "Add transaction"
-      },
-      "change": "Change",
-      "add": "Add",
-      "validation_messages": {
-        "required": "Field is required",
-        "invalid_date": "Invalid date",
-        "min_price": "Price cannot be less than 0$",
-        "max_amount": "Amount cannot exceed {{ max }} {{ coin }}",
-        "min_amount": "Amount cannot be less than 0 {{ coin }}"
-      }
-    },
-    "dialog-add-exchange-portfolio": {
-      "title": "Creation of exchange portfolio",
-      "selected_exchange": "Selected exchange*",
-      "portfolio_name": "Portfolio title*",
-      "name_placeholder": "Giga Chad",
-      "portfolio_description": "Portfolio description",
-      "description_placeholder": "Portfolio consisting of the riskiest and the most promising assets across the market. Be prepared to say goodbye to your sleep and money.",
-      "api_key_rule": "We ask only for <strong>read permissions</strong>. It doesn't provide us access to your personal keys or ability to transfer your funds. We need it only to show you effectiveness of your portfolio and analytics.",
-      "enter_api_key": "Enter API-key",
-      "api_key": "API-key",
-      "enter_secret_key": "Enter secret key",
-      "secret_key": "Secret key",
-      "help": {
-        "1": "On a Binance exchange website open <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API Management</a> section",
-        "2": "<strong> Create new API key </strong>, name it, for example <strong>\"DUST Portfolio\"</strong>, and press <strong>\"Next\"</strong>",
-        "3": "(If everything is all right), <strong>enter 2FA codes</strong>",
-        "4": "Copy <strong>API key</strong> and <strong>secret key</strong>",
-        "5": "<span> IT IS DESIRABLE to disable access to trading for this API key, to do this:</span><ol><li>Click <strong>\"Edit restrictions\"</strong></li><li>Disable <strong>\"Enable Spot & Margin Trading\"</strong></li><li>Clcik <strong>\"Save\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
-      },
-      "create": "Create",
-      "back": "Back",
-      "onward": "Next",
-      "important": "Important",
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Shouldn't repeat"
-      }
-    },
-    "dialog-add-regular-portfolio": {
-      "create_portfolio": "Create portfolio",
-      "title": "Creation of virtual portfolio",
-      "name_placeholder": "True HODLer",
-      "description_placeholder": "This portfolio includes fundamental assets across the crypto market. You can sleep peacefully.",
-      "description_not_necessarily": "Description (not necessary)",
-      "name": "Title",
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Shouldn't repeat"
-      }
-    },
-    "dialog-add-venture-asset": {
-      "unlock_types": {
-        "linear": "Linear",
-        "full": "Full",
-        "custom": "Custom"
-      },
-      "asset_type": {
-        "blockchain": "Blockchain",
-        "defi": "DeFi",
-        "gamefi": "GameFi",
-        "metaverse": "Metaverse",
-        "launchpad": "Launchpad",
-        "payments": "Payments",
-        "fun_token": "Fun Token",
-        "nft": "NFT",
-        "other": "Other"
-      },
-      "rounds": {
-        "public": "Public",
-        "private": "Private",
-        "strategic": "Strategic",
-        "presale": "Pre-sale",
-        "preseed": "Pre-seed",
-        "seed": "Seed",
-        "round_a": "Round A",
-        "round_b": "Round B",
-        "round_c": "Round C",
-        "round_d": "Round D",
-        "other": "Other"
-      },
-      "periods": {
-        "every-day": "Daily",
-        "every-week": "Weekly",
-        "every-month": "Monthly",
-        "every-quarter": "Quarterly",
-        "every-half-year": "Every 6 months",
-        "every-year": "Yearly"
-      },
-      "unlock_period_types": {
-        "amount": "amount.",
-        "percent": "%"
-      },
-      "cliff": {
-        "MONTH": "month.",
-        "YEAR": "year"
-      },
-      "main": {
-        "add": "Adding of venture asset",
-        "edit": "Editing of venture asset",
-        "title_1": "Introduction",
-        "title_2": "Financial information",
-        "title_3": "Technical information",
-        "title_4": "Select date and (or) % of unlock on TGE",
-        "title_5": "Duration of asset distribution",
-        "title_6": "Summary Information:",
-        "tge": "TGE — (Token Generation Event), synonym \"ICO\", meaning \"initial coin offering\".",
-        "total": "Total",
-        "onward": "Next",
-        "back": "Back",
-        "done": "Done",
-        "date_placeholder": "DD.MM.YYYY",
-        "period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
-      },
-      "first_step": {
-        "name": "Title*",
-        "name_placeholder": "Asset name",
-        "ticker": "Ticker*",
-        "ticker_placeholder": "Ticker",
-        "sait": "Website",
-        "description": "Description",
-        "logo": "Logo",
-        "format_img": "JPG or PNG, 1:1 (square),<br />not more than 3MB",
-        "loaded_photo": "Photo uploaded:",
-        "download": "Download"
-      },
-      "second_step": {
-        "price": "Buy price*",
-        "price_placeholder": "Price",
-        "amount": "Amount of bought coins / tokens*",
-        "amount_placeholder": "Amount",
-        "round": "Round",
-        "total_attachment": "Total investment:"
-      },
-      "third_step": {
-        "network": "Network",
-        "address": "Smart-contract address",
-        "type": "Project type",
-        "date": "Purchase date (DD.MM.YYYY)*"
-      },
-      "fourth_step": {
-        "unlock": "TGE unlock percentage",
-        "unlock_placeholder": "0-100%",
-        "date": "TGE unlock date",
-        "tba": "TBA — (To Be Announced)",
-        "cliff": "Cliff — period of time that must pass before the release of the tokens starts",
-        "period_cliff": "Cliff period (Lockup)",
-        "lockup": "Cliff (Lockup)",
-        "no": "No"
-      },
-      "fifth_step": {
-        "vesting": "Vesting",
-        "vesting_description": "Vesting — process by which assets are locked and distributed over a certain period of time",
-        "unlock_date": "Unlock date",
-        "unlock_period": "Unlock period",
-        "last_unlock_date": "Last release date",
-        "period": "Distribution period",
-        "end_date": "End date",
-        "start_date": "Start date",
-        "frequency": "Frequency",
-        "frequency_count" : "Number of periods",
-        "info": "{{ amount }} coins/tokens {{ period }} from {{ start }} until {{ emd }}",
-        "select_period": "Select period",
-        "unlock_impossible": "Unlock for selected period is impossible",
-        "elem_unlock_date": "Unlock date {{ num }}",
-        "invalid_sequence": "Cannot be earlier than purchase date or unlock date",
-        "value_in_period": "Unlock volume for this period",
-        "left_to_distribute": "Left to distribute:",
-        "volume_distributed": "The entire volume is distributed",
-        "invalid_unlock": " *Invalid unlocks"
-      },
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "min_price": "Price cannot be less than 0$",
-        "invalid_date": "Invalid date",
-        "file_type": "Invalid file type",
-        "file_size": "File size exceeds {{ size }}MB",
-        "max_value": "Maximum value is {{ max }}",
-        "min_value": " Value should be less than {{ min }}",
-        "invalid_period": "Cannot be earlier than purchase date or unlock date"
-      }
-    },
-    "dialog-add-venture-portfolio": {
-      "create_portfolio": "Create portfolio",
-      "title": "Creation of venture portfolio",
-      "name_placeholder": "Novice crypto investor",
-      "description_placeholder": "Besides reliable and proven assets, this portfolio also includes some of the most promising and actively developed projects.",
-      "name": "Title",
-      "description_not_necessarily": "Description (not necessary)",
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Shouldn't repeat",
-        "file_size": "Size exceeds {{ size }}MB"
-      }
-    },
-    "dialog-create-portfolio": {
-      "virtual": {
-        "title": "Virtual portfolio",
-        "subtitle": "Creation of a virtual portfolio of crypto-assets"
-      },
-      "exchange": {
-        "title": "Exchange portfolio",
-        "subtitle": "Integrations with exchanges and tracking of real assets"
-      },
-      "venture": {
-        "title": "Venture portfolio",
-        "subtitle": "Adding of new projects purchased during early stages"
-      },
-      "need_subscription": "Active subscription required",
-      "create_portfolio": "Create portfolio"
-    },
-    "dialog-delete-coin": {
-      "title": "Delete asset",
-      "subtitle": "Are you sure you want to delete <span>{{ name }}</span> from your portfolio?",
-      "delete": "Delete",
-      "cancel": "Cancel"
-    },
-    "dialog-delete-portfolio": {
-      "title": "Delete portfolio",
-      "subtitle": "Are you sure you want to delete your portfolio <span>{{ name }}</span>?",
-      "delete": "Delete",
-      "cancel": "Cancel"
-    },
-    "dialog-delete-transaction": {
-      "title": "Delete transaction",
-      "subtitle": "Are you sure you want to delete this transaction from your portfolio?",
-      "delete": "Delete",
-      "cancel": "Cancel"
-    },
-    "dialog-delete-venture-asset": {
-      "title": "Delete asset",
-      "subtitle": "Are you sure you want to delete <span>{{ name }}</span> from your portfolio?",
-      "delete": "Delete",
-      "cancel": "Cancel"
-    },
-    "dialog-edit-exchange-portfolio": {
-      "title": "Edit keys",
-      "enter_api_key": "API-key",
-      "enter_secret_key": "Secret key",
-      "cancel": "Cancel",
-      "save": "Save",
-      "attention": "Attention!",
-      "notice": "Current portfolio will be deleted and new will be loaded instead",
-      "replace": "Replace",
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}"
-      }
-    },
-    "dialog-edit-portfolio": {
-      "title": "Edit portfolio",
-      "name_placeholder": "True HODLer",
-      "description_placeholder": "This portfolio includes fundamental assets across the crypto market. You can sleep peacefully.",
-      "name": "Title",
-      "description_not_necessarily": "Description (not necessary)",
-      "save": "Save",
-      "validation_messages": {
-        "required": "Field is required",
-        "min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Shouldn't repeat"
-      }
-    },
-    "dialog-transaction-info": {
-      "title": "Transaction details",
-      "type": "Type",
-      "price": "Price",
-      "amount_coin": "Amount of coins",
-      "date": "Date",
-      "value": "Value in $",
-      "close": "Close",
-      "buy": "Buying",
-      "sell": "Sale"
-    },
-    "dialog-venture-coin-info": {
-      "title": "Venture asset details",
-      "characteristics": {
-        "price": "{isMobile, plural, =1 {Price} other {Purchase price}}",
-        "amount": "{isMobile, plural, =1 {Amount} other {Amount of coins}}",
-        "investment_volume": "Investments volume",
-        "type_of_project": "Type of project",
-        "type": "Type",
-        "round": "Round",
-        "description": "Description",
-        "sait": "Website",
-        "network": "Network",
-        "date": "Purchase date",
-        "lock_period": "Lock period"
-      },
-      "close": "Close"
-    },
-    "invalid-api-key-dialog": {
-      "title": "Invalid API key",
-      "subtitle": "You need to change API key, so we could update your portfolio."
-    },
-    "portfolio-coin": {
-      "all_transaction": "All transactions",
-      "need_subscription": "Active subscription required",
-      "add_transaction": "Add transaction",
-      "delete_asset": "Delete coin",
-      "delete": "Delete"
-    },
-    "portfolio-list-item": {
-      "update_data": "Updating the data",
-      "need_subscription": "Active subscription required",
-      "edit": "Edit",
-      "delete": "Delete",
-      "open": "Open",
-      "virtual": "Virtual portfolio",
-      "exchange": "Exchange portfolio",
-      "venture": "Venture portfolio",
-      "investment_value": "Amount of investments",
-      "portfolio_valuation": "Portfolio evaluation"
-    },
-    "portfolio-pnl": {
-      "total_attachments": "Total amount of investments",
-      "total_investment": "Total amount of investments",
-      "invested_to_portfolio": "Invested into portfolio",
-      "portfolio_evaluation": "Portfolio evaluation",
-      "all_times_pnl": "All time PNL",
-      "portfolio_pnl": "Portfolio PNL",
-      "total_portfolio_evaluation": "Total portfolio evaluation"
-    },
-    "portfolio-transaction": {
-      "buy": "Buy",
-      "sell": "Sell",
-      "deposit": "Deposit",
-      "withdraw": "Withdraw",
-      "transfer": "Transfer",
-      "need_subscription": "Active subscription required",
-      "edit_transaction": "Edit transaction",
-      "delete_transaction": "Delete transaction"
-    },
-    "series-finance": {
-      "title": "Finances breakdown",
-      "total": "Total",
-      "others": "Others"
-    },
-    "transactions-limit-dialog": {
-      "title": "You've exceeded transactions limit",
-      "subtitle": "Activate a subscription to get unlimited Portfolio transactions",
-      "used_transactions": "Transactions used:",
-      "of": "{{ num1 }} from {{ num2 }}",
-      "activate_subscription": "Activate subscription"
-    },
-    "interval": {
-      "1_day": "1 day",
-      "7_days": "7 days",
-      "1_month": "1 mon",
-      "3_months": "3 mon",
-      "1_year": "1 year",
-      "all_time": "All time"
-    }
-  },
-  "portfolio": {
-    "last_time_update": "Last updated:",
-    "update_started": "Update started:",
-    "not_updated": "Not updated",
-    "to_update": "Until update",
-    "update": "Update",
-    "portfolio_capitalization": "Portfolio capitalization",
-    "portfolio_profitability": "Portfolio profitability",
-    "portfolio_description": "Portfolio description",
-    "my_assets": "My assets",
-    "finance": "Finances",
-    "price": "Price",
-    "average_price": "Avg. buy price",
-    "amount_coin": "Amount of coins",
-    "profit_loss": "Profit / loss",
-    "description": "Portfolio description",
-    "portfolio_empty": "Portfolio is empty...",
-    "your_portfolio_empty": "Your portfolio is empty :(",
-    "add_asset": "Add asset",
-    "add_first_asset": "Add first asset",
-    "need_subscription": "Active subscription required"
-  },
-  "portfolio-list": {
-    "create_portfolio": "Create portfolio",
-    "need_subscription": "Active subscription required",
-    "navigation": {
-      "all_portfolios": "All portfolios",
-      "calculator": "Risk calculator",
-      "indexes": "Indices"
-    }
-  },
-  "portfolio-transactions": {
-    "back": "Back",
-    "price": "Price",
-    "average_price": "Avg. buy price",
-    "amount_coin": "Amount of coins",
-    "profit_loss": "Profit / loss",
-    "date": "Date",
-    "value": "Value in $",
-    "commission": "Fee",
-    "add": "Add",
-    "transactions": "Transactions",
-    "add_transaction": "Add transaction",
-    "need_subscription": "Active subscription required"
-  },
-  "portfolio-venture": {
-    "add_asset": "Add asset",
-    "description": "Portfolio description",
-    "delete_asset": "Delete asset",
-    "edit": "Edit",
-    "your_portfolio_empty": "Your portfolio is empty :(",
-    "add_first_asset": "Add first asset",
-    "unlock_chart": "Unlock chart of venture assets",
-    "impossible_to_build": "Impossible to build chart for this asset",
-    "my_assets": "{isMobile, plural, =1 {My assets} other {My venture assets}}",
-    "portfolio_empty": "Portfolio is empty...",
-    "characteristics": {
-      "price": "{isMobile, plural, =1 {Price} other {Buy price}}",
-      "amount": "{isMobile, plural, =1 {Amount} other {Amount of coins}}",
-      "investment_volume": "Investments volume",
-      "type_of_project": "Project type",
-      "type": "Type",
-      "round": "Round",
-      "description": "Description",
-      "sait": "Website",
-      "network": "Network",
-      "date": "Purchase date",
-      "lock_period": "Lock period"
-    },
-    "unlock_info": {
-      "tge_today": "Today's TGE.",
-      "to_start_tge": "Before TGE <span class='period'>{{ diff }}</span>",
-      "cliff_today": "Today is the beginning of Cliff",
-      "to_start_cliff": "Before the Cliff <span class='period'>{{ diff }}</span>",
-      "cliff_end": "Cliff's completion today",
-      "to_end_cliff": "Before the Cliff is finished <span class='period'>{{ diff }}</span>",
-      "today_unlock": "Today {{ num }} is a breakdown of",
-      "to_unlock": "Before {{ num }} unlocking <span class='period'>{{ diff }}</span>"
-    },
-    "need_subscription": "Active subscription required"
-  }
+	"components": {
+		"breadcrumbs": {
+			"portfolio": "Portfolio",
+			"main": "Home",
+			"transactions": "Transactions"
+		},
+		"dialog-add-coin": {
+			"first_step": {
+				"title": "Step 1",
+				"choose_asset": "Choose asset",
+				"search": "Search"
+			},
+			"second_step": {
+				"title": "Step 2",
+				"amount": "Amount",
+				"max": "MAX",
+				"price": "Price per coin",
+				"date": "Date (DD.MM.YYYY)",
+				"date_placeholder": "DD.MM.YYYY",
+				"total_attachment": "Total investment",
+				"total_profit": "Total profit",
+				"buy": "Buy",
+				"sell": "Sell",
+				"edit_transaction": "Edit transaction",
+				"delete_transaction": "Delete transaction",
+				"add_transaction": "Add transaction"
+			},
+			"change": "Change",
+			"add": "Add",
+			"validation_messages": {
+				"required": "Field is required",
+				"invalid_date": "Invalid date",
+				"min_price": "Price cannot be less than 0$",
+				"max_amount": "Amount cannot exceed {{ max }} {{ coin }}",
+				"min_amount": "Amount cannot be less than 0 {{ coin }}"
+			}
+		},
+		"dialog-add-exchange-portfolio": {
+			"title": "Creation of exchange portfolio",
+			"selected_exchange": "Selected exchange*",
+			"portfolio_name": "Portfolio title*",
+			"name_placeholder": "Giga Chad",
+			"portfolio_description": "Portfolio description",
+			"description_placeholder": "Portfolio consisting of the riskiest and the most promising assets across the market. Be prepared to say goodbye to your sleep and money.",
+			"api_key_rule": "We ask only for <strong>read permissions</strong>. It doesn't provide us access to your personal keys or ability to transfer your funds. We need it only to show you effectiveness of your portfolio and analytics.",
+			"enter_api_key": "Enter API-key",
+			"api_key": "API-key",
+			"enter_secret_key": "Enter secret key",
+			"secret_key": "Secret key",
+			"help": {
+				"1": "On a Binance exchange website open <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API Management</a> section",
+				"2": "<strong> Create new API key </strong>, name it, for example <strong>\"DUST Portfolio\"</strong>, and press <strong>\"Next\"</strong>",
+				"3": "(If everything is all right), <strong>enter 2FA codes</strong>",
+				"4": "Copy <strong>API key</strong> and <strong>secret key</strong>",
+				"5": "<span> IT IS DESIRABLE to disable access to trading for this API key, to do this:</span><ol><li>Click <strong>\"Edit restrictions\"</strong></li><li>Disable <strong>\"Enable Spot & Margin Trading\"</strong></li><li>Clcik <strong>\"Save\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
+			},
+			"create": "Create",
+			"back": "Back",
+			"onward": "Next",
+			"important": "Important",
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Shouldn't repeat"
+			}
+		},
+		"dialog-add-regular-portfolio": {
+			"create_portfolio": "Create portfolio",
+			"title": "Creation of virtual portfolio",
+			"name_placeholder": "True HODLer",
+			"description_placeholder": "This portfolio includes fundamental assets across the crypto market. You can sleep peacefully.",
+			"description_not_necessarily": "Description (not necessary)",
+			"name": "Title",
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Shouldn't repeat"
+			}
+		},
+		"dialog-add-venture-asset": {
+			"unlock_types": {
+				"linear": "Linear",
+				"full": "Full",
+				"custom": "Custom"
+			},
+			"asset_type": {
+				"blockchain": "Blockchain",
+				"defi": "DeFi",
+				"gamefi": "GameFi",
+				"metaverse": "Metaverse",
+				"launchpad": "Launchpad",
+				"payments": "Payments",
+				"fun_token": "Fun Token",
+				"nft": "NFT",
+				"other": "Other"
+			},
+			"rounds": {
+				"public": "Public",
+				"private": "Private",
+				"strategic": "Strategic",
+				"presale": "Pre-sale",
+				"preseed": "Pre-seed",
+				"seed": "Seed",
+				"round_a": "Round A",
+				"round_b": "Round B",
+				"round_c": "Round C",
+				"round_d": "Round D",
+				"other": "Other"
+			},
+			"periods": {
+				"every-day": "Daily",
+				"every-week": "Weekly",
+				"every-month": "Monthly",
+				"every-quarter": "Quarterly",
+				"every-half-year": "Every 6 months",
+				"every-year": "Yearly"
+			},
+			"unlock_period_types": {
+				"amount": "amount.",
+				"percent": "%"
+			},
+			"cliff": {
+				"MONTH": "month.",
+				"YEAR": "year"
+			},
+			"main": {
+				"add": "Adding of venture asset",
+				"edit": "Editing of venture asset",
+				"title_1": "Introduction",
+				"title_2": "Financial information",
+				"title_3": "Technical information",
+				"title_4": "Select date and (or) % of unlock on TGE",
+				"title_5": "Duration of asset distribution",
+				"title_6": "Summary Information:",
+				"tge": "TGE — (Token Generation Event), synonym \"ICO\", meaning \"initial coin offering\".",
+				"total": "Total",
+				"onward": "Next",
+				"back": "Back",
+				"done": "Done",
+				"date_placeholder": "DD.MM.YYYY",
+				"period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
+			},
+			"first_step": {
+				"name": "Title*",
+				"name_placeholder": "Asset name",
+				"ticker": "Ticker*",
+				"ticker_placeholder": "Ticker",
+				"sait": "Website",
+				"description": "Description",
+				"logo": "Logo",
+				"format_img": "JPG or PNG, 1:1 (square),<br />not more than 3MB",
+				"loaded_photo": "Photo uploaded:",
+				"download": "Download"
+			},
+			"second_step": {
+				"price": "Buy price*",
+				"price_placeholder": "Price",
+				"amount": "Amount of bought coins / tokens*",
+				"amount_placeholder": "Amount",
+				"round": "Round",
+				"total_attachment": "Total investment:"
+			},
+			"third_step": {
+				"network": "Network",
+				"address": "Smart-contract address",
+				"type": "Project type",
+				"date": "Purchase date (DD.MM.YYYY)*"
+			},
+			"fourth_step": {
+				"unlock": "TGE unlock percentage",
+				"unlock_placeholder": "0-100%",
+				"date": "TGE unlock date",
+				"tba": "TBA — (To Be Announced)",
+				"cliff": "Cliff — period of time that must pass before the release of the tokens starts",
+				"period_cliff": "Cliff period (Lockup)",
+				"lockup": "Cliff (Lockup)",
+				"no": "No"
+			},
+			"fifth_step": {
+				"vesting": "Vesting",
+				"vesting_description": "Vesting — process by which assets are locked and distributed over a certain period of time",
+				"unlock_date": "Unlock date",
+				"unlock_period": "Unlock period",
+				"last_unlock_date": "Last release date",
+				"period": "Distribution period",
+				"end_date": "End date",
+				"start_date": "Start date",
+				"frequency": "Frequency",
+				"frequency_count": "Number of periods",
+				"info": "{{ amount }} coins/tokens {{ period }} from {{ start }} until {{ emd }}",
+				"select_period": "Select period",
+				"unlock_impossible": "Unlock for selected period is impossible",
+				"elem_unlock_date": "Unlock date {{ num }}",
+				"invalid_sequence": "Cannot be earlier than purchase date or unlock date",
+				"value_in_period": "Unlock volume for this period",
+				"left_to_distribute": "Left to distribute:",
+				"volume_distributed": "The entire volume is distributed",
+				"invalid_unlock": " *Invalid unlocks",
+				"not_exactly": "The divisions are not evenly divided",
+				"frequency_type": {
+					"DAY": "days",
+					"WEEK": "weeks",
+					"MONTH": "months",
+					"YEAR": "year"
+				}
+			},
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"min_price": "Price cannot be less than 0$",
+				"invalid_date": "Invalid date",
+				"file_type": "Invalid file type",
+				"file_size": "File size exceeds {{ size }}MB",
+				"max_value": "Maximum value is {{ max }}",
+				"min_value": " Value should be less than {{ min }}",
+				"invalid_period": "Cannot be earlier than purchase date or unlock date",
+				"min_amount": "Quantity cannot be less than 0 {{coin}}"
+			},
+			"sixth_step": {
+				"price": "Purchase price",
+				"investment_volume": "Investment size",
+				"amount_coin": "Number of coins",
+				"buy_date": "Purchase date",
+				"round": "Round",
+				"type": "Type",
+				"sait": "Site",
+				"network": "Network",
+				"unlock_type": "Unlock type",
+				"unlock_date": "Date split",
+				"period_unlock": "Unlock period"
+			}
+		},
+		"dialog-add-venture-portfolio": {
+			"create_portfolio": "Create portfolio",
+			"title": "Creation of venture portfolio",
+			"name_placeholder": "Novice crypto investor",
+			"description_placeholder": "Besides reliable and proven assets, this portfolio also includes some of the most promising and actively developed projects.",
+			"name": "Title",
+			"description_not_necessarily": "Description (not necessary)",
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Shouldn't repeat",
+				"file_size": "Size exceeds {{ size }}MB"
+			}
+		},
+		"dialog-create-portfolio": {
+			"virtual": {
+				"title": "Virtual portfolio",
+				"subtitle": "Creation of a virtual portfolio of crypto-assets"
+			},
+			"exchange": {
+				"title": "Exchange portfolio",
+				"subtitle": "Integrations with exchanges and tracking of real assets"
+			},
+			"venture": {
+				"title": "Venture portfolio",
+				"subtitle": "Adding of new projects purchased during early stages"
+			},
+			"need_subscription": "Active subscription required",
+			"create_portfolio": "Create portfolio"
+		},
+		"dialog-delete-coin": {
+			"title": "Delete asset",
+			"subtitle": "Are you sure you want to delete <span>{{ name }}</span> from your portfolio?",
+			"delete": "Delete",
+			"cancel": "Cancel"
+		},
+		"dialog-delete-portfolio": {
+			"title": "Delete portfolio",
+			"subtitle": "Are you sure you want to delete your portfolio <span>{{ name }}</span>?",
+			"delete": "Delete",
+			"cancel": "Cancel"
+		},
+		"dialog-delete-transaction": {
+			"title": "Delete transaction",
+			"subtitle": "Are you sure you want to delete this transaction from your portfolio?",
+			"delete": "Delete",
+			"cancel": "Cancel"
+		},
+		"dialog-delete-venture-asset": {
+			"title": "Delete asset",
+			"subtitle": "Are you sure you want to delete <span>{{ name }}</span> from your portfolio?",
+			"delete": "Delete",
+			"cancel": "Cancel"
+		},
+		"dialog-edit-exchange-portfolio": {
+			"title": "Edit keys",
+			"enter_api_key": "API-key",
+			"enter_secret_key": "Secret key",
+			"cancel": "Cancel",
+			"save": "Save",
+			"attention": "Attention!",
+			"notice": "Current portfolio will be deleted and new will be loaded instead",
+			"replace": "Replace",
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"dialog-edit-portfolio": {
+			"title": "Edit portfolio",
+			"name_placeholder": "True HODLer",
+			"description_placeholder": "This portfolio includes fundamental assets across the crypto market. You can sleep peacefully.",
+			"name": "Title",
+			"description_not_necessarily": "Description (not necessary)",
+			"save": "Save",
+			"validation_messages": {
+				"required": "Field is required",
+				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Shouldn't repeat"
+			}
+		},
+		"dialog-transaction-info": {
+			"title": "Transaction details",
+			"type": "Type",
+			"price": "Price",
+			"amount_coin": "Amount of coins",
+			"date": "Date",
+			"value": "Value in $",
+			"close": "Close",
+			"buy": "Buying",
+			"sell": "Sale"
+		},
+		"dialog-venture-coin-info": {
+			"title": "Venture asset details",
+			"characteristics": {
+				"price": "{isMobile, plural, =1 {Price} other {Purchase price}}",
+				"amount": "{isMobile, plural, =1 {Amount} other {Amount of coins}}",
+				"investment_volume": "Investments volume",
+				"type_of_project": "Type of project",
+				"type": "Type",
+				"round": "Round",
+				"description": "Description",
+				"sait": "Website",
+				"network": "Network",
+				"date": "Purchase date",
+				"lock_period": "Lock period"
+			},
+			"close": "Close"
+		},
+		"invalid-api-key-dialog": {
+			"title": "Invalid API key",
+			"subtitle": "You need to change API key, so we could update your portfolio."
+		},
+		"portfolio-coin": {
+			"all_transaction": "All transactions",
+			"need_subscription": "Active subscription required",
+			"add_transaction": "Add transaction",
+			"delete_asset": "Delete coin",
+			"delete": "Delete"
+		},
+		"portfolio-list-item": {
+			"update_data": "Updating the data",
+			"need_subscription": "Active subscription required",
+			"edit": "Edit",
+			"delete": "Delete",
+			"open": "Open",
+			"virtual": "Virtual portfolio",
+			"exchange": "Exchange portfolio",
+			"venture": "Venture portfolio",
+			"investment_value": "Amount of investments",
+			"portfolio_valuation": "Portfolio evaluation"
+		},
+		"portfolio-pnl": {
+			"total_attachments": "Total amount of investments",
+			"total_investment": "Total amount of investments",
+			"invested_to_portfolio": "Invested into portfolio",
+			"portfolio_evaluation": "Portfolio evaluation",
+			"all_times_pnl": "All time PNL",
+			"portfolio_pnl": "Portfolio PNL",
+			"total_portfolio_evaluation": "Total portfolio evaluation"
+		},
+		"portfolio-transaction": {
+			"buy": "Buy",
+			"sell": "Sell",
+			"deposit": "Deposit",
+			"withdraw": "Withdraw",
+			"transfer": "Transfer",
+			"need_subscription": "Active subscription required",
+			"edit_transaction": "Edit transaction",
+			"delete_transaction": "Delete transaction"
+		},
+		"series-finance": {
+			"title": "Finances breakdown",
+			"total": "Total",
+			"others": "Others"
+		},
+		"transactions-limit-dialog": {
+			"title": "You've exceeded transactions limit",
+			"subtitle": "Activate a subscription to get unlimited Portfolio transactions",
+			"used_transactions": "Transactions used:",
+			"of": "{{ num1 }} from {{ num2 }}",
+			"activate_subscription": "Activate subscription"
+		},
+		"interval": {
+			"1_day": "1 day",
+			"7_days": "7 days",
+			"1_month": "1 mon",
+			"3_months": "3 mon",
+			"1_year": "1 year",
+			"all_time": "All time"
+		}
+	},
+	"portfolio": {
+		"last_time_update": "Last updated:",
+		"update_started": "Update started:",
+		"not_updated": "Not updated",
+		"to_update": "Until update",
+		"update": "Update",
+		"portfolio_capitalization": "Portfolio capitalization",
+		"portfolio_profitability": "Portfolio profitability",
+		"portfolio_description": "Portfolio description",
+		"my_assets": "My assets",
+		"finance": "Finances",
+		"price": "Price",
+		"average_price": "Avg. buy price",
+		"amount_coin": "Amount of coins",
+		"profit_loss": "Profit / loss",
+		"description": "Portfolio description",
+		"portfolio_empty": "Portfolio is empty...",
+		"your_portfolio_empty": "Your portfolio is empty :(",
+		"add_asset": "Add asset",
+		"add_first_asset": "Add first asset",
+		"need_subscription": "Active subscription required"
+	},
+	"portfolio-list": {
+		"create_portfolio": "Create portfolio",
+		"need_subscription": "Active subscription required",
+		"navigation": {
+			"all_portfolios": "All portfolios",
+			"calculator": "Risk calculator",
+			"indexes": "Indices"
+		}
+	},
+	"portfolio-transactions": {
+		"back": "Back",
+		"price": "Price",
+		"average_price": "Avg. buy price",
+		"amount_coin": "Amount of coins",
+		"profit_loss": "Profit / loss",
+		"date": "Date",
+		"value": "Value in $",
+		"commission": "Fee",
+		"add": "Add",
+		"transactions": "Transactions",
+		"add_transaction": "Add transaction",
+		"need_subscription": "Active subscription required"
+	},
+	"portfolio-venture": {
+		"add_asset": "Add asset",
+		"description": "Portfolio description",
+		"delete_asset": "Delete asset",
+		"edit": "Edit",
+		"your_portfolio_empty": "Your portfolio is empty :(",
+		"add_first_asset": "Add first asset",
+		"unlock_chart": "Unlock chart of venture assets",
+		"impossible_to_build": "Impossible to build chart for this asset",
+		"my_assets": "{isMobile, plural, =1 {My assets} other {My venture assets}}",
+		"portfolio_empty": "Portfolio is empty...",
+		"characteristics": {
+			"price": "{isMobile, plural, =1 {Price} other {Buy price}}",
+			"amount": "{isMobile, plural, =1 {Amount} other {Amount of coins}}",
+			"investment_volume": "Investments volume",
+			"type_of_project": "Project type",
+			"type": "Type",
+			"round": "Round",
+			"description": "Description",
+			"sait": "Website",
+			"network": "Network",
+			"date": "Purchase date",
+			"lock_period": "Lock period"
+		},
+		"unlock_info": {
+			"tge_today": "Today's TGE.",
+			"to_start_tge": "Before TGE <span class='period'>{{ diff }}</span>",
+			"cliff_today": "Today is the beginning of Cliff",
+			"to_start_cliff": "Before the Cliff <span class='period'>{{ diff }}</span>",
+			"cliff_end": "Cliff's completion today",
+			"to_end_cliff": "Before the Cliff is finished <span class='period'>{{ diff }}</span>",
+			"today_unlock": "Today {{ num }} is a breakdown of",
+			"to_unlock": "Before {{ num }} unlocking <span class='period'>{{ diff }}</span>"
+		},
+		"need_subscription": "Active subscription required"
+	}
 }

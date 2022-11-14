@@ -1,471 +1,493 @@
 {
-  "components": {
-    "breadcrumbs": {
-      "portfolio": "Portfelis",
-      "main": "Sākums",
-      "transactions":  "Darījumi"
-    },
-    "dialog-add-coin": {
-      "first_step": {
-        "title": "1. darbība",
-        "choose_asset": "Izvēlēties assetu",
-        "search": "Meklēt" },
-      "second_step": {
-        "title": "2. darbība",
-        "amount": "Daudzums",
-        "max": "MAX",
-        "price": "Cena par monētu",
-        "date": "Datums (DD.MM.YYYY)",
-        "date_placeholder": "DD.MM.YYYY",
-        "total_attachment": "Kopējais ieguldījums",
-        "total_profit": "Kopējā peļņa",
-        "buy": "Pirkt",
-        "sell": "Pārdot",
-        "edit_transaction": "Rediģēt darījumu",
-        "delete_transaction": "Dzēst darījumu",
-        "add_transaction": "Pievienot darījumu"
-      },
-      "change": "Mainīt",
-      "add": "Pievienot",
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "invalid_date": "Nederīgs datums",
-        "min_price": "Cena nedrīkst būt mazāka par 0$",
-        "max_amount": "Summa nedrīkst pārsniegt {{ max }} {{ coin }}",
-        "min_amount": "Summa nedrīkst būt mazāka par 0 {{ coin }}"
-      }
-    },
-    "dialog-add-exchange-portfolio": {
-      "title": "Biržas portfeļa izveide",
-      "selected_exchange": "Izvēlētā birža*",
-      "portfolio_name": "Portfeļa nosaukums*",
-      "name_placeholder": "Giga Chad",
-      "portfolio_description": "Portfeļa apraksts",
-      "description_placeholder": "Portfelis, kas sastāv no riskantākajiem un daudzsološākajiem aktīviem visā tirgū. Esiet gatavs atvadīties no miega un naudas.",
-      "api_key_rule": "Mēs lūdzam tikai <strong>lasīšanas atļaujas</strong>. Tas nenodrošina mums piekļuvi jūsu personīgajām atslēgām vai iespēju pārskaitīt jūsu līdzekļus. Mums tas ir nepieciešams tikai, lai parādītu jūsu portfeļa un analītikas efektivitāti.",
-      "enter_api_key": "Ievadiet API atslēgu",
-      "api_key": "API atslēga",
-      "enter_secret_key": "Ievadiet slepeno atslēgu",
-      "secret_key": "Slepenā atslēga",
-      "help": {
-        "1": "Binance biržas vietnē atveriet <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API pārvaldība</a> sadaļu",
-        "2": "<strong> Izveidojiet jaunu API atslēgu </strong>, nosauciet to, piemēram, <strong>\"DUST Portfelis\"</strong>, un nospiediet <strong>\"Tālāk\"</strong>.",
-        "3": "(Ja viss ir kārtībā), <strong>ievadiet 2FA kodus</strong>",
-        "4": "Kopējiet <strong>API atslēgu</strong> un <strong>slepeno atslēgu</strong>",
-        "5": "<span> IR VĒLAMS atspējot treidošanas piekļuvi šai API atslēgai, lai to izdarītu:</span><ol><li>Noklikšķiniet uz <strong>\"Rediģēt ierobežojumus\"</strong></li><li>Atspējot <strong>\"Iespējot Spot un Margin tirdzniecību\"</strong></li><li>Noklikšķiniet uz <strong>\"Saglabāt\"</strong></li><li> Ievadiet <strong>divu faktoru autentifikācijas kodu</strong></li></ol>"
-      },
-      "create": "Izveidot",
-      "back": "Atpakaļ",
-      "onward": "Nākamais",
-      "important": "Svarīgi",
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Nedrīkst atkārtot"
-      }
-    },
-    "dialog-add-regular-portfolio": {
-      "create_portfolio": "Izveidot portfeli",
-      "title": "Virtuālā portfeļa izveide",
-      "name_placeholder": "Īstens HODLers",
-      "description_placeholder": "Šis portfelis ietver pamatlīdzekļus visā kriptovalūtu tirgū. Jūs varat gulēt mierīgi.",
-      "description_not_necessarily": "Apraksts (nav obligāts)",
-      "name": "Nosaukums",
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Nedrīkst atkārtot"
-      }
-    },
-    "dialog-add-venture-asset": {
-      "unlock_types": {
-        "linear": "Lineārs",
-        "full": "Pilns",
-        "custom": "Pielāgots"
-      },
-      "asset_type": {
-        "blockchain": "Blokķēde",
-        "defi": "DeFi",
-        "gamefi": "GameFi",
-        "metaverse": "Metaverse",
-        "launchpad": "Launchpad",
-        "payments": "Maksājumi",
-        "fun_token": "Fun Token",
-        "nft": "NFT",
-        "other": "Cits"
-      },
-      "rounds": {
-        "public": "Public",
-        "private": "Private",
-        "strategic": "Strategic",
-        "presale": "Pre-sale",
-        "preseed": "Pre-seed",
-        "seed": "Seed",
-        "round_a": "Rounds A",
-        "round_b": "Rounds B",
-        "round_c": "Rounds C",
-        "round_d": "Rounds D",
-        "other": "Cits"
-      },
-      "periods": {
-        "every-day": "Katru dienu",
-        "every-week": "Katru nedēļu",
-        "every-month": "Katru mēnesi",
-        "every-quarter": "Ceturkšņa",
-        "every-half-year": "Ik pēc 6 mēnešiem",
-        "every-year": "Katru gadu"
-      },
-      "unlock_period_types": {
-        "amount": "summa.",
-        "percent": "%"
-      },
-      "cliff": {
-        "MONTH": "mēnesis.",
-        "YEAR": "gads"
-      },
-      "main": {
-        "add": "Uzņēmuma aktīva pievienošana",
-        "edit": "Uzņēmuma riska rediģēšana",
-        "title_1": "Ievads",
-        "title_2": "Finanšu informācija",
-        "title_3": "Tehniskā informācija",
-        "title_4": "Atlasīt datumu un (vai) atbloķēšanas % TGE",
-        "title_5": "Assetu izplatīšanas ilgums",
-        "title_6": "Kopsavilkuma informācija:",
-        "tge": "TGE — (tokenu ģenerēšanas notikums), sinonīms \"ICO\", kas nozīmē \"sākotnējais monētu piedāvājums\".",
-        "total": "Kopā",
-        "onward": "Nākamais",
-        "back": "Atpakaļ",
-        "done": "Gatavs",
-        "date_placeholder": "DD.MM.YYYY",
-        "period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
-      },
-      "first_step": {
-        "name": "Nosaukums*",
-        "name_placeholder": "Asset nosaukums",
-        "ticker": "Ticker Nosaukums*",
-        "ticker_placeholder": "Ticker",
-        "sait": "Mājaslapa",
-        "description": "Apraksts",
-        "logo": "Logo",
-        "format_img": "JPG vai PNG, 1:1 (kvadrāts),<br />ne vairāk kā 3 MB",
-        "loaded_photo": "Fotoattēls ir augšupielādēts:",
-        "download": "Augšupielādēt"
-      },
-      "second_step": {
-        "price": "Pirkuma cena*",
-        "price_placeholder": "Cena",
-        "amount": "Iegādāto monētu/tokenu daudzums*",
-        "amount_placeholder": "monētu daudzums",
-        "round": "Rounds",
-        "total_attachment": "Kopējais ieguldījums:"
-      },
-      "third_step": {
-        "network": "Blokķēžu tīkls",
-        "address": "Smart-contract adrese",
-        "type": "Projekta tips",
-        "date": "Pirkšanas datums (DD.MM.YYYY)*"
-      },
-      "fourth_step": {
-        "unlock": "TGE atbloķēšanas procents",
-        "unlock_placeholder": "0-100%",
-        "date": "TGE atbloķēšanas datums",
-        "tba": "TBA — (tiks paziņots)",
-        "cliff": "Cliff — laika posms, kuram jāpaiet, pirms sākas tokenu izlaišana",
-        "period_cliff": "Cliff periods (Lockup)",
-        "lockup": "Cliff (Lockup)",
-        "no": "Nē"
-      },
-      "fifth_step": {
-        "vesting": "Vestings",
-        "vesting_description": "Vesting — process, kurā aktīvi tiek bloķēti un sadalīti noteiktā laika periodā",
-        "unlock_date": "Atbloķēšanas datums",
-        "unlock_period": "Atbloķēšanas periods",
-        "last_unlock_date": "Pēdējais izlaišanas datums",
-        "period": "Izplatīšanas periods",
-        "end_date": "Beigu datums",
-        "start_date": "Sākuma datums",
-        "frequency": "Biežums",
-        "frequency_count" : "Periodu skaits",
-        "info": "{{ amount }} monētas/ tokeni - {{ period }}, no {{ start }} līdz {{ end }}.",
-        "select_period": "Atlasīt periodu",
-        "unlock_impossible": "Atbloķēšana atlasītajam periodam nav iespējams",
-        "elem_unlock_date": "Atbloķēšanas datums {{ num }}",
-        "invalid_sequence": "Nevar būt agrāks par iegādes datumu vai atbloķēšanas datumu",
-        "value_in_period": "Atbloķēšanas daudzumu šim periodam",
-        "left_to_distribute": "Atlicis, lai izplatītu:",
-        "volume_distributed": "Viss apjoms ir izpaltīts",
-        "invalid_unlock": " *Nederīga atbloķēšana"
-      },
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "min_price": "Cena nedrīkst būt zemāka par 0$",
-        "invalid_date": "Nederīgs datums",
-        "file_type": "Nederīgs faila tips",
-        "file_size": "Faila izmērs pārsniedz {{ size }}MB",
-        "max_value": "Maksimālā vērtība ir {{ max }}",
-        "min_value": "Vērtībai ir jābūt mazākai par {{ min }}",
-        "invalid_period": "Nevar būt agrāks par iegādes datumu vai atbloķēšanas datumu"
-      }
-    },
-    "dialog-add-venture-portfolio": {
-      "create_portfolio": "Izveidot portfeli",
-      "title": "Uzņēmuma portfeļa izveide",
-      "name_placeholder": "Kriptovalūtu investors",
-      "description_placeholder": "Papildus uzticamiem un pārbaudītiem aktīviem šajā portfelī ir arī daži no daudzsološākajiem un aktīvāk izstrādātajiem projektiem.",
-      "name": "Nosaukums",
-      "description_not_necessarily": "Apraksts (nav obligāts)",
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Nedrīkst atkārtot",
-        "file_size": "Izmērs pārsniedz {{ size }}MB"
-      }
-    },
-    "dialog-create-portfolio": {
-      "virtual": {
-        "title": "Virtuālais portfelis",
-        "subtitle": "Kriptoaktīvu virtuālā portfeļa izveide"
-      },
-      "exchange": {
-        "title": "Biržas portfelis",
-        "subtitle": "Integrācija ar biržu un to assetu izsekošana"
-      },
-      "venture": {
-        "title": "Uzņēmuma portfelis",
-        "subtitle": "Jaunu projektu pievienošana, kas iegādāti agrinā stadijā"
-      },
-      "need_subscription": "Nepieciešams aktīvs abonements",
-      "create_portfolio": "Izveidot portfeli"
-    },
-    "dialog-delete-coin": {
-      "title": "Dzēst assetu",
-      "subtitle": "Vai tiešām vēlaties dzēst <span>{{ name }}</span> no sava portfeļa?",
-      "delete": "Dzēst",
-      "cancel": "Atcelt"
-    },
-    "dialog-delete-portfolio": {
-      "title": "Dzēst portfolio",
-      "subtitle": "Vai tiešām vēlaties dzēst savu portfeli <span>{{ name }}</span>?",
-      "delete": "Dzēst",
-      "cancel": "Atcelt"
-    },
-    "dialog-delete-transaction": {
-      "title": "Dzēst transaction",
-      "subtitle": "Vai tiešām vēlaties dzēst šo darījumu no sava portfeļa?",
-      "delete": "Dzēst",
-      "cancel": "Atcelt"
-    },
-    "dialog-delete-venture-asset": {
-      "title": "Dzēst assetu",
-      "subtitle": "Vai tiešām vēlaties dzēst <span>{{ name }}</span> no sava portfeļa?",
-      "delete": "Dzēst",
-      "cancel": "Atcelt"
-    },
-    "dialog-edit-exchange-portfolio": {
-      "title": "Rediģēt atslēgas",
-      "enter_api_key": "API atslēga",
-      "enter_secret_key": "Slepenā atslēga",
-      "cancel": "Atcelt",
-      "save": "Saglabāt",
-      "attention": "Uzmanību!",
-      "notice": "Pašreizējais portfelis tiks dzēsts un tā vietā tiks ielādēts jauns",
-      "replace": "Aizstāt",
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}"
-      }
-    },
-    "dialog-edit-portfolio": {
-      "title": "Rediģēt portfeli",
-      "name_placeholder": "Īstens HODLers",
-      "description_placeholder": "Šis portfelis ietver pamatlīdzekļus visā kriptovalūtu tirgū. Jūs varat gulēt mierīgi.",
-      "name": "Nosaukums",
-      "description_not_necessarily": "Apraksts (nav obligāts)",
-      "save": "Saglabāat",
-      "validation_messages": {
-        "required": "Lauks ir jāaizpilda obligāti",
-        "min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
-        "max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
-        "repeat": "Nedrīkst atkārtot"
-      }
-    },
-    "dialog-transaction-info": {
-      "title": "Darījuma informācija",
-      "type": "Tips",
-      "price": "Cena",
-      "amount_coin": "Monētu daudzums",
-      "date": "Datums",
-      "value": "Vērtība USD",
-      "close": "Aizvērt",
-      "buy": "Pirkt",
-      "sell": "Pārdot"
-    },
-    "dialog-venture-coin-info": {
-      "title": "Detalizēta uzņēmuma informācija par assetu",
-      "characteristics": {
-        "price": "{isMobile, plural, =1 {Price} other {Purchase price}}",
-        "amount": "{isMobile, plural, =1 {Amount} other {Monētu daudzums}}",
-        "investment_volume": "Investīcijas apjoms",
-        "type_of_project": "Projekta tips",
-        "type": "Tips",
-        "round": "Rounds",
-        "description": "Apraksts",
-        "sait": "Mājaslapa",
-        "network": "Tīkls",
-        "date": "Pirkšanas datums",
-        "lock_period": "Bloķēšanas periods"
-      },
-      "close": "Aizvērt"
-    },
-    "invalid-api-key-dialog": {
-      "title": "Nederīga API atslēga",
-      "subtitle": "Jums ir jāmaina API atslēga, lai mēs varētu atjaunināt jūsu portfeli."
-    },
-    "portfolio-coin": {
-      "all_transaction": "Visi darījumi",
-      "need_subscription": "Nepieciešams aktīvs abonements",
-      "add_transaction": "Pievienot darījumu",
-      "delete_asset": "Dzēst monētu",
-      "delete": "Dzēst"
-    },
-    "portfolio-list-item": {
-      "update_data": "Datu atjaunināšana",
-      "need_subscription": "Nepieciešams aktīvs abonements",
-      "edit": "Rediģēt",
-      "delete": "Dzēst",
-      "open": "Atvērt",
-      "virtual": "Virtuālais portfelis",
-      "exchange": "Biržas portfelis",
-      "venture": "Uzņēmuma portfelis",
-      "investment_value": "Investīciju apjoms",
-      "portfolio_valuation": "Portfeļa novērtējums"
-    },
-    "portfolio-pnl": {
-      "total_attachments": "Kopējais Investīciju apjoms",
-      "total_investment": "Kopējais Investīciju apjoms",
-      "invested_to_portfolio": "Ieguldīts portfelī",
-      "portfolio_evaluation": "Portfeļa novērtējums",
-      "all_times_pnl": "Visu laiku PNL",
-      "portfolio_pnl": "Portfeļa PNL",
-      "total_portfolio_evaluation": "Kopējais Portfeļa novērtējums"
-    },
-    "portfolio-transaction": {
-      "buy": "Pirkt",
-      "sell": "Pārdot",
-      "deposit": "Depozīts",
-      "withdraw": "Izņemt",
-      "transfer": "Pārsūtīt",
-      "need_subscription": "Nepieciešams aktīvs abonements",
-      "edit_transaction": "Rediģēt darījumu",
-      "delete_transaction": "Dzēst transaction"
-    },
-    "series-finance": {
-      "title": "Finanšu sadalījums",
-      "total": "Kopā",
-      "others": "Citi"
-    },
-    "transactions-limit-dialog": {
-      "title": "Jūs esat pārsniedzis darījumu limitu",
-      "subtitle": "Abonementa aktivizēšana, lai iegūtu neierobežotu portfeļa darījumu skaitu",
-      "used_transactions": "Izmantotie darījumi:",
-      "of": "{{ num1 }} no {{ num2 }}",
-      "activate_subscription": "Aktivizēt abonementu"
-    },
-    "interval": {
-      "1_day": "1 diena",
-      "7_days": "7 dienas",
-      "1_month": "1 mēnesis",
-      "3_months": "3 mēneši",
-      "1_year": "1 gads",
-      "all_time": "Visu laiku"
-    }
-  },
-  "portfolio": {
-    "last_time_update": "Pēdējo reizi atjaunināts:",
-    "update_started": "Atjaunināšana sākta:",
-    "not_updated": "Nav atjaunināts",
-    "to_update": "Līdz atjaunināšanai",
-    "update": "Atjaunināt",
-    "portfolio_capitalization": "Portfeļa kapitalizācija",
-    "portfolio_profitability": "Portfeļa rentabilitāte",
-    "portfolio_description": "Portfeļa apraksts",
-    "my_assets": "Mani asseti",
-    "finance": "Finanses",
-    "price": "Cena",
-    "average_price": "Vidējā pirkuma cena",
-    "amount_coin": "Monētu daudzums",
-    "profit_loss": "Peļņa/ zaudējumi",
-    "description": "Portfeļa apraksts",
-    "portfolio_empty": "Portfelis ir tukšs...",
-    "your_portfolio_empty": "Jūsu portfelis ir tukšs :(",
-    "add_asset": "Pievienot assetu",
-    "add_first_asset": "Pievieno pirmo assetu",
-    "need_subscription": "Nepieciešams aktīvs abonements"
-  },
-  "portfolio-list": {
-    "create_portfolio": "Izveidot portfeli",
-    "need_subscription": "Nepieciešams aktīvs abonements",
-    "navigation": {
-      "all_portfolios": "Visi portfeļi",
-      "calculator": "Riska kalkulators",
-      "indexes": "Indeksi"
-    }
-  },
-  "portfolio-transactions": {
-    "back": "Atpakaļ",
-    "price": "Cena",
-    "average_price": "Vid. pirkuma cena",
-    "amount_coin": "Monētu daudzums",
-    "profit_loss": "Peļņa/ zaudējumi",
-    "date": "Datums",
-    "value": "Vērtība USD",
-    "commission": "Komisijas maksa",
-    "add": "Pievienot",
-    "transactions": "Darījumi",
-    "add_transaction": "Pievienot darījumu",
-    "need_subscription": "Nepieciešams aktīvs abonements"
-  },
-  "portfolio-venture": {
-    "add_asset": "Pievienot assetu",
-    "description": "Portfeļa apraksts",
-    "delete_asset": "Dzēst assetu",
-    "edit": "Rediģēt",
-    "your_portfolio_empty": "Jūsu portfelis ir tukšs :(",
-    "add_first_asset": "Pievienojiet pirmo assetu",
-    "unlock_chart": "Riska aktīvu atbloķēšanas diagramma",
-    "impossible_to_build": "Šim assetam nav iespējams izveidot diagrammu",
-    "my_assets": "{isMobile, plural, =1 {My assets} other {Mana uzņēmuma asseti}}",
-    "portfolio_empty": "Portfelis ir tukšs...",
-    "characteristics": {
-      "price": "{isMobile, plural, =1 {Price} other {Pirkuma cena}}",
-      "amount": "{isMobile, plural, =1 {Amount} other {Monētu daudzums}}",
-      "investment_volume": "Investīcijas apjoms",
-      "type_of_project": "Projekta tips",
-      "type": "Tips",
-      "round": "Rounds",
-      "description": "Apraksts",
-      "sait": "Mājaslapa",
-      "network": "Tīkls",
-      "date": "Pirkšanas datums",
-      "lock_period": "Bloķēšanas periods"
-    },
-    "unlock_info": {
-      "tge_today": "Šodienas TGE.",
-      "to_start_tge": "Pirms TGE <span class='period'>{{ diff }}</span>",
-      "cliff_today": "Šodien ir Cliff sākums",
-      "to_start_cliff": "Pirms Cliff <span class='period'>{{ diff }}</span>",
-      "cliff_end": "Cliff's pabeiģšanas šodien",
-      "to_end_cliff": "Pirms Cliff ir pabeigta <span class='period'>{{ diff }}</span>",
-      "today_unlock": "Šodien {{ num }} ir sadalījums",
-      "to_unlock": "Pirms {{ num }} atbloķēšanas <span class='period'>{{ diff }}</span>"
-    },
-    "need_subscription": "Nepieciešams aktīvs abonements"
-  }
+	"components": {
+		"breadcrumbs": {
+			"portfolio": "Portfelis",
+			"main": "Sākums",
+			"transactions": "Darījumi"
+		},
+		"dialog-add-coin": {
+			"first_step": {
+				"title": "1. darbība",
+				"choose_asset": "Izvēlēties assetu",
+				"search": "Meklēt"
+			},
+			"second_step": {
+				"title": "2. darbība",
+				"amount": "Daudzums",
+				"max": "MAX",
+				"price": "Cena par monētu",
+				"date": "Datums (DD.MM.YYYY)",
+				"date_placeholder": "DD.MM.YYYY",
+				"total_attachment": "Kopējais ieguldījums",
+				"total_profit": "Kopējā peļņa",
+				"buy": "Pirkt",
+				"sell": "Pārdot",
+				"edit_transaction": "Rediģēt darījumu",
+				"delete_transaction": "Dzēst darījumu",
+				"add_transaction": "Pievienot darījumu"
+			},
+			"change": "Mainīt",
+			"add": "Pievienot",
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"invalid_date": "Nederīgs datums",
+				"min_price": "Cena nedrīkst būt mazāka par 0$",
+				"max_amount": "Summa nedrīkst pārsniegt {{ max }} {{ coin }}",
+				"min_amount": "Summa nedrīkst būt mazāka par 0 {{ coin }}"
+			}
+		},
+		"dialog-add-exchange-portfolio": {
+			"title": "Biržas portfeļa izveide",
+			"selected_exchange": "Izvēlētā birža*",
+			"portfolio_name": "Portfeļa nosaukums*",
+			"name_placeholder": "Giga Chad",
+			"portfolio_description": "Portfeļa apraksts",
+			"description_placeholder": "Portfelis, kas sastāv no riskantākajiem un daudzsološākajiem aktīviem visā tirgū. Esiet gatavs atvadīties no miega un naudas.",
+			"api_key_rule": "Mēs lūdzam tikai <strong>lasīšanas atļaujas</strong>. Tas nenodrošina mums piekļuvi jūsu personīgajām atslēgām vai iespēju pārskaitīt jūsu līdzekļus. Mums tas ir nepieciešams tikai, lai parādītu jūsu portfeļa un analītikas efektivitāti.",
+			"enter_api_key": "Ievadiet API atslēgu",
+			"api_key": "API atslēga",
+			"enter_secret_key": "Ievadiet slepeno atslēgu",
+			"secret_key": "Slepenā atslēga",
+			"help": {
+				"1": "Binance biržas vietnē atveriet <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API pārvaldība</a> sadaļu",
+				"2": "<strong> Izveidojiet jaunu API atslēgu </strong>, nosauciet to, piemēram, <strong>\"DUST Portfelis\"</strong>, un nospiediet <strong>\"Tālāk\"</strong>.",
+				"3": "(Ja viss ir kārtībā), <strong>ievadiet 2FA kodus</strong>",
+				"4": "Kopējiet <strong>API atslēgu</strong> un <strong>slepeno atslēgu</strong>",
+				"5": "<span> IR VĒLAMS atspējot treidošanas piekļuvi šai API atslēgai, lai to izdarītu:</span><ol><li>Noklikšķiniet uz <strong>\"Rediģēt ierobežojumus\"</strong></li><li>Atspējot <strong>\"Iespējot Spot un Margin tirdzniecību\"</strong></li><li>Noklikšķiniet uz <strong>\"Saglabāt\"</strong></li><li> Ievadiet <strong>divu faktoru autentifikācijas kodu</strong></li></ol>"
+			},
+			"create": "Izveidot",
+			"back": "Atpakaļ",
+			"onward": "Nākamais",
+			"important": "Svarīgi",
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Nedrīkst atkārtot"
+			}
+		},
+		"dialog-add-regular-portfolio": {
+			"create_portfolio": "Izveidot portfeli",
+			"title": "Virtuālā portfeļa izveide",
+			"name_placeholder": "Īstens HODLers",
+			"description_placeholder": "Šis portfelis ietver pamatlīdzekļus visā kriptovalūtu tirgū. Jūs varat gulēt mierīgi.",
+			"description_not_necessarily": "Apraksts (nav obligāts)",
+			"name": "Nosaukums",
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Nedrīkst atkārtot"
+			}
+		},
+		"dialog-add-venture-asset": {
+			"unlock_types": {
+				"linear": "Lineārs",
+				"full": "Pilns",
+				"custom": "Pielāgots"
+			},
+			"asset_type": {
+				"blockchain": "Blokķēde",
+				"defi": "DeFi",
+				"gamefi": "GameFi",
+				"metaverse": "Metaverse",
+				"launchpad": "Launchpad",
+				"payments": "Maksājumi",
+				"fun_token": "Fun Token",
+				"nft": "NFT",
+				"other": "Cits"
+			},
+			"rounds": {
+				"public": "Public",
+				"private": "Private",
+				"strategic": "Strategic",
+				"presale": "Pre-sale",
+				"preseed": "Pre-seed",
+				"seed": "Seed",
+				"round_a": "Rounds A",
+				"round_b": "Rounds B",
+				"round_c": "Rounds C",
+				"round_d": "Rounds D",
+				"other": "Cits"
+			},
+			"periods": {
+				"every-day": "Katru dienu",
+				"every-week": "Katru nedēļu",
+				"every-month": "Katru mēnesi",
+				"every-quarter": "Ceturkšņa",
+				"every-half-year": "Ik pēc 6 mēnešiem",
+				"every-year": "Katru gadu"
+			},
+			"unlock_period_types": {
+				"amount": "summa.",
+				"percent": "%"
+			},
+			"cliff": {
+				"MONTH": "mēnesis.",
+				"YEAR": "gads"
+			},
+			"main": {
+				"add": "Uzņēmuma aktīva pievienošana",
+				"edit": "Uzņēmuma riska rediģēšana",
+				"title_1": "Ievads",
+				"title_2": "Finanšu informācija",
+				"title_3": "Tehniskā informācija",
+				"title_4": "Atlasīt datumu un (vai) atbloķēšanas % TGE",
+				"title_5": "Assetu izplatīšanas ilgums",
+				"title_6": "Kopsavilkuma informācija:",
+				"tge": "TGE — (tokenu ģenerēšanas notikums), sinonīms \"ICO\", kas nozīmē \"sākotnējais monētu piedāvājums\".",
+				"total": "Kopā",
+				"onward": "Nākamais",
+				"back": "Atpakaļ",
+				"done": "Gatavs",
+				"date_placeholder": "DD.MM.YYYY",
+				"period_date_placeholder": "DD.MM.YYYY - DD.MM.YYYY"
+			},
+			"first_step": {
+				"name": "Nosaukums*",
+				"name_placeholder": "Asset nosaukums",
+				"ticker": "Ticker Nosaukums*",
+				"ticker_placeholder": "Ticker",
+				"sait": "Mājaslapa",
+				"description": "Apraksts",
+				"logo": "Logo",
+				"format_img": "JPG vai PNG, 1:1 (kvadrāts),<br />ne vairāk kā 3 MB",
+				"loaded_photo": "Fotoattēls ir augšupielādēts:",
+				"download": "Augšupielādēt"
+			},
+			"second_step": {
+				"price": "Pirkuma cena*",
+				"price_placeholder": "Cena",
+				"amount": "Iegādāto monētu/tokenu daudzums*",
+				"amount_placeholder": "monētu daudzums",
+				"round": "Rounds",
+				"total_attachment": "Kopējais ieguldījums:"
+			},
+			"third_step": {
+				"network": "Blokķēžu tīkls",
+				"address": "Smart-contract adrese",
+				"type": "Projekta tips",
+				"date": "Pirkšanas datums (DD.MM.YYYY)*"
+			},
+			"fourth_step": {
+				"unlock": "TGE atbloķēšanas procents",
+				"unlock_placeholder": "0-100%",
+				"date": "TGE atbloķēšanas datums",
+				"tba": "TBA — (tiks paziņots)",
+				"cliff": "Cliff — laika posms, kuram jāpaiet, pirms sākas tokenu izlaišana",
+				"period_cliff": "Cliff periods (Lockup)",
+				"lockup": "Cliff (Lockup)",
+				"no": "Nē"
+			},
+			"fifth_step": {
+				"vesting": "Vestings",
+				"vesting_description": "Vesting — process, kurā aktīvi tiek bloķēti un sadalīti noteiktā laika periodā",
+				"unlock_date": "Atbloķēšanas datums",
+				"unlock_period": "Atbloķēšanas periods",
+				"last_unlock_date": "Pēdējais izlaišanas datums",
+				"period": "Izplatīšanas periods",
+				"end_date": "Beigu datums",
+				"start_date": "Sākuma datums",
+				"frequency": "Biežums",
+				"frequency_count": "Periodu skaits",
+				"info": "{{ amount }} monētas/ tokeni - {{ period }}, no {{ start }} līdz {{ end }}.",
+				"select_period": "Atlasīt periodu",
+				"unlock_impossible": "Atbloķēšana atlasītajam periodam nav iespējams",
+				"elem_unlock_date": "Atbloķēšanas datums {{ num }}",
+				"invalid_sequence": "Nevar būt agrāks par iegādes datumu vai atbloķēšanas datumu",
+				"value_in_period": "Atbloķēšanas daudzumu šim periodam",
+				"left_to_distribute": "Atlicis, lai izplatītu:",
+				"volume_distributed": "Viss apjoms ir izpaltīts",
+				"invalid_unlock": " *Nederīga atbloķēšana",
+				"not_exactly": "Nodaļas nav vienmērīgi sadalītas",
+				"frequency_type": {
+					"DAY": "dienas",
+					"WEEK": "nedēļas",
+					"MONTH": "mēnešus",
+					"YEAR": "gadā"
+				}
+			},
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"min_price": "Cena nedrīkst būt zemāka par 0$",
+				"invalid_date": "Nederīgs datums",
+				"file_type": "Nederīgs faila tips",
+				"file_size": "Faila izmērs pārsniedz {{ size }}MB",
+				"max_value": "Maksimālā vērtība ir {{ max }}",
+				"min_value": "Vērtībai ir jābūt mazākai par {{ min }}",
+				"invalid_period": "Nevar būt agrāks par iegādes datumu vai atbloķēšanas datumu",
+				"min_amount": "Daudzums nedrīkst būt mazāks par 0 {{coin}}"
+			},
+			"sixth_step": {
+				"price": "Iepirkuma cena",
+				"investment_volume": "Investīciju apjoms",
+				"amount_coin": "Monētu skaits",
+				"buy_date": "Pirkuma datums",
+				"round": "Raunds",
+				"type": "Tips",
+				"sait": "Vietne",
+				"network": "Tīkls",
+				"unlock_type": "Atbloķēšanas veids",
+				"unlock_date": "Datuma sadalīšana",
+				"period_unlock": "Atbloķēšanas periods"
+			}
+		},
+		"dialog-add-venture-portfolio": {
+			"create_portfolio": "Izveidot portfeli",
+			"title": "Uzņēmuma portfeļa izveide",
+			"name_placeholder": "Kriptovalūtu investors",
+			"description_placeholder": "Papildus uzticamiem un pārbaudītiem aktīviem šajā portfelī ir arī daži no daudzsološākajiem un aktīvāk izstrādātajiem projektiem.",
+			"name": "Nosaukums",
+			"description_not_necessarily": "Apraksts (nav obligāts)",
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Nedrīkst atkārtot",
+				"file_size": "Izmērs pārsniedz {{ size }}MB"
+			}
+		},
+		"dialog-create-portfolio": {
+			"virtual": {
+				"title": "Virtuālais portfelis",
+				"subtitle": "Kriptoaktīvu virtuālā portfeļa izveide"
+			},
+			"exchange": {
+				"title": "Biržas portfelis",
+				"subtitle": "Integrācija ar biržu un to assetu izsekošana"
+			},
+			"venture": {
+				"title": "Uzņēmuma portfelis",
+				"subtitle": "Jaunu projektu pievienošana, kas iegādāti agrinā stadijā"
+			},
+			"need_subscription": "Nepieciešams aktīvs abonements",
+			"create_portfolio": "Izveidot portfeli"
+		},
+		"dialog-delete-coin": {
+			"title": "Dzēst assetu",
+			"subtitle": "Vai tiešām vēlaties dzēst <span>{{ name }}</span> no sava portfeļa?",
+			"delete": "Dzēst",
+			"cancel": "Atcelt"
+		},
+		"dialog-delete-portfolio": {
+			"title": "Dzēst portfolio",
+			"subtitle": "Vai tiešām vēlaties dzēst savu portfeli <span>{{ name }}</span>?",
+			"delete": "Dzēst",
+			"cancel": "Atcelt"
+		},
+		"dialog-delete-transaction": {
+			"title": "Dzēst transaction",
+			"subtitle": "Vai tiešām vēlaties dzēst šo darījumu no sava portfeļa?",
+			"delete": "Dzēst",
+			"cancel": "Atcelt"
+		},
+		"dialog-delete-venture-asset": {
+			"title": "Dzēst assetu",
+			"subtitle": "Vai tiešām vēlaties dzēst <span>{{ name }}</span> no sava portfeļa?",
+			"delete": "Dzēst",
+			"cancel": "Atcelt"
+		},
+		"dialog-edit-exchange-portfolio": {
+			"title": "Rediģēt atslēgas",
+			"enter_api_key": "API atslēga",
+			"enter_secret_key": "Slepenā atslēga",
+			"cancel": "Atcelt",
+			"save": "Saglabāt",
+			"attention": "Uzmanību!",
+			"notice": "Pašreizējais portfelis tiks dzēsts un tā vietā tiks ielādēts jauns",
+			"replace": "Aizstāt",
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}"
+			}
+		},
+		"dialog-edit-portfolio": {
+			"title": "Rediģēt portfeli",
+			"name_placeholder": "Īstens HODLers",
+			"description_placeholder": "Šis portfelis ietver pamatlīdzekļus visā kriptovalūtu tirgū. Jūs varat gulēt mierīgi.",
+			"name": "Nosaukums",
+			"description_not_necessarily": "Apraksts (nav obligāts)",
+			"save": "Saglabāat",
+			"validation_messages": {
+				"required": "Lauks ir jāaizpilda obligāti",
+				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
+				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
+				"repeat": "Nedrīkst atkārtot"
+			}
+		},
+		"dialog-transaction-info": {
+			"title": "Darījuma informācija",
+			"type": "Tips",
+			"price": "Cena",
+			"amount_coin": "Monētu daudzums",
+			"date": "Datums",
+			"value": "Vērtība USD",
+			"close": "Aizvērt",
+			"buy": "Pirkt",
+			"sell": "Pārdot"
+		},
+		"dialog-venture-coin-info": {
+			"title": "Detalizēta uzņēmuma informācija par assetu",
+			"characteristics": {
+				"price": "{isMobile, plural, =1 {Price} other {Purchase price}}",
+				"amount": "{isMobile, plural, =1 {Amount} other {Monētu daudzums}}",
+				"investment_volume": "Investīcijas apjoms",
+				"type_of_project": "Projekta tips",
+				"type": "Tips",
+				"round": "Rounds",
+				"description": "Apraksts",
+				"sait": "Mājaslapa",
+				"network": "Tīkls",
+				"date": "Pirkšanas datums",
+				"lock_period": "Bloķēšanas periods"
+			},
+			"close": "Aizvērt"
+		},
+		"invalid-api-key-dialog": {
+			"title": "Nederīga API atslēga",
+			"subtitle": "Jums ir jāmaina API atslēga, lai mēs varētu atjaunināt jūsu portfeli."
+		},
+		"portfolio-coin": {
+			"all_transaction": "Visi darījumi",
+			"need_subscription": "Nepieciešams aktīvs abonements",
+			"add_transaction": "Pievienot darījumu",
+			"delete_asset": "Dzēst monētu",
+			"delete": "Dzēst"
+		},
+		"portfolio-list-item": {
+			"update_data": "Datu atjaunināšana",
+			"need_subscription": "Nepieciešams aktīvs abonements",
+			"edit": "Rediģēt",
+			"delete": "Dzēst",
+			"open": "Atvērt",
+			"virtual": "Virtuālais portfelis",
+			"exchange": "Biržas portfelis",
+			"venture": "Uzņēmuma portfelis",
+			"investment_value": "Investīciju apjoms",
+			"portfolio_valuation": "Portfeļa novērtējums"
+		},
+		"portfolio-pnl": {
+			"total_attachments": "Kopējais Investīciju apjoms",
+			"total_investment": "Kopējais Investīciju apjoms",
+			"invested_to_portfolio": "Ieguldīts portfelī",
+			"portfolio_evaluation": "Portfeļa novērtējums",
+			"all_times_pnl": "Visu laiku PNL",
+			"portfolio_pnl": "Portfeļa PNL",
+			"total_portfolio_evaluation": "Kopējais Portfeļa novērtējums"
+		},
+		"portfolio-transaction": {
+			"buy": "Pirkt",
+			"sell": "Pārdot",
+			"deposit": "Depozīts",
+			"withdraw": "Izņemt",
+			"transfer": "Pārsūtīt",
+			"need_subscription": "Nepieciešams aktīvs abonements",
+			"edit_transaction": "Rediģēt darījumu",
+			"delete_transaction": "Dzēst transaction"
+		},
+		"series-finance": {
+			"title": "Finanšu sadalījums",
+			"total": "Kopā",
+			"others": "Citi"
+		},
+		"transactions-limit-dialog": {
+			"title": "Jūs esat pārsniedzis darījumu limitu",
+			"subtitle": "Abonementa aktivizēšana, lai iegūtu neierobežotu portfeļa darījumu skaitu",
+			"used_transactions": "Izmantotie darījumi:",
+			"of": "{{ num1 }} no {{ num2 }}",
+			"activate_subscription": "Aktivizēt abonementu"
+		},
+		"interval": {
+			"1_day": "1 diena",
+			"7_days": "7 dienas",
+			"1_month": "1 mēnesis",
+			"3_months": "3 mēneši",
+			"1_year": "1 gads",
+			"all_time": "Visu laiku"
+		}
+	},
+	"portfolio": {
+		"last_time_update": "Pēdējo reizi atjaunināts:",
+		"update_started": "Atjaunināšana sākta:",
+		"not_updated": "Nav atjaunināts",
+		"to_update": "Līdz atjaunināšanai",
+		"update": "Atjaunināt",
+		"portfolio_capitalization": "Portfeļa kapitalizācija",
+		"portfolio_profitability": "Portfeļa rentabilitāte",
+		"portfolio_description": "Portfeļa apraksts",
+		"my_assets": "Mani asseti",
+		"finance": "Finanses",
+		"price": "Cena",
+		"average_price": "Vidējā pirkuma cena",
+		"amount_coin": "Monētu daudzums",
+		"profit_loss": "Peļņa/ zaudējumi",
+		"description": "Portfeļa apraksts",
+		"portfolio_empty": "Portfelis ir tukšs...",
+		"your_portfolio_empty": "Jūsu portfelis ir tukšs :(",
+		"add_asset": "Pievienot assetu",
+		"add_first_asset": "Pievieno pirmo assetu",
+		"need_subscription": "Nepieciešams aktīvs abonements"
+	},
+	"portfolio-list": {
+		"create_portfolio": "Izveidot portfeli",
+		"need_subscription": "Nepieciešams aktīvs abonements",
+		"navigation": {
+			"all_portfolios": "Visi portfeļi",
+			"calculator": "Riska kalkulators",
+			"indexes": "Indeksi"
+		}
+	},
+	"portfolio-transactions": {
+		"back": "Atpakaļ",
+		"price": "Cena",
+		"average_price": "Vid. pirkuma cena",
+		"amount_coin": "Monētu daudzums",
+		"profit_loss": "Peļņa/ zaudējumi",
+		"date": "Datums",
+		"value": "Vērtība USD",
+		"commission": "Komisijas maksa",
+		"add": "Pievienot",
+		"transactions": "Darījumi",
+		"add_transaction": "Pievienot darījumu",
+		"need_subscription": "Nepieciešams aktīvs abonements"
+	},
+	"portfolio-venture": {
+		"add_asset": "Pievienot assetu",
+		"description": "Portfeļa apraksts",
+		"delete_asset": "Dzēst assetu",
+		"edit": "Rediģēt",
+		"your_portfolio_empty": "Jūsu portfelis ir tukšs :(",
+		"add_first_asset": "Pievienojiet pirmo assetu",
+		"unlock_chart": "Riska aktīvu atbloķēšanas diagramma",
+		"impossible_to_build": "Šim assetam nav iespējams izveidot diagrammu",
+		"my_assets": "{isMobile, plural, =1 {My assets} other {Mana uzņēmuma asseti}}",
+		"portfolio_empty": "Portfelis ir tukšs...",
+		"characteristics": {
+			"price": "{isMobile, plural, =1 {Price} other {Pirkuma cena}}",
+			"amount": "{isMobile, plural, =1 {Amount} other {Monētu daudzums}}",
+			"investment_volume": "Investīcijas apjoms",
+			"type_of_project": "Projekta tips",
+			"type": "Tips",
+			"round": "Rounds",
+			"description": "Apraksts",
+			"sait": "Mājaslapa",
+			"network": "Tīkls",
+			"date": "Pirkšanas datums",
+			"lock_period": "Bloķēšanas periods"
+		},
+		"unlock_info": {
+			"tge_today": "Šodienas TGE.",
+			"to_start_tge": "Pirms TGE <span class='period'>{{ diff }}</span>",
+			"cliff_today": "Šodien ir Cliff sākums",
+			"to_start_cliff": "Pirms Cliff <span class='period'>{{ diff }}</span>",
+			"cliff_end": "Cliff's pabeiģšanas šodien",
+			"to_end_cliff": "Pirms Cliff ir pabeigta <span class='period'>{{ diff }}</span>",
+			"today_unlock": "Šodien {{ num }} ir sadalījums",
+			"to_unlock": "Pirms {{ num }} atbloķēšanas <span class='period'>{{ diff }}</span>"
+		},
+		"need_subscription": "Nepieciešams aktīvs abonements"
+	}
 }

@@ -140,7 +140,8 @@
 				"back": "zurück",
 				"done": "erledigt",
 				"date_placeholder": "DD / MM / JJJJ",
-				"period_date_placeholder": "TT.MM.JJJJ - TT.MM.JJJJ"
+				"period_date_placeholder": "TT.MM.JJJJ - TT.MM.JJJJ",
+				"title_6": "Zusammenfassungsinformationen:"
 			},
 			"first_step": {
 				"name": "Name*",
@@ -194,7 +195,17 @@
 				"value_in_period": "Das Volumen der Entsperrung während dieses Zeitraums",
 				"left_to_distribute": "Es bleibt zu verteilen:",
 				"volume_distributed": "Das gesamte Volumen wird verteilt",
-				"invalid_unlock": " *Falsche Entsperrungen"
+				"invalid_unlock": " *Falsche Entsperrungen",
+				"unlock_period": "Zeitraum entsperren",
+				"last_unlock_date": "Letztes Veröffentlichungsdatum",
+				"frequency_count": "Menge in diesem Zeitraum*",
+				"not_exactly": "Die Abteilungen sind nicht gleichmäßig aufgeteilt",
+				"frequency_type": {
+					"DAY": "Tage",
+					"WEEK": "Wochen",
+					"MONTH": "Monate",
+					"YEAR": "Jahr"
+				}
 			},
 			"validation_messages": {
 				"required": "ein Pflichtfeld",
@@ -208,6 +219,19 @@
 				"min_value": " Der Wert muss größer als {{min}} sein",
 				"invalid_period": "Darf nicht vor dem Kauf- oder Entsperrdatum liegen",
 				"min_amount": "Menge darf nicht kleiner als 0 sein {{coin}}"
+			},
+			"sixth_step": {
+				"price": "Kaufpreis",
+				"investment_volume": "Investitionsgröße",
+				"amount_coin": "Anzahl Münzen",
+				"buy_date": "Kaufdatum",
+				"round": "Runden",
+				"type": "Typ",
+				"sait": "Seite? ˅",
+				"network": "Netzwerk",
+				"unlock_type": "Art entsperren",
+				"unlock_date": "Datum aufgeteilt",
+				"period_unlock": "Zeitraum entsperren"
 			}
 		},
 		"dialog-add-venture-portfolio": {

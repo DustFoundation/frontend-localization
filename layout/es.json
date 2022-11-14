@@ -1,0 +1,153 @@
+{
+	"header": {
+		"subscription_activate": "Activar la suscripción",
+		"subscription_activated": {
+			"text": "La suscripción",
+			"status": "Activo"
+		},
+		"portfolio": " La cartera",
+		"portfolio_dropdown": {
+			"all_portfolios": "Todas las carteras",
+			"risk_calculator": "La calculadora del riesgo"
+		},
+		"academy": "La academia",
+		"forum": "El foro",
+		"main": " Inicio",
+		"conferences": "Las conferencias",
+		"menu": {
+			"profile": "El perfil",
+			"balance": "Recargar el saldo",
+			"subscription": "La suscripción",
+			"transactions": "Historial de transacciones",
+			"settings": "La configuración",
+			"promocode": "El código promocional",
+			"bug_report": "Informe de error",
+			"support": "Charla de soporte",
+			"conferences": "Las conferencias"
+		},
+		"sign_up": "Inscribirse",
+		"sign_in": "Registrarse",
+		"logout": "Cerrar la sesión",
+		"in_development": "En desarrollo",
+		"beta": "BETA",
+		"dust": "DUST",
+		"usdt": "USDT",
+		"micron": "MICRÓN"
+	},
+	"notes_dropdown": {
+		"notes": "Todas las notas",
+		"add_note": "Crear una nota"
+	},
+	"notifications": {
+		"count_of_notification": "Nuevas notificaciones",
+		"clear": "Borrar todas las notificaciones",
+		"types": {
+			"SUBSCRIPTION_ADDED": {
+				"title": "La compra de la suscripción exitosa",
+				"description": "Has comprado correctamente una suscripción para {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_UPDATED": {
+				"title": "La renovación de la suscripción exitosa",
+				"description": "Has renovado con éxito una suscripción para {{term}} {term, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}"
+			},
+			"SUBSCRIPTION_ENDING_SOON": {
+				"title": "Tu suscripción terminará pronto",
+				"description": "Lo siento, pero tu suscripción caducará en solo {{daysToExpire}} {daysToExpire, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}}... We' ¡Te extrañaré!"
+			},
+			"BALANCE_ADDED": {
+				"title": "Reponer el saldo",
+				"description": "Su cuenta se recargó por {{amount}} USDT"
+			},
+			"TELEGRAM_INVITED": {
+				"title": "Invitar a",
+				"description": "Tu invitación a Telegram. ¡Buena suerte en ese infierno!"
+			},
+			"TELEGRAM_INVITED_1": {
+				"title": "Invitar al chat de Telegram",
+				"description": "Tu invitación al chat de Telegram. ¡Buena suerte en ese infierno!"
+			},
+			"TELEGRAM_INVITED_2": {
+				"title": "Invitar al canal de Telegram",
+				"description": "Tu invitación al canal de Telegram SUERTE. ¡Buena suerte!"
+			},
+			"PAYMENT_ORDER_SUCCESS": {
+				"title": "Reposición del saldo",
+				"description": "Se ejecutó orden de reposición de saldo."
+			},
+			"PAYMENT_ORDER_FAILED": {
+				"title": "la reposición de saldo",
+				"description": "¡El pedido para reponer su saldo ha fallado!"
+			},
+			"PAYMENT_TXID_EXIST": {
+				"title": "La reposición de saldo",
+				"description": "¡Su número de transacción ya está siendo utilizado por otro usuario!"
+			},
+			"PAYMENT_FAILED": {
+				"title": "La reposición de saldo",
+				"description": "No se pudo crear el pedido para reponer su saldo, comuníquese con Administración."
+			},
+			"SUBSCRIPTION_SUCCESS": {
+				"title": "La suscripción",
+				"description": "La suscripción exitosa"
+			}
+		},
+		"join": "Unirse"
+	},
+	"promocode-dialog": {
+		"title": "La activación del código promocional",
+		"enter_promocode": "Introduce el código de promoción",
+		"activate": "Activar el código promocional",
+		"example": "Ejemplo: X2dDjsa29GKO",
+		"validation_messages": {
+			"required": "Se requiere el campo",
+			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}"
+		}
+	},
+	"report-dialog": {
+		"name": "Título",
+		"bag_report": "Informe de error",
+		"loaded_file": "El archivo subido:",
+		"short_description": "Breve descripción",
+		"detail_description_problem": "Descripción detallada",
+		"description_of_problem": "Descripción del problema",
+		"validation_messages": {
+			"required": "Se requiere campo",
+			"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
+			"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
+			"img": "JPG o PNG, no más de 3 MB",
+			"discord_or_email": "Ingrese el correo electrónico o el apodo de Discord"
+		},
+		"download": "Descargar",
+		"send": "Enviar",
+		"cancel": "Cancelar",
+		"contact_with_me": "Contacte conmigo",
+		"enter_email_or_discord": "Ingrese el correo electrónico o el apodo de Discord",
+		"contact": "Contacto"
+	},
+	"system-notification-dialog": {
+		"update": "Actualización disponible",
+		"failed": "¡Qué va!",
+		"offline": "Desconectado",
+		"update_detected": "Se detecta la actualización de la aplicación: {{version}}",
+		"update_ready": "La actualización está lista {{version}}. ¿Quieres actualizar?",
+		"update_failed": "Durante la instalación de la actualización {{version}} ha ocurrido un error",
+		"network_offline": "Se ha perdido la conexión, es necesario recargar la página",
+		"yes": "si, actualize",
+		"no": "No"
+	},
+	"cookies": {
+		"cookies_settings": "Administrar cookies",
+		"intro": "Usamos cookies para mejorar su experiencia de usuario, análisar el uso de aplicaciones y habilitar el soporte de chat.\n",
+		"get_know_with_start": "Conocer con",
+		"cookies_policy": "La política de cookies",
+		"get_known_with_end": "más",
+		"accept": "Aceptar",
+		"settings": "La configuración",
+		"analytic_cookies": "Cookies analíticas",
+		"analytic_cookies_description": "Habilitar estas cookies nos permitirá a rastrear su interacción con nuestro sitio y realizar los beneficios.",
+		"support_chat": "Charla de soporte",
+		"support_chat_description": "Si desea tener acceso al chat de soporte, estas cookies son necesarias.",
+		"save": "Ahorrar",
+		"back": "Volver"
+	}
+}

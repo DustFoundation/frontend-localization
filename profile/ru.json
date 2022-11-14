@@ -92,10 +92,17 @@
     "en": "English",
     "uk": "Українська",
     "lv": "Latviešu",
-    "it": "Italiano",
     "de": "Deutsch",
     "zh": "中文",
-    "saved": "Сохранено"
+    "it": "Italienisch",
+    "es": "Español",
+    "saved": "Сохранено",
+    "main": {
+      "validation_messages": {
+        "required": "Поле обязательно для заполнения",
+        "min_length": "Минимальная длина поля {{ length }} символов"
+      }
+    }
   },
   "profile-transactions": {
     "transaction": "Транзакция",

@@ -88,14 +88,21 @@
 		"password": "Parola d'ordine",
 		"mail": "E-mail",
 		"nickname": "Soprannome",
-		"ru": "Русский",
-		"en": "English",
-		"uk": "Українська",
-		"lv": "Latviešu",
-		"it": "Italiano",
-		"de": "Deutsch",
+    "ru": "Русский",
+    "en": "English",
+    "uk": "Українська",
+    "lv": "Latviešu",
+    "de": "Deutsch",
     "zh": "中文",
-		"saved": "Salvato"
+    "it": "Italienisch",
+    "es": "Español",
+		"saved": "Salvato",
+		"main": {
+			"validation_messages": {
+				"required": "campo obbligatorio",
+				"min_length": "Lunghezza minima del campo {{length}} caratteri"
+			}
+		}
 	},
 	"profile-transactions": {
 		"transaction": "Transazione",

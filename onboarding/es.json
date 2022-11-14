@@ -1,0 +1,102 @@
+{
+	"onboarding-call-dialog": {
+		"title": "¿Quiere leer una guía paso a paso de la PLATAFORMA PARA POLVO?",
+		"skip": "Saltar",
+		"yes": "Sí"
+	},
+	"onboarding-dialog": {
+		"back": "atrás",
+		"onward": "siguiente",
+		"done": "Hecho",
+		"portfolio": {
+			"title": "Sección “Portafolio”",
+			"description": "En esta sección, puede crear sus carteras, realizar un seguimiento de sus activos e inversiones.",
+			"list": {
+				"1": "Saldo total estimado de carteras y PNL",
+				"2": "Simulación de estrategias de inversión",
+				"3": "Integración de carteras de cambio en un solo lugar",
+				"4": "Estimaciones y seguimiento de inversiones de riesgo"
+			}
+		},
+		"virtual_portfolio": {
+			"title": "Portafolio virtual",
+			"description": "Con esta cartera, puede agregar activos manualmente y simular diferentes tipos de estrategias de inversión.",
+			"list": {
+				"1": "Adición manual de transacciones",
+				"2": "Más de 1000 criptoactivos para rastrear",
+				"3": "Gráfico de visualización de ganancias/pérdidas",
+				"4": "Pie Сhart visualización de la distribución de las finanzas"
+			}
+		},
+		"exchange_portfolio": {
+			"title": "cartera de cambio",
+			"description": "Con esta cartera, puede realizar un seguimiento de sus carteras de intercambio mediante integraciones de API.",
+			"list": {
+				"1": "Integración simple y clara usando API",
+				"2": "Actualización automática de transacciones y precios.",
+				"3": "Gráfico de visualización de ganancias/pérdidas",
+				"4": "Pie Сhart visualización de la distribución de las finanzas"
+			}
+		},
+		"venture_portfolio": {
+			"title": "cartera de empresas",
+			"description": "Con esta cartera, puede realizar un seguimiento de todas las inversiones de riesgo con configuraciones y visualizaciones flexibles.",
+			"list": {
+				"1": "Seguimiento flexible de inversiones de riesgo",
+				"2": "Gráfico de TGE y desbloqueos",
+				"3": "Información detallada sobre un activo de riesgo",
+				"4": "Cálculos automáticos en lugar de tablas de Excel"
+			}
+		},
+		"forum": {
+			"title": "Sección “Foro”",
+			"description": "En esta sección, puede crear publicaciones y compartir sus pensamientos con una comunidad de personas de ideas afines.",
+			"list": {
+				"1": "Ver publicaciones en orden de calificación",
+				"2": "Posibilidad de comentar en publicaciones creadas por otras personas.",
+				"3": "Gana DUST Token por las mejores publicaciones",
+				"4": "Manténgase actualizado sobre los últimos eventos"
+			}
+		},
+		"academy": {
+			"title": "Sección “Academia”",
+			"description": "En esta sección, puede elegir el curso que le interesa y obtener nuevos conocimientos.",
+			"list": {
+				"1": "Cada curso es creado por el equipo de DUST.FOUNDATION",
+				"2": "Representación visual de temas complejos en videos",
+				"3": "Superación de pruebas en cada módulo.",
+				"4": "Evaluación de módulos y cursos"
+			}
+		},
+		"balance": {
+			"title": "Apartado “Recargar saldo”",
+			"description": "En esta sección, puede comprar/ampliar suscripciones para la plataforma y la criptocomunidad.",
+			"list": {
+				"1": "Fácil proceso de pago de 2 pasos",
+				"2": "Soporte de diferentes redes y Binance Pay",
+				"3": "Video tutorial detallado sobre cómo realizar pagos para recién llegados",
+				"4": "Acreditación rápida de fondos a la plataforma"
+			}
+		},
+		"subscription": {
+			"title": "Sección “Suscripción”",
+			"description": "En esta sección, puede elegir y activar diferentes tipos de suscripciones.",
+			"list": {
+				"1": "7 días de prueba gratis (Plataforma DUST)",
+				"2": "3 tipos de suscripción con diferentes duraciones",
+				"3": "Integraciones con Telegram y Discord",
+				"4": "Sistema de descuento y obtención de DUST Token"
+			}
+		},
+		"profile": {
+			"title": "Sección “Perfil”",
+			"description": "En esta sección, puede obtener recompensas diarias, logros y realizar un seguimiento de su calificación.",
+			"list": {
+				"1": "Elige tu cripto-avatar",
+				"2": "Recompensas diarias por visitar una plataforma",
+				"3": "Lista de logros recibidos",
+				"4": "Opiniones de los usuarios"
+			}
+		}
+	}
+}

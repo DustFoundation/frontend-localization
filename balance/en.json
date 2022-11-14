@@ -16,7 +16,7 @@
       "1": "We accept payments only in Tether (USDT).",
       "2": "Top up your balance to activate your subscription.",
       "3": "We recommend using «TRC20» network (fee ~1$)",
-      "4": "Sending any other coin or token to this address except USDT may result in loss of your funds.",
+      "4": "Sending any other coin or token to this address, except USDT, may result in loss of your funds.",
       "5": {
         "first_part": "To activate a subscription “{{ subscriptionName }}“ for {{ subscriptionTerm }}",
         "second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} you need to top up your balance for {{ subscriptionPrice }} USDT + add ~1 USDT to cover a network fee."
@@ -24,7 +24,7 @@
     },
     "video_tutorial": "Video tutorial - how to buy a subscription",
     "warning": "Risk warnings",
-    "specify_hash_or_number": "Specify hash or number of transaction",
+    "specify_hash_or_number": "Specify hash or a number of transaction",
     "recommendation": {
       "title": "Recommendations",
       "1": "To lookup transaction number on Binance, follow this link (authorized):",

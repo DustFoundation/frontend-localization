@@ -206,7 +206,8 @@
 				"file_size": "文件大小超过 {{size}}MB",
 				"max_value": "最大值为 {{max}}",
 				"min_value": " 值应小于 {{min}}",
-				"invalid_period": "不能早于购买日期或解锁日期"
+				"invalid_period": "不能早于购买日期或解锁日期",
+				"min_amount": "数量不能小于 0 {{coin}}"
 			}
 		},
 		"dialog-add-venture-portfolio": {
@@ -461,7 +462,7 @@
 			"cliff_end": "Cliff今天完工",
 			"to_end_cliff": "在悬崖完成之前<span class='period'>{{diff}}</span>",
 			"today_unlock": "今天 {{num}} 是一个细分",
-			"to_unlock": "{{num}} 解锁之前 {{<span class='period'>diff}}</span>"
+			"to_unlock": "{{num}} 解锁之前 <span class='period'>{{diff}}</span>"
 		},
 		"need_subscription": "需要有效订阅"
 	}

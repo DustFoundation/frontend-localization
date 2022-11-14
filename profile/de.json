@@ -93,9 +93,16 @@
 		"uk": "Українська",
 		"lv": "Latviešu",
 		"de": "Deutsch",
-    "zh": "中文",
+		"zh": "中文",
 		"it": "Italienisch",
-    "saved": "gespeichert"
+    "es": "Español",
+		"saved": "gespeichert",
+		"main": {
+			"validation_messages": {
+				"required": "Pflichtfeld",
+				"min_length": "Minimale Feldlänge {{length}} Zeichen"
+			}
+		}
 	},
 	"profile-transactions": {
 		"transaction": "Transaktion",

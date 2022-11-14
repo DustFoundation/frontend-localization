@@ -1,0 +1,42 @@
+{
+	"authorization": {
+		"title": "Autorización"
+	},
+	"profile": {
+		"title": "Perfil",
+		"settings": "Ajustes",
+		"transactions": "Actas"
+	},
+	"topup_balance": {
+		"title": "Recargar saldo"
+	},
+	"subscription": {
+		"title": "Suscripción"
+	},
+	"join": {
+		"title": "Unirse"
+	},
+	"academy": {
+		"title": "Academia"
+	},
+	"portfolio": {
+		"title": "portafolio",
+		"portfolio_list": "Lista de carteras",
+		"ventures": "cartera de empresas",
+		"portfolio": "portafolio",
+		"portfolio_transactions": "Portafolio | Actas"
+	},
+	"forum": {
+		"title": "Foro"
+	},
+	"conferences": {
+		"title": "Conferencias"
+	},
+	"risk": {
+		"title": "Calculadora de riesgo"
+	},
+	"notes": {
+		"title": "notas"
+	},
+	"dust": "Base de polvo"
+}

@@ -1,0 +1,80 @@
+{
+	"title": "Calculadora de riesgo",
+	"add_template": "Nuevo cálculo",
+	"without_title": "Sin título",
+	"my_template": "Mi plantilla",
+	"navigation": {
+		"all_portfolios": "Todas las carteras",
+		"calculator": "Calculadora de riesgos",
+		"indexes": "Índices"
+	},
+	"sort": {
+		"title": "Clasificación",
+		"date_desc": "Fecha: primera noticia",
+		"date_asc": "Fecha: antiguo primero",
+		"alphabet_desc": "Alfabéticamente de la A a la Z",
+		"alphabet_asc": "Alfabéticamente de la Z a la A"
+	},
+	"calculator": {
+		"title_placeholder": "Introduce el nombre de la plantilla.",
+		"status_saved": "Nombre cambiado",
+		"saved": "Salvado",
+		"button_save": "Ahorrar",
+		"type_long": "Largo",
+		"type_short": "Corto",
+		"search_placeholder": "Búsqueda",
+		"result_link": "¿Como funciona?",
+		"result_title": "Resultado",
+		"result_item_volume": "Volumen comercial apalancado",
+		"result_item_profit": "Tomar ganancias",
+		"result_item_proportion": "Relación riesgo/beneficio",
+		"result_item_loss": "Detener la pérdida de",
+		"result_item_liquidation": "Liquidación",
+		"coin_label": "Activo",
+		"volume_label": "Volumen de transacciones",
+		"price_label": "Precio de entrada",
+		"leverage_label": "Aprovechar",
+		"risk_label": "Riesgo",
+		"profit_label": "Lucro",
+		"alert": "¡Advertencia! ¡La liquidación está demasiado cerca del stop loss!",
+		"calculate": "Calcular",
+		"tooltips": {
+			"coin_tooltip": "Moneda para abrir una posición",
+			"volume_tooltip": "Importe por el que se abre una posición, sin incluir el apalancamiento",
+			"price_tooltip": "La cotización en el gráfico en la que se abrirá la posición",
+			"leverage_tooltip": "El apalancamiento le permite utilizar fondos prestados para operar con criptomonedas u otros activos financieros. Siempre tenga en cuenta que el uso de un mayor apalancamiento aumenta la probabilidad de que su posición sea liquidada. Liquidación de hombros en % - x100 (1%)",
+			"risk_tooltip": "Pérdida potencial en % de su posición en caso de un escenario negativo",
+			"profit_tooltip": "Beneficio potencial en % de su posición en caso de un escenario positivo"
+		},
+		"stop_loss_alert": "¡Atención! Su liquidación está por encima de su límite de pérdidas. Con esta relación, obtendrá la liquidación antes de que se alcance su parada."
+	},
+	"list": {
+		"empty": "No hay cálculos guardados",
+		"saved": "Salvado",
+		"title_placeholder": "Ingrese el título"
+	},
+	"dialog_close_template": {
+		"title": "¿Está seguro de que desea abrir una nueva cuenta?",
+		"text": "Abrir un nuevo cálculo borrará todos los datos ingresados y eliminará los resultados",
+		"button_apply": "Claro",
+		"button_cancel": "Cancelar"
+	},
+	"dialog_delete_template": {
+		"title": "Eliminación del cálculo",
+		"text": "¿Realmente desea eliminar el cálculo?",
+		"button_apply": "Remover",
+		"button_cancel": "Cancelar"
+	},
+	"dialog_save_template": {
+		"title": "Guardar el cálculo",
+		"text": "¿Desea actualizar un cálculo abierto o guardar el cálculo como uno nuevo?",
+		"button_apply": "Actualizar",
+		"button_cancel": "guardar un nuevo"
+	},
+	"dialog_tooltip_template": {
+		"title": "Insinuación",
+		"button_close": "¡Entiendo!"
+	},
+	"pro_version": "Versión Pro",
+	"my_calculations": "mis calculos"
+}

@@ -250,6 +250,7 @@
 			}
 		},
 		"dialog-create-portfolio": {
+			"title": "Portfoliotyp auswählen",
 			"virtual": {
 				"title": "Virtuelles Portfolio",
 				"subtitle": "Erstellung eines virtuellen Portfolios aus Krypto-Vermögenswerten"

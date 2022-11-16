@@ -250,6 +250,7 @@
 			}
 		},
 		"dialog-create-portfolio": {
+			"title": "選擇投資組合類型",
 			"virtual": {
 				"title": "虚拟投资组合",
 				"subtitle": "创建加密资产的虚拟投资组合"

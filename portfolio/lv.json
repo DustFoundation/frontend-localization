@@ -250,6 +250,7 @@
 			}
 		},
 		"dialog-create-portfolio": {
+			"title": "Wybierz typ portfela",
 			"virtual": {
 				"title": "Virtuālais portfelis",
 				"subtitle": "Kriptoaktīvu virtuālā portfeļa izveide"

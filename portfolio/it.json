@@ -250,6 +250,7 @@
 			}
 		},
 		"dialog-create-portfolio": {
+			"title": "Seleziona il tipo di portafoglio",
 			"virtual": {
 				"title": "Portafoglio virtuale",
 				"subtitle": "Creazione di un portafoglio virtuale di criptovalute"

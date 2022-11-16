@@ -250,6 +250,7 @@
 			}
 		},
 		"dialog-create-portfolio": {
+			"title": "Seleccionar tipo de cartera",
 			"virtual": {
 				"title": "Portafolio virtual",
 				"subtitle": "Creación de una cartera virtual de criptoactivos"

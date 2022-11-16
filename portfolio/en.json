@@ -250,6 +250,7 @@
 			}
 		},
 		"dialog-create-portfolio": {
+			"title": "Select portfolio type",
 			"virtual": {
 				"title": "Virtual portfolio",
 				"subtitle": "Creation of a virtual portfolio of crypto-assets"

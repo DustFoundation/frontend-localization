@@ -149,5 +149,9 @@
 		"support_chat_description": "Per accedere alla chat di supporto, questi cookie sono obbligatori.",
 		"save": "Salva",
 		"back": "Indietro"
+	},
+	"changelog": {
+		"more": "Di più",
+		"close": "Chiudere"
 	}
 }

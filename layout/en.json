@@ -150,5 +150,9 @@
     "support_chat_description": "If you would like to have an access to the support chat, these cookies are required.",
     "save": "Save",
     "back": "Back"
+  },
+  "changelog": {
+    "more": "More",
+    "close": "Close"
   }
 }

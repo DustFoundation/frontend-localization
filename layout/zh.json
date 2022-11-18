@@ -149,5 +149,9 @@
 		"support_chat_description": "如果您想访问支持聊天，则需要这些 cookie。",
 		"save": "节省",
 		"back": "后退"
+	},
+	"changelog": {
+		"more": "更多的",
+		"close": "關"
 	}
 }

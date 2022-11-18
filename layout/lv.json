@@ -150,5 +150,9 @@
     "support_chat_description": "Ja vēlaties piekļūt atbalsta tērzēšanai, šie sīkfaili ir nepieciešami.",
     "save": "Saglabāt",
     "back": "Atpakaļ"
+  },
+  "changelog": {
+    "more": "Vairāk",
+    "close": "Aizveriet"
   }
 }

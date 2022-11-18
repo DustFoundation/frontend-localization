@@ -149,5 +149,9 @@
 		"support_chat_description": "Si desea tener acceso al chat de soporte, estas cookies son necesarias.",
 		"save": "Ahorrar",
 		"back": "Volver"
+	},
+	"changelog": {
+		"more": "Más",
+		"close": "Cerca"
 	}
 }

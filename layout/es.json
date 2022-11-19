@@ -153,5 +153,11 @@
 	"changelog": {
 		"more": "Más",
 		"close": "Cerca"
+	},
+	"compensation": {
+		"accrual": "Ha recibido {{ term }} días para suscribirse.",
+		"title": "Por favor acepte nuestro agradecimiento.",
+		"description": "¡Estimado Duster! Hemos tenido problemas con la plataforma, pero realmente apreciamos que forme parte de nuestra comunidad criptográfica y venga con nosotros pase lo que pase, por lo que estamos acumulando días de suscripción adicionales para usted.",
+		"thanks": "Gracias"
 	}
 }

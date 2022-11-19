@@ -154,5 +154,11 @@
   "changelog": {
     "more": "Vairāk",
     "close": "Aizveriet"
+  },
+  "compensation": {
+    "accrual": "Jūs esat saņēmis {{ term }} dienas, lai abonētu!",
+    "title": "Lūdzu, pieņemiet mūsu pateicību.",
+    "description": "Cienījamais Duster! Mums ir bijušas problēmas ar platformu, taču mēs patiesi novērtējam, ka esat daļa no mūsu kriptovalūtu kopienas un nāciet ar mums neatkarīgi no tā, kas notiek, tāpēc mēs jums uzkrājam papildu abonēšanas dienas.",
+    "thanks": "Paldies"
   }
 }

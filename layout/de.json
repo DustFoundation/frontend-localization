@@ -152,6 +152,13 @@
 	},
 	"changelog": {
 		"more": "Mehr",
+		"go_to_changelog": "Gehen Sie zu Änderungsprotokoll",
 		"close": "Nah dran"
+	},
+	"compensation": {
+		"accrual": "Ihnen wurden {{ term }} Tage zum Abonnieren gutgeschrieben!",
+		"title": "Bitte nehmen Sie unseren Dank entgegen.!",
+		"description": "Liebe Duster! Wir hatten Probleme mit der Plattform, aber wir wissen es sehr zu schätzen, dass Sie Teil unserer Krypto-Community sind und mit uns kommen, egal was passiert, also sammeln wir zusätzliche Abonnementtage für Sie an.",
+		"thanks": "Vielen Dank"
 	}
 }

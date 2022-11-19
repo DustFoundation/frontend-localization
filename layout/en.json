@@ -154,5 +154,11 @@
   "changelog": {
     "more": "More",
     "close": "Close"
+  },
+  "compensation": {
+    "accrual": "You have received {{ term }} days to subscribe!",
+    "title": "Please accept our thanks.",
+    "description": "Dear Duster! We have had issues with the platform, but we really appreciate that you are part of our crypto community and come with us no matter what, so we are accruing additional subscription days for you.",
+    "thanks": "Thanks"
   }
 }

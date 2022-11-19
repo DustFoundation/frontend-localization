@@ -153,5 +153,11 @@
 	"changelog": {
 		"more": "Di più",
 		"close": "Chiudere"
+	},
+	"compensation": {
+		"accrual": "Hai ricevuto {{ term }} giorni per iscriverti!",
+		"title": "Accetta i nostri ringraziamenti.",
+		"description": "Caro Duster! Abbiamo avuto problemi con la piattaforma, ma apprezziamo molto che tu faccia parte della nostra community di criptovalute e che tu venga con noi, qualunque cosa accada, quindi stiamo accumulando giorni di abbonamento aggiuntivi per te.",
+		"thanks": "Grazie"
 	}
 }

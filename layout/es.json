@@ -152,6 +152,7 @@
 	},
 	"changelog": {
 		"more": "Más",
+		"go_to_changelog": "Ir a registro de cambios",
 		"close": "Cerca"
 	},
 	"compensation": {

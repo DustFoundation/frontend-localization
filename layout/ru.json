@@ -152,6 +152,7 @@
   },
   "changelog": {
     "more": "Подробнее",
+    "go_to_changelog": "Перейти в ChageLog",
     "close": "Закрыть"
   }
 }

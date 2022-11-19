@@ -152,6 +152,7 @@
 	},
 	"changelog": {
 		"more": "Di più",
+		"go_to_changelog": "Vai a Registro modifiche",
 		"close": "Chiudere"
 	}
 }

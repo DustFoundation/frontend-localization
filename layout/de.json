@@ -152,6 +152,7 @@
 	},
 	"changelog": {
 		"more": "Mehr",
+		"go_to_changelog": "Gehen Sie zu Änderungsprotokoll",
 		"close": "Nah dran"
 	}
 }

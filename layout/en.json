@@ -153,6 +153,7 @@
   },
   "changelog": {
     "more": "More",
+    "go_to_changelog": "Go to ChangeLog",
     "close": "Close"
   }
 }

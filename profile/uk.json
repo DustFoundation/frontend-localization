@@ -29,7 +29,7 @@
 				"password_input_placeholder": "*****************"
 			},
 			"validation_messages": {
-				"required": "Поле обов'язково до заповнення",
+				"required": "Поле обов'язкове до заповнення",
 				"min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
 				"max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
 				"password_rules": "Пароль повинен містити як мінімум: 1 малу літеру латинського алфавіту, 1 цифру",
@@ -61,7 +61,7 @@
 		"usdt": "USDT",
 		"dust": "DUST TOKEN",
 		"micron": "MICRON",
-		"crypto-bum": "Крипто-бомж",
+		"crypto-bum": "Криптобомж",
 		"beta": "BETA"
 	},
 	"profile-settings": {
@@ -117,7 +117,7 @@
 			"deposit": "Поповнення балансу",
 			"subscription": "Оформлення підписки",
 			"FORUM_ACCESS": "Доступ до форуму",
-			"FORUM_POSTS_10": "Покупка 10 постів на форумі"
+			"FORUM_POSTS_10": "Покупка 10 дописів на форумі"
 		},
 		"transaction_statuses": {
 			"created": "Чекає обробки",

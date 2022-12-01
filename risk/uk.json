@@ -8,18 +8,18 @@
   "navigation": {
     "all_portfolios": "Усі портфелі",
     "calculator": "Калькулятор ризику",
-    "indexes": "Индексы"
+    "indexes": "Індекси"
   },
   "sort": {
     "title": "Сортування",
     "date_desc": "Дата: спочатку нові",
     "date_asc": "Дата: спочатку старі",
-    "alphabet_desc": "За алфавітом А-Я",
-    "alphabet_asc": "За алфавітом Я-А"
+    "alphabet_desc": "За алфавітом: А-Я",
+    "alphabet_asc": "За алфавітом: Я-А"
   },
   "calculator": {
     "title_placeholder": "Введіть назву шаблону",
-    "status_saved": "Назва змінено",
+    "status_saved": "Назву змінено",
     "saved": "Збережено",
     "button_save": "Зберегти",
     "type_long": "Лонг",
@@ -35,7 +35,7 @@
     "coin_label": "Актив",
     "volume_label": "Обсяг угоди",
     "price_label": "Ціна входу",
-    "leverage_label": "Плечо",
+    "leverage_label": "Плече",
     "risk_label": "Ризик",
     "profit_label": "Прибуток",
     "stop_loss_alert": "Увага! Ваша ліквідація вища за стоп-лосс. При такому співвідношенні ви отримаєте ліквідацію раніше, ніж у вас спрацює стоп",

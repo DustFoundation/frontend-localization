@@ -12,10 +12,10 @@
     "module-finished-dialog": {
       "module": "Модуль",
       "open_access": "Відкритий доступ до модуля",
-      "thanks_for_review": "Дякую, ваш відгук враховано",
+      "thanks_for_review": "Дякуюємо, ваш відгук враховано",
       "awful": "Жахливо",
       "bad": "Погано",
-      "ok": "Ну, так собі",
+      "ok": "Задовільно",
       "good": "Добре",
       "excellent": "Відмінно",
       "rate_module": "Оцініть пройдений модуль",
@@ -39,12 +39,12 @@
     "level": "Рівень:",
     "count_of_modules": "Модулів:",
     "count_of_lessons": "Уроків:",
-    "got_badges": "Отримані Значки",
+    "got_badges": "Отримані значки",
     "course_progress": "Прогрес курсу",
     "pass_again": "Пройти ще раз",
     "continue_learning": "Продовжити навчання",
     "start_learning": "Розпочати навчання",
-    "training_program": "Програма Навчання",
+    "training_program": "Програма навчання",
     "module": "Модуль"
   },
   "course-lesson": {
@@ -55,7 +55,7 @@
   "course-test": {
     "description": "Після проходження тесту ви отримуєте спеціальний значок, який відкриває доступ до наступного модуля.",
     "ps": "P.S. Пройдіть тест без жодної помилки та отримайте золотий значок!",
-    "check_test": "Перевірити тест",
+    "check_test": "Перевірити відповіді",
     "try_once_more": "Спробувати ще раз",
     "previous_lesson": "Попередній урок",
     "onward": "Далі"
@@ -66,8 +66,8 @@
     "level": "Рівень:",
     "count_of_modules": "Модулів:",
     "count_of_lessons": "Уроків:",
-    "got_badges": "Отримані Значки",
-    "course_progress": "Прогрес курса",
+    "got_badges": "Отримані значки",
+    "course_progress": "Прогрес курсу",
     "pass_again": "Пройти ще раз",
     "continue_learning": "Продовжити навчання",
     "start_learning": "Розпочати навчання",

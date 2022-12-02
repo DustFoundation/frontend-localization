@@ -64,7 +64,9 @@
 				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 				"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 				"repeat": "Sollte nicht wiederholt werden"
-			}
+			},
+			"enter_passphrase": "Geben Sie ein Passwort (Passphrase) ein",
+			"passphrase": "Passwortwort"
 		},
 		"dialog-add-regular-portfolio": {
 			"create_portfolio": "Portfolio erstellen",
@@ -387,7 +389,9 @@
 			"transfer": "Überweisung",
 			"need_subscription": "Muss abonniert werden",
 			"edit_transaction": "Transaktion bearbeiten",
-			"delete_transaction": "Transaktion entfernen"
+			"delete_transaction": "Transaktion entfernen",
+			"convert_in": "Konvertiere in {{coin}}",
+			"convert_out": "Konvertieren von {{coin}}"
 		},
 		"series-finance": {
 			"title": "Verteilung der Finanzen",

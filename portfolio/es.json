@@ -64,7 +64,9 @@
 				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}",
 				"repeat": "no debería repetir"
-			}
+			},
+			"enter_passphrase": "Introduzca una contraseña (frase de contraseña)",
+			"passphrase": "Palabra de contraseña"
 		},
 		"dialog-add-regular-portfolio": {
 			"create_portfolio": "Crear cartera",
@@ -387,7 +389,9 @@
 			"transfer": "Transferir",
 			"need_subscription": "Se requiere suscripción activa",
 			"edit_transaction": "Editar transacción",
-			"delete_transaction": "Eliminar transacción"
+			"delete_transaction": "Eliminar transacción",
+			"convert_in": "Convertir a {{coin}}",
+			"convert_out": "Convertir de {{coin}}"
 		},
 		"series-finance": {
 			"title": "Desglose de las finanzas",

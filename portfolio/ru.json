@@ -48,6 +48,8 @@
       "api_key": "API-ключ",
       "enter_secret_key": "Введите секретный ключ (secret key)",
       "secret_key": "Секретный ключ",
+      "enter_passphrase": "Введите cлово-пароль (passphrase)",
+      "passphrase": "Слово-пароль",
       "help": {
         "1": "На сайте биржи Binance откройте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">раздел API</a>",
         "2": "<strong> Создайте новый API ключ </strong> назвав его, например <strong>\"DUST Portfolio\"</strong>, и нажмите <strong>\"создать новый ключ\"</strong>",
@@ -384,6 +386,8 @@
       "deposit": "Ввод",
       "withdraw": "Снятие",
       "transfer": "Перевод",
+      "convert_in": "Конвертация в {{ coin }}",
+      "convert_out": "Конвертация из {{ coin }}",
       "need_subscription": "Нужно оформить подписку",
       "edit_transaction": "Редактировать транзакцию",
       "delete_transaction": "Удалить транзакцию"

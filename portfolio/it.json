@@ -64,7 +64,9 @@
 				"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 				"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}",
 				"repeat": "Non dovrebbe ripetere"
-			}
+			},
+			"enter_passphrase": "Inserisci una password (passphrase)",
+			"passphrase": "Parola d'ordine"
 		},
 		"dialog-add-regular-portfolio": {
 			"create_portfolio": "Crea portafoglio",
@@ -387,7 +389,9 @@
 			"transfer": "Trasferimento",
 			"need_subscription": "Abbonamento attivo richiesto",
 			"edit_transaction": "Modifica transazione",
-			"delete_transaction": "Elimina transazione"
+			"delete_transaction": "Elimina transazione",
+			"convert_in": "Converti in {{coin}}",
+			"convert_out": "Converti da {{coin}}"
 		},
 		"series-finance": {
 			"title": "Ripartizione delle finanze",

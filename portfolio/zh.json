@@ -64,7 +64,9 @@
 				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
 				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}",
 				"repeat": "不应该重复"
-			}
+			},
+			"enter_passphrase": "输入密码（密码）",
+			"passphrase": "密码字"
 		},
 		"dialog-add-regular-portfolio": {
 			"create_portfolio": "创建投资组合",
@@ -387,7 +389,9 @@
 			"transfer": "转移",
 			"need_subscription": "需要有效订阅",
 			"edit_transaction": "编辑交易",
-			"delete_transaction": "删除交易"
+			"delete_transaction": "删除交易",
+			"convert_in": "转换为 {{coin}}",
+			"convert_out": "从 {{coin}} 转换"
 		},
 		"series-finance": {
 			"title": "财务明细",

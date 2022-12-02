@@ -64,7 +64,9 @@
 				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
 				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}",
 				"repeat": "Nedrīkst atkārtot"
-			}
+			},
+			"enter_passphrase": "Ievadiet paroli (ieejas frāzi)",
+			"passphrase": "Paroles vārds"
 		},
 		"dialog-add-regular-portfolio": {
 			"create_portfolio": "Izveidot portfeli",
@@ -387,7 +389,9 @@
 			"transfer": "Pārsūtīt",
 			"need_subscription": "Nepieciešams aktīvs abonements",
 			"edit_transaction": "Rediģēt darījumu",
-			"delete_transaction": "Dzēst transaction"
+			"delete_transaction": "Dzēst transaction",
+			"convert_in": "Konvertēt uz {{coin}}",
+			"convert_out": "Konvertēt no {{coin}}"
 		},
 		"series-finance": {
 			"title": "Finanšu sadalījums",

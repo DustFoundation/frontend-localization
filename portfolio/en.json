@@ -64,7 +64,9 @@
 				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
 				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}",
 				"repeat": "Shouldn't repeat"
-			}
+			},
+			"enter_passphrase": "Enter a password (passphrase)",
+			"passphrase": "Password word"
 		},
 		"dialog-add-regular-portfolio": {
 			"create_portfolio": "Create portfolio",
@@ -387,7 +389,9 @@
 			"transfer": "Transfer",
 			"need_subscription": "Active subscription required",
 			"edit_transaction": "Edit transaction",
-			"delete_transaction": "Delete transaction"
+			"delete_transaction": "Delete transaction",
+			"convert_in": "Convert to {{coin}}",
+			"convert_out": "Convert from {{coin}}"
 		},
 		"series-finance": {
 			"title": "Finances breakdown",

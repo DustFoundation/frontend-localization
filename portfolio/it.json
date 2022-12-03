@@ -49,12 +49,14 @@
 			"enter_secret_key": "Inserisci la chiave segreta",
 			"secret_key": "Chiave segreta",
 			"help": {
-				"1": "Su un sito web di Binance Exchange, apri la sezione <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">Gestione API</a>",
-				"2": "<strong>Crea una nuova chiave API</strong> , denominala, ad esempio <strong>&quot;Portafoglio DUST&quot;</strong> e premi <strong>&quot;Avanti&quot;</strong>",
-				"3": "(Se è tutto a posto), <strong>inserisci i codici 2FA</strong>",
-				"4": "Copia <strong>la chiave API</strong> e <strong>la chiave segreta</strong>",
-				"5": "<span>È DESIDERATO disabilitare l&#39;accesso al trading per questa chiave API, per fare ciò:</span><ol><li> Fai clic su <strong>&quot;Modifica restrizioni&quot;</strong></li><li> Disattiva <strong>&quot;Abilita trading spot e margine&quot;</strong></li><li> Fai clic su <strong>&quot;Salva&quot;</strong></li><li> Immettere il codice <strong>di autenticazione a due fattori</strong></li></ol>"
-			},
+        "BINANCE": {
+          "1": "Su un sito web di Binance Exchange, apri la sezione <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">Gestione API</a>",
+          "2": "<strong>Crea una nuova chiave API</strong> , denominala, ad esempio <strong>&quot;Portafoglio DUST&quot;</strong> e premi <strong>&quot;Avanti&quot;</strong>",
+          "3": "(Se è tutto a posto), <strong>inserisci i codici 2FA</strong>",
+          "4": "Copia <strong>la chiave API</strong> e <strong>la chiave segreta</strong>",
+          "5": "<span>È DESIDERATO disabilitare l&#39;accesso al trading per questa chiave API, per fare ciò:</span><ol><li> Fai clic su <strong>&quot;Modifica restrizioni&quot;</strong></li><li> Disattiva <strong>&quot;Abilita trading spot e margine&quot;</strong></li><li> Fai clic su <strong>&quot;Salva&quot;</strong></li><li> Immettere il codice <strong>di autenticazione a due fattori</strong></li></ol>"
+        }
+      },
 			"create": "Creare",
 			"back": "Indietro",
 			"onward": "Prossimo",

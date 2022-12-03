@@ -49,12 +49,14 @@
 			"enter_secret_key": "输入密钥",
 			"secret_key": "密钥",
 			"help": {
-				"1": "在 Binance 交易所网站上打开<a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">API 管理</a>部分",
-				"2": "<strong>创建新的 API 密钥</strong>，为其命名，例如<strong>“DUST Portfolio”</strong> ，然后按<strong>“下一步”</strong>",
-				"3": "（如果一切正常），<strong>输入 2FA 码</strong>",
-				"4": "复制<strong>API 密钥</strong>和<strong>密钥</strong>",
-				"5": "<span>最好禁用此 API 密钥的交易访问权限，以执行以下操作：</span><ol><li>点击<strong>“编辑限制”</strong></li><li>禁用<strong>“启用现货和保证金交易”</strong></li><li>点击<strong>“保存”</strong></li><li>输入<strong>两因素验证</strong>码</li></ol>"
-			},
+        "BINANCE": {
+          "1": "在 Binance 交易所网站上打开<a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">API 管理</a>部分",
+          "2": "<strong>创建新的 API 密钥</strong>，为其命名，例如<strong>“DUST Portfolio”</strong> ，然后按<strong>“下一步”</strong>",
+          "3": "（如果一切正常），<strong>输入 2FA 码</strong>",
+          "4": "复制<strong>API 密钥</strong>和<strong>密钥</strong>",
+          "5": "<span>最好禁用此 API 密钥的交易访问权限，以执行以下操作：</span><ol><li>点击<strong>“编辑限制”</strong></li><li>禁用<strong>“启用现货和保证金交易”</strong></li><li>点击<strong>“保存”</strong></li><li>输入<strong>两因素验证</strong>码</li></ol>"
+        }
+      },
 			"create": "创造",
 			"back": "后退",
 			"onward": "下一个",

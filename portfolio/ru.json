@@ -51,11 +51,13 @@
       "enter_passphrase": "Введите cлово-пароль (passphrase)",
       "passphrase": "Слово-пароль",
       "help": {
-        "1": "На сайте биржи Binance откройте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">раздел API</a>",
-        "2": "<strong> Создайте новый API ключ </strong> назвав его, например <strong>\"DUST Portfolio\"</strong>, и нажмите <strong>\"создать новый ключ\"</strong>",
-        "3": "(Если все получилось), <strong>введите код двухфакторной аутентификации</strong>",
-        "4": "Скопируйте <strong>ключ API</strong> и <strong>секретный ключ</strong>",
-        "5": "<span> ЖЕЛАТЕЛЬНО отключить доступ к торговле для этого API ключа, для этого:</span><ol><li>Нажмите <strong>\"Настройки\"</strong></li><li>Запретите <strong>\"Доступ к торговле\"</strong></li><li>Нажмите <strong>\"Сохранить\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
+        "BINANCE": {
+          "1": "На сайте биржи Binance откройте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">раздел API</a>",
+          "2": "<strong> Создайте новый API ключ </strong> назвав его, например <strong>\"DUST Portfolio\"</strong>, и нажмите <strong>\"создать новый ключ\"</strong>",
+          "3": "(Если все получилось), <strong>введите код двухфакторной аутентификации</strong>",
+          "4": "Скопируйте <strong>ключ API</strong> и <strong>секретный ключ</strong>",
+          "5": "<span> ЖЕЛАТЕЛЬНО отключить доступ к торговле для этого API ключа, для этого:</span><ol><li>Нажмите <strong>\"Настройки\"</strong></li><li>Запретите <strong>\"Доступ к торговле\"</strong></li><li>Нажмите <strong>\"Сохранить\"</strong></li><li>Введите код <strong>Двухфактороной аутентификации</strong></li></ol>"
+        }
       },
       "create": "Создать",
       "back": "Назад",

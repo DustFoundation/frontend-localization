@@ -49,12 +49,14 @@
 			"enter_secret_key": "Ievadiet slepeno atslēgu",
 			"secret_key": "Slepenā atslēga",
 			"help": {
-				"1": "Binance biržas vietnē atveriet <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API pārvaldība</a> sadaļu",
-				"2": "<strong> Izveidojiet jaunu API atslēgu </strong>, nosauciet to, piemēram, <strong>\"DUST Portfelis\"</strong>, un nospiediet <strong>\"Tālāk\"</strong>.",
-				"3": "(Ja viss ir kārtībā), <strong>ievadiet 2FA kodus</strong>",
-				"4": "Kopējiet <strong>API atslēgu</strong> un <strong>slepeno atslēgu</strong>",
-				"5": "<span> IR VĒLAMS atspējot treidošanas piekļuvi šai API atslēgai, lai to izdarītu:</span><ol><li>Noklikšķiniet uz <strong>\"Rediģēt ierobežojumus\"</strong></li><li>Atspējot <strong>\"Iespējot Spot un Margin tirdzniecību\"</strong></li><li>Noklikšķiniet uz <strong>\"Saglabāt\"</strong></li><li> Ievadiet <strong>divu faktoru autentifikācijas kodu</strong></li></ol>"
-			},
+        "BINANCE": {
+          "1": "Binance biržas vietnē atveriet <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"_blank\">API pārvaldība</a> sadaļu",
+          "2": "<strong> Izveidojiet jaunu API atslēgu </strong>, nosauciet to, piemēram, <strong>\"DUST Portfelis\"</strong>, un nospiediet <strong>\"Tālāk\"</strong>.",
+          "3": "(Ja viss ir kārtībā), <strong>ievadiet 2FA kodus</strong>",
+          "4": "Kopējiet <strong>API atslēgu</strong> un <strong>slepeno atslēgu</strong>",
+          "5": "<span> IR VĒLAMS atspējot treidošanas piekļuvi šai API atslēgai, lai to izdarītu:</span><ol><li>Noklikšķiniet uz <strong>\"Rediģēt ierobežojumus\"</strong></li><li>Atspējot <strong>\"Iespējot Spot un Margin tirdzniecību\"</strong></li><li>Noklikšķiniet uz <strong>\"Saglabāt\"</strong></li><li> Ievadiet <strong>divu faktoru autentifikācijas kodu</strong></li></ol>"
+        }
+      },
 			"create": "Izveidot",
 			"back": "Atpakaļ",
 			"onward": "Nākamais",

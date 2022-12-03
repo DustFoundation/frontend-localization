@@ -305,7 +305,11 @@
 				"required": "Field is required",
 				"min_length": "Minimum length is {{ min }} {min, plural, =1 {symbol} other {symbols}}",
 				"max_length": "Maximum length is {{ max }} {max, plural, =1 {symbol} other {symbols}}"
-			}
+			},
+			"api_key": "API key",
+			"secret_key": "The secret key",
+			"enter_passphrase": "Enter the password (passphrase)",
+			"passphrase": "Password word"
 		},
 		"dialog-edit-portfolio": {
 			"title": "Edit portfolio",

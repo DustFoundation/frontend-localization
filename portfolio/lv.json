@@ -305,7 +305,11 @@
 				"required": "Lauks ir jāaizpilda obligāti",
 				"min_length": "Minimālais garums ir {{ min }} {min, plural, =1 {symbol} other {symbols}}",
 				"max_length": "Maksimālais garums ir {{ max }} {max, plural, =1 {symbol} other {symbols}}"
-			}
+			},
+			"api_key": "API atslēga",
+			"secret_key": "Slepenā atslēga",
+			"enter_passphrase": "Ievadiet paroli (ieejas frāzi)",
+			"passphrase": "Paroles vārds"
 		},
 		"dialog-edit-portfolio": {
 			"title": "Rediģēt portfeli",

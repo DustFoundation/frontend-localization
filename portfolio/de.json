@@ -305,7 +305,11 @@
 				"required": "ein Pflichtfeld",
 				"min_length": "Mindestlänge {{min}} {min, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}",
 				"max_length": "Maximale Länge {{max}} {max, plural, =1 {Zeichen} =2 {Zeichen} =3 {Zeichen} =4 {Zeichen} other {Zeichen}}"
-			}
+			},
+			"api_key": "API-Schlüssel",
+			"secret_key": "Der geheime Schlüssel",
+			"enter_passphrase": "Geben Sie das Passwort (Passphrase) ein",
+			"passphrase": "Passwortwort"
 		},
 		"dialog-edit-portfolio": {
 			"title": "Portfoliobearbeitung",

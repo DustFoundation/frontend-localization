@@ -305,7 +305,11 @@
 				"required": "必填字段",
 				"min_length": "最小长度为 {{min}} {min, plural, =1 {symbol} other {symbols}}",
 				"max_length": "最大长度为 {{max}} {max, plural, =1 {symbol} other {symbols}}"
-			}
+			},
+			"api_key": "API密钥",
+			"secret_key": "秘钥",
+			"enter_passphrase": "输入密码（密码）",
+			"passphrase": "密码字"
 		},
 		"dialog-edit-portfolio": {
 			"title": "编辑投资组合",

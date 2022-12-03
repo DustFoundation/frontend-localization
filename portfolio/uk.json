@@ -48,8 +48,8 @@
 			"api_key": "API-ключ",
 			"enter_secret_key": "Введіть секретний ключ (secret key)",
 			"secret_key": "Секретний ключ",
-      "enter_passphrase": "Введіть cлово-пароль (passphrase)",
-      "passphrase": "Слово-пароль",
+			"enter_passphrase": "Введіть слово-пароль (passphrase)",
+			"passphrase": "Слово-пароль",
 			"help": {
 				"1": "На сайті біржі Binance відкрийте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">розділ API</a>",
 				"2": "<strong> Створіть новий API ключ </strong> назвавши його, наприклад, <strong>\"DUST Portfolio\"</strong>, і натисніть <strong>\"створити новий ключ\"</strong>",
@@ -294,8 +294,6 @@
 		},
 		"dialog-edit-exchange-portfolio": {
 			"title": "Редагування ключів",
-			"enter_api_key": "API-ключ",
-			"enter_secret_key": "Секретний ключ",
 			"cancel": "Скасувати",
 			"save": "Зберегти",
 			"attention": "Увага!",
@@ -305,7 +303,13 @@
 				"required": "Поле обов'язкове до заповнення",
 				"min_length": "Мінімальна довжина {{ min }} {min, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}",
 				"max_length": "Максимальна довжина {{ max }} {max, plural, =1 {символ} =2 {символа} =3 {символа} =4 {символа} other {символів}}"
-			}
+			},
+			"enter_api_key": "Введіть API-ключ",
+			"api_key": "Ключ API",
+			"enter_secret_key": "Введіть секретний ключ (secret key)",
+			"secret_key": "Секретний ключ",
+			"enter_passphrase": "Введіть слово-пароль (passphrase)",
+			"passphrase": "Слово-пароль"
 		},
 		"dialog-edit-portfolio": {
 			"title": "Редагування портфеля",

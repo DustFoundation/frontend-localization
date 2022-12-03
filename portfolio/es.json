@@ -305,7 +305,11 @@
 				"required": "Se requiere campo",
 				"min_length": "La longitud mínima es {{min}} {min, plural, =1 {símbolo} other {símbolos}}",
 				"max_length": "La longitud máxima es {{max}} {max, plural, =1 {símbolo} other {símbolos}}"
-			}
+			},
+			"api_key": "Clave API",
+			"secret_key": "la clave secreta",
+			"enter_passphrase": "Introduzca la contraseña (frase de contraseña)",
+			"passphrase": "Palabra de contraseña"
 		},
 		"dialog-edit-portfolio": {
 			"title": "Editar cartera",

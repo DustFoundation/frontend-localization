@@ -305,7 +305,11 @@
 				"required": "Il campo è obbligatiorio",
 				"min_length": "La lunghezza minima è {{min}} {min, plural, =1 {simbolo} other {simboli}}",
 				"max_length": "La lunghezza massima è {{max}} {max, plural, =1 {simbolo} other {simboli}}"
-			}
+			},
+			"api_key": "Chiave dell'API",
+			"secret_key": "La chiave segreta",
+			"enter_passphrase": "Inserisci la password (passphrase)",
+			"passphrase": "Parola d'ordine"
 		},
 		"dialog-edit-portfolio": {
 			"title": "Modifica portafoglio",

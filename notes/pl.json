@@ -1,0 +1,41 @@
+{
+	"title": "Uwagi",
+	"create_btn": "Utwórz notatkę",
+	"empty_note": "pusta notatka",
+	"sort": {
+		"custom": "Na zamówienie!",
+		"date_desc": "Data: od najnowszych",
+		"date_asc": "Data: najpierw stara",
+		"alphabet_desc": "Alfabetycznie A-Z",
+		"alphabet_asc": "Alfabetycznie Z-A"
+	},
+	"create_note_dialog": {
+		"remove_button": "Usuń notatkę",
+		"save": "Ratować",
+		"title": "Utwórz notatkę",
+		"edit_title": "Edycja notatki",
+		"title_label": "nagłówek",
+		"title_placeholder": "Moja notatka",
+		"content_placeholder": "Wpisz tekst notatki",
+		"changed": "Zmieniono",
+		"validation_messages": {
+			"required": "Pole musi być wypełnione",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"not_only_spaces": "Tytuł nie może zawierać tylko spacji"
+		}
+	},
+	"delete_note_dialog": {
+		"title": "Usuwanie notatki",
+		"description": "Czy na pewno chcesz usunąć notatkę?",
+		"delete": "Usuwać",
+		"cancel": "Anulować",
+		"deleted_successfully": "Notatka została pomyślnie usunięta"
+	},
+	"attention_note_dialog": {
+		"title": "Uwaga",
+		"description": "Czy na pewno chcesz zamknąć notatkę bez zapisywania?",
+		"dont_save": "Nie oszczędzaj",
+		"cancel": "Anulować"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"title": "Kalkulator ryzyka",
+	"add_template": "Nowa kalkulacja",
+	"without_title": "Nieuprawny",
+	"my_template": "Mój szablon",
+	"navigation": {
+		"all_portfolios": "Wszystkie portfele",
+		"calculator": "Kalkulator ryzyka",
+		"indexes": "Indeksy"
+	},
+	"sort": {
+		"title": "Sortowanie",
+		"date_desc": "Data: od najnowszych",
+		"date_asc": "Data: najpierw stara",
+		"alphabet_desc": "Alfabetycznie A-Z",
+		"alphabet_asc": "Alfabetycznie Z-A"
+	},
+	"calculator": {
+		"title_placeholder": "Wpisz nazwę szablonu",
+		"status_saved": "Imię zmienione",
+		"saved": "Zapisane",
+		"button_save": "Ratować",
+		"type_long": "Długie",
+		"type_short": "Niski",
+		"search_placeholder": "Szukaj",
+		"result_link": "Jak to działa?",
+		"result_title": "Wynik",
+		"result_item_volume": "Wolumen handlu z dźwignią",
+		"result_item_profit": "Mieć zysk",
+		"result_item_proportion": "stosunek ryzyka do zysku",
+		"result_item_loss": "Zatrzymaj stratę",
+		"result_item_liquidation": "Likwidacja",
+		"coin_label": "Aktywny",
+		"volume_label": "Wielkość transakcji",
+		"price_label": "Opłata za wejście",
+		"leverage_label": "Ramię",
+		"risk_label": "Ryzyko",
+		"profit_label": "Zysk",
+		"alert": "Uwaga! Likwidacja zbyt blisko, aby zatrzymać stratę!",
+		"calculate": "Oblicz",
+		"tooltips": {
+			"coin_tooltip": "Zasób wybrany do otwarcia pozycji",
+			"volume_tooltip": "Kwota, za którą otwierana jest pozycja, z wyłączeniem dźwigni finansowej",
+			"price_tooltip": "Kwotowanie na wykresie, względem którego zostanie otwarta pozycja",
+			"leverage_tooltip": "Dźwignia umożliwia wykorzystanie pożyczonych środków do handlu kryptowalutami lub innymi aktywami finansowymi. Zawsze pamiętaj, że używanie wyższej dźwigni zwiększa prawdopodobieństwo likwidacji Twojej pozycji. Eliminacja ramion w % - x100 (1%)",
+			"risk_tooltip": "Potencjalna strata w % Twojej pozycji w przypadku negatywnego wyniku",
+			"profit_tooltip": "Potencjalny zysk w % Twojej pozycji w przypadku pozytywnego wyniku"
+		},
+		"stop_loss_alert": "Uwaga! Twoja likwidacja jest wyższa niż stop loss. Przy takim stosunku dostaniesz likwidację przed trafieniem twojego stopu."
+	},
+	"list": {
+		"empty": "Brak zapisanych obliczeń",
+		"saved": "Zapisane",
+		"title_placeholder": "Wpisz tytuł"
+	},
+	"dialog_close_template": {
+		"title": "Czy na pewno chcesz otworzyć nowe konto?",
+		"text": "Otwarcie nowego obliczenia spowoduje wyczyszczenie wszystkich wprowadzonych danych i usunięcie wyników",
+		"button_apply": "Jasne",
+		"button_cancel": "Anulować"
+	},
+	"dialog_delete_template": {
+		"title": "Usuwanie obliczenia",
+		"text": "Czy na pewno chcesz usunąć obliczenia?",
+		"button_apply": "Usuwać",
+		"button_cancel": "Anulować"
+	},
+	"dialog_save_template": {
+		"title": "Zapisywanie kalkulacji",
+		"text": "Czy chcesz zaktualizować otwartą kalkulację, czy zapisać kalkulację jako nową?",
+		"button_apply": "Odświeżać",
+		"button_cancel": "zapisz nowy"
+	},
+	"dialog_tooltip_template": {
+		"title": "Wskazówka",
+		"button_close": "Jasne!"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"main": "Dom",
+	"settings": "Ustawienia",
+	"profile": "Profil osobisty",
+	"forum": "Forum",
+	"academy": "Akademia",
+	"portfolio": "Teczka",
+	"balance": "Uzupełnianie salda",
+	"subscription": "Podpis",
+	"transaction": "Historia transakcji",
+	"risk": "Kalkulator ryzyka",
+	"activation_subscription": "Aktywacja subskrypcji",
+	"post_view": "Widok posta",
+	"created_posts": "Utworzone posty",
+	"popular": "To, co najlepsze",
+	"news": "Nowy",
+	"my-tickets": "Utworzone posty",
+	"create_ticket": "Utwórz post",
+	"conferences": "Konferencje",
+	"notes": "Uwagi",
+	"back": "Z powrotem"
+}

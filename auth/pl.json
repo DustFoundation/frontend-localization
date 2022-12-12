@@ -1,0 +1,119 @@
+{
+	"confirm-email": {
+		"title": "Potwierdzenie e-mailem",
+		"subtitle": "Wpisz poniższy kod, który został wysłany na Twój e-mail",
+		"code": "Kod",
+		"send_new_code": "Prześlij nowy kod",
+		"get_new_code_after": {
+			"code": "zdobądź nowy kod",
+			"after": "za {{timer}} sekund"
+		},
+		"done": "Gotowe",
+		"back": "Z powrotem"
+	},
+	"confirm-mfa": {
+		"title": "Zweryfikuj swoje konto",
+		"subtitle": "Wpisz poniżej kod weryfikacyjny z Google Authenticator",
+		"code": "Kod",
+		"back": "Z powrotem",
+		"sign_in": "Wejść"
+	},
+	"forgot-password": {
+		"title_1": "Przywróć dawną chwałę",
+		"subtitle_1": "Wyślemy wronę na twoje ziemie z tajnym kodem, aby zresetować hasło.",
+		"get_code": "wyślij kruka",
+		"title_2": "Kruk przybył",
+		"subtitle_2": "Otwórz zwój, który kruk dostarczył na twoją pocztę i wprowadź poniżej tajny kod.",
+		"code": "Kod",
+		"send_new_code": "Prześlij nowy kod",
+		"get_new_code_after": {
+			"code": "zdobądź nowy kod",
+			"after": "za {{timer}} sekund"
+		},
+		"title_3": "Test zaliczony",
+		"subtitle_3": "Udowodniłeś prawo do przywrócenia dawnej świetności. Pozostaje tylko wpisać nowe hasło.",
+		"restore_password": "Przywróć hasło",
+		"form": {
+			"mail": "Poczta",
+			"mail_input_placeholder": "poczta@mail.com",
+			"new_password": "nowe hasło",
+			"repeat_password": "Powtórz hasło",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"invalid_email": "niewłaściwy format wiadomości email",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"passwords_not_match": "Hasła nie pasują do siebie",
+			"password_rules": "Hasło musi zawierać co najmniej: 1 małą literę łacińską, 1 cyfrę"
+		}
+	},
+	"new-password": {
+		"title": "Test zaliczony",
+		"subtitle": "Udowodniłeś prawo do przywrócenia dawnej świetności. Pozostaje tylko wpisać nowe hasło.",
+		"restore_password": "Przywróć hasło",
+		"form": {
+			"new_password": "nowe hasło",
+			"repeat_password": "Powtórz hasło",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"invalid_email": "niewłaściwy format wiadomości email",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"passwords_not_match": "Hasła nie pasują do siebie",
+			"password_rules": "Hasło musi zawierać co najmniej: 1 małą literę łacińską, 1 cyfrę"
+		}
+	},
+	"sign-in": {
+		"no_account": "Nie masz konta?",
+		"sign_up": "Zarejestrować",
+		"title": "Zaloguj sie",
+		"forgot_password": "Zapomniałeś hasła?",
+		"ban_reason": "Powód bana:",
+		"banned_until": "Zakazany do:",
+		"sign_in": "Wejść",
+		"form": {
+			"mail": "Poczta",
+			"mail_input_placeholder": "poczta@mail.com",
+			"password": "Hasło",
+			"password_input_placeholder": "*****************"
+		},
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"invalid_email": "niewłaściwy format wiadomości email",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}"
+		}
+	},
+	"sign-up": {
+		"have_account": "Mieć konto?",
+		"sign_in": "Wejść",
+		"title": "Rejestracja",
+		"forgot_password": "Zapomniałeś hasła?",
+		"ban_reason": "Powód bana:",
+		"banned_until": "Zakazany do:",
+		"sign_up": "Zarejestrować",
+		"policy": {
+			"agree": "zgadzam się z",
+			"with": "Polityka prywatności"
+		},
+		"form": {
+			"mail": "Poczta",
+			"mail_input_placeholder": "poczta@mail.com",
+			"password": "Hasło",
+			"password_input_placeholder": "*****************",
+			"repeat_password": "Powtórz hasło"
+		},
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"invalid_email": "niewłaściwy format wiadomości email",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"passwords_not_match": "Hasła nie pasują do siebie",
+			"password_rules": "Hasło musi zawierać co najmniej: 1 małą literę łacińską, 1 cyfrę"
+		}
+	}
+}

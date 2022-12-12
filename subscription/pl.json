@@ -1,0 +1,84 @@
+{
+	"components": {
+		"dialog-subscription-status": {
+			"term": "Subskrypcja {{day}} {day, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} aktywowana!",
+			"title": "Witamy w społeczności entuzjastów kryptowalut!",
+			"subtitle": "Już teraz zacznij cieszyć się wszystkimi zaletami i funkcjami platformy!",
+			"to_main": "Do głównej"
+		},
+		"subscription-integrations": {
+			"title": "Integracja kont Discord i Telegram",
+			"rule_1": "Aby uzyskać pełny dostęp do prywatnego serwera Discord i kanału Telegram, musisz połączyć z nimi integracje.",
+			"rule_2": "Dostęp zostanie przyznany tylko tym kontom! Możesz zmienić dostęp do innego konta podczas odnawiania subskrypcji.",
+			"back": "Z powrotem",
+			"onward": "Dalej",
+			"skip": "Pomijać",
+			"attention": "Uwaga!"
+		},
+		"subscription-term": {
+			"top_up_on": "Doładuj włączone",
+			"select_subscription": "Wybierz subskrypcję",
+			"go": "Iść do",
+			"transaction_in_progress": "Transakcja w toku",
+			"on_your_balance": "Na Twoim saldzie",
+			"selected_subscription": "Wybrana subskrypcja:",
+			"test_period": "(okres testowy)",
+			"on_day": "dnia {{day}} {day, plural, =1 {dzień} =2 {dni} =3 {dni} =4 {dni} other {dni}}",
+			"bonus": "Z subskrypcją na {{term}} {term, plural, =1 {dzień} =2 {dni} =3 {dni} =4 {dni} other {dni}} otrzymujesz {{bonusterm}} =2 {dni} =3 {dni} =4 {dni} other {dni}} za darmo!",
+			"rule_1": "Zanim przejdziesz dalej, upewnij się, że masz na koncie wystarczającą ilość USDT, aby aktywować subskrypcję na wybrany przez Ciebie okres!",
+			"rule_2": {
+				"first_part": "Aby aktywować subskrypcję „{{subscriptionName}}” na {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {dzień} =2 {dni} =3 {dni} =4 {dni} other {dni}} musisz mieć co najmniej {{suii}}"
+			},
+			"usdt": "USDT",
+			"activate": "Aktywuj",
+			"back": "Z powrotem",
+			"attention": "Uwaga!"
+		}
+	},
+	"subscription-main": {
+		"title": "Subskrypcja pyłu",
+		"active": "Aktywny",
+		"inactive": "Nieaktywny",
+		"to_end_subscription": "Do końca subskrypcji „{{name}}”:",
+		"continue_subscription": "Odnów subskrypcję",
+		"activate_subscription": "Aktywuj subskrypcję",
+		"all_transaction": "Wszystkie operacje",
+		"detail": "Więcej o subskrypcji",
+		"cryptocommunity": {
+			"0": {
+				"title": "Dostęp do społeczności kryptograficznej",
+				"description": "Prywatny serwer Discord z entuzjastami krypto"
+			},
+			"title": "Co obejmuje subskrypcja Cryptocommunity?"
+		},
+		"platform": {
+			"0": {
+				"title": "20 portfeli w Portfolio",
+				"description": "Utrzymanie i śledzenie aktywów"
+			},
+			"1": {
+				"title": "Dostęp do Akademii",
+				"description": "Materiały edukacyjne dotyczące kryptowalut"
+			},
+			"2": {
+				"title": "Dostęp do krypto-forum",
+				"description": "Tworzenie i komentowanie postów"
+			},
+			"3": {
+				"title": "Znak krypto",
+				"description": "1 z 5 postaci, które można ulepszać"
+			},
+			"4": {
+				"title": "Nagrody za aktywność",
+				"description": "System nagród i osiągnięć"
+			},
+			"5": {
+				"title": "Kalendarz krypto",
+				"description": "Śledzenie zdarzeń kryptograficznych"
+			},
+			"title": "Co obejmuje abonament Platformy?",
+			"soon": "Już wkrótce..."
+		}
+	}
+}

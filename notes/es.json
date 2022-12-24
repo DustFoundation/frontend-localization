@@ -2,6 +2,7 @@
 	"title": "notas",
 	"create_btn": "crear una nota",
 	"empty_note": "nota vacía",
+  "title_placeholder": "Mi nota",
 	"sort": {
 		"custom": "En orden personalizado",
 		"date_desc": "Fecha: primera noticia",

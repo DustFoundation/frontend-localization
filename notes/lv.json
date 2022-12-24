@@ -2,6 +2,7 @@
   "title": "Piezīmes",
   "create_btn": "Izveidot piezīmi",
   "empty_note": "Tukša piezīme",
+  "title_placeholder": "Mana piezīme",
   "sort": {
     "custom": "Pielāgotā secībā",
     "date_desc": "Datums: vispirms jaunais",

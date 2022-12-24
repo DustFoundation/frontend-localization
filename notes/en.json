@@ -2,6 +2,7 @@
   "title": "Notes",
   "create_btn": "Create a note",
   "empty_note": "Empty note",
+  "title_placeholder": "My note",
   "sort": {
     "custom": "In custom order",
     "date_desc": "Date: first new",

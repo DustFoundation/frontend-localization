@@ -2,6 +2,7 @@
 	"title": "笔记",
 	"create_btn": "创建笔记",
 	"empty_note": "空笔记",
+  "title_placeholder": "我的笔记",
 	"sort": {
 		"custom": "按自定义顺序",
 		"date_desc": "日期：第一个新",

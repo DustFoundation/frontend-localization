@@ -2,6 +2,7 @@
 	"title": "Notizen",
 	"create_btn": "Notiz erstellen",
 	"empty_note": "leere Notiz",
+  "title_placeholder": "Meine Notiz",
 	"sort": {
 		"custom": " in benutzerdefinierter Reihenfolge",
 		"date_desc": "Datum: neueste zuerst",

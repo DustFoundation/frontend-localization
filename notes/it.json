@@ -2,6 +2,7 @@
 	"title": "Appunti",
 	"create_btn": "Crea una nota",
 	"empty_note": "Nota vuota",
+  "title_placeholder": "Mia nota",
 	"sort": {
 		"custom": "In ordine personalizzato",
 		"date_desc": "Data: prima nuovo",

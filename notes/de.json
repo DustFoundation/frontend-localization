@@ -12,6 +12,7 @@
 	"create_note_dialog": {
 		"remove_button": "Notiz löschen",
 		"save": "Speichern",
+    "empty_note": "leere Notiz",
 		"title": "Erstellen einer Notiz",
 		"edit_title": "Bearbeiten einer Notiz",
 		"title_label": "Titel",

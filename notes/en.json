@@ -12,6 +12,7 @@
   "create_note_dialog": {
     "remove_button": "Delete note",
     "save": "Save",
+    "empty_note": "Empty note",
     "title": "Create a note",
     "edit_title": "Edit note",
     "title_label": "Header",

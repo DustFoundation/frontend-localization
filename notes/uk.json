@@ -14,6 +14,7 @@
     "save": "Зберегти",
     "title": "Створення нотатки",
     "edit_title": "Редагування нотатки",
+    "empty_note": "Порожня нотатка",
     "title_label": "Заголовок",
     "title_placeholder": "Моя нотатка",
     "content_placeholder": "Введіть текст нотатки",

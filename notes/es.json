@@ -12,6 +12,7 @@
 	"create_note_dialog": {
 		"remove_button": "Borrar nota",
 		"save": "Ahorrar",
+    "empty_note": "nota vacía",
 		"title": "crear una nota",
 		"edit_title": "Editar nota",
 		"title_label": "Encabezamiento",

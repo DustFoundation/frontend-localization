@@ -14,6 +14,7 @@
     "save": "Сохранить",
     "title": "Создание заметки",
     "edit_title": "Редактирование заметки",
+    "empty_note": "Пустая заметка",
     "title_label": "Заголовок",
     "title_placeholder": "Моя заметка",
     "content_placeholder": "Введите текст заметки",

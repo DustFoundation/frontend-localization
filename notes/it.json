@@ -12,6 +12,7 @@
 	"create_note_dialog": {
 		"remove_button": "Elimina nota",
 		"save": "Salva",
+    "empty_note": "Nota vuota",
 		"title": "Crea una nota",
 		"edit_title": "Modifica nota",
 		"title_label": "Titolo",

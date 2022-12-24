@@ -14,6 +14,7 @@
 		"save": "节省",
 		"title": "创建笔记",
 		"edit_title": "编辑笔记",
+    "empty_note": "空笔记",
 		"title_label": "标题",
 		"title_placeholder": "我的笔记",
 		"content_placeholder": "输入注释文本",

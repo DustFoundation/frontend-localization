@@ -67,6 +67,8 @@
 	"notes_access": "Pieejams lietotājiem, kuri ir abonējuši “Platformu“",
 	"latter_sent": "Vēstule nosūtīta uz jūsu pastu",
 	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ir atvienots",
-	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} jau ir savienots",
-	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ir savienots"
+	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} jau ir savienots",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ir savienots",
+	"invalid_buy_date": "Nevar izveidot izpārdošanu pirms pirkšanas",
+	"ticket_limit_exceeded": "Pārsniegts biļešu limits dienā! Lūdzu, pamēģiniet vēlreiz vēlāk."
 }

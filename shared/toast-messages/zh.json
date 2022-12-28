@@ -67,6 +67,8 @@
 	"notes_access": "已订阅“平台”的用户可用",
 	"latter_sent": "发送到您邮箱的信件",
 	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已断开连接",
-	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接",
-	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接"
+	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接",
+	"invalid_buy_date": "无法在购买前创建销售",
+	"ticket_limit_exceeded": "每天超过限额！请稍后再试。"
 }

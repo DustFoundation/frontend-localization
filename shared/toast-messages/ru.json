@@ -67,6 +67,8 @@
 	"notes_access": "Доступно для пользователей оформивших подписку “Platform“",
 	"last_sent": "Письмо отправлено на вашу почту",
 	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} отключен",
-	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} уже подключен",
-	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} подключен"
+	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} уже подключен",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} подключен",
+  "invalid_buy_date": "Невозможно создать продажу перед покупкой",
+  "ticket_limit_exceeded": "Превышен лимит тикетов в день! Попробуйте немного позже."
 }

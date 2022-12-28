@@ -67,6 +67,8 @@
 	"notes_access": "Disponibile per gli utenti abbonati di “Piattaforma”",
 	"latter_sent": "Email inviata alla tua posta",
 	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} è disconnesso",
-	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} è già connesso",
-	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} è connesso"
+	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} è già connesso",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} è connesso",
+	"invalid_buy_date": "Impossibile creare una vendita prima dell'acquisto",
+	"ticket_limit_exceeded": "Limite biglietto superato al giorno! Per favore riprova più tardi."
 }

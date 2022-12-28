@@ -67,6 +67,8 @@
 	"notes_access": "Disponible para usuarios que se hayan suscrito a la “Plataforma“",
 	"latter_sent": "Carta enviada a su correo",
 	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} está desconectado",
-	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ya está conectado",
-	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} está conectado"
+	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ya está conectado",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} está conectado",
+	"invalid_buy_date": "No se puede crear una venta antes de comprar",
+	"ticket_limit_exceeded": "¡Límite de entradas excedido por día! Por favor, inténtelo de nuevo más tarde."
 }

@@ -67,6 +67,8 @@
 	"notes_access": "Verfügbar für Benutzer, die „Platform“ abonniert haben",
 	"last_sent": "Brief an Ihre Post gesendet",
 	"success_disconnect": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist getrennt",
-	"alredy_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist bereits verbunden",
-	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist verbunden"
+	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist bereits verbunden",
+	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist verbunden",
+	"invalid_buy_date": "Vor dem Kauf kann kein Verkauf erstellt werden",
+	"ticket_limit_exceeded": "Ticketlimit pro Tag überschritten! Bitte versuchen Sie es später erneut."
 }

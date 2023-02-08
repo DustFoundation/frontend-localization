@@ -49,14 +49,14 @@
 			"enter_secret_key": "Introduce la clave secreta",
 			"secret_key": "Llave secreta",
 			"help": {
-        "BINANCE": {
-          "1": "En un sitio web de intercambio de Binance, abra la sección <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">Administración de API</a>",
-          "2": "<strong>Cree una nueva clave API</strong> , asígnele un nombre, por ejemplo, <strong>&quot;Portafolio DUST&quot;</strong> , y presione <strong>&quot;Siguiente&quot;</strong>",
-          "3": "(Si todo está bien), <strong>ingrese los códigos 2FA</strong>",
-          "4": "Copie <strong>la clave API</strong> y <strong>la clave secreta</strong>",
-          "5": "<span>ES DESEABLE deshabilitar el acceso al comercio para esta clave API, para ello:</span><ol><li> Haga clic <strong>en &quot;Editar restricciones&quot;</strong></li><li> Deshabilitar <strong>&quot;Habilitar comercio al contado y margen&quot;</strong></li><li> Haga clic <strong>en &quot;Guardar&quot;</strong></li><li> Ingrese el código <strong>de autenticación de dos factores</strong></li></ol>"
-        }
-      },
+				"BINANCE": {
+					"1": "En un sitio web de intercambio de Binance, abra la sección <a href=\"https://www.binance.com/en/my/settings/api-management\" target=\"blank\">Administración de API</a>",
+					"2": "<strong>Cree una nueva clave API</strong> , asígnele un nombre, por ejemplo, <strong>&quot;Portafolio DUST&quot;</strong> , y presione <strong>&quot;Siguiente&quot;</strong>",
+					"3": "(Si todo está bien), <strong>ingrese los códigos 2FA</strong>",
+					"4": "Copie <strong>la clave API</strong> y <strong>la clave secreta</strong>",
+					"5": "<span>ES DESEABLE deshabilitar el acceso al comercio para esta clave API, para ello:</span><ol><li> Haga clic <strong>en &quot;Editar restricciones&quot;</strong></li><li> Deshabilitar <strong>&quot;Habilitar comercio al contado y margen&quot;</strong></li><li> Haga clic <strong>en &quot;Guardar&quot;</strong></li><li> Ingrese el código <strong>de autenticación de dos factores</strong></li></ol>"
+				}
+			},
 			"create": "Crear",
 			"back": "atrás",
 			"onward": "próximo",
@@ -376,7 +376,8 @@
 			"exchange": "cartera de cambio",
 			"venture": "cartera de empresas",
 			"investment_value": "Cantidad de inversiones",
-			"portfolio_valuation": "Evaluación de cartera"
+			"portfolio_valuation": "Evaluación de cartera",
+			"convert": "Convertir"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Importe total de las inversiones",

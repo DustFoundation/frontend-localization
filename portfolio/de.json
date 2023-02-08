@@ -49,14 +49,14 @@
 			"enter_secret_key": "Geben Sie den geheimen Schlüssel ein",
 			"secret_key": "Der geheime Schlüssel",
 			"help": {
-        "BINANCE": {
-          "1": "Öffnen Sie auf der Website der Binance-Börse <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"blank\">den API-Bereich</a>",
-          "2": "<strong>Erstellen Sie einen neuen API-Schlüssel</strong> mit dem Namen zum Beispiel <strong>„DUST Portfolio“</strong> und klicken Sie auf <strong>„Neuen Schlüssel erstellen“</strong> .",
-          "3": "(Wenn alles geklappt hat), <strong>geben Sie den Zwei-Faktor-Authentifizierungscode ein</strong>",
-          "4": "Kopieren Sie <strong>den API-Schlüssel</strong> und den <strong>geheimen Schlüssel</strong>",
-          "5": "<span>Es wird EMPFOHLEN, den Zugriff auf den Handel für diesen API-Schlüssel aus folgenden Gründen zu deaktivieren:</span><ol><li> Klicken Sie <strong>auf &quot;Einstellungen&quot;</strong></li><li> Deaktivieren Sie <strong>&quot;Zugang zum Handel&quot;</strong></li><li> Klicken Sie auf <strong>&quot;Speichern&quot;</strong></li><li> Geben Sie den <strong>Zwei-Faktor-Authentifizierungscode</strong> ein</li></ol>"
-        }
-      },
+				"BINANCE": {
+					"1": "Öffnen Sie auf der Website der Binance-Börse <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"blank\">den API-Bereich</a>",
+					"2": "<strong>Erstellen Sie einen neuen API-Schlüssel</strong> mit dem Namen zum Beispiel <strong>„DUST Portfolio“</strong> und klicken Sie auf <strong>„Neuen Schlüssel erstellen“</strong> .",
+					"3": "(Wenn alles geklappt hat), <strong>geben Sie den Zwei-Faktor-Authentifizierungscode ein</strong>",
+					"4": "Kopieren Sie <strong>den API-Schlüssel</strong> und den <strong>geheimen Schlüssel</strong>",
+					"5": "<span>Es wird EMPFOHLEN, den Zugriff auf den Handel für diesen API-Schlüssel aus folgenden Gründen zu deaktivieren:</span><ol><li> Klicken Sie <strong>auf &quot;Einstellungen&quot;</strong></li><li> Deaktivieren Sie <strong>&quot;Zugang zum Handel&quot;</strong></li><li> Klicken Sie auf <strong>&quot;Speichern&quot;</strong></li><li> Geben Sie den <strong>Zwei-Faktor-Authentifizierungscode</strong> ein</li></ol>"
+				}
+			},
 			"create": "Erstellen",
 			"back": "zurück",
 			"onward": "weiter",
@@ -376,7 +376,8 @@
 			"exchange": "Börsenportfolio",
 			"venture": "Venture-Portfolio",
 			"investment_value": "Investitionsgröße",
-			"portfolio_valuation": "Portfoliobewertung"
+			"portfolio_valuation": "Portfoliobewertung",
+			"convert": "Konvertieren"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Gesamtinvestition",

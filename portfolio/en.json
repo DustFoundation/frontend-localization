@@ -377,7 +377,7 @@
 			"venture": "Venture portfolio",
 			"investment_value": "Amount of investments",
 			"portfolio_valuation": "Portfolio evaluation",
-			"convert": "Convert"
+			"copy_to_virtual": "Copy"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Total amount of investments",
@@ -419,6 +419,12 @@
 			"3_months": "3 mon",
 			"1_year": "1 year",
 			"all_time": "All time"
+		},
+		"dialog-convert-portfolio": {
+			"title": "Copy portfolio",
+			"text": "Are you sure you want to copy <span>{{name}}</span> briefcase to virtual?",
+			"cancel": "Cancel",
+			"confirm": "Confirm"
 		}
 	},
 	"portfolio": {

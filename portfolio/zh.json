@@ -377,7 +377,7 @@
 			"venture": "风险投资组合",
 			"investment_value": "投资金额",
 			"portfolio_valuation": "投资组合评估",
-			"convert": "转变"
+			"copy_to_virtual": "复制"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "投资总额",
@@ -419,6 +419,12 @@
 			"3_months": "3个月",
 			"1_year": "1年",
 			"all_time": "每时每刻"
+		},
+		"dialog-convert-portfolio": {
+			"title": "复制投资组合",
+			"text": "您确定要将<span>{{name}}</span>公文包复制到虚拟机吗？",
+			"cancel": "取消",
+			"confirm": "确认"
 		}
 	},
 	"portfolio": {

@@ -377,7 +377,7 @@
 			"venture": "Uzņēmuma portfelis",
 			"investment_value": "Investīciju apjoms",
 			"portfolio_valuation": "Portfeļa novērtējums",
-			"convert": "Konvertēt"
+			"copy_to_virtual": "Kopēt"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Kopējais Investīciju apjoms",
@@ -419,6 +419,12 @@
 			"3_months": "3 mēneši",
 			"1_year": "1 gads",
 			"all_time": "Visu laiku"
+		},
+		"dialog-convert-portfolio": {
+			"title": "Kopēt portfolio",
+			"text": "Vai tiešām vēlaties kopēt <span>{{name}}</span> portfeli uz virtuālo?",
+			"cancel": "Atcelt",
+			"confirm": "Apstiprināt"
 		}
 	},
 	"portfolio": {

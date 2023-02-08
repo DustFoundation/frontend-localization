@@ -377,7 +377,7 @@
 			"venture": "Portafoglio di avventura",
 			"investment_value": "Importo degli investimenti",
 			"portfolio_valuation": "Valutazione del portafoglio",
-			"convert": "Convertire"
+			"copy_to_virtual": "copia"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Importo totale degli investimenti",
@@ -419,6 +419,12 @@
 			"3_months": "3 mio",
 			"1_year": "1 anno",
 			"all_time": "Sempre"
+		},
+		"dialog-convert-portfolio": {
+			"title": "Copia portafoglio",
+			"text": "Sei sicuro di voler copiare la valigetta <span>{{name}}</span> in virtuale?",
+			"cancel": "Annulla",
+			"confirm": "Confermare"
 		}
 	},
 	"portfolio": {

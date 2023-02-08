@@ -377,7 +377,7 @@
 			"venture": "Venture-Portfolio",
 			"investment_value": "Investitionsgröße",
 			"portfolio_valuation": "Portfoliobewertung",
-			"convert": "Konvertieren"
+			"copy_to_virtual": "Kopieren"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Gesamtinvestition",
@@ -419,6 +419,12 @@
 			"3_months": "3 Monate",
 			"1_year": "1 Jahr",
 			"all_time": "Die ganze Zeit"
+		},
+		"dialog-convert-portfolio": {
+			"title": "Portfolio kopieren",
+			"text": "Sind Sie sicher, dass Sie <span>{{name}}</span> Aktenkoffer in Virtual kopieren möchten?",
+			"cancel": "Stornieren",
+			"confirm": "Bestätigen"
 		}
 	},
 	"portfolio": {

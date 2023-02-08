@@ -377,7 +377,7 @@
 			"venture": "cartera de empresas",
 			"investment_value": "Cantidad de inversiones",
 			"portfolio_valuation": "Evaluación de cartera",
-			"convert": "Convertir"
+			"copy_to_virtual": "Copiar"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Importe total de las inversiones",
@@ -419,6 +419,12 @@
 			"3_months": "3 mi",
 			"1_year": "1 año",
 			"all_time": "Todo el tiempo"
+		},
+		"dialog-convert-portfolio": {
+			"title": "Copiar portafolio",
+			"text": "¿Está seguro de que desea copiar el maletín <span>{{name}}</span> a virtual?",
+			"cancel": "Cancelar",
+			"confirm": "Confirmar"
 		}
 	},
 	"portfolio": {

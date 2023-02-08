@@ -51,14 +51,14 @@
 			"enter_passphrase": "Введіть слово-пароль (passphrase)",
 			"passphrase": "Слово-пароль",
 			"help": {
-        "BINANCE": {
-          "1": "На сайті біржі Binance відкрийте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">розділ API</a>",
-          "2": "<strong> Створіть новий API ключ </strong> назвавши його, наприклад, <strong>\"DUST Portfolio\"</strong>, і натисніть <strong>\"створити новий ключ\"</strong>",
-          "3": "(Якщо все вийшло), <strong>введіть код двофакторної автентифікації</strong>",
-          "4": "Скопіюйте <strong>ключ API</strong> і <strong>секретний ключ</strong>",
-          "5": "<span> БАЖАНО ВИМКНУТИ доступ до торгівлі для цього API ключа, для цього:</span><ol><li>Натисніть <strong>\"Налаштування\"</strong></li><li>Забороніть <strong>\"Доступ до торгівлі\"</strong></li><li>Натисніть <strong>\"Зберегти\"</strong></li><li>Введіть код <strong>Двофакторної аутентифікації</strong></li></ol>"
-        }
-      },
+				"BINANCE": {
+					"1": "На сайті біржі Binance відкрийте <a href=\"https://www.binance.com/ru/my/settings/api-management\" target=\"_blank\">розділ API</a>",
+					"2": "<strong> Створіть новий API ключ </strong> назвавши його, наприклад, <strong>\"DUST Portfolio\"</strong>, і натисніть <strong>\"створити новий ключ\"</strong>",
+					"3": "(Якщо все вийшло), <strong>введіть код двофакторної автентифікації</strong>",
+					"4": "Скопіюйте <strong>ключ API</strong> і <strong>секретний ключ</strong>",
+					"5": "<span> БАЖАНО ВИМКНУТИ доступ до торгівлі для цього API ключа, для цього:</span><ol><li>Натисніть <strong>\"Налаштування\"</strong></li><li>Забороніть <strong>\"Доступ до торгівлі\"</strong></li><li>Натисніть <strong>\"Зберегти\"</strong></li><li>Введіть код <strong>Двофакторної аутентифікації</strong></li></ol>"
+				}
+			},
 			"create": "Створити",
 			"back": "Назад",
 			"onward": "Далі",
@@ -372,12 +372,12 @@
 			"edit": "Редагувати",
 			"delete": "Видалити",
 			"open": "Відкрити",
-      "convert": "Конвертувати",
 			"virtual": "Віртуальний портфель",
 			"exchange": "Біржовий портфель",
 			"venture": "Венчурний портфель",
 			"investment_value": "Об'єм інвестицій",
-			"portfolio_valuation": "Оцінка портфеля"
+			"portfolio_valuation": "Оцінка портфеля",
+			"copy_to_virtual": "Копіювати"
 		},
 		"portfolio-pnl": {
 			"total_attachments": "Загальний об'єм вкладень",
@@ -419,6 +419,12 @@
 			"3_months": "3 міс",
 			"1_year": "1 рік",
 			"all_time": "Весь час"
+		},
+		"dialog-convert-portfolio": {
+			"title": "Копіювати портфель",
+			"text": "Ви впевнені, що хочете скопіювати <span>{{name}}</span> портфель у віртуальний?",
+			"cancel": "Відміна",
+			"confirm": "Підтвердити"
 		}
 	},
 	"portfolio": {

@@ -70,5 +70,7 @@
 	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} jau ir savienots",
 	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ir savienots",
 	"invalid_buy_date": "Nevar izveidot izpārdošanu pirms pirkšanas",
-	"ticket_limit_exceeded": "Pārsniegts biļešu limits dienā! Lūdzu, pamēģiniet vēlreiz vēlāk."
+	"ticket_limit_exceeded": "Pārsniegts biļešu limits dienā! Lūdzu, pamēģiniet vēlreiz vēlāk.",
+	"portfolio_no_access": "Jums nav piekļuves",
+	"exchange_portfolio_already_exist": "Portfelis jau pastāv"
 }

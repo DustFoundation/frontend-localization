@@ -70,5 +70,7 @@
 	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接",
 	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} 已连接",
 	"invalid_buy_date": "无法在购买前创建销售",
-	"ticket_limit_exceeded": "每天超过限额！请稍后再试。"
+	"ticket_limit_exceeded": "每天超过限额！请稍后再试。",
+	"portfolio_no_access": "你无权访问",
+	"exchange_portfolio_already_exist": "投资组合已存在"
 }

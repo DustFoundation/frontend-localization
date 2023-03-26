@@ -70,5 +70,7 @@
 	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} уже підключено",
 	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} підключено",
 	"invalid_buy_date": "Неможливо створити продаж перед покупкою",
-	"ticket_limit_exceeded": "Перевищено ліміт тикетів на день! Спробуйте трохи пізніше."
+	"ticket_limit_exceeded": "Перевищено ліміт тикетів на день! Спробуйте трохи пізніше.",
+	"portfolio_no_access": "У вас немає доступу",
+	"exchange_portfolio_already_exist": "Портфель вже існує"
 }

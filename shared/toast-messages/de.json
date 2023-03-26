@@ -70,5 +70,7 @@
 	"already_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist bereits verbunden",
 	"success_connected": "{name, select, google {Google} telegram {Telegram} discord {Discord} other {Unk}} ist verbunden",
 	"invalid_buy_date": "Vor dem Kauf kann kein Verkauf erstellt werden",
-	"ticket_limit_exceeded": "Ticketlimit pro Tag überschritten! Bitte versuchen Sie es später erneut."
+	"ticket_limit_exceeded": "Ticketlimit pro Tag überschritten! Bitte versuchen Sie es später erneut.",
+	"portfolio_no_access": "Sie haben keinen Zugriff",
+	"exchange_portfolio_already_exist": "Bestand ist bereits vorhanden"
 }

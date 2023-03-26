@@ -58,6 +58,8 @@
 	"invalid_api_key": "API ключи не валидны!",
 	"portfolio_limit_reached": "Достигнут лимит создания портфелей",
 	"error_create_portfolio": "Ошибка при создании портфеля",
+  "portfolio_no_access": "У вас нет доступа",
+  "exchange_portfolio_already_exist": "Портфель уже существует",
 	"failed_get_reward": "Не удалось получить дневную награду",
 	"error_auth_telegram": "Ошибка авторизации через телеграм",
 	"note_deleted": "Заметка удалена",

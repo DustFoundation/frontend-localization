@@ -72,5 +72,14 @@
 	"invalid_buy_date": "无法在购买前创建销售",
 	"ticket_limit_exceeded": "每天超过限额！请稍后再试。",
 	"portfolio_no_access": "你无权访问",
-	"exchange_portfolio_already_exist": "投资组合已存在"
+	"exchange_portfolio_already_exist": "投资组合已存在",
+	"portfolio_not_found": "未找到投资组合",
+	"coin_not_found": "找不到硬币",
+	"coin_already_exists": "硬币已经存在",
+	"coin_limit_reached": "已达到硬币添加限制",
+	"assets_limit_reached": "已达到硬币添加限制",
+	"asset_not_found": "找不到硬币",
+	"credentials_not_found": "找不到凭据",
+	"sync_in_progress": "同步已经在运行",
+	"sync_too_soon": "不能同步太频繁"
 }

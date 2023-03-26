@@ -72,5 +72,14 @@
 	"invalid_buy_date": "No se puede crear una venta antes de comprar",
 	"ticket_limit_exceeded": "¡Límite de entradas excedido por día! Por favor, inténtelo de nuevo más tarde.",
 	"portfolio_no_access": "no tienes acceso",
-	"exchange_portfolio_already_exist": "El portafolio ya existe"
+	"exchange_portfolio_already_exist": "El portafolio ya existe",
+	"portfolio_not_found": "Portafolio no encontrado",
+	"coin_not_found": "Moneda no encontrada",
+	"coin_already_exists": "La moneda ya existe",
+	"coin_limit_reached": "Límite de adición de monedas alcanzado",
+	"assets_limit_reached": "Límite de adición de monedas alcanzado",
+	"asset_not_found": "Moneda no encontrada",
+	"credentials_not_found": "Credenciales no encontradas",
+	"sync_in_progress": "La sincronización ya se está ejecutando",
+	"sync_too_soon": "No se puede sincronizar con demasiada frecuencia"
 }

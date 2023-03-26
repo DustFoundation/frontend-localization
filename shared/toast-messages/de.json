@@ -72,5 +72,14 @@
 	"invalid_buy_date": "Vor dem Kauf kann kein Verkauf erstellt werden",
 	"ticket_limit_exceeded": "Ticketlimit pro Tag überschritten! Bitte versuchen Sie es später erneut.",
 	"portfolio_no_access": "Sie haben keinen Zugriff",
-	"exchange_portfolio_already_exist": "Bestand ist bereits vorhanden"
+	"exchange_portfolio_already_exist": "Bestand ist bereits vorhanden",
+	"portfolio_not_found": "Portfolio nicht gefunden",
+	"coin_not_found": "Münze nicht gefunden",
+	"coin_already_exists": "Münze existiert bereits",
+	"coin_limit_reached": "Limit für das Hinzufügen von Münzen erreicht",
+	"assets_limit_reached": "Limit für das Hinzufügen von Münzen erreicht",
+	"asset_not_found": "Münze nicht gefunden",
+	"credentials_not_found": "Anmeldedaten nicht gefunden",
+	"sync_in_progress": "Die Synchronisation läuft bereits",
+	"sync_too_soon": "Kann nicht zu oft synchronisieren"
 }

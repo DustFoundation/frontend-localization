@@ -72,5 +72,14 @@
 	"invalid_buy_date": "Неможливо створити продаж перед покупкою",
 	"ticket_limit_exceeded": "Перевищено ліміт тикетів на день! Спробуйте трохи пізніше.",
 	"portfolio_no_access": "У вас немає доступу",
-	"exchange_portfolio_already_exist": "Портфель вже існує"
+	"exchange_portfolio_already_exist": "Портфель вже існує",
+	"portfolio_not_found": "Портфель не знайдено",
+	"coin_not_found": "Монета не знайдено",
+	"coin_already_exists": "Монета вже існує",
+	"coin_limit_reached": "Досягнуто ліміт додавання монет",
+	"assets_limit_reached": "Досягнуто ліміт додавання монет",
+	"asset_not_found": "Монета не знайдено",
+	"credentials_not_found": "Облікові дані не знайдено",
+	"sync_in_progress": "Синхронізація вже запущена",
+	"sync_too_soon": "Не можна запускати синхронізацію занадто часто"
 }

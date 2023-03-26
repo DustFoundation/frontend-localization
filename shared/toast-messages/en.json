@@ -72,5 +72,14 @@
 	"invalid_buy_date": "Unable to create a sale before buying",
 	"ticket_limit_exceeded": "Ticket limit exceeded per day! Please try again later.",
 	"portfolio_no_access": "You don't have access",
-	"exchange_portfolio_already_exist": "Portfolio already exists"
+	"exchange_portfolio_already_exist": "Portfolio already exists",
+	"portfolio_not_found": "Portfolio not found",
+	"coin_not_found": "Coin not found",
+	"coin_already_exists": "Coin already exists",
+	"coin_limit_reached": "Coin addition limit reached",
+	"assets_limit_reached": "Coin addition limit reached",
+	"asset_not_found": "Coin not found",
+	"credentials_not_found": "Credentials not found",
+	"sync_in_progress": "Synchronization is already running",
+	"sync_too_soon": "Can't sync too often"
 }

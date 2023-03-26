@@ -72,5 +72,14 @@
 	"invalid_buy_date": "Nevar izveidot izpārdošanu pirms pirkšanas",
 	"ticket_limit_exceeded": "Pārsniegts biļešu limits dienā! Lūdzu, pamēģiniet vēlreiz vēlāk.",
 	"portfolio_no_access": "Jums nav piekļuves",
-	"exchange_portfolio_already_exist": "Portfelis jau pastāv"
+	"exchange_portfolio_already_exist": "Portfelis jau pastāv",
+	"portfolio_not_found": "Portfelis nav atrasts",
+	"coin_not_found": "Monēta nav atrasta",
+	"coin_already_exists": "Monēta jau pastāv",
+	"coin_limit_reached": "Sasniegts monētu pievienošanas limits",
+	"assets_limit_reached": "Sasniegts monētu pievienošanas limits",
+	"asset_not_found": "Monēta nav atrasta",
+	"credentials_not_found": "Akreditācijas dati nav atrasti",
+	"sync_in_progress": "Sinhronizācija jau notiek",
+	"sync_too_soon": "Nevar sinhronizēt pārāk bieži"
 }

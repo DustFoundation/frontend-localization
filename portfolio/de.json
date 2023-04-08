@@ -336,7 +336,11 @@
 			"value": "Volumen in $",
 			"close": "Schließen",
 			"buy": "Kaufen",
-			"sell": "Verkaufen"
+			"sell": "Verkaufen",
+			"deposit": "Nachschub",
+			"withdraw": "Abschluss",
+			"convert_in": "Wandlung",
+			"convert_out": "Wandlung"
 		},
 		"dialog-venture-coin-info": {
 			"title": "Angaben zum Venture-Vermögenswerte",

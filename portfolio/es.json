@@ -336,7 +336,11 @@
 			"value": "Valor en $",
 			"close": "Cerca",
 			"buy": "Comprar",
-			"sell": "Rebaja"
+			"sell": "Rebaja",
+			"deposit": "Reposición",
+			"withdraw": "Conclusión",
+			"convert_in": "Conversión",
+			"convert_out": "Conversión"
 		},
 		"dialog-venture-coin-info": {
 			"title": "Detalles de activos de riesgo",

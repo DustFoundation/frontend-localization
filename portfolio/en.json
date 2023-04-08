@@ -336,7 +336,11 @@
 			"value": "Value in $",
 			"close": "Close",
 			"buy": "Buying",
-			"sell": "Sale"
+			"sell": "Sale",
+			"deposit": "Replenishment",
+			"withdraw": "Conclusion",
+			"convert_in": "Conversion",
+			"convert_out": "Conversion"
 		},
 		"dialog-venture-coin-info": {
 			"title": "Venture asset details",

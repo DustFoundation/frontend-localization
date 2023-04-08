@@ -336,7 +336,11 @@
 			"value": "价值（美元）",
 			"close": "关",
 			"buy": "买入",
-			"sell": "卖出"
+			"sell": "卖出",
+			"deposit": "补货",
+			"withdraw": "结论",
+			"convert_in": "转换",
+			"convert_out": "转换"
 		},
 		"dialog-venture-coin-info": {
 			"title": "风险资产详情",

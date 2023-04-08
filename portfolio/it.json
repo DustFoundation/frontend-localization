@@ -336,7 +336,11 @@
 			"value": "Valore in $",
 			"close": "Chiudere",
 			"buy": "Acquisto",
-			"sell": "Vendita"
+			"sell": "Vendita",
+			"deposit": "Rifornimento",
+			"withdraw": "Conclusione",
+			"convert_in": "Conversione",
+			"convert_out": "Conversione"
 		},
 		"dialog-venture-coin-info": {
 			"title": "Dettagli sulle risorse di avventura",

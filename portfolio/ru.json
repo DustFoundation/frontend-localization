@@ -335,7 +335,11 @@
       "value": "Объем в $",
       "close": "Закрыть",
       "buy": "Покупка",
-      "sell": "Продажа"
+      "sell": "Продажа",
+      "deposit": "Пополнение",
+      "withdraw": "Вывод",
+      "convert_in": "Конвертация",
+      "convert_out": "Конвертация"
     },
     "dialog-venture-coin-info": {
       "title": "Детали венчурного актива",

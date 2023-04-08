@@ -336,7 +336,11 @@
 			"value": "Vērtība USD",
 			"close": "Aizvērt",
 			"buy": "Pirkt",
-			"sell": "Pārdot"
+			"sell": "Pārdot",
+			"deposit": "Papildināšana",
+			"withdraw": "Secinājums",
+			"convert_in": "Pārvēršana",
+			"convert_out": "Pārvēršana"
 		},
 		"dialog-venture-coin-info": {
 			"title": "Detalizēta uzņēmuma informācija par assetu",

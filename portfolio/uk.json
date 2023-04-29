@@ -402,7 +402,8 @@
 			"edit_transaction": "Редагувати транзакцію",
 			"delete_transaction": "Видалити транзакцію",
 			"convert_in": "Конвертована в {{coin}}",
-			"convert_out": "Конвертація з {{coin}}"
+			"convert_out": "Конвертація з {{coin}}",
+			"need_delete_sell_side_first": "Спочатку видаліть транзакцію продажу"
 		},
 		"series-finance": {
 			"title": "Розподіл фінансів",

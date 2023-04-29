@@ -400,6 +400,7 @@
       "convert_in": "Конвертация в {{ coin }}",
       "convert_out": "Конвертация из {{ coin }}",
       "need_subscription": "Нужно оформить подписку",
+      "need_delete_sell_side_first": "Сначала удалите транзакцию продажи",
       "edit_transaction": "Редактировать транзакцию",
       "delete_transaction": "Удалить транзакцию"
     },

@@ -402,7 +402,8 @@
 			"edit_transaction": "Editar transacción",
 			"delete_transaction": "Eliminar transacción",
 			"convert_in": "Convertir a {{coin}}",
-			"convert_out": "Convertir de {{coin}}"
+			"convert_out": "Convertir de {{coin}}",
+			"need_delete_sell_side_first": "Eliminar la transacción de venta primero"
 		},
 		"series-finance": {
 			"title": "Desglose de las finanzas",

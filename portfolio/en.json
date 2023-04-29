@@ -402,7 +402,8 @@
 			"edit_transaction": "Edit transaction",
 			"delete_transaction": "Delete transaction",
 			"convert_in": "Convert to {{coin}}",
-			"convert_out": "Convert from {{coin}}"
+			"convert_out": "Convert from {{coin}}",
+			"need_delete_sell_side_first": "Delete the sale transaction first"
 		},
 		"series-finance": {
 			"title": "Finances breakdown",

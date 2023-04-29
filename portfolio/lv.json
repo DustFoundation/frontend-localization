@@ -402,7 +402,8 @@
 			"edit_transaction": "Rediģēt darījumu",
 			"delete_transaction": "Dzēst transaction",
 			"convert_in": "Konvertēt uz {{coin}}",
-			"convert_out": "Konvertēt no {{coin}}"
+			"convert_out": "Konvertēt no {{coin}}",
+			"need_delete_sell_side_first": "Vispirms izdzēsiet pārdošanas darījumu"
 		},
 		"series-finance": {
 			"title": "Finanšu sadalījums",

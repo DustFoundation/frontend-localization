@@ -402,7 +402,8 @@
 			"edit_transaction": "Modifica transazione",
 			"delete_transaction": "Elimina transazione",
 			"convert_in": "Converti in {{coin}}",
-			"convert_out": "Converti da {{coin}}"
+			"convert_out": "Converti da {{coin}}",
+			"need_delete_sell_side_first": "Elimina prima la transazione di vendita"
 		},
 		"series-finance": {
 			"title": "Ripartizione delle finanze",

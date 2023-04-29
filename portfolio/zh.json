@@ -402,7 +402,8 @@
 			"edit_transaction": "编辑交易",
 			"delete_transaction": "删除交易",
 			"convert_in": "转换为 {{coin}}",
-			"convert_out": "从 {{coin}} 转换"
+			"convert_out": "从 {{coin}} 转换",
+			"need_delete_sell_side_first": "先删除销售交易"
 		},
 		"series-finance": {
 			"title": "财务明细",

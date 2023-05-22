@@ -390,7 +390,11 @@
 			"portfolio_evaluation": "Portfolio evaluation",
 			"all_times_pnl": "All time PNL",
 			"portfolio_pnl": "Portfolio PNL",
-			"total_portfolio_evaluation": "Total portfolio evaluation"
+			"total_portfolio_evaluation": "Total portfolio evaluation",
+			"realized_profit": "Realized profit",
+			"unrealized_profit": "Unrealized profit",
+			"realized_pnl": "Implemented PNL",
+			"unrealized_pnl": "Unrealized PNL"
 		},
 		"portfolio-transaction": {
 			"buy": "Buy",

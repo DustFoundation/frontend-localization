@@ -390,7 +390,11 @@
 			"portfolio_evaluation": "Portfeļa novērtējums",
 			"all_times_pnl": "Visu laiku PNL",
 			"portfolio_pnl": "Portfeļa PNL",
-			"total_portfolio_evaluation": "Kopējais Portfeļa novērtējums"
+			"total_portfolio_evaluation": "Kopējais Portfeļa novērtējums",
+			"realized_profit": "Realizētā peļņa",
+			"unrealized_profit": "Nerealizētā peļņa",
+			"realized_pnl": "Ieviests PNL",
+			"unrealized_pnl": "Nerealizēts PNL"
 		},
 		"portfolio-transaction": {
 			"buy": "Pirkt",

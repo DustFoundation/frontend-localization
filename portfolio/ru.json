@@ -389,7 +389,11 @@
       "portfolio_evaluation": "Оценка портфеля",
       "all_times_pnl": "Общий PNL за все время",
       "portfolio_pnl": "PNL портфеля",
-      "total_portfolio_evaluation": "Общая оценка портфелей"
+      "total_portfolio_evaluation": "Общая оценка портфелей",
+      "realized_profit": "Реализованная прибыль",
+      "unrealized_profit": "Нереализованная прибыль",
+      "realized_pnl": "Реализованный PNL",
+      "unrealized_pnl": "Нереализованный PNL"
     },
     "portfolio-transaction": {
       "buy": "Покупка",

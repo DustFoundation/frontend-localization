@@ -390,7 +390,11 @@
 			"portfolio_evaluation": "投资组合评估",
 			"all_times_pnl": "所有时间盈亏",
 			"portfolio_pnl": "盈亏投资组合",
-			"total_portfolio_evaluation": "总投资组合评估"
+			"total_portfolio_evaluation": "总投资组合评估",
+			"realized_profit": "已实现利润",
+			"unrealized_profit": "未实现利润",
+			"realized_pnl": "已实施盈亏",
+			"unrealized_pnl": "未实现盈亏"
 		},
 		"portfolio-transaction": {
 			"buy": "买",

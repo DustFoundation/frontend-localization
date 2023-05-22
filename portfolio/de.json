@@ -390,7 +390,11 @@
 			"portfolio_evaluation": "Portfoliobewertung",
 			"all_times_pnl": "Gesamt PNL für alle Zeiten",
 			"portfolio_pnl": "PNL-Portfolio",
-			"total_portfolio_evaluation": "Gesamtportfoliobewertung"
+			"total_portfolio_evaluation": "Gesamtportfoliobewertung",
+			"realized_profit": "Realisierter Gewinn",
+			"unrealized_profit": "Nicht realisierter Gewinn",
+			"realized_pnl": "PNL implementiert",
+			"unrealized_pnl": "Nicht realisierter PNL"
 		},
 		"portfolio-transaction": {
 			"buy": "Kaufen",

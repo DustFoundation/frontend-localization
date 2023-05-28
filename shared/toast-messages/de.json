@@ -81,5 +81,6 @@
 	"asset_not_found": "Münze nicht gefunden",
 	"credentials_not_found": "Anmeldedaten nicht gefunden",
 	"sync_in_progress": "Die Synchronisation läuft bereits",
-	"sync_too_soon": "Kann nicht zu oft synchronisieren"
+	"sync_too_soon": "Kann nicht zu oft synchronisieren",
+	"updated": "Aktualisiert"
 }

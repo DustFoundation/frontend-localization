@@ -81,5 +81,6 @@
 	"asset_not_found": "Moneta non trovata",
 	"credentials_not_found": "Credenziali non trovate",
 	"sync_in_progress": "La sincronizzazione è già in esecuzione",
-	"sync_too_soon": "Impossibile eseguire la sincronizzazione troppo spesso"
+	"sync_too_soon": "Impossibile eseguire la sincronizzazione troppo spesso",
+	"updated": "Aggiornato"
 }

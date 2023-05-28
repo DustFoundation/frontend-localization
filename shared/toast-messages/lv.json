@@ -81,5 +81,6 @@
 	"asset_not_found": "Monēta nav atrasta",
 	"credentials_not_found": "Akreditācijas dati nav atrasti",
 	"sync_in_progress": "Sinhronizācija jau notiek",
-	"sync_too_soon": "Nevar sinhronizēt pārāk bieži"
+	"sync_too_soon": "Nevar sinhronizēt pārāk bieži",
+	"updated": "Atjaunināts"
 }

@@ -81,5 +81,6 @@
 	"asset_not_found": "找不到硬币",
 	"credentials_not_found": "找不到凭据",
 	"sync_in_progress": "同步已经在运行",
-	"sync_too_soon": "不能同步太频繁"
+	"sync_too_soon": "不能同步太频繁",
+	"updated": "更新"
 }

@@ -81,5 +81,6 @@
 	"asset_not_found": "Coin not found",
 	"credentials_not_found": "Credentials not found",
 	"sync_in_progress": "Synchronization is already running",
-	"sync_too_soon": "Can't sync too often"
+	"sync_too_soon": "Can't sync too often",
+	"updated": "Updated"
 }

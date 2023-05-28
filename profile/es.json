@@ -102,7 +102,8 @@
 				"min_length": "Longitud mínima del campo {{length}} caracteres"
 			}
 		},
-		"saved": "Salvado"
+		"saved": "Salvado",
+		"notifications_title": "Notificaciones"
 	},
 	"profile-transactions": {
 		"transaction": "Transacción",
@@ -129,6 +130,28 @@
 			"canceled": "Cancelado",
 			"expired": "Venció",
 			"other": "Desconocido"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "Recibir notificaciones",
+		"destinations": {
+			"mail": "Oficina de correos",
+			"telegram": "Telegrama",
+			"discord": "Discordia"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "Fin de suscripción",
+				"description": "Recibe notificaciones sobre el final de la suscripción 3 y 7 días antes del final"
+			},
+			"blog-posts": {
+				"title": "Blog",
+				"description": "Reciba notificaciones sobre nuevas publicaciones en el blog"
+			},
+			"forum-activity": {
+				"title": "Foro",
+				"description": "Recibe notificaciones de nuevos comentarios en el foro"
+			}
 		}
 	}
 }

@@ -102,7 +102,8 @@
         "required": "Поле обязательно для заполнения",
         "min_length": "Минимальная длина поля {{ length }} символов"
       }
-    }
+    },
+    "notifications_title": "Уведомления"
   },
   "profile-transactions": {
     "transaction": "Транзакция",
@@ -129,6 +130,28 @@
       "canceled": "Отменено",
       "expired": "Просрочено",
       "other": "Неизвестно"
+    }
+  },
+  "settings-notifications": {
+    "receive_notifications": "Получать уведомления",
+    "destinations": {
+      "mail": "Почта",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "notifications": {
+      "subscription-expiration": {
+        "title": "Окончание подписки",
+        "description": "Получать уведомления об окончании подписки за 3 и 7 дней до окончания"
+      },
+      "blog-posts": {
+        "title": "Блог",
+        "description": "Получать уведомления о новых постах в блоге"
+      },
+      "forum-activity": {
+        "title": "Форум",
+        "description": "Получать уведомления о новых комментариях на форуме"
+      }
     }
   }
 }

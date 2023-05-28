@@ -88,21 +88,22 @@
 		"password": "Parole",
 		"mail": "E-pasts",
 		"nickname": "Segvārds",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "de": "Deutsch",
-    "zh": "中文",
-    "it": "Italiano",
-    "es": "Español",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+		"zh": "中文",
+		"it": "Italiano",
+		"es": "Español",
 		"saved": "Saglabāts",
 		"main": {
 			"validation_messages": {
 				"required": "Obligāts lauks",
 				"min_length": "Minimālais lauka garums {{length}} rakstzīmes"
 			}
-		}
+		},
+		"notifications_title": "Paziņojumi"
 	},
 	"profile-transactions": {
 		"transaction": "Darījums",
@@ -129,6 +130,28 @@
 			"canceled": "Atcelts",
 			"expired": "Beigusies",
 			"other": "Nezināms"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "Saņemt paziņojumus",
+		"destinations": {
+			"mail": "Pasts",
+			"telegram": "Telegramma",
+			"discord": "Nesaskaņas"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "Abonementa beigas",
+				"description": "Saņemiet paziņojumus par abonementa beigām 3 un 7 dienas pirms beigām"
+			},
+			"blog-posts": {
+				"title": "Emuārs",
+				"description": "Saņemiet paziņojumus par jauniem emuāra ierakstiem"
+			},
+			"forum-activity": {
+				"title": "Forums",
+				"description": "Saņemiet paziņojumus par jauniem komentāriem forumā"
+			}
 		}
 	}
 }

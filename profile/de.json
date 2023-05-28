@@ -95,14 +95,15 @@
 		"de": "Deutsch",
 		"zh": "中文",
 		"it": "Italiano",
-    "es": "Español",
+		"es": "Español",
 		"saved": "gespeichert",
 		"main": {
 			"validation_messages": {
 				"required": "Pflichtfeld",
 				"min_length": "Minimale Feldlänge {{length}} Zeichen"
 			}
-		}
+		},
+		"notifications_title": "Benachrichtigungen"
 	},
 	"profile-transactions": {
 		"transaction": "Transaktion",
@@ -129,6 +130,28 @@
 			"canceled": "abgebrochen",
 			"expired": "abgelaufen",
 			"other": "Unbekannt"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "Benachrichtigungen erhalten",
+		"destinations": {
+			"mail": "Post",
+			"telegram": "Telegramm",
+			"discord": "Zwietracht"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "Ende des Abonnements",
+				"description": "Erhalten Sie 3 und 7 Tage vor Ablauf Benachrichtigungen über das Ende des Abonnements"
+			},
+			"blog-posts": {
+				"title": "Blog",
+				"description": "Lassen Sie sich über neue Blogbeiträge benachrichtigen"
+			},
+			"forum-activity": {
+				"title": "Forum",
+				"description": "Erhalten Sie Benachrichtigungen über neue Kommentare im Forum"
+			}
 		}
 	}
 }

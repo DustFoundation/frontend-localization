@@ -88,21 +88,22 @@
 		"password": "密码",
 		"mail": "电子邮件",
 		"nickname": "昵称",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "de": "Deutsch",
-    "zh": "中文",
-    "it": "Italiano",
-    "es": "Español",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+		"zh": "中文",
+		"it": "Italiano",
+		"es": "Español",
 		"saved": "已保存",
 		"main": {
 			"validation_messages": {
 				"required": "必填项目",
 				"min_length": "最小字段长度 {{length}} 个字符"
 			}
-		}
+		},
+		"notifications_title": "通知"
 	},
 	"profile-transactions": {
 		"transaction": "交易",
@@ -129,6 +130,28 @@
 			"canceled": "取消",
 			"expired": "已到期",
 			"other": "未知"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "接收通知",
+		"destinations": {
+			"mail": "邮局",
+			"telegram": "电报",
+			"discord": "不和谐"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "订阅结束",
+				"description": "订阅结束前3天和7天收到订阅结束通知"
+			},
+			"blog-posts": {
+				"title": "博客",
+				"description": "收到有关新博客文章的通知"
+			},
+			"forum-activity": {
+				"title": "论坛",
+				"description": "收到论坛新评论的通知"
+			}
 		}
 	}
 }

@@ -88,21 +88,22 @@
 		"password": "Пароль",
 		"mail": "Пошта",
 		"nickname": "Нікнейм",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "de": "Deutsch",
-    "zh": "中文",
-    "it": "Italiano",
-    "es": "Español",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+		"zh": "中文",
+		"it": "Italiano",
+		"es": "Español",
 		"saved": "Збережено",
 		"main": {
 			"validation_messages": {
 				"required": "Поле обов'язкове для заповнення",
 				"min_length": "Мінімальна довжина поля {{length}} символів"
 			}
-		}
+		},
+		"notifications_title": "Повідомлення"
 	},
 	"profile-transactions": {
 		"transaction": "Транзакція",
@@ -129,6 +130,28 @@
 			"canceled": "Скасовано",
 			"expired": "Прострочено",
 			"other": "Невідомо"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "Отримувати повідомлення",
+		"destinations": {
+			"mail": "Пошта",
+			"telegram": "Телеграма",
+			"discord": "Розбрат"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "Закінчення передплати",
+				"description": "Отримувати повідомлення про закінчення передплати за 3 та 7 днів до закінчення"
+			},
+			"blog-posts": {
+				"title": "Блог",
+				"description": "Отримувати повідомлення про нові посади у блозі"
+			},
+			"forum-activity": {
+				"title": "Форум",
+				"description": "Отримувати повідомлення про нові коментарі на форумі"
+			}
 		}
 	}
 }

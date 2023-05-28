@@ -88,21 +88,22 @@
 		"password": "Parola d'ordine",
 		"mail": "E-mail",
 		"nickname": "Soprannome",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "de": "Deutsch",
-    "zh": "中文",
-    "it": "Italiano",
-    "es": "Español",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+		"zh": "中文",
+		"it": "Italiano",
+		"es": "Español",
 		"saved": "Salvato",
 		"main": {
 			"validation_messages": {
 				"required": "campo obbligatorio",
 				"min_length": "Lunghezza minima del campo {{length}} caratteri"
 			}
-		}
+		},
+		"notifications_title": "Notifiche"
 	},
 	"profile-transactions": {
 		"transaction": "Transazione",
@@ -129,6 +130,28 @@
 			"canceled": "Annullato",
 			"expired": "Scaduto",
 			"other": "Sconosciuto"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "Ricevi notifiche",
+		"destinations": {
+			"mail": "Ufficio postale",
+			"telegram": "Telegramma",
+			"discord": "Discordia"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "Fine dell'abbonamento",
+				"description": "Ricevi notifiche sulla fine dell'abbonamento 3 e 7 giorni prima della fine"
+			},
+			"blog-posts": {
+				"title": "Blog",
+				"description": "Ricevi notifiche sui nuovi post del blog"
+			},
+			"forum-activity": {
+				"title": "Forum",
+				"description": "Ricevi notifiche di nuovi commenti sul forum"
+			}
 		}
 	}
 }

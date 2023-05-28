@@ -88,21 +88,22 @@
 		"password": "Password",
 		"mail": "Email",
 		"nickname": "Nickname",
-    "ru": "Русский",
-    "en": "English",
-    "uk": "Українська",
-    "lv": "Latviešu",
-    "de": "Deutsch",
-    "zh": "中文",
-    "it": "Italiano",
-    "es": "Español",
+		"ru": "Русский",
+		"en": "English",
+		"uk": "Українська",
+		"lv": "Latviešu",
+		"de": "Deutsch",
+		"zh": "中文",
+		"it": "Italiano",
+		"es": "Español",
 		"saved": "Saved",
 		"main": {
 			"validation_messages": {
 				"required": "Required field",
 				"min_length": "Minimum field length {{length}} characters"
 			}
-		}
+		},
+		"notifications_title": "Notifications"
 	},
 	"profile-transactions": {
 		"transaction": "Transaction",
@@ -129,6 +130,28 @@
 			"canceled": "Canceled",
 			"expired": "Expired",
 			"other": "Unknown"
+		}
+	},
+	"settings-notifications": {
+		"receive_notifications": "Receive notifications",
+		"destinations": {
+			"mail": "Post office",
+			"telegram": "Telegram",
+			"discord": "Discord"
+		},
+		"notifications": {
+			"subscription-expiration": {
+				"title": "End of subscription",
+				"description": "Receive notifications about the end of the subscription 3 and 7 days before the end"
+			},
+			"blog-posts": {
+				"title": "Blog",
+				"description": "Get notified about new blog posts"
+			},
+			"forum-activity": {
+				"title": "Forum",
+				"description": "Receive notifications of new comments on the forum"
+			}
 		}
 	}
 }

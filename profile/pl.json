@@ -1,0 +1,126 @@
+{
+	"components": {
+		"achievement-dialog": {
+			"got_achievement": "Otrzymane osiągnięcie",
+			"close": "blisko"
+		},
+		"activate-mfa-dialog": {
+			"title": "Aktywacja 2FA",
+			"subtitle": "Zeskanuj kod QR i wprowadź kod, aby zweryfikować uwierzytelnienie",
+			"code": "Kod",
+			"activate": "Aktywuj"
+		},
+		"change-avatar-dialog": {
+			"title": "Zmiana awatara",
+			"accepted_format": "Dopuszczalne formaty: JPG, PNG nie więcej niż 3MB",
+			"load_photo": "Załaduj zdjęcie",
+			"choose_avatar": "Wybierz awatar"
+		},
+		"change-password-dialog": {
+			"title": "Zmień hasło",
+			"subtitle": "Na Twój adres e-mail wysłaliśmy kod resetowania hasła.",
+			"enter_code": "Wprowadź kod",
+			"enter_data": "Wprowadź dane, aby utworzyć nowe hasło",
+			"save_password": "Zapisz hasło",
+			"onward": "Dalej",
+			"form": {
+				"new_password": "nowe hasło",
+				"repeat_new_password": "Powtórz nowe hasło",
+				"password_input_placeholder": "*****************"
+			},
+			"validation_messages": {
+				"required": "To pole jest wymagane",
+				"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+				"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+				"password_rules": "Hasło musi zawierać co najmniej: 1 małą literę łacińską, 1 cyfrę",
+				"passwords_not_match": "Hasła nie pasują do siebie"
+			}
+		},
+		"choose-avatar-dialog": {
+			"title": "Dostępne awatary",
+			"save": "Ratować"
+		},
+		"deactivate-mfa-dialog": {
+			"title": "Wyłączanie 2FA",
+			"subtitle": "Czy na pewno chcesz wyłączyć 2FA?",
+			"disconnect": "Wyłączyć"
+		}
+	},
+	"profile-main": {
+		"my_character": "Moja postać",
+		"level": "poziom",
+		"experience": "Doświadczenie",
+		"internal_currency": "Waluta wewnętrzna",
+		"daily_rewards": "Codzienne nagrody",
+		"day": "Dzień dzień]",
+		"get_daily_reward": "Otrzymuj codzienną nagrodę",
+		"to_next_reward": "Do następnej nagrody",
+		"got_reward": "Zdobyte osiągnięcia",
+		"in_development": "W rozwoju",
+		"of": "{{num1}} lub {{num2}}",
+		"usdt": "USDT",
+		"dust": "ŻETON KURU",
+		"micron": "MIKRON",
+		"crypto-bum": "Crypto bum",
+		"beta": "BETA"
+	},
+	"profile-settings": {
+		"title": "Informacje osobiste",
+		"change_avatar": "Zmień awatar",
+		"delete_avatar": "Usuń awatar",
+		"security": "Bezpieczeństwo",
+		"change_password": "Zmień hasło",
+		"mfa": "Uwierzytelnianie dwuskładnikowe",
+		"disconnect_mfa": "Wyłącz 2FA",
+		"integrations": "Integracje",
+		"security_title": "Bezpieczeństwo",
+		"integrations_title": "Integracje",
+		"language_title": "Ustawienia języka",
+		"help_title": "Pomoc",
+		"main_language": "Podstawowy język",
+		"main_language_description": "Wybierz język, w którym tekst będzie wyświetlany w interfejsie",
+		"additional_language": "Dodatkowy język",
+		"additional_language_description": "Wybierz język, w którym będą wyświetlane treści, jeśli nie ma języka podstawowego",
+		"information_about_platform": "Informacje o platformie",
+		"open": "otwarty",
+		"help": "Pomoc",
+		"connect": "Podłączyć",
+		"password": "Hasło",
+		"mail": "Poczta",
+		"nickname": "Przezwisko",
+		"ru": "Rosyjski",
+		"en": "język angielski",
+		"uk": "ukraiński",
+		"lv": "łotewski",
+		"saved": "Zapisane",
+		"it": "Włoski",
+		"de": "Niemiecki"
+	},
+	"profile-transactions": {
+		"transaction": "Transakcja",
+		"date": "Data",
+		"sum": "Suma",
+		"status": "Status",
+		"sum_status": "Kwota/stan",
+		"information": "Informacja",
+		"no_transaction": "Brak wpisów.",
+		"usdt": "USDT",
+		"transaction_types": {
+			"deposit": "Uzupełnianie salda",
+			"subscription": "Subskrybowanie",
+			"FORUM_ACCESS": "Dostęp do forum",
+			"FORUM_POSTS_10": "Kupowanie 10 postów na forum"
+		},
+		"transaction_statuses": {
+			"created": "Oczekiwanie na przetworzenie",
+			"pending": "W pracy",
+			"pre-approve": "Czekamy na potwierdzenie",
+			"approve": "Potwierdzony",
+			"done": "Wykonywane",
+			"failed": "Wystąpił błąd",
+			"canceled": "Anulowany",
+			"expired": "Zaległy",
+			"other": "nieznany"
+		}
+	}
+}

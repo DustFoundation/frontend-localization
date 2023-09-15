@@ -1,0 +1,154 @@
+{
+	"components": {
+		"dialog-buy-access": {
+			"title": "Odblokuj forum dla",
+			"subtitle": "Zbieraj codzienne nagrody i uzyskaj dostęp do sekcji „Forum”",
+			"on_balance": "Na Twoim saldzie",
+			"dust": "PYŁ",
+			"unlock": "Odblokować"
+		},
+		"dialog-delete-ticket": {
+			"title": "Usuwanie posta",
+			"subtitle": "Czy na pewno chcesz usunąć utworzony wpis?",
+			"delete": "Usuwać",
+			"cancel": "Anulować"
+		},
+		"dialog-reject-reason": {
+			"title": "Powód odrzucenia biletu"
+		},
+		"ticket-comments": {
+			"forbidden": "Zabronione jest komentowanie odrzuconego lub nieopublikowanego posta"
+		},
+		"ticket-comments-item": {
+			"leave_comment": "zostaw komentarz",
+			"show_more": "Pokaż więcej...",
+			"hide": "Ukrywać",
+			"cancel": "Anulować",
+			"change": "Zmiana",
+			"reply": "Odpowiedź",
+			"show": "Pokazać",
+			"show_answer": "Pokaż {{value}} {value, plural, =1 {answer} =2 {odpowiedzi} =3 {odpowiedzi} =4 {odpowiedzi} other {odpowiedzi}}",
+			"edit": "Edytować",
+			"delete": "Usuwać"
+		},
+		"ticket-item": {
+			"moderate": "Rozważany"
+		},
+		"ticket-leave-comment": {
+			"leave_comment": "zostaw komentarz",
+			"reply": "Odpowiedź",
+			"cancel": "Anulować"
+		}
+	},
+	"buy-access": {
+		"all": "Wszystkie posty",
+		"my-tickets": "Utworzone posty",
+		"create_post": "Utwórz post",
+		"all_posts": "Wszystkie posty",
+		"rating": "Ocena",
+		"name": "Tytuł posta",
+		"author": "Autor",
+		"date": "Data publikacji",
+		"topic": "Motyw",
+		"views": "wyświetlenia",
+		"comments": "Uwagi",
+		"no_posts": "Forum puste :(",
+		"create_firs_post": "Utwórz swój pierwszy post"
+	},
+	"create-ticket": {
+		"status": "Status:",
+		"sent": "Wysłano:",
+		"edit_mode": "Edycja postów",
+		"view_mode": "Widok posta",
+		"create_post": "Utwórz post",
+		"title_post": "Tytuł posta",
+		"title": "nagłówek",
+		"post_topic": "Temat postu",
+		"description": "Tekst / treść / opis postu",
+		"resend": "wysłać ponownie",
+		"times_left": "(pozostałe {{num}})",
+		"buy_opportunities": "Kup 10 okazji, aby stworzyć post (10 DUST)",
+		"moderate": "Rozważany",
+		"rejected": "Zboczony",
+		"no_reason": "Powód nieokreślony",
+		"delete_post": "Usuń post",
+		"default_user_nickname": "Anonimowy",
+		"loaded_photo": "Przesłane zdjęcie:",
+		"load_image": "Prześlij lub przeciągnij plik (JPG lub PNG mniejszy niż 3 MB)",
+		"add_image": "Dodaj obraz",
+		"close": "blisko",
+		"create": "Tworzyć",
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"max_length": "Maksymalna długość {{max}} {max, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}",
+			"invalid_format_img": "Nieprawidłowy format obrazu",
+			"file_size_exceeded": "Przekroczono rozmiar pliku"
+		},
+		"description_placeholder": "Opis"
+	},
+	"my-tickets": {
+		"popular": "To, co najlepsze",
+		"news": "Nowy",
+		"all": "Wszystkie posty",
+		"my-tickets": "Utworzone posty",
+		"create_post": "Utwórz post",
+		"delete_post": "Usuń post",
+		"no_posts": "Forum puste :(",
+		"create_firs_post": "Utwórz swój pierwszy post",
+		"name": "Tytuł posta",
+		"date": "Data publikacji",
+		"status": "Status moderacji",
+		"comment": "Komentarz",
+		"no_reason": "Powód nieokreślony",
+		"view_post": "Widok posta",
+		"published": "Opublikowany:",
+		"sent": "Wysłano:",
+		"edit": "Edytować",
+		"accepted": "Opublikowany",
+		"moderate": "Rozważany",
+		"rejected": "Zboczony"
+	},
+	"ticket": {
+		"default_user_nickname": "Anonimowy",
+		"up_rating": "Podnieś ocenę",
+		"remove_voice": "usuń głos",
+		"rating": "Ocena",
+		"name": "Tytuł posta",
+		"author": "Autor",
+		"date": "Data publikacji",
+		"topic": "Motyw",
+		"views": "wyświetlenia",
+		"comments": "Uwagi",
+		"moderator": "Moderator",
+		"edit": "Edytować",
+		"delete_post": "Usuń post",
+		"delete": "Usuwać"
+	},
+	"tickets": {
+		"popular": "To, co najlepsze",
+		"news": "Nowy",
+		"all": "Wszystkie posty",
+		"my-tickets": "Utworzone posty",
+		"create_post": "Utwórz post",
+		"all_posts": "Wszystkie posty",
+		"rating": "Ocena",
+		"name": "Tytuł posta",
+		"author": "Autor",
+		"date": "Data publikacji",
+		"topic": "Motyw",
+		"views": "wyświetlenia",
+		"comments": "Uwagi",
+		"moderator": "Moderator",
+		"no_posts": "Forum puste :(",
+		"create_firs_post": "Utwórz swój pierwszy post"
+	},
+	"tags": {
+		"Идея": "Pomysł",
+		"Жалоба": "Skarga",
+		"Партнерство": "Współpraca",
+		"Предложение": "Wniosek",
+		"Обсуждение": "Dyskusja",
+		"Другое": "Inny"
+	}
+}

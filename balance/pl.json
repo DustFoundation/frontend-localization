@@ -1,0 +1,57 @@
+{
+	"balance-main": {
+		"title": "Wybierz sieć do transferu USDT",
+		"top_up_amount": "Kwota doładowania",
+		"enter_top_up_amount": "Wpisz kwotę uzupełnienia",
+		"pay": "Płacić",
+		"click_to_copy": "Kliknij, aby skopiować",
+		"copied": "Skopiowane",
+		"erc20": "Adres ERC20:",
+		"trc20": "Adres TRC20:",
+		"bep20": "Adres BEP20:",
+		"bep2": "Adres BEP2:",
+		"memo": "Adres notatek:",
+		"important": {
+			"1": "Akceptujemy tylko płatności w Tether (USDT).",
+			"2": "Do aktywacji abonamentu niezbędne jest uzupełnienie salda.",
+			"3": "Zalecamy korzystanie z sieci „TRC20” (prowizja ~ 1 USD)",
+			"4": "Wysłanie monety lub tokena innego niż USDT na ten adres może spowodować utratę środków.",
+			"5": {
+				"first_part": "Aby aktywować subskrypcję „{{subscriptionName}}” na {{subscriptionTerm}}",
+				"second_part": "{subscriptionTerm, plural, =1 {day} =2 {days} =3 {days} =4 {days} other {days}} musisz doładować swoje saldo do dnia {{sio}}"
+			},
+			"title": "Ważny"
+		},
+		"video_tutorial": "Samouczek wideo dotyczący zakupu abonamentu",
+		"warning": "Ostrzeżenia o ryzyku",
+		"specify_hash_or_number": "Podaj skrót lub numer transakcji",
+		"recommendation": {
+			"1": "Aby wyświetlić numer transakcji na Binance, kliknij link (po zalogowaniu):",
+			"2": "Jeśli wysłałeś USDT z innej giełdy, wpisz w polu Hash transakcji (przykład TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+			"3": "Możesz również podać numer transakcji (przelew wewnętrzny) - 43047269665, ale nie myl z portfelem - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+			"title": "Zalecenia"
+		},
+		"to_pay": "Płatności {{amount}} USDT",
+		"steps": {
+			"1": {
+				"title": "Krok 1",
+				"description": "Otwórz aplikację Binance na swoim smartfonie i zeskanuj kod QR, klikając ikonę u góry interfejsu strony głównej."
+			},
+			"2": {
+				"title": "Krok 2",
+				"description": "Następnie zobaczysz okno potwierdzające transakcję. Upewnij się, że kwota jest prawidłowa i potwierdź transakcję. Następnie kliknij „Zapłaciłem”."
+			}
+		},
+		"validation_messages": {
+			"required": "To pole jest wymagane",
+			"min_length": "Minimalna długość {{min}} {min, plural, =1 {znak} =2 {znaki} =3 {znaki} =4 {znaki} other {znaki}}"
+		},
+		"hash_or_number": "Hash / numer transakcji",
+		"faq": "FAQ",
+		"payed": "zapłaciłem",
+		"terms_to_use": "Warunki korzystania",
+		"privacy_policy": "Polityka prywatności",
+		"back": "Z powrotem",
+		"confirm": "Potwierdzać"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"title": "Podaj skrót lub numer transakcji",
+	"recommendation": {
+		"1": "Aby wyświetlić numer transakcji, kliknij link:",
+		"2": "Jeśli wysłałeś USDT z innej giełdy, wpisz w polu Hash transakcji (przykład TRC20): fcb36c36a53a445aeadb39a567d426d456fc7a408d43160befe6f75d2b0f8ba1",
+		"3": "Podaj numer transakcji (przelew wewnętrzny) - 43047269665, a nie portfel - TMBt8SyQ6JuAoWxkZ8NKi9FjWQPXHHt2A3",
+		"title": "Zalecenia"
+	},
+	"hash_or_number": "Hash / numer transakcji",
+	"payed": "zapłaciłem",
+	"back": "Z powrotem"
+}

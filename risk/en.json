@@ -46,7 +46,7 @@
       "coin_tooltip": "Currency for opening a position",
       "volume_tooltip": "Amount for which a position is opened, excluding leverage",
       "price_tooltip": "The quote on the chart at which the position will be opened",
-      "leverage_tooltip": "Leverage allows you to use borrowed funds to trade cryptocurrencies or other financial assets. Always keep in mind that using higher leverage increases the likelihood of your position being liquidated. Liquidation of shoulders in % - x100 (1%)",
+      "leverage_tooltip": "Leverage allows you to use borrowed funds to trade cryptocurrencies or other financial assets. Always keep in mind that using higher leverage increases the likelihood of your position being liquidated. Liquidation of shoulders in %: 1% for x100, 2% for х50, 5% for х20, 10% for х10 and 50% for х2 asset movements.",
       "risk_tooltip": "Potential loss in % of your position in case of a negative scenario",
       "profit_tooltip": "Potential profit in % of your position in case of a positive scenario"
     }
